@@ -22,8 +22,10 @@ const markdownExts = new Set(['.md', '.markdown']);
 const skipDirs = new Set(['.git', 'node_modules', '.DS_Store']);
 const reportDir = path.join(repo, 'analysis', 'markdown-quality');
 const generatedMarkdownReports = new Set([
+  'analysis/markdown-quality/LLM_READABILITY_REPORT_PLAN.md',
   'analysis/markdown-quality/broken-links-report.md',
   'analysis/markdown-quality/inline-code-anomalies-report.md',
+  'analysis/markdown-quality/llm-readability-report.md',
   'analysis/markdown-quality/remaining-broken-anchor-candidates.md',
   'analysis/markdown-quality/remaining-broken-markdown-links.md',
 ]);
