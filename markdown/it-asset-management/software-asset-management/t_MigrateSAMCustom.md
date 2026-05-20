@@ -29,7 +29,7 @@ If these lists and forms have been customized before the migration, they may hav
 -   Discovery Models
 -   Software Installations
 
-You can review plugin activation changes in the [Upgrade History module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-history-module.md) to determine what changes have automatically been skipped so you can [Resolve a skipped update and set a resolution status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-resolve-skipped-update.md), if needed.
+You can review plugin activation changes in the [Upgrade History module](../../platform-administration/upgrade-center/uc-history-module.md) to determine what changes have automatically been skipped so you can [Resolve a skipped update and set a resolution status](../../platform-administration/upgrade-center/uc-resolve-skipped-update.md), if needed.
 
 Certain fields added by the migration also must be configured to take advantage of the new features offered.
 
@@ -74,5 +74,5 @@ Certain fields added by the migration also must be configured to take advantage 
 **Related topics**  
 
 
-[plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareAssetManagement.md)
+[plugin](../../it-service-management/software-asset-management/c_SoftwareAssetManagement.md)
 

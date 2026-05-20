@@ -78,7 +78,7 @@ Navigate to **Coaching** &gt; **Coaching Opportunities**.
 
     2.  To use an advanced script, select the **Advanced** check box and add your script.
 
-        See [Scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_Script.md) for more information on scripting.
+        See [Scripts](../../api-reference/scripts/c_Script.md) for more information on scripting.
 
 5.  Fill in the fields in the **Frequency** tab.
 

@@ -48,7 +48,7 @@ Role required: admin or sn\_appclient.app\_client\_user
 
 5.  If you have available application customizations, use the **Customized ver.** drop-down menu to select which customization to use.
 
-    Your customizations might not be compatible with a new application version. Update the application in a non-production instance, then make any necessary changes to your customization and validate compatibility before making updates in production instances. For more information about managing customizations, see [Manage customizations to applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/manage-customizations-store-apps.md).
+    Your customizations might not be compatible with a new application version. Update the application in a non-production instance, then make any necessary changes to your customization and validate compatibility before making updates in production instances. For more information about managing customizations, see [Manage customizations to applications](../../application-development/application-repository-self-hosted/manage-customizations-store-apps.md).
 
 6.  Include demo data if it's desired and available.
 

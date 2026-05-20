@@ -100,5 +100,5 @@ Do this
 **Related topics**  
 
 
-[Events in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-events.md)
+[Events in UI Builder](../../application-development/ui-builder/work-events.md)
 

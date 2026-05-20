@@ -68,7 +68,7 @@ To submit conflict of interest request using conversational intake from Now Assi
 
 Use the Legal Service Delivery Guided Setup to configure the application on your instance.
 
-To access Legal Service Delivery guided setup, navigate to **Legal Administration** &gt; **Legal Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
+To access Legal Service Delivery guided setup, navigate to **Legal Administration** &gt; **Legal Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](../../platform-user-interface/adoption-services/guided-setup.md).
 
 **Parent Topic:**[Configure Legal Conflict of Interest](legal-coi-administration.md)
 

@@ -79,7 +79,7 @@ Train your solution by using historical data to predict numeric outputs based on
 **Related topics**  
 
 
-[Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
+[Predictive Intelligence](../../intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 
-[Get started with Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/install-predictive-intelligence.md)
+[Get started with Predictive Intelligence](../../intelligent-experiences/predictive-intelligence/install-predictive-intelligence.md)
 

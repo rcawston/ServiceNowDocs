@@ -41,5 +41,5 @@ Role required: evt\_mgmt\_admin
 **Related topics**  
 
 
-[Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md)
+[Add a system property](../../platform-administration/r_AvailableSystemProperties.md)
 

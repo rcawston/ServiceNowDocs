@@ -80,5 +80,5 @@ To navigate to the Service Catalog landing page, click **View the Catalog**.
 
 [Request an order guide from Service Portal](request-order-guide-portal.md)
 
-[SC Wish List Cart widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-wish-list.md)
+[SC Wish List Cart widget](../../platform-user-interface/service-portal/sc-wish-list.md)
 

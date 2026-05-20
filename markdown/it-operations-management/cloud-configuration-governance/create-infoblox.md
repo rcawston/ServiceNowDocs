@@ -18,7 +18,7 @@ To integrate with Infoblox, you must create an Infoblox record and associate it 
 ## Before you begin
 
 -   Role required: sn\_cmp.cloud\_admin
--   Create [Infoblox credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/infoblox-creds.md).
+-   Create [Infoblox credentials](../../platform-security/connections-and-credentials/infoblox-creds.md).
 
 ## Procedure
 

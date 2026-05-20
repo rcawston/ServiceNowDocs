@@ -42,8 +42,8 @@ Walk-up Experience includes several base system notifications that you can use o
 
     For more information, refer to the following topics:
 
-    -   [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
-    -   [Create a push message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessage.md)
-    For complete information regarding using the System Notification application, refer to [Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/notifications.md).
+    -   [Create an email notification](../../platform-administration/t_CreateANotification.md)
+    -   [Create a push message](../../platform-administration/t_CreateAPushMessage.md)
+    For complete information regarding using the System Notification application, refer to [Notifications](../../platform-administration/notifications.md).
 
 

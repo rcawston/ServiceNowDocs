@@ -51,13 +51,13 @@ Product data is a foundational layer of the CRM portfolio. It is the mechanism t
 **Related topics**  
 
 
-[Data models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/data-models.md)
+[Data models](../../customer-service-management/data-models.md)
 
-[Product models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/product-models.md)
+[Product models](../../customer-service-management/product-models.md)
 
-[Create service contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-csm-service-contracts.md)
+[Create service contracts](../../customer-service-management/create-csm-service-contracts.md)
 
-[Configure entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-entitlements.md)
+[Configure entitlements](../../customer-service-management/configure-csm-entitlements.md)
 
-[Configure install base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-install-base.md)
+[Configure install base](../../customer-service-management/configure-install-base.md)
 

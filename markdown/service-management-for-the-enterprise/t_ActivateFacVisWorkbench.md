@@ -41,7 +41,7 @@ Several types of components are installed with the Facilities Visualization Work
 **Related topics**  
 
 
-[List of plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
+[List of plugins](../platform-administration/list-of-plugins.md)
 
 [Activate Facilities Service Management](t_ActivateFacilitiesSM.md)
 

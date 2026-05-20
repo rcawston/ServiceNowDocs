@@ -18,7 +18,7 @@ Request a security incident summary or closure notes from the Now Assist panel.
 
 ## Before you begin
 
-See [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md) for how to activate the Now Assist panel.
+See [Now Assist panel](../../intelligent-experiences/now-assist-panel-overview.md) for how to activate the Now Assist panel.
 
 Roles required: si\_analyst, si\_manager, or sn\_si.basic
 

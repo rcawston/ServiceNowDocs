@@ -27,7 +27,7 @@ Role required: admin
 
 To learn about support for using JavaScript modules in scoped applications, including some limitations, see [JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md). For general information about the syntax used to create JavaScript modules, see the [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) page on the MDN Web Docs website.
 
-**Note:** With Now Assist for Code, you can use the Code autocomplete skill to generate code suggestions for module scripts. For more information, see [Generate code with autocomplete](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/generate-code-with-autocomplete.md).
+**Note:** With Now Assist for Code, you can use the Code autocomplete skill to generate code suggestions for module scripts. For more information, see [Generate code with autocomplete](../../api-reference/scripts/generate-code-with-autocomplete.md).
 
 ## Procedure
 

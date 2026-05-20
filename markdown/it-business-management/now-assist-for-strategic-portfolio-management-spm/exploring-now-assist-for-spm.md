@@ -138,7 +138,7 @@ This skill streamlines the process of status report creation in Project Workspac
 
 ## Now Assist Admin console
 
-An administrator can use the Now Assist Admin console in Strategic Planning Workspace to activate and manage Now Assist features and skills in Workspace. For more information about the Now Assist Admin console, see [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md).
+An administrator can use the Now Assist Admin console in Strategic Planning Workspace to activate and manage Now Assist features and skills in Workspace. For more information about the Now Assist Admin console, see [Overview tab in Now Assist Admin](../../intelligent-experiences/configuring-now-assist.md).
 
 ## AI agents
 
@@ -147,7 +147,7 @@ The ServiceNow AI agents use LLMs \(Large Language Models\) to process tasks, fr
 **Related topics**  
 
 
-[Exploring Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-platform.md)
+[Exploring Now Assist Admin](../../intelligent-experiences/exploring-now-assist-platform.md)
 
 [Configure Now Assist Admin features](configuring-na-spm.md)
 
@@ -157,5 +157,5 @@ The ServiceNow AI agents use LLMs \(Large Language Models\) to process tasks, fr
 
 [Now Assist for SPM reference](now-assist-spm-reference.md)
 
-[AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-studio.md)
+[AI Agent Studio](../../intelligent-experiences/ai-agent-studio.md)
 

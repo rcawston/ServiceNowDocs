@@ -21,7 +21,7 @@ Initiate an alert analysis from the Now Assist panel. The alert analysis display
 -   Install the ITOM plugin in the Now Assist feature. For more information, see [Install Now Assist for IT Operations Management](../../now-assist-setup-itom/task/install-now-assist-itom.md).
 -   View important information about the ServiceNow® Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](now-assist-itom.md).
 
-For comprehensive information about the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
+For comprehensive information about the Now Assist panel, see [Now Assist panel](../../intelligent-experiences/now-assist-panel-overview.md).
 
 Role required: evt\_mgmt\_operator
 

@@ -68,5 +68,5 @@ If you don't have an account manager, decide to delay activation after purchasin
 
 [Applications integrated with Continual Improvement Management](cim-integration.md)
 
-[List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
+[List of plugins \(Australia\)](../../platform-administration/list-of-plugins.md)
 

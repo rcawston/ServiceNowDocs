@@ -35,7 +35,7 @@ This procedure describes how to dig deeply into the details of CI information on
 
 2.  Select **Ask a follow-up** to learn more about the attribute.
 
-    The Now Assist panel opens. Select one of the suggested questions or enter a different question about any field or section of the form. Now Assist responds to your follow-up question. For more information, see [Working in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
+    The Now Assist panel opens. Select one of the suggested questions or enter a different question about any field or section of the form. Now Assist responds to your follow-up question. For more information, see [Working in the Now Assist panel](../../intelligent-experiences/now-assist-panel-overview.md).
 
 3.  Provide feedback, copy the response text to the clipboard, or refresh the response.
 

@@ -55,5 +55,5 @@ Role required: discovery\_admin
 
 [Configure the date range for a Discovery Operations Monitor visualization](config-time-frame-disco-op-mon.md)
 
-[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md)
+[Common dashboard tasks in the in-line editor](../../now-intelligence/common-dashboard-tasks.md)
 

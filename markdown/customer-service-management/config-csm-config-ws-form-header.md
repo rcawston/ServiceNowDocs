@@ -128,5 +128,5 @@ Workspace that is associated with this form header.
 **Related topics**  
 
 
-[Configure a form header for a workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-ws-form-header.md)
+[Configure a form header for a workspace](../platform-user-interface/config-ws-form-header.md)
 

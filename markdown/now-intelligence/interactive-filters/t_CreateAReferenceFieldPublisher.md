@@ -166,9 +166,9 @@ Repeat steps 10–13 as needed for each reference field you want to filter on. A
 **Related topics**  
 
 
-[Reference field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceField.md)
+[Reference field type](../../platform-administration/c_ReferenceField.md)
 
 [Creating Interactive Filters of different types](r_AvailableHomepagePublisherTypes.md)
 
-[Add related list conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-related-list-query.md)
+[Add related list conditions](../../platform-user-interface/create-related-list-query.md)
 

@@ -35,5 +35,5 @@ Role required: admin
 **Related topics**  
 
 
-[Add a property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md)
+[Add a property](../platform-administration/r_AvailableSystemProperties.md)
 

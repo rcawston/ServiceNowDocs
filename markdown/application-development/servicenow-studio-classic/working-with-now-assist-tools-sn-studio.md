@@ -47,7 +47,7 @@ Some ServiceNow resources that can provide you with helpful information are:
 
 -   **AI capabilities**
 
-    [Exploring Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-platform.md)
+    [Exploring Now Assist Admin](../../intelligent-experiences/exploring-now-assist-platform.md)
 
     [Vibe coding and AI app development on the ServiceNow AI Platform](../application-development/use-ai-capabilities-in-custom-apps.md)
 
@@ -55,23 +55,23 @@ Some ServiceNow resources that can provide you with helpful information are:
 
 -   **Agentic workflows**
 
-    [Create an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-use-case-ai-agents.md)
+    [Create an agentic workflow](../../intelligent-experiences/configure-use-case-ai-agents.md)
 
-    [Modify an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/modify-aia-use-case.md)
+    [Modify an agentic workflow](../../intelligent-experiences/modify-aia-use-case.md)
 
 -   **AI Agents**
 
-    [Explore Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-ai-agents.md)
+    [Explore Now Assist AI agents](../../intelligent-experiences/exploring-ai-agents.md)
 
-    [Create an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-next-best-action-agent.md)
+    [Create an AI agent](../../intelligent-experiences/configure-next-best-action-agent.md)
 
-    [Examples of using AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-examples.md)
+    [Examples of using AI agents](../../intelligent-experiences/ai-agent-examples.md)
 
 -   **Now Assist Skill Kit**
 
-    [Exploring Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/exploring-now-assist-skill-kit.md)
+    [Exploring Now Assist Skill Kit](../../intelligent-experiences/now-assist-skill-kit/exploring-now-assist-skill-kit.md)
 
-    [Create a skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-new-skill.md)
+    [Create a skill](../../intelligent-experiences/now-assist-skill-kit/create-new-skill.md)
 
 
 **Parent Topic:**[Using ServiceNow Studio](using-servicenow-studio.md)

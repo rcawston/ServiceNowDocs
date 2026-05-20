@@ -58,7 +58,7 @@ This field is set to include the **Supplier** and **Segmentation rule assessment
 
     For more information, see [Create assessment template from Assessment Workspace](create-assessment-template-from-assessment-workspace.md).
 
-2.  Optional: **Scoring** option is enabled to initiate the calculation of the assessment-level scores, which can be grouped by sections or questions. For more information, see [Configure scoring for an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/configure-scoring-for-assessments.md).
+2.  Optional: **Scoring** option is enabled to initiate the calculation of the assessment-level scores, which can be grouped by sections or questions. For more information, see [Configure scoring for an assessment](../../governance-risk-compliance/smart-assessment-engine/configure-scoring-for-assessments.md).
 
     **Note:** The smart assessment scoring plugin \[com.sn\_smart\_scoring\] must be installed for configuring scoring options.
 
@@ -121,7 +121,7 @@ After mapping the assessment templates with segmentation rules, supplier manager
 
 [Install Universal Request for SLO](install-universal-request.md)
 
-[Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-asmnt-engine-landing-page.md)
+[Smart Assessment Engine](../../governance-risk-compliance/smart-assessment-engine/smart-asmnt-engine-landing-page.md)
 
-[Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md)
+[Create an assessment template](../../governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md)
 

@@ -33,7 +33,7 @@ CMDB Application CLI and API commands enable the following tasks:
 -   Populating an application service with a given population type
 -   Changing the state of an application service
 
-For the command line solution, see [CMDB Application CLI and API available commands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/cmdb-cli-commands.md).
+For the command line solution, see [CMDB Application CLI and API available commands](../../application-development/servicenow-cli/cmdb-cli-commands.md).
 
 **Parent Topic:**[REST API reference](api-rest.md)
 

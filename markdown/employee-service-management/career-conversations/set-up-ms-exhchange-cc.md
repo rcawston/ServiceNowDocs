@@ -27,7 +27,7 @@ Set up conversations and sync them with Microsoft Outlook using a connection wit
 
 1.  Ensure that the Microsoft Exchange Online spoke is installed.
 
-2.  [Set up Microsoft Exchange Online spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-ms-exch-ol.md).
+2.  [Set up Microsoft Exchange Online spoke](../../integrate-applications/integration-hub/setup-ms-exch-ol.md).
 
     If you are a new customer, in the **Create Connection records for the Microsoft Exchange Online spoke** procedure, perform the following actions:
 

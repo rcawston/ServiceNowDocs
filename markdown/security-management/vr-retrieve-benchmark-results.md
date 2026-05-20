@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-For more information on Benchmarking, see [Benchmarks overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/c_BenchOverview.md).
+For more information on Benchmarking, see [Benchmarks overview](../it-service-management/benchmarks/c_BenchOverview.md).
 
 ## Procedure
 

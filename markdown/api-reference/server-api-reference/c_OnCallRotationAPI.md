@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The OnCallRotation script include provides methods to manage on-call schedules.
 
-For information, see [On-call scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md).
+For information, see [On-call scheduling](../../it-service-management/on-call-scheduling/c_OnCallScheduling.md).
 
 **Parent Topic:**[Server API reference](api-server.md)
 

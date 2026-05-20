@@ -78,7 +78,7 @@ Steps
     2.  In the **Password or access token** field, enter the API token for your Rally instance.
     3.  \(Optional\) If your Rally instance is attached to a MID Server, select the **Use MID Server** option and enter its details.
 
-        A MID server is required if your tool instance is hosted on-prem. For more information about MID server, see [MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerSelector.md).
+        A MID server is required if your tool instance is hosted on-prem. For more information about MID server, see [MID Server selection](../../servicenow-platform/mid-server/c_MIDServerSelector.md).
 
 4.  Select **Connect**.
 

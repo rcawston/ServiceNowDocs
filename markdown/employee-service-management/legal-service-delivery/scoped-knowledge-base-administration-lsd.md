@@ -23,14 +23,14 @@ Users with the admin role of an application and the knowledge\_admin role can ad
 
 You can't modify the scope of existing knowledge bases. They remain in the global scope. However, you can create a scoped knowledge base to protect sensitive knowledge articles.
 
-To create a scoped knowledge base for an application, in addition to the knowledge\_admin or admin role, you must have access to view and select that application in the application picker \(see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md)\). For example, before you create a knowledge base in the Human Resources: Core application, you must select the Human Resources: Core application in the application picker, and then create the knowledge base. Then, when you create a knowledge base, on the Knowledge base form, the application scope of the knowledge base is set in the **Application** field.
+To create a scoped knowledge base for an application, in addition to the knowledge\_admin or admin role, you must have access to view and select that application in the application picker \(see [Application picker](../../application-development/c_ApplicationPicker.md)\). For example, before you create a knowledge base in the Human Resources: Core application, you must select the Human Resources: Core application in the application picker, and then create the knowledge base. Then, when you create a knowledge base, on the Knowledge base form, the application scope of the knowledge base is set in the **Application** field.
 
 **Related topics**  
 
 
-[Create a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-a-knowledgebase.md)
+[Create a knowledge base](../../servicenow-platform/knowledge-management/create-a-knowledgebase.md)
 
-[Application administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/application-administration.md)
+[Application administration](../../application-development/application-administration.md)
 
-[Control access at the knowledge base level through user criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_SelectUserCriteria.md)
+[Control access at the knowledge base level through user criteria](../../servicenow-platform/knowledge-management/t_SelectUserCriteria.md)
 

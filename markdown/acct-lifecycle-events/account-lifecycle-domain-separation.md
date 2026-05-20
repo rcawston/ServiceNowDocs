@@ -23,7 +23,7 @@ Domain separation is supported for Customer Success Management. Domain separatio
 
 Sample use case: When a service provider \(SP\) uses chat to respond to a tenant-customer’s message, the customer must be able to see the SP's response.
 
-For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
+For more information on support levels, see [Application support for domain separation](../platform-security/domain-separated-apps.md).
 
 ## Overview of Customer Success Management
 
@@ -37,7 +37,7 @@ With the Customer Success Management application, you can create onboarding case
 
 ## Setting up domain separation in Customer Success Management
 
-Domain separation for Customer Success Management requires the domain separation plugin and enabling the csm\_auto\_account\_domain\_generation domain separation property. For more information on setting up domain separation, see [Domain separation and Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/domain-separation-customer-service.md).
+Domain separation for Customer Success Management requires the domain separation plugin and enabling the csm\_auto\_account\_domain\_generation domain separation property. For more information on setting up domain separation, see [Domain separation and Customer Service Management](../customer-service-management/domain-separation-customer-service.md).
 
 ## Domain separated tables
 
@@ -82,5 +82,5 @@ Domain separation for Customer Success Management requires the domain separation
 **Related topics**  
 
 
-[Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
+[Domain separation for service providers](../platform-security/domain-sep-landing-page.md)
 

@@ -1074,7 +1074,7 @@ vendor
 
 [Google Cloud Platform \(GCP\) Cloud discovery using Patterns](../discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md)
 
-[Service Graph Connector for GCP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-integration-gcp.md)
+[Service Graph Connector for GCP](../../servicenow-platform/service-graph-connectors/sgc-cmdb-integration-gcp.md)
 
 [Agent Client Collector Discovery](../agent-client-collector/acc-discovery.md)
 

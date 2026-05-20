@@ -45,9 +45,9 @@ While Service Mapping shows position of a CI in a particular application service
 **Related topics**  
 
 
-[Service instances \(Application services\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/application-services.md)
+[Service instances \(Application services\)](../../servicenow-platform/configuration-management-database-cmdb/application-services.md)
 
 [Application service maps in classic Service Mapping](c_UndestandMaps.md)
 
-[Dependency Views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/c_BusinesssServiceManagementMaps.md)
+[Dependency Views](../../servicenow-platform/dependency-views/c_BusinesssServiceManagementMaps.md)
 

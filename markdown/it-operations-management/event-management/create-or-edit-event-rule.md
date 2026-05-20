@@ -185,7 +185,7 @@ Configure event rules to automatically bind alerts to CI information from the CM
 **Related topics**  
 
 
-[Pattern matching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_PatternMatching.md)
+[Pattern matching](../../platform-administration/c_PatternMatching.md)
 
 [Use event input information](event-input-information.md)
 

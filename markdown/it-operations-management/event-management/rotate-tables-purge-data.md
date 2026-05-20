@@ -41,5 +41,5 @@ The Scheduled Jobs feature runs a script to automatically close alerts in the Al
 
 [Alert table clean up](auto-close-alerts.md)
 
-[Table rotation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_TableRotation.md)
+[Table rotation](../../platform-administration/c_TableRotation.md)
 

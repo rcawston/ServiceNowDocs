@@ -67,7 +67,7 @@ A concise summary, information about where the client script is triggered, and a
 **Related topics**  
 
 
-[Client scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/client-scripts.md)
+[Client scripts](../../api-reference/scripts/client-scripts.md)
 
 [Client script summarization](client-script-summarization.md)
 

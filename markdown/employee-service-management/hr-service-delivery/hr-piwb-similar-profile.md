@@ -46,7 +46,7 @@ Discover all the users who have a similar profile as the employee. Identify the 
 
 4.  On the form, verify the default field values and customize the solution as required.
 
-    For more information about the Clustering solution definition form fields, see [Create and train a clustering solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-clustering-solution.md) and [Test a classification solution prediction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/test-solution-prediction.md).
+    For more information about the Clustering solution definition form fields, see [Create and train a clustering solution](../../intelligent-experiences/predictive-intelligence/create-clustering-solution.md) and [Test a classification solution prediction](../../intelligent-experiences/predictive-intelligence/test-solution-prediction.md).
 
     **Note:** For details regarding trained use case integration implementation, see Predictive Intelligence Workbench integration and customization.
 
@@ -64,7 +64,7 @@ You can verify the integration status from **HR Administration** &gt; **HR AI Co
 **Related topics**  
 
 
-[Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
+[Predictive Intelligence](../../intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 
-[Get started with Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/install-predictive-intelligence.md)
+[Get started with Predictive Intelligence](../../intelligent-experiences/predictive-intelligence/install-predictive-intelligence.md)
 

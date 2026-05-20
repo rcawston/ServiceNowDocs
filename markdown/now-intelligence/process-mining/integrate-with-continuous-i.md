@@ -34,9 +34,9 @@ Integration with Continual Improvement Management doesn’t add any additional r
 
 [Example of Continual Improvement Management using Process Mining](integrate-with-continuous-i.md#)
 
-[Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-landing-page.md)
+[Continual Improvement Management](../../it-service-management/continual-improvement-management/cim-landing-page.md)
 
-[Request Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/request-cim.md)
+[Request Continual Improvement Management](../../it-service-management/continual-improvement-management/request-cim.md)
 
 ## Launch Process Mining from CIM
 

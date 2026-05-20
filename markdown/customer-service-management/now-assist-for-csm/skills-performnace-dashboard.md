@@ -82,7 +82,7 @@ To drill into specific skill performance:
 **Related topics**  
 
 
-[Analyzing Now Assist usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics-and-monitoring.md)
+[Analyzing Now Assist usage](../../intelligent-experiences/now-assist-analytics-and-monitoring.md)
 
-[Now Assist Analytics dashboard indicator details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics-dashboard-indicators.md)
+[Now Assist Analytics dashboard indicator details](../../intelligent-experiences/now-assist-analytics-dashboard-indicators.md)
 

@@ -94,5 +94,5 @@ When the CSDM \(csdm.lifecycle.migration.activated\) plugin is activated on your
 
 [Asset status values aligned to CSDM life cycle values](csdm-lifecycle-map-csdm-to-asset.md)
 
-[Asset and CI management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/c_ManagingAssets.md)
+[Asset and CI management](../../it-asset-management/hardware-asset-management/c_ManagingAssets.md)
 

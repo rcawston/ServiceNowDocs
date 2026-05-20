@@ -31,7 +31,7 @@ Reference
 
 </th></tr></thead><tbody><tr><td>
 
-[Access Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SNCAccessControl.md)
+[Access Control](../../platform-security/c_SNCAccessControl.md)
 
 </td><td>
 
@@ -43,7 +43,7 @@ See [Add application security](add-security.md).
 
 </td></tr><tr><td>
 
-[Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-builder.md)
+[Catalog Builder](../../servicenow-platform/service-catalog/catalog-builder.md)
 
 </td><td>
 
@@ -55,7 +55,7 @@ See [Add a standard catalog item](add-standard-catalog-item.md).
 
 </td></tr><tr><td>
 
-[Decision tables in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/decision-designer-overview.md)
+[Decision tables in Workflow Studio](../../build-workflows/workflow-studio/decision-designer-overview.md)
 
 </td><td>
 
@@ -67,7 +67,7 @@ See [Add a decision](add-decision.md).
 
 </td></tr><tr><td>
 
-[Email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
+[Email notifications](../../platform-administration/c_EmailNotifications.md)
 
 </td><td>
 
@@ -79,7 +79,7 @@ See [Add an email notification](add-notification.md).
 
 </td></tr><tr><td>
 
-[Zero Copy Connector for ERP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-integration-overview.md)
+[Zero Copy Connector for ERP](../../integrate-applications/erp-integration-framework/erp-integration-overview.md)
 
 </td><td>
 
@@ -87,11 +87,11 @@ Build an ERP \(Enterprise Resource Planning\) data model and extract data from y
 
 </td><td>
 
-See [Zero Copy Connector for ERP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-integration-overview.md).
+See [Zero Copy Connector for ERP](../../integrate-applications/erp-integration-framework/erp-integration-overview.md).
 
 </td></tr><tr><td>
 
-[ERP Semantic Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/erp-customization-mining-overview.md)
+[ERP Semantic Mining](../../integrate-applications/erp-customization-mining/erp-customization-mining-overview.md)
 
 </td><td>
 
@@ -99,11 +99,11 @@ Identify all of the customizations in your ERP system.
 
 </td><td>
 
-See [ERP Semantic Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/erp-customization-mining-overview.md).
+See [ERP Semantic Mining](../../integrate-applications/erp-customization-mining/erp-customization-mining-overview.md).
 
 </td></tr><tr><td>
 
-[Flows in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/exploring-flows.md)
+[Flows in Workflow Studio](../../build-workflows/workflow-studio/exploring-flows.md)
 
 </td><td>
 
@@ -115,7 +115,7 @@ See [Add a flow from scratch](create-scratch-flow.md).
 
 </td></tr><tr><td>
 
-[Integration Hub - Import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integrationhub-imports.md)
+[Integration Hub - Import](../../integrate-applications/integration-hub/integrationhub-imports.md)
 
 </td><td>
 
@@ -127,7 +127,7 @@ See [Create a data integration](import-map-data-existing-table.md).
 
 </td></tr><tr><td>
 
-[Mobile App Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-concept.md)
+[Mobile App Builder](../../mobile/mab-concept.md)
 
 </td><td>
 
@@ -139,7 +139,7 @@ See [Add a mobile experience](add-mobile.md).
 
 </td></tr><tr><td>
 
-[Process Automation Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md)
+[Process Automation Designer](../../build-workflows/workflow-studio/process-automation-designer.md)
 
 </td><td>
 

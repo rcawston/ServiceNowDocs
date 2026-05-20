@@ -19,7 +19,7 @@ The Operational Technology Manager plugin installs the following script includes
 |----|-----------|
 |BaseDAO|Base DAO class that all DAO classes should extend.|
 |NIDSUtils|Utilities for the cmdb\_ci\_nids devices.|
-|OTDevicesMigrationUtils|Migrate records from specified classes to updated class tables. For more information, see [Operational Technology \(OT\) extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models-operation-technology.md).|
+|OTDevicesMigrationUtils|Migrate records from specified classes to updated class tables. For more information, see [Operational Technology \(OT\) extension classes](../../servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models-operation-technology.md).|
 |OTDevice|Implementation class for performing operations on the \[cmdb\_ot\_entity\] table and related \[cmdb\_ci\] and \[cmdb\_rel\_ci\] tables.|
 |OTDeviceDAO|Utilities to assist with using IT Discovery for Operational Technology \(OT\) Network devices.|
 |OTBaseDAO|Base DAO class that all DAO classes in OT should extend.|

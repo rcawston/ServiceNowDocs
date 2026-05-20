@@ -43,7 +43,7 @@ Also called a report source, a data source is a table with filters applied to pr
 
 </td><td>
 
-The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend reporting, you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see [Retrieving external data using remote tables and scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/remote-tables.md)
+The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend reporting, you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see [Retrieving external data using remote tables and scripts](../../servicenow-platform/remote-tables/remote-tables.md)
 
 </td></tr><tr><td id="d163525e179">
 
@@ -59,7 +59,7 @@ Choose an existing imported report source, or select the Upload icon \(![Upload 
 
 </td><td>
 
-MetricBase enables you to collect, retain, analyze, and visualize custom time series data on the ServiceNow AI Platform. For more information, see [MetricBase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/metricbase.md).
+MetricBase enables you to collect, retain, analyze, and visualize custom time series data on the ServiceNow AI Platform. For more information, see [MetricBase](../../servicenow-platform/metricbase/metricbase.md).
 
 </td></tr></tbody>
 </table>5.  Select **Next**.
@@ -98,7 +98,7 @@ Group report data using the values of this field. For example, in an incident re
 
  **Note:**
 
--   It is not possible to group or stack reports by the **Tags** field, or by certain MySQL database field types, such as MEDIUMTEXT. For more information, see [Database field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_DatabaseFieldTypes.md).
+-   It is not possible to group or stack reports by the **Tags** field, or by certain MySQL database field types, such as MEDIUMTEXT. For more information, see [Database field type](../../platform-administration/r_DatabaseFieldTypes.md).
 -   Grouping or stacking by Variables or Questions fields is not supported for reports based on [database views](../performance-analytics/performance-analytics-glossary.md#).
 
 
@@ -143,7 +143,7 @@ Configure fields based on calculation of multiple inputs including arithmetic fu
 
 9.  To limit the information displayed in the report, select the filter icon \(![Filter icon](../../../common/image/List_FilterIcon.png)\) and specify conditions to filter the report data.
 
-    To learn how to construct conditions, see [Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md).
+    To learn how to construct conditions, see [Condition builder](../../platform-user-interface/c_ConditionBuilder.md).
 
     **Note:** In aggregated and list reports, language-dependent filter conditions may return zero results on localized instances.
 
@@ -161,9 +161,9 @@ Configure fields based on calculation of multiple inputs including arithmetic fu
 
     **Note:**
 
-    -   The default number of rows in a list report exported to PDF is 1000. To configure this value, enter `sys_properties.list` in the Filter Navigator, and edit the property glide.pdf.max\_rows. For more information, see: [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
+    -   The default number of rows in a list report exported to PDF is 1000. To configure this value, enter `sys_properties.list` in the Filter Navigator, and edit the property glide.pdf.max\_rows. For more information, see: [Add a system property](../../platform-administration/r_AvailableSystemProperties.md).
     -   Despite list filtering, pdf-format exported rows will count all record rows sequentially up to the export limit and show as blank for roles prevented by ACLs from viewing restricted data.
--   [Configure and use list functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-use-list-functions.md)
+-   [Configure and use list functions](../../platform-user-interface/configure-use-list-functions.md)
 
 **Parent Topic:**[List reports](list-reports.md)
 

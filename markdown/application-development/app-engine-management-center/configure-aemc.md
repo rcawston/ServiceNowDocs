@@ -72,7 +72,7 @@ Essentially, the AEMC guided setup contains the setup steps for both the Applica
     2.  [Configure your controller instance](config-controller-instance.md).
     3.  [Enable Automated Test Framework \(ATF\) properties](enable-atf-properties.md).
     4.  [Configure Automated Test Framework \(ATF\) suite](../automated-test-framework-atf/automated-test-framework.md).
-    5.  [Configure Instance Scan suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-landing-page.md).
+    5.  [Configure Instance Scan suite](../../platform-administration/instance-scan/hs-landing-page.md).
     On your other, non-production instances:
 
     1.  [Configure environment credentials](create-pipeline-credentials.md).

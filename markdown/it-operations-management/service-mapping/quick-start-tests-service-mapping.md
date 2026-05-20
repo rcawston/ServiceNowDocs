@@ -75,5 +75,5 @@ Orlando
 </table>**Related topics**  
 
 
-[Run an automated test](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-run-test.md)
+[Run an automated test](../../application-development/automated-test-framework-atf/atf-run-test.md)
 

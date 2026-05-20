@@ -92,5 +92,5 @@ The Business Stakeholder plugin \(com.snc.business\_stakeholder\) installs the B
 
 [Activate Change Management - Data Archiving](activate-data-retention-archive-rule.md)
 
-[List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
+[List of plugins \(Australia\)](../../platform-administration/list-of-plugins.md)
 

@@ -94,7 +94,7 @@ Select the name of the application service that you want to link as a contained 
 
 [Application services](application-services.md)
 
-[View dependent application services in classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/view-linked-services.md)
+[View dependent application services in classic Service Mapping](../../it-operations-management/service-mapping/view-linked-services.md)
 
-[View contained application services in classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/view-contained-services.md)
+[View contained application services in classic Service Mapping](../../it-operations-management/service-mapping/view-contained-services.md)
 

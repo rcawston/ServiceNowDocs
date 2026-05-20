@@ -43,7 +43,7 @@ When your end users and agents must communicate over longer periods without bein
 The following channels are available for asynchronous chat:
 
 -   Mobile web \(mweb\) client: Configure this channel for iOS, Android, and desktop devices for [asynchronous chat](async-chat.md)
--   [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md): Used by [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
+-   [Now Assist panel](../intelligent-experiences/now-assist-panel-overview.md): Used by [Now Assist panel](../intelligent-experiences/now-assist-panel-overview.md).
 -   SMS channel: Used by [Conversational SMS Integration with Twilio](virtual-agent/sms-twilio-store-app.md)
 
 ## Messaging Channels table

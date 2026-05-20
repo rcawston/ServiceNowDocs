@@ -30,7 +30,7 @@ A demand insights dashboard displays tasks as topics for which your knowledge ba
     -   For customer service cases, select **Demand Insights for Cases**.
     -   For incidents, select **Demand Insights for Incidents**.
     -   For HR cases, select **Demand Insights for HR cases**.
-    **Note:** For tasks other than customer service cases, incidents, and HR cases, you can create another dashboard or update an existing dashboard. For more information, see [Create and use dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-and-edit-dashboards.md).
+    **Note:** For tasks other than customer service cases, incidents, and HR cases, you can create another dashboard or update an existing dashboard. For more information, see [Create and use dashboards](../../now-intelligence/performance-analytics/create-and-edit-dashboards.md).
 
 2.  To view similar tasks grouped together, click a bar in the Pareto chart.
 

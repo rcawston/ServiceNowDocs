@@ -39,7 +39,7 @@ Role required: sn\_cmdb\_user and now\_assist\_panel\_user
     -   The second section displays the list of records that match the search criteria. Select a record name to view details.
 3.  If you select the link to ask a follow-up question, the Now Assist panel opens.
 
-    Now Assist guides you through the process of refining the search. For more information, see [Working in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
+    Now Assist guides you through the process of refining the search. For more information, see [Working in the Now Assist panel](../../intelligent-experiences/now-assist-panel-overview.md).
 
 4.  Provide feedback, copy the response text to the clipboard, or refresh the response.
 
@@ -80,5 +80,5 @@ If you think that data might have changed after you viewed the response, select 
 **Related topics**  
 
 
-[Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md)
+[Now Assist panel](../../intelligent-experiences/now-assist-panel-overview.md)
 

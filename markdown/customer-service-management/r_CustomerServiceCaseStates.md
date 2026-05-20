@@ -113,5 +113,5 @@ After proposing a solution, an agent waits for the customer to respond. -   If t
 </table>**Related topics**  
 
 
-[State flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_StateFlows.md)
+[State flows](../servicenow-platform/c_StateFlows.md)
 

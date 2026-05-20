@@ -45,7 +45,7 @@ For example, if you increase the scale factor to 3, Discovery uses three worker 
 
 3.  In the **Scale factor** field, set a value.
 
-    **Note:** The default maximum value is 3. To increase the scale factor beyond 3, configure the **com.glide.processing.framework.max\_thread\_utilization\_percentage** property. For more information about this property, see [Discovery properties](r_DiscoveryProperties.md). For instructions on how to create a property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
+    **Note:** The default maximum value is 3. To increase the scale factor beyond 3, configure the **com.glide.processing.framework.max\_thread\_utilization\_percentage** property. For more information about this property, see [Discovery properties](r_DiscoveryProperties.md). For instructions on how to create a property, see [Add a system property](../../platform-administration/r_AvailableSystemProperties.md).
 
 4.  Select **Update**.
 

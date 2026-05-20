@@ -19,12 +19,12 @@ ITOM Mobile Agent auto-integrates with ITSM Mobile Agent, letting you manage ale
 
 ## Manage change tasks
 
--   [Change tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/change-tasks.md)
--   [Overdue changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/overdue-change-mobile.md)
+-   [Change tasks](../../it-service-management/itsm-mobile-agent/change-tasks.md)
+-   [Overdue changes](../../it-service-management/itsm-mobile-agent/overdue-change-mobile.md)
 
 ## Manage catalog tasks
 
-[View catalog tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/catalog-tasks.md)
+[View catalog tasks](../../it-service-management/itsm-mobile-agent/catalog-tasks.md)
 
 **Parent Topic:**[Use ITOM Mobile](use-itom-mobile.md)
 

@@ -56,5 +56,5 @@ Reverse matching uses the same matching rules to match tasks to a resource rathe
 **Related topics**  
 
 
-[Assignment rules module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_AssignmentRulesModule.md)
+[Assignment rules module](../platform-administration/table-administration-and-data-management/c_AssignmentRulesModule.md)
 

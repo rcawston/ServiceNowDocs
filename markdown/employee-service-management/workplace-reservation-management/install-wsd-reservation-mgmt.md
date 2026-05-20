@@ -99,5 +99,5 @@ Activate the Workplace Service Delivery - Core plugin \(sn\_wsd\_core\) of minim
 
 [Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 
-[List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
+[List of plugins \(Australia\)](../../platform-administration/list-of-plugins.md)
 

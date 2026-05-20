@@ -75,9 +75,9 @@ You can assign your procurement and contracting professionals to these roles as 
 
 ## Requirements for integrating Sourcing and Procurement Operations and Contract Management Pro
 
-1.  [Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-finance-spend-central.md).
+1.  [Install Sourcing and Procurement Operations](../../source-to-pay-operations/sourcing-and-procurement-operations/activate-finance-spend-central.md).
 2.  [Install Contract Management Pro](cncore-install-cmpro.md).
-3.  [Integrate with Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integrate-spo-with-cmpro.md).
+3.  [Integrate with Contract Management Pro](../../source-to-pay-operations/sourcing-and-procurement-operations/integrate-spo-with-cmpro.md).
 
     **Note:** To use this application, a license is required for both Contract Management Pro and Sourcing and Procurement Operations.
 
@@ -86,7 +86,7 @@ You can assign your procurement and contracting professionals to these roles as 
 
 Get started with initiating contract request by completing these tasks:
 
-1.  [Configure Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configuring-spo.md).
+1.  [Configure Sourcing and Procurement Operations](../../source-to-pay-operations/sourcing-and-procurement-operations/configuring-spo.md).
 2.  Configuring Contract Management Pro
     -   **[Create a contract type](cncore-create-contract-type.md)**
 
@@ -118,5 +118,5 @@ Get started with initiating contract request by completing these tasks:
 
         Role:contract configurator.
 
-3.  [Initiate a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/initiate-contract-request.md).
+3.  [Initiate a contract request](../../source-to-pay-operations/sourcing-and-procurement-operations/initiate-contract-request.md).
 

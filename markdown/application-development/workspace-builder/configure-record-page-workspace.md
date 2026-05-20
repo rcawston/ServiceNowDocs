@@ -115,12 +115,12 @@ Activity stream
 
 </td><td>
 
-Option to enable the Activity stream for the record page. The Activity stream enables your workspace users to communicate with requesters and make internal notes about the work done on a record. For more information on the Activity stream, see [Activity streams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_activity-streams.md).
+Option to enable the Activity stream for the record page. The Activity stream enables your workspace users to communicate with requesters and make internal notes about the work done on a record. For more information on the Activity stream, see [Activity streams](../../platform-user-interface/c_activity-streams.md).
 
 </td></tr></tbody>
 </table>4.  Configure the related information in the Related information section of the configuration panel for the record page.
 
-    Related information includes tables that are related to the record, which appear as tabs, such as Child Incidents. For more information on configuring related information, see [Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_RelatedLists.md).
+    Related information includes tables that are related to the record, which appear as tabs, such as Child Incidents. For more information on configuring related information, see [Related lists](../../platform-user-interface/c_RelatedLists.md).
 
     **Note:** You can't create a table for the related information in a record page. The table must exist in ServiceNow AI Platform.
 
@@ -142,7 +142,7 @@ Option to enable the Activity stream for the record page. The Activity stream en
 
 5.  Provide fulfillers with visibility into cross-business workflows and the actionable tasks used to complete these workflows by specifying the playbook.
 
-    For more information on playbooks, see [About Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
+    For more information on playbooks, see [About Playbook Experience](../../build-workflows/workflow-studio/playbook-ui.md).
 
     **Note:** You must have the Playbook Experience plugin installed.If you used a template to create the app, you can't add a playbook to the record page. For details on how to add a playbook for workspaces created from templates, see [this knowledgebase article](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=13fd98de1bfd6510a4de35df034bcbce).
 
@@ -233,7 +233,7 @@ Display active Service License Agreements \(SLAs\) for the case, including time 
 
 </td><td>
 
-[SLA ribbon](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-agent-workspace-ribbon.md)
+[SLA ribbon](../../customer-service-management/csm-agent-workspace-ribbon.md)
 
 </td></tr><tr><td>
 
@@ -249,7 +249,7 @@ Add attachments to the record, such as images and PDFs.
 
 </td><td>
 
-[Attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/attachments.md)
+[Attachments](../../integrate-applications/attachments.md)
 
 </td></tr><tr><td>
 
@@ -265,7 +265,7 @@ Display a chronological summary of case activities, including state changes and 
 
 </td><td>
 
-[Timeline ribbon component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-agent-workspace-ribbon.md)
+[Timeline ribbon component](../../customer-service-management/csm-agent-workspace-ribbon.md)
 
 </td></tr><tr><td>
 
@@ -281,7 +281,7 @@ Display customer information, such as the contact or consumer name, email addres
 
 </td><td>
 
-[Customer 360 ribbon component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-agent-workspace-ribbon.md)
+[Customer 360 ribbon component](../../customer-service-management/csm-agent-workspace-ribbon.md)
 
 </td></tr><tr><td>
 
@@ -297,7 +297,7 @@ Display the contextual side panel ribbon, which contains tools to help agents re
 
 </td><td>
 
-[Viewing ribbon information in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-ribbon-info.md)
+[Viewing ribbon information in the contextual side panel](../../customer-service-management/csm-playbooks-viewing-ribbon-info.md)
 
 </td></tr></tbody>
 </table>        The selected tools appear in the record page preview canvas.

@@ -19,23 +19,23 @@ The ServiceNow® Data Management capabilities enable you to manage the growth of
 -   Search for archived records and restore them in bulk.
 -   Enable users to complete administrative tasks in Data Management without the full admin role.
 
-See [Data Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DataManagement.md) for more information.
+See [Data Management](../../platform-administration/c_DataManagement.md) for more information.
 
 ## New in the Australia release
 
--   **[Archive data in object storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ArchiveData.md)**
+-   **[Archive data in object storage](../../platform-administration/c_ArchiveData.md)**
 
     Store archive records and attachments in columnar format in an object storage outside the primary instance, freeing up primary storage and improving query performance for active data. The object storage is exclusive to RaptorDB Professional V2.
 
--   **[Data Management rules wizard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-management-policies.md)**
+-   **[Data Management rules wizard](../../platform-administration/data-management-policies.md)**
 
     Create and manage your archive, cleanup, and one-time delete rules in the Data Management Console.
 
--   **[Restore archive records in bulk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-archived-data.md)**
+-   **[Restore archive records in bulk](../../platform-administration/managing-archived-data.md)**
 
     Search for archived records and restore them in bulk to live tables from the Data Management Console.
 
--   **[Granular admin role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-management-roles.md)**
+-   **[Granular admin role](../../platform-administration/data-management-roles.md)**
 
     Enable administrators to perform basic Data Management tasks by granting the data\_mgmt\_tools\_admin role instead of the full admin role.
 

@@ -21,7 +21,7 @@ Use the [IEventSender](IEventSenderAPI.md#) API to send the event to the Service
 
 You must activate the Event Management \(com.glideapp.itom.snac\) plugin before attempting to access this API. The Event Management plugin requires a separate subscription and must be activated. This plugin includes demo data and activates related plugins if they are not already active.
 
-For additional information on event management, see [Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EM.md).
+For additional information on event management, see [Event Management](../../it-operations-management/event-management/c_EM.md).
 
 **Parent Topic:**[Server API reference](api-server.md)
 

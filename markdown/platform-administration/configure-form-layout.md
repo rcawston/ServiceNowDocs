@@ -13,7 +13,7 @@ breadcrumb: [Configure, Form administration, Forms, fields, and lists, Configure
 
 Administrators or users with the personalize\_form role can configure the form and related list layout.
 
-**Important:** Try configuring your forms with Form Builder instead. Form Builder has all of the Form Designer and Form Layout options. It also has other robust features that help you configure each aspect of the form. For more information, see [Accessing Form Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/access-form-builder.md).
+**Important:** Try configuring your forms with Form Builder instead. Form Builder has all of the Form Designer and Form Layout options. It also has other robust features that help you configure each aspect of the form. For more information, see [Accessing Form Builder](../application-development/form-builder-glide-family-release/access-form-builder.md).
 
 ## Show or hide fields on a form
 

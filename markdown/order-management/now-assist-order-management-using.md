@@ -46,5 +46,5 @@ Email notifications are sent to the customer when an invoice case is created or 
 **Related topics**  
 
 
-[Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md)
+[Find AI agents](../intelligent-experiences/find-ai-agents.md)
 

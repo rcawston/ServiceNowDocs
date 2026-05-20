@@ -47,7 +47,7 @@ Steps
 
 </td><td>
 
-You can filter, sort, and group the neighborhoods in the list using filters. For more information about filters, see [Filters and breadcrumbs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingFiltersAndBreadcrumbs.md).
+You can filter, sort, and group the neighborhoods in the list using filters. For more information about filters, see [Filters and breadcrumbs](../../platform-user-interface/c_UsingFiltersAndBreadcrumbs.md).
 
 </td></tr><tr><td id="d707983e115">
 

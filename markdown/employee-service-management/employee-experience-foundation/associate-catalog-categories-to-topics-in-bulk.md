@@ -45,5 +45,5 @@ For more information, see [Taxonomy and connected content](track-new-content.md)
 **Related topics**  
 
 
-[Service catalog categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogCategories.md)
+[Service catalog categories](../../servicenow-platform/service-catalog/c_ServiceCatalogCategories.md)
 

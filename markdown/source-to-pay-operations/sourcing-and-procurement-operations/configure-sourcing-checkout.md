@@ -61,9 +61,9 @@ Configure the relevant questions in this manner.
 **Related topics**  
 
 
-[Record Producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_RecordProducer.md)
+[Record Producer](../../servicenow-platform/service-catalog/c_RecordProducer.md)
 
-[Create a record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_DefRecProdInSCat.md)
+[Create a record producer](../../servicenow-platform/service-catalog/t_DefRecProdInSCat.md)
 
 [Create sourcing checkout record](create-sourcing-checkout-record.md)
 

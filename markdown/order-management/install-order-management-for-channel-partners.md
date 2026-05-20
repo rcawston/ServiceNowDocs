@@ -32,7 +32,7 @@ The following items are installed with the Order Management for Channel Partners
 -   Role like the sn\_prm\_orm.order\_partner\_ui
 -   Tables
 
-For more information on viewing components that are installed with an application, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
+For more information on viewing components that are installed with an application, see [Find components installed with an application](../platform-administration/find-components.md).
 
 ## Procedure
 

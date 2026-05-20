@@ -23,7 +23,7 @@ Role required: sn\_shift\_planning.admin
 
 Adherence and conformance calculations are based on a defined configuration and your agents' actual and planned work schedules. For more information, see [Setting up scheduling in Workforce Optimization for Field Service](../workforce-optimization-for-field-service/set-up-scheduling-wfo-fsm.md).
 
-**Note:** Your administrator can disable schedule adherence or change the configuration for adherence and conformance. For more information, see [Configure properties for schedule adherence and conformance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/setup-scheduling-configurable-wfo-cs.md).
+**Note:** Your administrator can disable schedule adherence or change the configuration for adherence and conformance. For more information, see [Configure properties for schedule adherence and conformance](../../customer-service-management/workforce-optimization-for-customer-service/setup-scheduling-configurable-wfo-cs.md).
 
 ## Procedure
 

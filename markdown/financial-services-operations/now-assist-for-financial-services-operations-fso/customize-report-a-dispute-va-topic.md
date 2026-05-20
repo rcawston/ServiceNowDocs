@@ -41,7 +41,7 @@ Review and modify the workflow for your business needs.
 **Related topics**  
 
 
-[Assistant Designer interface reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-reference.md)
+[Assistant Designer interface reference](../../conversational-interfaces/virtual-agent/vad-reference.md)
 
 [Form Data Collector](learn-about-the-form-data-collector.md)
 

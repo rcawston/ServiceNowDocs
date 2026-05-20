@@ -18,7 +18,7 @@ Use the Now Assist panel to request the contextual generative AI capabilities in
 
 ## Before you begin
 
-Make sure that Next Experience is enabled in the instance. For information about enabling Next Experience, see [Considerations for activating Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-adoption-paths.md). For information about Next Experience, see [Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-page.md).
+Make sure that Next Experience is enabled in the instance. For information about enabling Next Experience, see [Considerations for activating Next Experience](../../platform-user-interface/next-experience-adoption-paths.md). For information about Next Experience, see [Next Experience UI](../../platform-user-interface/next-experience-landing-page.md).
 
 Role required: itil
 
@@ -26,9 +26,9 @@ Role required: itil
 
 You can access the Now Assist panel from the Core UI or Service Operations Workspace for ITSM to request generative AI capabilities for Now Assist for ITSM skills. For information about these skills, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](now-assist-itsm-skills.md).
 
-Using the Now Assist panel saves time for an agent, for example, the agent can quickly learn the details of an incident by reading the incident summarization. The summarization gives enough details about the associated interaction so that the requester doesn't have to repeat the same information to the agent. For information about the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
+Using the Now Assist panel saves time for an agent, for example, the agent can quickly learn the details of an incident by reading the incident summarization. The summarization gives enough details about the associated interaction so that the requester doesn't have to repeat the same information to the agent. For information about the Now Assist panel, see [Now Assist panel](../../intelligent-experiences/now-assist-panel-overview.md).
 
-For information about how to activate the Now Assist panel, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
+For information about how to activate the Now Assist panel, see [Activate the Now Assist panel standard chat](../../intelligent-experiences/activate-now-assist-panel.md).
 
 ## Procedure
 
@@ -179,7 +179,7 @@ The conversational flow for adding a comment or work note is triggered.
 2.  Follow the on-screen instructions to complete the task.
 **Note:** You must have the itil role to add work notes.
 
-For more information, see [Conversational actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/conversational-actions.md).
+For more information, see [Conversational actions](../../build-workflows/workflow-studio/conversational-actions.md).
 
 </td></tr></tbody>
 </table>

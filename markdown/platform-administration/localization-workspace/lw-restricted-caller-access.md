@@ -78,9 +78,9 @@ Continue with setup of Localization Workspace. See [Configuring Localization Wor
 **Related topics**  
 
 
-[Application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationScope.md)
+[Application scope](../../application-development/c_ApplicationScope.md)
 
 [Artifact configurations](../localization-framework/framework-configuration.md)
 
-[Restricted caller access privilege settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/restricted-caller-access-privilege.md)
+[Restricted caller access privilege settings](../../application-development/restricted-caller-access-privilege.md)
 

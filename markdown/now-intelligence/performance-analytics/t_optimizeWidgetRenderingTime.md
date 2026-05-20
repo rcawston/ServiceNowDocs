@@ -64,7 +64,7 @@ Defines the maximum number of widgets that render simultaneously on a dashboard.
 </td></tr></tbody>
 </table>    The values to use for these properties depend on the performance of your instance and the contents of its dashboards.
 
-2.  You can also [configure a transaction quota rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/t_ConfigureATransactionQuotaRule.md).
+2.  You can also [configure a transaction quota rule](../../platform-administration/platform-performance/t_ConfigureATransactionQuotaRule.md).
 
     Transaction quota rules enable you to set a maximum execution time for a widget or a dashboard.
 
@@ -84,5 +84,5 @@ Defines the maximum number of widgets that render simultaneously on a dashboard.
 **Related topics**  
 
 
-[Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md)
+[Available system properties](../../platform-administration/r_AvailableSystemProperties.md)
 

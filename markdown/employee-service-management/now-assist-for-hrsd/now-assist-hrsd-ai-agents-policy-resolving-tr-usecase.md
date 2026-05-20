@@ -60,9 +60,9 @@ Select this option to receive and review notifications by AI agents in the Now A
 **Related topics**  
 
 
-[Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md)
+[Now Assist AI agents](../../intelligent-experiences/na-ai-agents.md)
 
-[Install Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-ai-agents-plugins.md)
+[Install Now Assist AI agents](../../intelligent-experiences/install-ai-agents-plugins.md)
 
-[AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-studio.md)
+[AI Agent Studio](../../intelligent-experiences/ai-agent-studio.md)
 

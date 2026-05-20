@@ -17,7 +17,7 @@ The GlideImportSetRun API provides methods to creates an Import Set Run record w
 
 See also:
 
--   [Import sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/import-sets-landing-page.md)
+-   [Import sets](../../integrate-applications/system-import-sets/import-sets-landing-page.md)
 -   [Import Set API](../rest-apis/c_ImportSetAPI.md#)
 
 **Parent Topic:**[Server API reference](api-server.md)

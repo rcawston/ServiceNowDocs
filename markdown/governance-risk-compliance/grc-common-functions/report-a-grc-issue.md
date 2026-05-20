@@ -23,7 +23,7 @@ Role required:
 -   One of these roles: employee user, business\_user, or business\_user\_lite
 -   The sn\_grc\_genai.issue\_aiagent\_user role
 
-AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them and what data they have access to. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. Data access settings must also include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md).
+AI agents use [role masking](../../intelligent-experiences/aia-role-masking.md) to determine which users can access them and what data they have access to. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. Data access settings must also include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](../../intelligent-experiences/define-sec-controls-aia.md).
 
 ## About this task
 

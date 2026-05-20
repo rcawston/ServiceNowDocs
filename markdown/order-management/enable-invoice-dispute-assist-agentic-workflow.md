@@ -58,5 +58,5 @@ Agentic workflows that are installed with Now Assist applications aren’t autom
 **Related topics**  
 
 
-[Activate an agentic workflow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-aia-use-case.md)
+[Activate an agentic workflow template](../intelligent-experiences/activate-aia-use-case.md)
 

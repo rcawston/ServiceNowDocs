@@ -81,7 +81,7 @@ Enter the management IP to trigger discovery on the host resources and connectio
 
 </td><td>
 
-Open the Windows Credentials form and configure missing Windows credentials for the selected CI. See [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md).
+Open the Windows Credentials form and configure missing Windows credentials for the selected CI. See [Windows credentials](../../platform-security/connections-and-credentials/r_WindowsCredentialsForm.md).
 
 </td></tr><tr><td id="d458554e278">
 
@@ -89,7 +89,7 @@ Open the Windows Credentials form and configure missing Windows credentials for 
 
 </td><td>
 
-Open the SSH Credentials form and configure missing SSH credentials for the selected CI. See [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_SSHCredentialsForm.md).
+Open the SSH Credentials form and configure missing SSH credentials for the selected CI. See [SSH credentials](../../platform-security/connections-and-credentials/r_SSHCredentialsForm.md).
 
 </td></tr><tr><td id="d458554e291">
 
@@ -97,7 +97,7 @@ Open the SSH Credentials form and configure missing SSH credentials for the sele
 
 </td><td>
 
-Open the SSH private keys form and configure missing credentials for the selected CI. See [SSH private key credential type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_SSHCredentialsForm.md).
+Open the SSH private keys form and configure missing credentials for the selected CI. See [SSH private key credential type](../../platform-security/connections-and-credentials/r_SSHCredentialsForm.md).
 
 </td></tr><tr><td id="d458554e305">
 
@@ -105,7 +105,7 @@ Open the SSH private keys form and configure missing credentials for the selecte
 
 </td><td>
 
-Open the SNMP credentials form and configure missing SNMP credentials for the selected CI. See [SNMP credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_SNMPCredentials.md).
+Open the SNMP credentials form and configure missing SNMP credentials for the selected CI. See [SNMP credentials](../../platform-security/connections-and-credentials/c_SNMPCredentials.md).
 
 </td></tr><tr><td id="d458554e318">
 

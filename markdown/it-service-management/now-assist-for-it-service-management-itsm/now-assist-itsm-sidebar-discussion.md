@@ -18,8 +18,8 @@ Generate a summary of Sidebar discussions between agents, requesters, and subjec
 
 ## Before you begin
 
--   Next Experience must be enabled to summarize Sidebar discussions in Core UI. For more information, see [Considerations for activating Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-adoption-paths.md).
--   The Sidebar Chat Summarization skill must be enabled. For more information, see [Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md).
+-   Next Experience must be enabled to summarize Sidebar discussions in Core UI. For more information, see [Considerations for activating Next Experience](../../platform-user-interface/next-experience-adoption-paths.md).
+-   The Sidebar Chat Summarization skill must be enabled. For more information, see [Activate a Now Assist skill](../../intelligent-experiences/configure-a-now-assist-skill.md).
 
 Role required: itil
 
@@ -35,7 +35,7 @@ You can do these actions by using the Sidebar discussion summarization skill:
 
 You can use Sidebar discussion summarization for any task table that you have enabled Sidebar on.
 
-Summarizing Sidebar chats integrated with Microsoft Teams is supported. For more information, see [Sidebar and Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/sidebar-teams-overview.md).
+Summarizing Sidebar chats integrated with Microsoft Teams is supported. For more information, see [Sidebar and Microsoft Teams](../../conversational-interfaces/sidebar/sidebar-teams-overview.md).
 
 ## Procedure
 

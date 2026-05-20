@@ -85,5 +85,5 @@ Automatically update the shopping cart across all sessions when users make chang
 
 [Clone a widget](t_CloneAndEditAWidget.md)
 
-[Add a catalog item to the shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-cart-portal.md)
+[Add a catalog item to the shopping cart](../../servicenow-platform/service-catalog/add-to-cart-portal.md)
 

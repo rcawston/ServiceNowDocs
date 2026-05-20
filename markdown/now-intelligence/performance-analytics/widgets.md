@@ -37,7 +37,7 @@ Widget types include:
 
 -   **Content Blocks**
 
-    Content blocks are pieces of information that you can reuse across your instance. For more information, see [Configure a content block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentBlock.md).
+    Content blocks are pieces of information that you can reuse across your instance. For more information, see [Configure a content block](../../platform-user-interface/content-management-system/t_CreateAContentBlock.md).
 
 
 -   **[Create a widget that displays a ServiceNow UI page](create_widget_displays_webpage.md)**  

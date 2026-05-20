@@ -25,7 +25,7 @@ Details about changes to a service instance and to its CIs are stored in the CMD
 
 Changes to configuration files are associated with CIs to which these files belong. Maps show configuration file changes as changes to related CIs.
 
-While you can see change records for a specific CI in the context of application services, you can also see detailed history of a specific CI separate from its service instance as described in [History Timeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HistoryTimeline.md).
+While you can see change records for a specific CI in the context of application services, you can also see detailed history of a specific CI separate from its service instance as described in [History Timeline](../../platform-security/c_HistoryTimeline.md).
 
 If the ServiceNow AI Platform is configured to validate changes, all changes are evaluated and rendered as valid or not. If a change is valid, its change record on the service instance map is marked as approved. For more information about configuring the platform for change validation, see [Managing proposed changes](c_ProposedChanges.md#).
 
@@ -200,7 +200,7 @@ The new tab opens displaying the network or storage path map for the time you se
 
 [Compare two versions of an application service in classic Service Mapping](t_CompareBS.md)
 
-[Modify tracking changes in configuration files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/track-configuration-files.md)
+[Modify tracking changes in configuration files](../../it-operations-management/discovery/track-configuration-files.md)
 
-[Fine-tune tracking changes for the change history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/exclude-changes-from-change-history.md)
+[Fine-tune tracking changes for the change history](../../it-operations-management/service-mapping/exclude-changes-from-change-history.md)
 

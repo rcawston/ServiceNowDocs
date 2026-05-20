@@ -127,7 +127,7 @@ For more information, see [Redirect UI16 module links to Service Operations Work
 
             -   By default, the **Overview** tab is displayed for the tier-1 agents.
             -   When you choose to hide the **Overview** tab for the tier-1 agents, the **Details** tab opens by default.
-            -   This option is available only if the **glide.ux.user\_criteria\_enabled** property is **true**. For more information, see [Enable the user criteria property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/enable-user-criteria-property.md).
+            -   This option is available only if the **glide.ux.user\_criteria\_enabled** property is **true**. For more information, see [Enable the user criteria property](../../application-development/ui-builder/enable-user-criteria-property.md).
         -   Summary: Configure the fields layout, UI elements and the visible data content on the Summary section of the **Overview** tab.
         -   Impact: Configure the fields layout, UI elements and the visible data content on the Impact section of the **Overview** tab.
         -   Cause: Configure the fields layout, UI elements and the visible data content on the Cause section of the **Overview** tab.
@@ -135,9 +135,9 @@ For more information, see [Redirect UI16 module links to Service Operations Work
     -   Details: Configure any of the following options for the **Details** tab.
         -   Record: Provides further details on the incident record. Configure the fields layout, UI elements, and the visible data content of the **Details** tab using form builder.
         -   New record: This layout appears when an agent creates an incident record. Configure the fields layout, UI elements, and the visible data content of the **Details** tab using form builder.
-    -   Response templates: Create and configure response templates for incidents. Response templates are used as reusable messages that you can copy and paste in the required areas such as email or chat for a quick response. To use the response template feature, the users must have the sn\_templated\_snip.template\_snippet\_reader role. The number of the response templates created for the incident table is displayed in this section. For more information on defining and configuring the response templates for incident tables in Service Operations Workspace, see [Response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/response-templates-templated-snippets.md).
+    -   Response templates: Create and configure response templates for incidents. Response templates are used as reusable messages that you can copy and paste in the required areas such as email or chat for a quick response. To use the response template feature, the users must have the sn\_templated\_snip.template\_snippet\_reader role. The number of the response templates created for the incident table is displayed in this section. For more information on defining and configuring the response templates for incident tables in Service Operations Workspace, see [Response templates](../../servicenow-platform/response-templates-templated-snippets.md).
     -   Incident management properties: Configure the incident features using the incident management properties. For more information on configuring incident management properties, see [Incident Management properties](../incident-management/incident-management-properties.md).
- For more information about configuring the field layout, UI elements and the visible data content using form builder, see [Customize forms within a form component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-edit-form-component.md).
+ For more information about configuring the field layout, UI elements and the visible data content using form builder, see [Customize forms within a form component](../../application-development/ui-builder/learn-by-example-edit-form-component.md).
 
  For information about incident record page customizations, see [Customize the incident record page](customize-the-incident-record-page.md#).
 
@@ -166,8 +166,8 @@ For more information on the configurations of features in Major Incident Managem
 
 1.  On the **Configurations** tab, select the **Problem Management** option.
 2.  Configure the following options.
-    -   Problem record: choose whether to enable the overview tab, and configure the problem record UI elements and the visible data content. For more information, see [Customize forms within a form component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-edit-form-component.md)
-    -   Problem task record: configure the problem task record UI elements and the visible data content. For more information, see [Customize forms within a form component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-edit-form-component.md)
+    -   Problem record: choose whether to enable the overview tab, and configure the problem record UI elements and the visible data content. For more information, see [Customize forms within a form component](../../application-development/ui-builder/learn-by-example-edit-form-component.md)
+    -   Problem task record: configure the problem task record UI elements and the visible data content. For more information, see [Customize forms within a form component](../../application-development/ui-builder/learn-by-example-edit-form-component.md)
 
 
 </td></tr><tr><td id="d219318e799">
@@ -182,7 +182,7 @@ For more information on the configurations of features in Major Incident Managem
     -   Change models: Create optimized change state models with policy-based automation capabilities that are fit-for-purpose to increase change efficiency and velocity. Create change models, change model condition types, and change flows through this section.
         -   For information on creating a change model, see [Create a Change model](../change-management/create-a-change-model.md).
         -   For information on creating change model condition types, see [Create predefined transition condition types](../change-management/create-predefined-transition-condition-type.md).
-        -   For information on configuring flows, see [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
+        -   For information on configuring flows, see [Flow Designer](../../application-development/flow-designer.md).
     -   Change approval policies: Create change approval policies to streamline your approval process. Ensure that changes gain the approvals needed to drive stability and compliance, without compromising on change velocity. Create change approval policies and definitions through this section.
         -   For information on creating change approval policies, see [Create change approval policies](../change-management/create-change-policy.md).
         -   For information on creating approval definitions, see [Create approval definitions](../change-management/create-approval-definitions.md).
@@ -196,8 +196,8 @@ For more information on the configurations of features in Major Incident Managem
 **Note:** You can also navigate to the Change Success Dashboard to see trends in resolution efficiency for a team, change type, or change model over time based on the parameters used to calculate the overall success score. For more information, see [Exploring ITSM Success Dashboard indicators](../itsm-success-dashboard-indicators/explore-success-dashboard-indicators.md).
 
     -   Automate DevOps changes: Automate DevOps changes with DevOps Change Velocity. Connect and configure tools from your DevOps toolchain with our DevOps data model to drive enhanced DevOps change traceability. Automatically create changes from CI/CD pipeline executions with relevant DevOps data attached and leverage that data to drive full change approval automation. For more information, see [DevOps Change Velocity](../devops-change-velocity/devops-landing-page-new.md).
-    -   Change record: Configure the change record UI elements and the visible data content. For more information, see [Customize forms within a form component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-edit-form-component.md).
-    -   Change task record: Configure the change task record UI elements and the visible data content. For more information, see [Customize forms within a form component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-edit-form-component.md).
+    -   Change record: Configure the change record UI elements and the visible data content. For more information, see [Customize forms within a form component](../../application-development/ui-builder/learn-by-example-edit-form-component.md).
+    -   Change task record: Configure the change task record UI elements and the visible data content. For more information, see [Customize forms within a form component](../../application-development/ui-builder/learn-by-example-edit-form-component.md).
 
 
 </td></tr><tr><td id="d219318e990">
@@ -234,7 +234,7 @@ For more information on the configurations of features in Major Incident Managem
     -   Integrations
 **Note:** This option isn’t available for the SOW admin role. For more information on the various roles in the Admin Center, see [Admin Center in Service Operations Workspace for ITSM](admin-center-sow.md).
 
-For information about Service Reliability Management configurations, see [Service Operations Workspace setup for SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-sow-admin-setup.md).
+For information about Service Reliability Management configurations, see [Service Operations Workspace setup for SRM](../../it-operations-management/service-reliability-management/sr-sow-admin-setup.md).
 
 </td></tr><tr><td id="d219318e1191">
 

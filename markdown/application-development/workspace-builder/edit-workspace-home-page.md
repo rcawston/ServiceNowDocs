@@ -76,8 +76,8 @@ Graphic, visual representation of current instance data. You can create a new da
 
 </td><td>
 
--   [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md)
--   [Create a single score data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-sing-sc-ac.md)
+-   [Data visualizations in Platform Analytics](../../now-intelligence/analytics-center-data-visualizations.md)
+-   [Create a single score data visualization](../../now-intelligence/create-dv-sing-sc-ac.md)
 -   [Developer site data visualization component listing](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/sn-par-visualization-base/overview)
 
 
@@ -91,7 +91,7 @@ Refine the visualizations on a dashboard based on specified criteria. The filter
 
 </td><td>
 
--   [Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md)
+-   [Filters in Platform Analytics](../../now-intelligence/interactive-filters-workspace.md)
 -   [Developer site filter component listing](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/sn-component-filter/overview)
 
 
@@ -129,12 +129,12 @@ Table data that you can customize for the dashboard audience.
 
 </td><td>
 
--   [Simple List widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/simple-list-widget.md) or [List - Simple Usage - Developer site](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/now-record-list-connected-snapshot/usage)
+-   [Simple List widget](../../platform-user-interface/service-portal/simple-list-widget.md) or [List - Simple Usage - Developer site](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/now-record-list-connected-snapshot/usage)
 -   [Developer site List - simple component listing](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/now-record-list-connected-snapshot/overview)
 
 
 </td></tr></tbody>
-</table>        The [Workspace Builder components for home pages](workspace-builder-components-ref.md) has details on home page elements. For more information, see [Exploring Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ac-elements.md).
+</table>        The [Workspace Builder components for home pages](workspace-builder-components-ref.md) has details on home page elements. For more information, see [Exploring Platform Analytics dashboards](../../now-intelligence/ac-elements.md).
 
         If you want to include additional elements that aren't available in the **Add new element** menu, you must edit the workspace in UI Builder. For a complete list of elements you can add in UI Builder, see the components documentation on the [ServiceNow](https://developer.servicenow.com/dev.do#!/reference/next-experience/components?availability[]=Draft&availability[]=In+Progress&availability[]=Available&categories[]=Dev-Design+System&releases[]=utah&query=&order_by=nameAsc&limit=120&offset=0&categories[]=uib_component&categories[]=uib_macroponent-component&categories[]=uib_facades).
 
@@ -252,7 +252,7 @@ Make basic edits to a workspace when previewing it using the In-line editor.1.  
 2.  In the preview that appears in a new browser tab, select **Edit**.
 3.  Adjust the home page elements and widgets by resizing, reorganizing, or reconfiguring them.
 
-For more information, see [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md).
+For more information, see [Edit Platform Analytics dashboards](../../now-intelligence/edit-db-in-ac.md).
 
 4.  Select **Add new element** to add items to your workspace home page.
 5.  Select **Exit Editing Mode** to stop editing in the In-line editor.

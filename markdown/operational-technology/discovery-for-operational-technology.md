@@ -55,13 +55,13 @@ When you run an OT discovery schedule, it performs the following processing:
 **Related topics**  
 
 
-[Operation Technology \(OT\) extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models-operation-technology.md)
+[Operation Technology \(OT\) extension classes](../servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models-operation-technology.md)
 
-[MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md)
+[MID Server](../servicenow-platform/mid-server/mid-server-landing.md)
 
-[Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r-discovery.md)
+[Discovery](../it-operations-management/discovery/r-discovery.md)
 
-[Horizontal discovery process flow with probes and sensors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoProcessFlows.md)
+[Horizontal discovery process flow with probes and sensors](../it-operations-management/discovery/c_DiscoProcessFlows.md)
 
-[Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md)
+[Schedule a horizontal discovery](../it-operations-management/discovery/t_CreateADiscoverySchedule.md)
 

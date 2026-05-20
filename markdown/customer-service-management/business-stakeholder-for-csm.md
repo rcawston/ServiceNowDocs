@@ -495,9 +495,9 @@ Internal
 **Related topics**  
 
 
-[Business stakeholder role for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/business-stakeholder-role-ppm.md)
+[Business stakeholder role for PPM](../it-business-management/ppm-collaboration/business-stakeholder-role-ppm.md)
 
 [bundle-appportman.business-stakeholder-role-apm]
 
-[Installed with Business Stakeholder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request-management/installed-with-business-stakeholder.md)
+[Installed with Business Stakeholder](../it-service-management/request-management/installed-with-business-stakeholder.md)
 

@@ -20,7 +20,7 @@ Domain separation is unsupported for Supplier Lifecycle Operations. Domain separ
 -   The domain field may exist on data tables but there is no business logic to manage the data.
 -   This level is not considered domain-separated.
 
-For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
+For more information on support levels, see [Application support for domain separation](../../platform-security/domain-separated-apps.md).
 
 **Parent Topic:**[Supplier Lifecycle Operations reference](supp-mgmt-reference.md)
 
@@ -51,5 +51,5 @@ For more information on support levels, see [Application support for domain sepa
 
 [Supplier Lifecycle Operations glossary](slo-glossary.md#)
 
-[Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
+[Domain separation for service providers](../../platform-security/domain-sep-landing-page.md)
 

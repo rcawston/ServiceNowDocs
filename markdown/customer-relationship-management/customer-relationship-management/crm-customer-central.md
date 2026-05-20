@@ -51,7 +51,7 @@ Customer Central provides benefits to internal users across an organization.
 **Related topics**  
 
 
-[Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central.md)
+[Customer Central](../../customer-service-management/customer-central.md)
 
-[Configuring the Customer History component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central-configuration.md)
+[Configuring the Customer History component](../../customer-service-management/customer-central-configuration.md)
 

@@ -153,7 +153,7 @@ For the installation id, go to Install App section in your GitHub App configurat
 
     4.  If your GitHub instance is attached to a MID Server, select the **MID Server** option and enter its details.
 
-        For more information about MID server, see [MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerSelector.md).
+        For more information about MID server, see [MID Server selection](../../servicenow-platform/mid-server/c_MIDServerSelector.md).
 
         **Note:** The OAuth Authorization Code &amp; JWT grant types are supported for GitHub &amp; GitHub Enterprise with MID server.
 

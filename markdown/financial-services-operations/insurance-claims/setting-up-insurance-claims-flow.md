@@ -23,7 +23,7 @@ Before beginning the configuration steps, you should familiarize yourself with t
 -   [Insurance Claims Core](../insurance-claims-core-data-model.md)
 -   [Integrating with Document Processor](../integrating-with-document-processor.md)
 -   [Best practices for setting up an instance](https://www.servicenow.com/community/in-other-news/best-practices-for-general-planning-and-setup-of-your-instance/ba-p/2287790)
--   [Table extension and classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/table-extension-and-classes.md)
+-   [Table extension and classes](../../platform-administration/table-administration-and-data-management/table-extension-and-classes.md)
 
 ## Configuration overview
 

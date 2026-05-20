@@ -102,5 +102,5 @@ Select **Fixed Size** and enter height and width pixel dimensions according to t
 
 [Administering Live Feed](c_AdministerLiveFeed.md)
 
-[Content Management System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementSystem.md)
+[Content Management System](../../platform-user-interface/content-management-system/c_ContentManagementSystem.md)
 

@@ -19,7 +19,7 @@ Setting up the Hermes Messaging Service requires coordination with your network 
 
 Make sure the following setup is in place:
 
--   The Hermes Messaging Service is activated. See [Activating the Hermes Messaging Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-activation.md).
+-   The Hermes Messaging Service is activated. See [Activating the Hermes Messaging Service](../servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-activation.md).
 -   The Key Management Framework plugin \(com.glide.kmf.global\) is activated.
 -   The Certificates \[sys\_kmf\_certificate\] table contains a ServiceNow instance root CA certificate.
 -   The instance isn't configured with a Custom URL. Custom URLs are not supported with the Instance PKI Certificate Generator.
@@ -98,7 +98,7 @@ You can now create a secure connection to the Hermes Messaging Service.
 
 ## What to do next
 
-[Check the status of and connection to the Hermes Kafka cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/run-hermes-messaging-service-diagnostics.md).
+[Check the status of and connection to the Hermes Kafka cluster](../servicenow-platform/multi-instance-framework-hermes/run-hermes-messaging-service-diagnostics.md).
 
 **Parent Topic:**[Configuring Log Export Service \(LES\)](les-configure.md)
 

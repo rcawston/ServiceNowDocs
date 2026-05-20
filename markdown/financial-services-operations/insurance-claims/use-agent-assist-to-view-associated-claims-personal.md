@@ -58,6 +58,6 @@ Steps
 </td></tr></tbody>
 </table>4.  Select the Agent assist icon to use the feature.
 
-    For more detailed information about Agent assist, refer to [Agent assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/agent-assist-configurable-workspace.md).
+    For more detailed information about Agent assist, refer to [Agent assist](../../platform-user-interface/agent-assist-configurable-workspace.md).
 
 

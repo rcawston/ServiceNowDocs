@@ -106,5 +106,5 @@ Manager rejects your time-off request.
 **Related topics**  
 
 
-[Setting notification preferences in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-notification-preferences.md)
+[Setting notification preferences in Core UI](../../platform-administration/user-notification-preferences.md)
 

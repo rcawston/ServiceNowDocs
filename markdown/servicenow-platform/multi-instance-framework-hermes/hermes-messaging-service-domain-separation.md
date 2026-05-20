@@ -25,7 +25,7 @@ Domain separation is supported for the Hermes Messaging Service. Domain separati
 
 Sample use case: When a service provider \(SP\) uses chat to respond to a tenant-customer’s message, the customer must be able to see the SP's response.
 
-For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
+For more information on support levels, see [Application support for domain separation](../../platform-security/domain-separated-apps.md).
 
 ## Overview
 
@@ -52,5 +52,5 @@ All domain support features require the Domain Support - Domain Extensions Insta
 
 [Hermes Messaging Service roles](hermes-messaging-service-roles.md#)
 
-[Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
+[Domain separation for service providers](../../platform-security/domain-sep-landing-page.md)
 

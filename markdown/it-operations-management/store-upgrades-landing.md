@@ -27,7 +27,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   [Certificate Inventory and Management](discovery/cert-inventory-mgmt.md)
 -   [Discovery patterns](discovery-and-service-mapping-patterns/available-patterns.md)
 -   [Firewall Audit and Reporting](discovery/firewall-audit-reporting.md)
--   [CMDB CI Class Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md)
+-   [CMDB CI Class Models](../servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md)
 -   [Health Log Analytics](health-log-analytics/hla-landing-page.md)
 -   [Performance Analytics Content Pack for Cloud Resources](discovery/cloud-resources-content-pack.md)
 -   [Application service readiness dashboard in configurable workspace](service-mapping/readiness-dashboard-ml.md)

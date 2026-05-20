@@ -109,5 +109,5 @@ Several types of components are installed with Change Management - Standard Chan
 
 [Change Management properties](r_ChangeManagementProperties.md)
 
-[List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
+[List of Australia plugins](../../platform-administration/list-of-plugins.md)
 

@@ -38,7 +38,7 @@ Catalog and catalog items ensure the accuracy and availability of the required i
 **Related topics**  
 
 
-[Service catalog categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogCategories.md)
+[Service catalog categories](../../servicenow-platform/service-catalog/c_ServiceCatalogCategories.md)
 
-[Record Producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_RecordProducer.md)
+[Record Producer](../../servicenow-platform/service-catalog/c_RecordProducer.md)
 

@@ -36,7 +36,7 @@ Role required: admin
 
 -   Assign the item to additional catalogs and categories, if required.
 -   Define [variables](c_ServiceCatalogVariables.md) for the item, if applicable.
--   To add attachments such as information and instruction documentation to the catalog item, see [Add an attachment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddingAnAttachment.md).
+-   To add attachments such as information and instruction documentation to the catalog item, see [Add an attachment](../../platform-user-interface/t_AddingAnAttachment.md).
 
 Read related topics:
 

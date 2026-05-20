@@ -67,5 +67,5 @@ The order of execution is as follows:
 
 [Create an assignment data lookup rule](t_DataLookupRule.md)
 
-[Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/business-rules-classic/c_BusinessRules.md)
+[Business rules](../../api-reference/business-rules-classic/c_BusinessRules.md)
 

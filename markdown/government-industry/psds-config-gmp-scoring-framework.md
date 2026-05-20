@@ -33,5 +33,5 @@ Role required: admin
 **Related topics**  
 
 
-[Create a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-a-knowledgebase.md)
+[Create a knowledge base](../servicenow-platform/knowledge-management/create-a-knowledgebase.md)
 

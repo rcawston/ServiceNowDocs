@@ -15,7 +15,7 @@ Track and monitor the real-time status of your work by accessing your profile in
 
 ## Before you begin
 
-**Important:** To access the next generation of the Workforce Optimization for Customer Service application, transition to the Workforce Optimization for Customer Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Customer Service using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/ui-builder-overview.md). For more information see, [Workforce Optimization for Customer Service](workforce-optimization-for-customer-service/configurable-wfo-cs.md).
+**Important:** To access the next generation of the Workforce Optimization for Customer Service application, transition to the Workforce Optimization for Customer Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Customer Service using the [UI Builder](../application-development/ui-builder/ui-builder-overview.md). For more information see, [Workforce Optimization for Customer Service](workforce-optimization-for-customer-service/configurable-wfo-cs.md).
 
 Role required: sn\_wfo\_csm.employee
 
@@ -68,7 +68,7 @@ The profile page appears. In that page, you can access all the information relat
 7.  Click **Create**.
  The workspace adds your profile to the **My Lists** tab.
 
-For information on creating a list, see [Administering lists for Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/administer-lists-configurable-workspace.md)
+For information on creating a list, see [Administering lists for Configurable Workspace](../platform-user-interface/administer-lists-configurable-workspace.md)
 
 </td></tr></tbody>
 </table>

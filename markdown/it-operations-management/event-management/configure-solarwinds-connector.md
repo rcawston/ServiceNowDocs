@@ -19,7 +19,7 @@ Configure the SolarWinds connector instance to receive Metric Intelligence raw d
 
 To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](../metric-intelligence/configure-itoa-metric-extension.md).
 
-Configure the Service graph connector for SolarWinds. This is configured in the instance and discovers SolarWinds CIs. For details on configuring this connector, see [Service Graph Connector for SolarWinds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-integration-solarwinds.md).
+Configure the Service graph connector for SolarWinds. This is configured in the instance and discovers SolarWinds CIs. For details on configuring this connector, see [Service Graph Connector for SolarWinds](../../servicenow-platform/service-graph-connectors/cmdb-integration-solarwinds.md).
 
 Role required: evt\_mgmt\_admin
 

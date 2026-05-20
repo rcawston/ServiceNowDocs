@@ -19,7 +19,7 @@ Configure push connectors to personalize domain separation of events so you can 
 
 Make sure that you have the following setup:
 
--   You have read access to the domain information table for the evt\_mgmt\_integration role \(default table: core\_company\). For more information, see [Configure an ACL rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/t_CreateAnACLRule.md).
+-   You have read access to the domain information table for the evt\_mgmt\_integration role \(default table: core\_company\). For more information, see [Configure an ACL rule](../../platform-security/access-control/t_CreateAnACLRule.md).
 -   You enabled the **evt\_mgmt.connector\_enable\_custom\_domain\_separation** .system property.
 -   You installed the following plug-ins in the ServiceNow AI Platform® instance:
     -   Event Management \(**com.glideapp.itom.snac**\)
@@ -93,7 +93,7 @@ Parameter and values
 
 Events are created in the domain referred to by the domain identifier.
 
-**Note:** The table that stores domain information records \(for example, core\_company\) must be domain separated. For more information, see [Domain-separate a custom table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-ds-custom-table.md).
+**Note:** The table that stores domain information records \(for example, core\_company\) must be domain separated. For more information, see [Domain-separate a custom table](../../platform-security/bp-ds-custom-table.md).
 
 **Parent Topic:**[Event Management Connectors domain personalization](domain-separation-connectors-personalization.md)
 

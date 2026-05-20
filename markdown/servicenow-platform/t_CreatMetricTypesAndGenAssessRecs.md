@@ -178,7 +178,7 @@ Evaluation method
 \[Admin only\] Indicates the evaluation method for this metric type. The system sets this field based on how the metric type is created. The possible evaluation methods are:-   **Assessment**: Default filter value for metric types. Only this evaluation method uses assessable records, conditions, and stakeholders.
 -   **Attestation**: For details, see
 
-[Attestations - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/c_Attestations.md).
+[Attestations - Legacy](../governance-risk-compliance/policy-and-compliance-management/c_Attestations.md).
 
 -   **Survey**: For details, see [Survey definitions](c_SurveyDefinitions.md).
 
@@ -348,5 +348,5 @@ All assessable records associated with the type. This related list is hidden in 
 
 [Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)
 
-[Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md)
+[Configuring the form layout](../platform-administration/configure-form-layout.md)
 

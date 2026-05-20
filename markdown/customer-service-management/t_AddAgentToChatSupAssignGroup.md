@@ -33,5 +33,5 @@ Role required: sn\_customerservice\_manager or admin
 **Related topics**  
 
 
-[Connect Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_ConnectSupport.md)
+[Connect Support](../servicenow-platform/connect/c_ConnectSupport.md)
 

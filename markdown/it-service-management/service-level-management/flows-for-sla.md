@@ -33,5 +33,5 @@ For more information on SLA notifications, refer [SLA notifications](c_SLANotifi
 **Related topics**  
 
 
-[Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md)
+[Flow Designer](../../application-development/flow-designer.md)
 

@@ -17,7 +17,7 @@ ServiceNow Discovery is an automated process that continuously scans and identif
 
 Discovery overview Discovery is available as a separate subscription from the rest of the ServiceNow AI Platform. See [Request Discovery](t_ActivateTheDiscoveryPlugin.md) for details.
 
-Discovery supports database encryption and full-disk encryption. See [Database Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/database-encryption-with-customer-controlled-switch/db-full-disk-encryption.md) for details.
+Discovery supports database encryption and full-disk encryption. See [Database Encryption](../../platform-security/database-encryption-with-customer-controlled-switch/db-full-disk-encryption.md) for details.
 
 ## Get started
 
@@ -33,8 +33,8 @@ Discovery supports database encryption and full-disk encryption. See [Database E
 
  -   [Request Discovery](t_ActivateTheDiscoveryPlugin.md)
 -   [Discovery setup](discovery-setup.md)
--   [MID Server installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-installation.md)
--   [Create and test your credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/t_CreateCredential.md)
+-   [MID Server installation](../../servicenow-platform/mid-server/mid-server-installation.md)
+-   [Create and test your credentials](../../platform-security/connections-and-credentials/t_CreateCredential.md)
 -   [Migrate from CAPI to Patterns](migrate-from-capi-to-pattern.md)
 
 </td><td>
@@ -63,7 +63,7 @@ Discovery supports database encryption and full-disk encryption. See [Database E
 
 **Integrate and develop**
 
- -   [Activate SCCM Asset Intelligence scheduled imports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-ai-scheduled-imports.md)
+ -   [Activate SCCM Asset Intelligence scheduled imports](../../platform-administration/activate-ai-scheduled-imports.md)
 -   [Discovery APIs on the ServiceNow® Developer Site](https://developer.servicenow.com)
 
 </td><td>

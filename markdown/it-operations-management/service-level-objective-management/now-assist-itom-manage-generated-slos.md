@@ -18,9 +18,9 @@ Activate or deactivate the service level objective \(SLO\) creator agent and con
 
 ## Before you begin
 
-You must have AI Agents for SLO and Service Reliability Management \(SRM\) installed on your instance. For more information, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md) and [Install Service Reliability Management from Admin Center or ServiceNow Store](../service-reliability-management/sr-install-sr-store-app.md).
+You must have AI Agents for SLO and Service Reliability Management \(SRM\) installed on your instance. For more information, see [Install Now Assist plugins](../../intelligent-experiences/install-now-assist-feature-plugins.md) and [Install Service Reliability Management from Admin Center or ServiceNow Store](../service-reliability-management/sr-install-sr-store-app.md).
 
-Agentic workflows and their AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md).
+Agentic workflows and their AI agents use [role masking](../../intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](../../intelligent-experiences/define-sec-controls-aw.md).
 
 For an overview of how and when the SLO creator agent generates SLOs, see [Generating service level objectives](now-assist-itom-slo-generation.md).
 

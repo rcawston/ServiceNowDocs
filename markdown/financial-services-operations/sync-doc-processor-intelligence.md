@@ -39,7 +39,7 @@ Document Categories and Document Types created in Document Processor before Docu
 **Related topics**  
 
 
-[Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/document-intelligence-landing.md)
+[Document Intelligence](../intelligent-experiences/document-intelligence/document-intelligence-landing.md)
 
 [Using Document Processor](using-document-processor.md)
 

@@ -429,5 +429,5 @@ Requires the following plugin activation: Human Resources Scoped App: Core \[com
 **Related topics**  
 
 
-[Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/quick-start-tests.md)
+[Quick start tests](../../application-development/automated-test-framework-atf/quick-start-tests.md)
 

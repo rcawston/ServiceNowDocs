@@ -19,7 +19,7 @@ You can follow a record in Connect Chat to track activity as it happens, in a fa
 
 **Important:**
 
-Core UI is required to use Connect Chat. Connect Chat is not supported in Next Experience. If you turn on Next Experience, Connect Chat will no longer work. See [Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-page.md) for more information.
+Core UI is required to use Connect Chat. Connect Chat is not supported in Next Experience. If you turn on Next Experience, Connect Chat will no longer work. See [Next Experience UI](../../platform-user-interface/next-experience-landing-page.md) for more information.
 
 Role required: whichever role is required to access the record you want to follow in Connect
 

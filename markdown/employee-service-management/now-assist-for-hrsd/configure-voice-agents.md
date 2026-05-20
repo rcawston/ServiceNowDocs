@@ -27,7 +27,7 @@ Install the following plugins:
 
 ## Procedure
 
-1.  Follow the steps to [Create an AI voice assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-an-ai-voice-service.md)
+1.  Follow the steps to [Create an AI voice assistant](../../intelligent-experiences/create-an-ai-voice-service.md)
 
 2.  Activate the HR AI voice agents.
 
@@ -70,14 +70,14 @@ Steps
     -   sn\_hr\_integr\_fw \(3.8.1 or later\)
     -   sn\_hr\_oracle\_adv \(1.2.1 or later\)
     -   com.glide.hub.integrations.enterprise
-2.  Follow the steps to [Set up the Oracle HCM Cloud spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-the-oracle-hcm-spoke.md)
+2.  Follow the steps to [Set up the Oracle HCM Cloud spoke](../../integrate-applications/integration-hub/set-up-the-oracle-hcm-spoke.md)
 
 
 </td></tr></tbody>
 </table>
 ## What to do next
 
-Test the execution of the HR AI Voice agents by calling the telephony number to verify that the agent functions the way you expect. For more information, see [Test a voice assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/test-a-voice-assistant.md).
+Test the execution of the HR AI Voice agents by calling the telephony number to verify that the agent functions the way you expect. For more information, see [Test a voice assistant](../../conversational-interfaces/now-assist-in-virtual-agent/test-a-voice-assistant.md).
 
 Assign roles to admins and users to grant them access to Voice features. See [Components installed with voice](components-installed-voice-agents.md).
 

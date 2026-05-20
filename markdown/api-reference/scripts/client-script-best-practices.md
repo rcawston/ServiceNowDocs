@@ -206,7 +206,7 @@ Adding an order to the client script creates a processing sequence, ordered from
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Client Script** and open an existing client script or click **New**.
 
-2.  [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to include the **Order** field.
+2.  [Configuring the form layout](../../platform-administration/configure-form-layout.md) to include the **Order** field.
 
 3.  Add a number to the order field based on what order you want it to run in relation to other client scripts.
 

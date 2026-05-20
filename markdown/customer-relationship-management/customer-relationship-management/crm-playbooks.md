@@ -71,13 +71,13 @@ Playbooks ensure that the correct process is applied consistently across every r
 **Related topics**  
 
 
-[Playbooks for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/playbooks.md)
+[Playbooks for Field Service Management](../../field-service-management/playbooks.md)
 
-[Playbooks for Financial Services Operations applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/playbooks-fso-apps.md)
+[Playbooks for Financial Services Operations applications](../../financial-services-operations/playbooks-fso-apps.md)
 
-[Playbooks for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/playbooks-psds-exploring.md)
+[Playbooks for Public Sector Digital Services](../../government-industry/playbooks-psds-exploring.md)
 
-[Configuring playbooks for Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-config-playbook.md)
+[Configuring playbooks for Patient Support Services](../../healthcare-life-sciences/pss-config-playbook.md)
 
-[Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-customer-engagement-sequences.md)
+[Customer Engagement Sequences](../../order-management/explore-customer-engagement-sequences.md)
 

@@ -23,11 +23,11 @@ Role required: activity\_admin, activity\_creator
 
 The JDBC activity template allows you to execute ANSI SQL statements or stored procedures on a target database. Support for stored procedures with IN, OUT, and INOUT parameters are available in Australia. To learn how to set up these parameters, see [JDBC stored procedure parameters](t_CreateAJDBCActivity.md#).
 
-**Note:** If you are transferring bulk data into a ServiceNow instance from an external data source, use [Import sets key concepts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/c_ImportSetsKeyConcepts.md). The JDBC activities allow you to transfer data between external data sources and ServiceNow within a workflow. It is not intended to replace the bulk import features of data sources.
+**Note:** If you are transferring bulk data into a ServiceNow instance from an external data source, use [Import sets key concepts](../../integrate-applications/system-import-sets/c_ImportSetsKeyConcepts.md). The JDBC activities allow you to transfer data between external data sources and ServiceNow within a workflow. It is not intended to replace the bulk import features of data sources.
 
 ## Procedure
 
-1.  Create or verify your [JDBC credential](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_JDBCCredentialsForm.md).
+1.  Create or verify your [JDBC credential](../../platform-security/connections-and-credentials/r_JDBCCredentialsForm.md).
 
     Your JDBC credentials must have permission for the target database and proper configuration for the corresponding JDBC connection. Credentials must be set up before you can create a JDBC activity.
 
@@ -35,7 +35,7 @@ The JDBC activity template allows you to execute ANSI SQL statements or stored p
 
     Your JDBC connection must be configured with valid JDBC credentials set up before you can create a JDBC activity.
 
-3.  Create a [custom activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/create-custom-activities.md).
+3.  Create a [custom activity](../../integrate-applications/orchestration/create-custom-activities.md).
 
     This action creates a custom activity using a template.
 
@@ -157,7 +157,7 @@ Role required: activity\_admin, activity\_creator
 
 ### About this task
 
-[JDBC credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_JDBCCredentialsForm.md) [JDBC credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_JDBCCredentialsForm.md) are retrieved separately by the activity designer template and support external credential storage, such as [CyberArk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkCredStorageIntegrate.md).
+[JDBC credentials](../../platform-security/connections-and-credentials/r_JDBCCredentialsForm.md) [JDBC credentials](../../platform-security/connections-and-credentials/r_JDBCCredentialsForm.md) are retrieved separately by the activity designer template and support external credential storage, such as [CyberArk](../../platform-security/connections-and-credentials/c_CyberArkCredStorageIntegrate.md).
 
 ### Procedure
 
@@ -360,7 +360,7 @@ The JDBC driver to use for this connection when it is not a default database. **
 **Related topics**  
 
 
-[JDBC credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_JDBCCredentialsForm.md)
+[JDBC credentials](../../platform-security/connections-and-credentials/r_JDBCCredentialsForm.md)
 
 ## Auto-map JDBC activity output variables
 

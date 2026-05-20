@@ -19,7 +19,7 @@ Create a client extension point that you can place in the UI scripts in the appl
 
 Role required: admin or the specific role for the developer or administrator of the application
 
-**Note:** To learn about application-specific administrator roles and delegated development, see [Access control rules in application administration apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ACL-access-checks.md) and [Delegated development and deployment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/delegated-development-and-deployment/c_DelegatedDevelopment.md).
+**Note:** To learn about application-specific administrator roles and delegated development, see [Access control rules in application administration apps](../../application-development/ACL-access-checks.md) and [Delegated development and deployment](../../application-development/delegated-development-and-deployment/c_DelegatedDevelopment.md).
 
 ## About this task
 
@@ -65,7 +65,7 @@ Application
 
 </td><td>
 
-Application scope against which the extension point is assigned. This is system-assigned and cannot be changed. For more information about the protections that are offered by the use of scoping, see [Application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationScope.md).
+Application scope against which the extension point is assigned. This is system-assigned and cannot be changed. For more information about the protections that are offered by the use of scoping, see [Application scope](../../application-development/c_ApplicationScope.md).
 
 </td></tr><tr><td>
 

@@ -31,7 +31,7 @@ The Create configuration item agentic workflow is particularly useful for adding
 
 **Note:** The workflow helps avoid creation of a CI whose class does not have an identification rule. For more information, see [Identification rules](../configuration-management-database-cmdb/c_IdentificationRules.md).
 
-To learn more about using the Now Assist panel, see [Working in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
+To learn more about using the Now Assist panel, see [Working in the Now Assist panel](../../intelligent-experiences/now-assist-panel-overview.md).
 
 ## Procedure
 

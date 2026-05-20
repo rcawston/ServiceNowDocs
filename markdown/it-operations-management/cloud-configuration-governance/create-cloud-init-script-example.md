@@ -18,7 +18,7 @@ This example shows a cloud script that runs after a user provisions a virtual ma
 ## Before you begin
 
 -   Role required: cloud\_admin
--   OS resource profile that is mapped to an image template. The user provisions a resource using the profile. You must add [basic authentication credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_BasicAuthCredentialsForm.md) to the image.
+-   OS resource profile that is mapped to an image template. The user provisions a resource using the profile. You must add [basic authentication credentials](../../platform-security/connections-and-credentials/r_BasicAuthCredentialsForm.md) to the image.
 -   Compute resource profile that is mapped to a hardware type.
 
 ## About this task

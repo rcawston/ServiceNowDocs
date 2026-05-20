@@ -30,7 +30,7 @@ Role required: sn\_walkup.walkup\_admin or admin
 
 1.  To configure the Walk-up service portal using the **Service Portal** application, navigate to **All** &gt; **Service Portal** &gt; **Service Portal Configuration**.
 
-2.  To customize the base-system walk-up portal with your unique branding, title, logo, theme colors, layout, properties, widgets, and more, or to create a new walk-up portal, refer to [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md) for detailed information.
+2.  To customize the base-system walk-up portal with your unique branding, title, logo, theme colors, layout, properties, widgets, and more, or to create a new walk-up portal, refer to [Service Portal](../../platform-user-interface/service-portal/c_ServicePortal.md) for detailed information.
 
 3.  Alternatively, to configure the Walk-up service portal using the Service Portal Walk-up form, navigate to **All** &gt; **Walk-up Experience** &gt; **Administration** &gt; **Portal Configurations**.
 
@@ -73,7 +73,7 @@ Reasons why a requester needs walk-up support.
 Order in which reasons for a visit should be prioritized at a walk-up location.
 
 </td></tr></tbody>
-</table>    You can modify the form content to meet your portal requirements. For more details, refer to [Form configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/basic-form-administration.md) .
+</table>    You can modify the form content to meet your portal requirements. For more details, refer to [Form configuration](../../platform-administration/basic-form-administration.md) .
 
 
 **Parent Topic:**[Configuring Walk-up Experience](walkup-experience-configuration.md)

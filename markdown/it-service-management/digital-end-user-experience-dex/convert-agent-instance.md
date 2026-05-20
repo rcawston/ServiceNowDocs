@@ -20,11 +20,11 @@ Switch Agent Client Collector \(ACC\) to a different instance.
 Confirm you have installed the Agent Client Collector \(ACC\) and set up the ACC registration key. For information on how to set up and install, see:
 
 -   [Create an ACC registration key](setup-acc.md).
--   [Install the Agent Client Collector on a Windows machine manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-windows.md) or [Manually install Agent Client Collector on macOS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-macOS-manual.md).
+-   [Install the Agent Client Collector on a Windows machine manually](../../it-operations-management/agent-client-collector/acc-install-windows.md) or [Manually install Agent Client Collector on macOS](../../it-operations-management/agent-client-collector/acc-install-macOS-manual.md).
 
 Role required: agent\_admin and agent\_client\_collector\_admin
 
-For more information on roles, see [Agent Client Collector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-users.md).
+For more information on roles, see [Agent Client Collector user roles](../../it-operations-management/agent-client-collector/acc-users.md).
 
 ## About this task
 

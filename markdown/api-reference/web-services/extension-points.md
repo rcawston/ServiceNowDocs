@@ -71,18 +71,18 @@ The term application code refers to:
 
     |Application|Extension point topic|
     |-----------|---------------------|
-    |Coaching|[Resolve Coaching issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-troubleshooting.md)|
-    |Continual Improvement Management|[Improvement with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-integration.md)|
-    |Customer Service Management|[Extension points in Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/extension-points-customer-service.md)|
-    |[Creating custom user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/creating-custom-csm-user-roles.md)|
-    |[CSM integration with Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-sm-change.md)|
-    |[CSM integration with Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-sm-incident.md)|
-    |[CSM integration with Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-sm-problem.md)|
-    |[CSM integration with Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-sm-request.md)|
-    |Field Service Management|[Extension points in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/extension-points-field-service.md)|
-    |Knowledge Management|[Use extension points for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/extension-points-km-plugins.md)|
-    |Orchestration|[Client software distribution extension network](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_CSDExtensionFramework.md) [Installed with client software distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_IWClientSWDist.md)|
-    |Password Reset|[Password Reset script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_InstalledPasswordResetScripts.md)|
+    |Coaching|[Resolve Coaching issues](../../it-service-management/coaching/cf-coaching-troubleshooting.md)|
+    |Continual Improvement Management|[Improvement with other applications](../../it-service-management/continual-improvement-management/cim-integration.md)|
+    |Customer Service Management|[Extension points in Customer Service Management](../../customer-service-management/extension-points-customer-service.md)|
+    |[Creating custom user roles](../../customer-service-management/creating-custom-csm-user-roles.md)|
+    |[CSM integration with Change Management](../../customer-service-management/csm-integration-sm-change.md)|
+    |[CSM integration with Incident Management](../../customer-service-management/csm-integration-sm-incident.md)|
+    |[CSM integration with Problem Management](../../customer-service-management/csm-integration-sm-problem.md)|
+    |[CSM integration with Request Management](../../customer-service-management/csm-integration-sm-request.md)|
+    |Field Service Management|[Extension points in Field Service Management](../../field-service-management/extension-points-field-service.md)|
+    |Knowledge Management|[Use extension points for Knowledge Management](../../servicenow-platform/knowledge-management/extension-points-km-plugins.md)|
+    |Orchestration|[Client software distribution extension network](../../servicenow-platform/orchestration/c_CSDExtensionFramework.md) [Installed with client software distribution](../../servicenow-platform/orchestration/r_IWClientSWDist.md)|
+    |Password Reset|[Password Reset script includes](../../servicenow-platform/password-reset/c_InstalledPasswordResetScripts.md)|
 
 -   **Internally developed custom applications for your enterprise**
 

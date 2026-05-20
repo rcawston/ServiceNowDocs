@@ -25,7 +25,7 @@ Customer service agents can search for information that is related to a case whe
 
 By default, search results include knowledge articles, pinned articles, and solved community questions and blogs. Depending on the configuration, search results can also include other types of information, such as open and resolved cases and problems. With the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\), you can also view similar cases and similar knowledge articles.
 
-Customer service case managers can use the Demand Insights for Cases dashboard to identify which cases have no or insufficient knowledge coverage. For more information, see [Demand Insights for Cases dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/demand-insights-cases-dashboard.md).
+Customer service case managers can use the Demand Insights for Cases dashboard to identify which cases have no or insufficient knowledge coverage. For more information, see [Demand Insights for Cases dashboard](../servicenow-platform/knowledge-management/demand-insights-cases-dashboard.md).
 
 ## Procedure
 

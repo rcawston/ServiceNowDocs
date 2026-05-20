@@ -65,10 +65,10 @@ Configures Simplified IT Service Management using the Now Assist agent. It also 
 
 </td><td>
 
-For each module in the left navigation pane, view the default configurations \(if available\) and modify if necessary. -   Platform setup and integrations. See [Platform module configuration in Now Assist for Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md).
+For each module in the left navigation pane, view the default configurations \(if available\) and modify if necessary. -   Platform setup and integrations. See [Platform module configuration in Now Assist for Setup](../platform-administration/ia-config-platform-il.md).
 -   Employee experience. See [Configuring the employee experience in Simplified IT Service Management](configuring-employee-experience-ai-native-itsm.md).
 -   Fulfiller experience. See [Configuring the fulfiller experience in Simplified IT Service Management](configuring-fulfiller-experience-ai-native-itsm.md).
-For information about configuration page options, see [Understand the Configuration page flow in Now Assist for Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-configure-il.md).
+For information about configuration page options, see [Understand the Configuration page flow in Now Assist for Setup](../platform-administration/ia-configure-il.md).
 
 **Important:** For each configuration, use the guided configuration experience or the conversation AI agent \(if available\). You can use the conversation AI agent by selecting **Configure with Now Assist** on that configuration UI page. For information about AI agents for configurations, see [AI agents and agentic workflows in Simplified IT Service Management](agents-ai-native-it-service-desk.md).
 

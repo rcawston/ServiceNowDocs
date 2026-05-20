@@ -159,7 +159,7 @@ In the Activity stream:-   You can summarize new attachments of type PNG, JPEG o
     -   German
     -   Portuguese
     -   Spanish
-When you use [translate with Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/using-dynamic-translation.md), you can also translate user-generated content live on your instance in additional languages. For more information, see [Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/using-dynamic-translation.md).**Note:**
+When you use [translate with Dynamic Translation](../../platform-administration/dynamic-translation/using-dynamic-translation.md), you can also translate user-generated content live on your instance in additional languages. For more information, see [Dynamic Translation](../../platform-administration/dynamic-translation/using-dynamic-translation.md).**Note:**
 
 -   Attachment summaries aren't available in child incident records and are only supported in the English language.
 -   If you have one or more existing attachments, you must add new attachments to the incident for the existing attachments to be summarized.
@@ -238,7 +238,7 @@ The prompt displays in the Test prompt screen where you can run the test.
 
         -   **Now Assist panel**: When selected, Now Assist skills are available in the Now Assist panel.
 
-            If you don't see this option, you must activate the Now Assist panel. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
+            If you don't see this option, you must activate the Now Assist panel. For more information, see [Activate the Now Assist panel standard chat](../../intelligent-experiences/activate-now-assist-panel.md).
 
             For the skills that appear in the Now Assist panel, select the down arrow to identify the roles that can use the skill.
 

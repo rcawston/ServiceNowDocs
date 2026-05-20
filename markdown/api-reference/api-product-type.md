@@ -763,7 +763,7 @@ Manufacturing Commercial Operations
 
 -   **SOAP**
 
-[Warranty Claims SOAP API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/warranty-claims-SOAP-API.md)
+[Warranty Claims SOAP API](../manufacturing/warranty-claims-SOAP-API.md)
 
 
 </td></tr><tr><td>

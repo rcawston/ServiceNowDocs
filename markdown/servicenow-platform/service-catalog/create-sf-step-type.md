@@ -68,7 +68,7 @@ Use the Service Fulfillment Step \[sc\_service\_fulfillment\_step\] base table. 
     -   All additional columns defined in the extended table should have corresponding variables mapped in the record producer.
     -   Configure the Record Producer form to display the **Allow edit** option and **Save Options** field. Also, select the **Allow edit** option and set the value of the **Save Options** field to **Save in Destination**.
     -   Ensure that the record producer is not restricted for the users with catalog\_builder\_editor role.
-3.  Create a subflow to perform a sequence of actions by copying the Template: Service Fulfillment Steps subflow and then defining your subflow. For information about subflows, see [Subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md).
+3.  Create a subflow to perform a sequence of actions by copying the Template: Service Fulfillment Steps subflow and then defining your subflow. For information about subflows, see [Subflows](../../build-workflows/workflow-studio/subflows.md).
 
 <table id="table_x2q_phd_jpb"><thead><tr><th>
 
@@ -122,7 +122,7 @@ Reference
 Step defined on a catalog item. It must refer to a table in which the record producer defined in the step configuration inserts a record.Do not update the step record.
 
 </td></tr></tbody>
-</table>    For information about subflow field types, see [Field types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md).
+</table>    For information about subflow field types, see [Field types](../../platform-administration/r_FieldTypes.md).
 
 4.  Create a step configuration to define the behavior and display of a service fulfillment step type.
 

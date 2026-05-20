@@ -81,7 +81,7 @@ Enter your message in the text box.
 -   Select an appropriate response template based on the subject of your email.
 -   Select **Apply Template** to use the template.
 
-**Note:** Only response templates configured for the email channel are available to use. For more information, see [Response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/response-templates-templated-snippets.md).
+**Note:** Only response templates configured for the email channel are available to use. For more information, see [Response templates](../../servicenow-platform/response-templates-templated-snippets.md).
 
 </td></tr></tbody>
 </table>9.  Send the email immediately or later, or discard it.

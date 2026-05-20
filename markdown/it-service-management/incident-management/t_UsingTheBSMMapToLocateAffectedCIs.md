@@ -72,5 +72,5 @@ Select the lookup icon \(![The Look up icon](../../itsm-workspace/image/look-up-
 **Related topics**  
 
 
-[Dependency Views map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/c_NextGenBSMMaps.md)
+[Dependency Views map](../../servicenow-platform/dependency-views/c_NextGenBSMMaps.md)
 

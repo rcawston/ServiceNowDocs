@@ -116,5 +116,5 @@ Enter the value.
 
 [Add a document to a contract](t_AddADocumentToAContract.md)
 
-[Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMOverview.md)
+[Software Asset Management](../../it-asset-management/software-asset-management/c_SAMOverview.md)
 

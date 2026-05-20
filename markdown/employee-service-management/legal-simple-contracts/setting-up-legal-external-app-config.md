@@ -23,9 +23,9 @@ The Legal Service Delivery applications use spokes from Integration Hub to integ
 
     The administrator can use the Integration Hub to install and configure the following external storage provider spokes for saving documents attached to legal requests and signed contract documents:
 
-    -   [Box spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/box-spoke.md)
-    -   [Google Drive spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/googledrive-spoke.md)
-    -   [Microsoft OneDrive spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/onedrive-spoke.md)
+    -   [Box spoke](../../integrate-applications/integration-hub/box-spoke.md)
+    -   [Google Drive spoke](../../integrate-applications/integration-hub/googledrive-spoke.md)
+    -   [Microsoft OneDrive spoke](../../integrate-applications/integration-hub/onedrive-spoke.md)
 -   **Configure an external storage provider**
 
     The legal configurator can set up the external storage app integrations for legal apps from **Legal Integrations**. For more information, see [Configure an external storage system for legal requests and legal matters](../legal-request-management/integrate-legal-ext-storage.md).
@@ -37,8 +37,8 @@ The Legal Service Delivery applications use spokes from Integration Hub to integ
 
     The administrator can use the Integration Hub to install and configure the following electronic signature provider spokes for contract documents:
 
-    -   [Adobe Acrobat Sign spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/adobe-sign-spoke.md)
-    -   [Docusign spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/docusign-spoke.md)
+    -   [Adobe Acrobat Sign spoke](../../integrate-applications/integration-hub/adobe-sign-spoke.md)
+    -   [Docusign spoke](../../integrate-applications/integration-hub/docusign-spoke.md)
 -   **Set up the electronic signature provider app**
 
     The legal configurator can set up the electronic signature app integrations for legal apps from **Legal Integrations**. For more information, see [Configure an e-signature provider for legal contracts](integrate-legal-contracts-esign.md).

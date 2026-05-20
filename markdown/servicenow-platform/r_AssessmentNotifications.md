@@ -31,5 +31,5 @@ You can configure any of the following types of notification during the process 
 
 [Create metric types and generate assessable records](t_CreatMetricTypesAndGenAssessRecs.md)
 
-[Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ScheduleEvents.md)
+[Event scheduling](../platform-administration/time-configuration/c_ScheduleEvents.md)
 

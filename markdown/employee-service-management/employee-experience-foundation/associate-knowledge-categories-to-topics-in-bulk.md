@@ -55,5 +55,5 @@ For more information, see [Taxonomy and connected content](track-new-content.md)
 
 [Taxonomy and connected content](track-new-content.md)
 
-[Define a knowledge article category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_DefineAKnowledgeCategory.md)
+[Define a knowledge article category](../../servicenow-platform/knowledge-management/t_DefineAKnowledgeCategory.md)
 

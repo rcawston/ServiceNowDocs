@@ -21,7 +21,7 @@ To access these workflows, navigate to **Workflow** &gt; **Workflow Editor** and
 
 Use this workflow to register IPv4 addresses or request the next available IP address on IPAM. Optionally, you can use it to register IP addresses on DNS. The custom Infoblox activities used in this workflow are:
 
--   [IPAM Register IP Address](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_InfobloxIPAMActivities.md)
+-   [IPAM Register IP Address](../../servicenow-platform/orchestration/c_InfobloxIPAMActivities.md)
 -   [IPAM Reserve IP Address](c_InfobloxIPAMActivities.md#)
 -   [Register DNS A-Record](c_InfobloxDNSActivities.md#)
 -   [Get Network Details](c_InfobloxNetworkActivities.md#)

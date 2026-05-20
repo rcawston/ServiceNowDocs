@@ -66,7 +66,7 @@ Select **View Article**.
 
 </td><td>
 
-From the more options drop-down \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\), select **Retire**. For information about retiring a knowledge article, see [Retire a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/c_RetiredKnowledgeArticles.md).
+From the more options drop-down \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\), select **Retire**. For information about retiring a knowledge article, see [Retire a knowledge article](../../servicenow-platform/knowledge-management/c_RetiredKnowledgeArticles.md).
 
 </td></tr><tr><td id="d128947e147">
 

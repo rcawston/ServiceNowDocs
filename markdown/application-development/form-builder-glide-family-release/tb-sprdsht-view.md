@@ -250,7 +250,7 @@ Type of information that the column contains. For example, to contain plain text
 
  Depending on the type that you select, fill in the additional fields to further define the table column. For example, if you select **String**, define the character limit of the string input. Or, if you select **Choice**, define the choices that users can choose from.
 
- See [Field types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md).
+ See [Field types](../../platform-administration/r_FieldTypes.md).
 
 </td></tr></tbody>
 </table>4.  Select **Advanced settings** to expand it and enter any additional properties for your new field column.
@@ -325,7 +325,7 @@ Role required: personalize\_dictionary or AES user role and delegated developer 
 
 5.  Edit the **Type** for the field column as desired.
 
-    See [Field types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md).
+    See [Field types](../../platform-administration/r_FieldTypes.md).
 
 6.  Select **Duplicate**.
 

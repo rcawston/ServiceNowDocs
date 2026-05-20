@@ -27,7 +27,7 @@ You can create a custom activity that manages files and directories on a target 
 
 ## Procedure
 
-1.  Create a [custom activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/create-custom-activities.md).
+1.  Create a [custom activity](../../integrate-applications/orchestration/create-custom-activities.md).
 
     This action creates a custom activity using a template.
 
@@ -602,7 +602,7 @@ String
 
 </td><td>
 
-[Credential aliases for Orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_AssignCredsOrchActivities.md) used to run the command on the source host.
+[Credential aliases for Orchestration activities](../../platform-security/connections-and-credentials/c_AssignCredsOrchActivities.md) used to run the command on the source host.
 
 </td></tr><tr><td>
 
@@ -875,7 +875,7 @@ Credential tag for source
 
 </td><td>
 
-Specific [Credential aliases for Orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_AssignCredsOrchActivities.md) this activity must use to run SFTP commands on the source host.
+Specific [Credential aliases for Orchestration activities](../../platform-security/connections-and-credentials/c_AssignCredsOrchActivities.md) this activity must use to run SFTP commands on the source host.
 
 </td><td>
 

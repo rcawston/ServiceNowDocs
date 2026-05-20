@@ -63,5 +63,5 @@ Several types of components are installed with activation of the Templated Respo
 **Related topics**  
 
 
-[List of plugins \(Madrid\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
+[List of plugins \(Madrid\)](../platform-administration/list-of-plugins.md)
 

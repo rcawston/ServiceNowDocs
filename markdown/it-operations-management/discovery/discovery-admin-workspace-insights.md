@@ -26,7 +26,7 @@ You can access the following information through the Insights page:
 -   [Oracle Global License Advisory Services \(GLAS\) data collection using patterns](../discovery-and-service-mapping-patterns/oracle-glas-discovery.md)
 -   [Kubernetes Explorer](../cloud-discovery-workspace/cloud-operations-workspace-kubernetes-dashboard.md)
 -   [Nutanix Dashboard](../discovery-and-service-mapping-patterns/nutanix-pattern.md)
--   [MID Server dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerDashboard.md)
+-   [MID Server dashboard](../../servicenow-platform/mid-server/c_MIDServerDashboard.md)
 -   [Agent Health dashboard](../service-operations-workspace-for-itom-apps/agent-health-dashboard.md)
 -   [Missing compute resources from Discovery](discover-missing-compute-resources.md)
 -   [Shazzam Insights](shazzam-insights.md)

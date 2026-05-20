@@ -49,7 +49,7 @@ Security Posture Control supports ServiceNow products such as Software Asset Man
 
 For more information about downloading, configuring, and activating supported applications for service graph connectors, see the following topics:
 
--   [Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md).
+-   [Service Graph Connectors](../servicenow-platform/service-graph-connectors/cmdb-sgc-available.md).
 -   [Download an application from the ServiceNow Store for the first time](download-app-first-time.md).
 -   [Activate a ServiceNow Store application](activate-entitled-store-app.md).
 

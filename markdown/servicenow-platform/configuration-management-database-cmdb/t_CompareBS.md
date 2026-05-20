@@ -139,5 +139,5 @@ You cannot set the lower limit on your history range to a time before this servi
 
 [View the change history of application services in classic Service Mapping](t_ViewCIChanges.md)
 
-[Compare versions of CI configuration files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/compare-configuration-files.md)
+[Compare versions of CI configuration files](../../it-operations-management/discovery/compare-configuration-files.md)
 

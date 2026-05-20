@@ -75,7 +75,7 @@ Role required: admin
 **Related topics**  
 
 
-[Mobile Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-config-navigation.md)
+[Mobile Platform](../../mobile/mobile-config-navigation.md)
 
 [Completing work on the ServiceNow Agent mobile application](../work-order-management/Use-mobile-app-fsm.md)
 

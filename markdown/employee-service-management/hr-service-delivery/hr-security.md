@@ -34,12 +34,12 @@ The **Scoped Application Restricted Caller Access \[com.glide.scope.access.restr
     This setting is recommended for the production phase after development is complete.
 
 
-To define cross-scope access to an application resource, refer to [Define cross-scope access to an application resource](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/set-RCA-level.md).
+To define cross-scope access to an application resource, refer to [Define cross-scope access to an application resource](../../application-development/set-RCA-level.md).
 
 **Related topics**  
 
 
-[Set the application scope, application resources, and event access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/scope-resource-access.md)
+[Set the application scope, application resources, and event access](../../application-development/scope-resource-access.md)
 
 ## Encryption for HR and Employee Document Management
 
@@ -51,12 +51,12 @@ A cryptographic manager configures the fields or applications that are to be enc
 
 -   **Note:** Ensure the **Application** field has Employee Document Management selected.
 
--   From the module access policy, set the role for encryption access. Specify the role to the user adding employee documents. Users with this role can access encrypted documents. See [Create a module access policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-module-access-policy.md).
--   Employees can view their own documents when HR Service Delivery is licensed, activated, and the document type allows employee access. The role specified in the encryption module is not required for employees to view their own documents that are encrypted. [Define policies for a document type](../employee-document-management/hr-doc-management-config.md#) To configure the field or attachment for encryption, see [Encrypting fields and attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption-key-management.md).
+-   From the module access policy, set the role for encryption access. Specify the role to the user adding employee documents. Users with this role can access encrypted documents. See [Create a module access policy](../../platform-security/platform-encryption/create-module-access-policy.md).
+-   Employees can view their own documents when HR Service Delivery is licensed, activated, and the document type allows employee access. The role specified in the encryption module is not required for employees to view their own documents that are encrypted. [Define policies for a document type](../employee-document-management/hr-doc-management-config.md#) To configure the field or attachment for encryption, see [Encrypting fields and attachments](../../platform-security/field-encryption-key-management.md).
 
 **Note:** Documents that were previously encrypted using encryption contexts have the same access using encryption modules in Australia.
 
-For details on Field Encryption see, [Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption.md).
+For details on Field Encryption see, [Field Encryption](../../platform-security/field-encryption.md).
 
 ## Edge Encryption for HR and Employee Document Management
 
@@ -64,19 +64,19 @@ HR Service Delivery and Employee Document Management provides edge encryption to
 
 Edge encryption provides you with direct control over your data security. Encryption and key management are performed on your intranet between your browser and your ServiceNow instance.
 
-See [Understanding Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EdgeEncryptionOverview.md).
+See [Understanding Edge Encryption](../../platform-security/edge-encryption/c_EdgeEncryptionOverview.md).
 
 Because edge encryption is enabled on a proxy server on your side of the network, there is significant planning, network administration and management, and setup required.
 
-See [Planning for Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EdgeEncryptionPlanning.md).
+See [Planning for Edge Encryption](../../platform-security/edge-encryption/c_EdgeEncryptionPlanning.md).
 
-To install edge encryption, see [Edge Encryption installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_InstallEdgeEncryptionProxy.md).
+To install edge encryption, see [Edge Encryption installation](../../platform-security/edge-encryption/c_InstallEdgeEncryptionProxy.md).
 
-To configure edge encryption, see [Edge Encryption configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md).
+To configure edge encryption, see [Edge Encryption configuration](../../platform-security/edge-encryption/edge-config.md).
 
 ### Edge encryption for HR
 
-You can encrypt columns \(fields\) or attachments associated with an HR table. See [Encrypt fields using encryption configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_ConfigureCloudEdge.md).
+You can encrypt columns \(fields\) or attachments associated with an HR table. See [Encrypt fields using encryption configurations](../../platform-security/edge-encryption/c_ConfigureCloudEdge.md).
 
-**Note:** There are limitations when using edge encryption. See [Edge Encryption limitations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption-limitations.md).
+**Note:** There are limitations when using edge encryption. See [Edge Encryption limitations](../../platform-security/edge-encryption/edge-encryption-limitations.md).
 

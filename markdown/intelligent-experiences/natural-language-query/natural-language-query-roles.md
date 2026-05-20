@@ -15,7 +15,7 @@ breadcrumb: [Natural Language Query References, Natural Language Query, Enable A
 
 Natural Language Query \(NLQ\) is installed with these roles.
 
-To learn more about managing per-user subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing per-user subscriptions, see [Managing per-user subscriptions in Subscription Management](../../platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 **Parent Topic:**[Natural Language Query References](nlq-references.md)
 
@@ -32,7 +32,7 @@ The administrator for Natural Language Query.
 
 Has full access to the following modules:
 
--   NLQ Cmdb Implicit Relationships. For more information see [Intelligent Search for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/intelligent-search-cmdb.md).
+-   NLQ Cmdb Implicit Relationships. For more information see [Intelligent Search for CMDB](../../servicenow-platform/configuration-management-database-cmdb/intelligent-search-cmdb.md).
 -   [NLQ Query Logs](view-nlq-logs.md)
 -   [NLQ Semantic Shortcuts](create-nlq-shortcut.md).
 -   [NLQ Synonyms](create-nlq-synonym.md).

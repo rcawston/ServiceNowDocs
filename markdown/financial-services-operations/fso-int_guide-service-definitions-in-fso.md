@@ -40,7 +40,7 @@ The following are the main components needed to create a service definition:
 **Related topics**  
 
 
-[Service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md)
+[Service definitions](../customer-service-management/csm-service-definitions.md)
 
 [Configure service definitions](configure-service-definitions.md)
 

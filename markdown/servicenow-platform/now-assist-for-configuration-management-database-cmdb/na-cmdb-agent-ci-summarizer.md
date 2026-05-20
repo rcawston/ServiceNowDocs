@@ -23,7 +23,7 @@ Role required: sn\_cmdb\_user
 
 This procedure describes how you can manually access the skill. In addition, any agentic workflow can use the skill.
 
-When a Now Assist skill is enabled, the Now Assist icon ![](../../../administer/virtual-agent/images/icon-now-assist-sparkle.png) appears in the toolbar of the workspace. For more information, see [Working in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
+When a Now Assist skill is enabled, the Now Assist icon ![](../../../administer/virtual-agent/images/icon-now-assist-sparkle.png) appears in the toolbar of the workspace. For more information, see [Working in the Now Assist panel](../../intelligent-experiences/now-assist-panel-overview.md).
 
 ## Procedure
 

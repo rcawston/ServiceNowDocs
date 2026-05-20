@@ -172,7 +172,7 @@ Once the request is returned as an XMLContent object, you can use the [XML APIs]
 
 Specifies that the value of the element is an encoded query on the specified table.
 
-Calling this function on a parameter tells the proxy that the value of the parameter is an [Encoded query strings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_EncodedQueryStrings.md) for the specified table. The proxy parses the encoded query and encrypts the fields in the encoded query that must be encrypted.
+Calling this function on a parameter tells the proxy that the value of the parameter is an [Encoded query strings](../../platform-user-interface/c_EncodedQueryStrings.md) for the specified table. The proxy parses the encoded query and encrypts the fields in the encoded query that must be encrypted.
 
 |Name|Type|Description|
 |----|----|-----------|

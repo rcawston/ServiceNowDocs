@@ -85,15 +85,15 @@ Use Workspace Builder and UI Builder to further enhance experiences in your appl
 
 </td><td>
 
-Use Decision Builder to easily manage business logic for your application.-   [Create decision tables in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-decision-table-in-decision-designer.md)
--   [Manage decision tables in Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/manage-decision-tables-ms-excel.md)
--   [Modify decision table structure in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/format-decision-table-in-decision-designer.md)
--   [Modify decision table rules in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/modify-decision-table-rules.md)
+Use Decision Builder to easily manage business logic for your application.-   [Create decision tables in Workflow Studio](../../build-workflows/workflow-studio/create-decision-table-in-decision-designer.md)
+-   [Manage decision tables in Excel](../../build-workflows/workflow-studio/manage-decision-tables-ms-excel.md)
+-   [Modify decision table structure in Workflow Studio](../../build-workflows/workflow-studio/format-decision-table-in-decision-designer.md)
+-   [Modify decision table rules in Workflow Studio](../../build-workflows/workflow-studio/modify-decision-table-rules.md)
 
 </td><td>
 
 Configure and manage roles for your organization and application using the ServiceNow AI Platform and App Engine Management Center.-   [Configure AES personas and roles](aes-personas-roles.md)
--   [Configure users and groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-users-groups.md)
+-   [Configure users and groups](../../customer-service-management/configure-csm-users-groups.md)
 -   [Add users to the App Engine Admin group](add-users-to-admin-grp.md)
 -   [Delegate developers using AES](aes-app-dev-workflow.md)
 -   [Managing developers using AEMC](../app-engine-management-center/manage-developers-using-aemc.md)

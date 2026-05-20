@@ -445,5 +445,5 @@ SampleVerificationFormProcessor.prototype = {
 **Related topics**  
 
 
-[Extension points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md)
+[Extension points](../../api-reference/web-services/extension-points.md)
 

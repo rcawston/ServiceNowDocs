@@ -46,11 +46,11 @@ Optionally, set up one or more additional request task management configurations
 **Related topics**  
 
 
-[Change the location of a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ChangeTheLocationOfARequest.md)
+[Change the location of a request](../../service-management-for-the-enterprise/t_ChangeTheLocationOfARequest.md)
 
-[Request approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_RequestApprovals.md)
+[Request approvals](../../service-management-for-the-enterprise/c_RequestApprovals.md)
 
-[Collaborate on a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CollaborateOnARequest.md)
+[Collaborate on a request](../../service-management-for-the-enterprise/t_CollaborateOnARequest.md)
 
-[Close a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CloseARequest.md)
+[Close a request](../../service-management-for-the-enterprise/t_CloseARequest.md)
 

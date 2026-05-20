@@ -21,7 +21,7 @@ To ensure secure and reliable communications, the Discovery process communicates
 
 ## Detailed instructions
 
-[Google Cloud Platform Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/google-gcp-discovery-pattern.md)
+[Google Cloud Platform Discovery](../../it-operations-management/discovery/google-gcp-discovery-pattern.md)
 
 ## MID Server settings for Cloud Cost Management
 
@@ -73,9 +73,9 @@ You can use a proxy server for the Cloud Cost Management MID Server. See [Proxy 
 **Related topics**  
 
 
-[MID Servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConfiguration.md)
+[MID Servers](../../servicenow-platform/mid-server/c_MIDServerConfiguration.md)
 
-[Install a MID Server on Windows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-install-prereqs.md)
+[Install a MID Server on Windows](../../servicenow-platform/mid-server/mid-server-install-prereqs.md)
 
-[Install a MID Server on Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_InstallAMIDServerOnLinux.md)
+[Install a MID Server on Linux](../../servicenow-platform/mid-server/t_InstallAMIDServerOnLinux.md)
 

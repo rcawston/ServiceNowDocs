@@ -49,7 +49,7 @@ Create the asset before they're delivered so that you can create the asset recor
 
 [Domain separation and Procurement](domain-separation-procurement.md)
 
-[Manage transfer orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/c_TransferOrders.md)
+[Manage transfer orders](../../field-service-management/work-order-management/c_TransferOrders.md)
 
-[Create a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateAGroup.md)
+[Create a group](../../platform-administration/user-administration/t_CreateAGroup.md)
 

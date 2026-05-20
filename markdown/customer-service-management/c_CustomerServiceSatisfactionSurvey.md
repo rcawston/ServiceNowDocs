@@ -26,7 +26,7 @@ You can also design your own survey using the survey designer tool. After design
 **Related topics**  
 
 
-[Assessments and Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessments-surveys-landing-page.md)
+[Assessments and Surveys](../servicenow-platform/assessments-surveys-landing-page.md)
 
 [Service Manager dashboard](analytics-and-reporting-solutions-for-customer-service/customer-service-dashboard.md)
 

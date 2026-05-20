@@ -116,7 +116,7 @@ Core UI dashboard backgrounds are not themeable with custom colors.
 </td></tr></tbody>
 </table>5.  Add content blocks to divide the content of the dashboard or to provide other content.
 
-    From the **Add Widgets** list, select Content Blocks. For information about static content blocks, see [Configure a static HTML block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_StaticHTMLBlock.md).
+    From the **Add Widgets** list, select Content Blocks. For information about static content blocks, see [Configure a static HTML block](../../platform-user-interface/content-management-system/t_StaticHTMLBlock.md).
 
 
 **Parent Topic:**[Edit a responsive dashboard](t_EditADashboard.md)

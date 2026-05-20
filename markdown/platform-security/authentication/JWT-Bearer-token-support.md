@@ -41,7 +41,7 @@ The following tasks show how ServiceNow can be set up to use JWTs for OAuth 2.0 
 
     Create a third-party OAuth provider with a JWT Bearer as the default grant type in the ServiceNow Application Registry.
 
-5.  [Specify an OAuth profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_SpecifyAnOAuthProfile.md)
+5.  [Specify an OAuth profile](../../api-reference/web-services/t_SpecifyAnOAuthProfile.md)
 
     Open the OAuth entity profile of the OAuth provider and assign a JWT provider.
 

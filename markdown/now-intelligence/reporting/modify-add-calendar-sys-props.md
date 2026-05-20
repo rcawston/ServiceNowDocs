@@ -168,7 +168,7 @@ Role required: admin
 
 2.  Add the **glide.db.week\_numbering** system property.
 
-    For more information, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
+    For more information, see [Add a system property](../../platform-administration/r_AvailableSystemProperties.md).
 
 3.  Set one of the following string values.
 
@@ -261,5 +261,5 @@ Enter the desired value for the number of records retained by the platform. The 
 **Related topics**  
 
 
-[Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md)
+[Add a system property](../../platform-administration/r_AvailableSystemProperties.md)
 

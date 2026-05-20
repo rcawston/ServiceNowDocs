@@ -137,5 +137,5 @@ Severe
 
 [Personalize the Digital Portfolio Management Workspace home page](dpm-personalize-homepage.md)
 
-[List of workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/list-of-workspaces.md)
+[List of workspaces](../../platform-user-interface/list-of-workspaces.md)
 

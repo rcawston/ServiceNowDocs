@@ -26,5 +26,5 @@ To learn more about IP Discovery, see [Schedule a horizontal discovery](t_Create
 **Related topics**  
 
 
-[Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/quick-start-tests.md)
+[Quick start tests](../../application-development/automated-test-framework-atf/quick-start-tests.md)
 

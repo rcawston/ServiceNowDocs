@@ -33,7 +33,7 @@ Set up trigger conditions to enable the messaging functionality for an applicant
 
 4.  Add conditions to enable the messaging functionality for the applicants.
 
-    For a description of the field values, see [Configure the standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-st-page.md).
+    For a description of the field values, see [Configure the standard ticket page](../../platform-user-interface/service-portal/configure-st-page.md).
 
 
 **Parent Topic:**[Configuring Applicant Center](config-applicant-center.md)

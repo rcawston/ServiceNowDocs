@@ -34,5 +34,5 @@ When creating a new Notify workflow activity, follow these design principles.
 **Related topics**  
 
 
-[NotifyAction - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_NotifyActionApi.md)
+[NotifyAction - Global](../../api-reference/server-api-reference/c_NotifyActionApi.md)
 

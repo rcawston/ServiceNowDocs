@@ -92,5 +92,5 @@ Receive guidance on managing the Discovery process and resolving Discovery error
 **Important:**
 
 -   To view the resources in this section, confirm that you have installed ITOM Content Service version 1.2.8.
--   If you encounter an **Error 153: Video player configuration error** message when attempting to play a video on the **Videos** tab, update the system property **com.glide.security.referrerpolicy** to **origin-when-cross-origin**. For more information, see [Enforce secure referrer policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-secure-referrer-policy.md).
+-   If you encounter an **Error 153: Video player configuration error** message when attempting to play a video on the **Videos** tab, update the system property **com.glide.security.referrerpolicy** to **origin-when-cross-origin**. For more information, see [Enforce secure referrer policy](../../platform-security/instance-security-hardening-settings/sc-enforce-secure-referrer-policy.md).
 

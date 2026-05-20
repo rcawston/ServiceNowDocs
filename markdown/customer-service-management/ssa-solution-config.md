@@ -21,7 +21,7 @@ A ServiceNow AI Platform administrator must have installed the content pack plug
 
 ## Procedure
 
-1.  Run all diagnostics on all records, as described in [Performance Analytics diagnostics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/self-diagnostics.md).
+1.  Run all diagnostics on all records, as described in [Performance Analytics diagnostics](../now-intelligence/performance-analytics/self-diagnostics.md).
 
     These diagnostics can catch mismatches between the configuration of your Platform Analytics Solutions and your tables.
 
@@ -71,5 +71,5 @@ A ServiceNow AI Platform administrator must have installed the content pack plug
 
 [Platform Analytics Solutions for Self-Service Analytics for Customer Service](analytics-and-reporting-solutions-for-customer-service/ssa-cs-content-pack.md)
 
-[Self-Service Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/self-service-analytics.md)
+[Self-Service Analytics](../servicenow-platform/knowledge-management/self-service-analytics.md)
 

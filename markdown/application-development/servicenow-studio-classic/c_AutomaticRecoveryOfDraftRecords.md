@@ -61,5 +61,5 @@ Administrators can configure how the Studio handles the recovery of draft record
 **Related topics**  
 
 
-[User preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UserPreferences.md)
+[User preferences](../../platform-user-interface/c_UserPreferences.md)
 

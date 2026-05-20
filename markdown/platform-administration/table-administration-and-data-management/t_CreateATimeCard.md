@@ -23,7 +23,7 @@ Role required: timecard\_user
 
 Starting Australia release, users can select a resource assignment to associate it with time cards to calculate the actual efforts and tag them to the respective projects.
 
-The **Allow time card reporting on** field on the [project form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProject.md) determines the level at which the time cards for the project tasks can be created.
+The **Allow time card reporting on** field on the [project form](../../it-business-management/project-management/t_CreateAProject.md) determines the level at which the time cards for the project tasks can be created.
 
 **Note:** Time Cards created from Project form do not populate Resource plans automatically to avoid random allocations. For more information, see [KB0814884](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0814884) article in the Now Support Knowledge Base.
 
@@ -216,5 +216,5 @@ As an admin, you can configure a scheduled job to generate time cards automatica
 **Related topics**  
 
 
-[Map a time card category with operational work types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/map-time-card-category.md)
+[Map a time card category with operational work types](../../it-business-management/time-card-management/map-time-card-category.md)
 

@@ -43,13 +43,13 @@ For more information about cloud provider setup and permissions, see [Discovery 
     |Credential type|Description|
     |---------------|-----------|
     |[Alibaba Cloud API](discovery/create-alibaba-cloud-api-credentials.md)|API credentials for discovering Alibaba Cloud resources. Requires an AccessKey ID and AccessKey secret from the Alibaba Cloud Console.|
-    |[AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_CloudManagementCredentialsForm.md)|Credentials for discovering Amazon Web Services cloud resources.|
+    |[AWS](../platform-security/connections-and-credentials/r_CloudManagementCredentialsForm.md)|Credentials for discovering Amazon Web Services cloud resources.|
     |[AWS SSM Instance User](discovery/configure-custom-user-credentials.md)|User credentials for AWS Systems Manager \(SSM\) Agent discovery on EC2 instances. Requires only a user name for the alternate user credential configured on the EC2 instance.|
-    |[Azure Enterprise Agreement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_CloudManagementCredentialsForm.md)|Credentials for Azure Enterprise Agreement enrollments.|
+    |[Azure Enterprise Agreement](../platform-security/connections-and-credentials/r_CloudManagementCredentialsForm.md)|Credentials for Azure Enterprise Agreement enrollments.|
     |Azure SAS|Credentials that use a shared access signature token for Azure storage access.|
-    |[Azure Service Principal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_CloudManagementCredentialsForm.md)|Service principal credentials for Azure cloud discovery. Requires a tenant ID, client ID, and secret key from the Azure portal.|
+    |[Azure Service Principal](../platform-security/connections-and-credentials/r_CloudManagementCredentialsForm.md)|Service principal credentials for Azure cloud discovery. Requires a tenant ID, client ID, and secret key from the Azure portal.|
     |[Azure SSH Certificate](discovery/azure-cloud-disc-ssh.md)|SSH certificate credentials for discovering Azure Linux virtual machines. Requires a linked Azure Service Principal credential.|
-    |[Cloud Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_CloudManagementCredentialsForm.md)|General credentials for cloud management operations.|
+    |[Cloud Management](../platform-security/connections-and-credentials/r_CloudManagementCredentialsForm.md)|General credentials for cloud management operations.|
     |[CloudFoundry](discovery-and-service-mapping-patterns/pivotal-cloud-foundry.md)|Credentials for Cloud Foundry environments.|
     |[Google API](google-api-credentials-form.md)|API credentials for Google Cloud services.|
     |Google Cloud|Credentials for discovering Google Cloud Platform resources.|
@@ -124,5 +124,5 @@ Enter the sequence in which Discovery tries this credential when it attempts to 
 **Related topics**  
 
 
-[Get started with credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-getting-started.md)
+[Get started with credentials](../platform-security/connections-and-credentials/credentials-getting-started.md)
 

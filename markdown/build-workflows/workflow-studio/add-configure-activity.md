@@ -148,7 +148,7 @@ For more information, see [Configure restart for Playbooks](enable-define-restar
 
 4.  Under the **Inputs** section, define the values of the activity's inputs.
 
-    Configure inputs with a hardcoded value, or by [dot-walking to a data pill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DotWalking.md) \(![Data pill picker icon](../images/data-pill-picker-icon.png)\) to use data from previous activities, the playbook trigger, from the playbook parent table, or from the playbook inputs.
+    Configure inputs with a hardcoded value, or by [dot-walking to a data pill](../../platform-user-interface/c_DotWalking.md) \(![Data pill picker icon](../images/data-pill-picker-icon.png)\) to use data from previous activities, the playbook trigger, from the playbook parent table, or from the playbook inputs.
 
     **Tip:** You can use both text and multiple pills in any other rich text or HTML input fields.
 

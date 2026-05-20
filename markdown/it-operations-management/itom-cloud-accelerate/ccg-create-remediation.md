@@ -69,7 +69,7 @@ Requires approval
 
 </td><td>
 
-Option to enforce approval for the remediation action. For more information on approvals, see [Approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/approvals/r_Approvals.md).
+Option to enforce approval for the remediation action. For more information on approvals, see [Approvals](../../build-workflows/approvals/r_Approvals.md).
 
 </td></tr><tr><td>
 

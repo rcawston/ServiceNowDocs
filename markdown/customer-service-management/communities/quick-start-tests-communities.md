@@ -51,5 +51,5 @@ Communities quick start tests require activating the Customer Communities plugin
 
 [Topic form fields](topic-form-fields.md)
 
-[Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/quick-start-tests.md)
+[Quick start tests](../../application-development/automated-test-framework-atf/quick-start-tests.md)
 

@@ -157,7 +157,7 @@ Select the physical address of your location.
 
 </td><td>
 
-Click to add an image of your location. For example, the image of the city or building where the walk-up location is located.Image types include .gif, .jpg/.jpeg, or .png. For more information, see [Image field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_UsingImageFields.md).
+Click to add an image of your location. For example, the image of the city or building where the walk-up location is located.Image types include .gif, .jpg/.jpeg, or .png. For more information, see [Image field type](../../platform-administration/t_UsingImageFields.md).
 
 </td></tr><tr><td id="d269165e270">
 

@@ -32,7 +32,7 @@ There are several ways to configure the Walk-up service portal:
 
     The Service Portal configuration page opens.
 
-2.  To customize the base-system walk-up portal with your unique branding, title, logo, theme colors, layout, properties, widgets, and more, or to create a new walk-up portal, refer to [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md) for detailed information.
+2.  To customize the base-system walk-up portal with your unique branding, title, logo, theme colors, layout, properties, widgets, and more, or to create a new walk-up portal, refer to [Service Portal](../../platform-user-interface/service-portal/c_ServicePortal.md) for detailed information.
 
 3.  Alternatively, to configure the Walk-up service portal using the Service Portal Walk-up form, navigate to **CSM Walk-up Experience** &gt; **Administration** &gt; **Portal Configurations**.
 
@@ -79,6 +79,6 @@ Define various common reasons why a user needs walk-up support.
 Specify the order in which reasons for a visit should be prioritized at a walk-up location.
 
 </td></tr></tbody>
-</table>    To modify form content to meet your portal requirements, refer to [Form configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/basic-form-administration.md) for detailed information.
+</table>    To modify form content to meet your portal requirements, refer to [Form configuration](../../platform-administration/basic-form-administration.md) for detailed information.
 
 

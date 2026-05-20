@@ -134,5 +134,5 @@ Verification provided by the recipient when a signature is required. This value 
 
 [Generate a scheduled assessment manually](t_GenSchedAssessmentManually.md)
 
-[Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ScheduleEvents.md)
+[Event scheduling](../platform-administration/time-configuration/c_ScheduleEvents.md)
 

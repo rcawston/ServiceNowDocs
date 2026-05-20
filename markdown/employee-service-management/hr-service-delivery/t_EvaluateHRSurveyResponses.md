@@ -46,7 +46,7 @@ Role required: sn\_hr\_core.manager, or sn\_hr\_core.admin
 
 [HR surveys](c_HRSurveysIst.md)
 
-[Survey responses and results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyResults.md)
+[Survey responses and results](../../servicenow-platform/c_SurveyResults.md)
 
-[View a survey scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)
+[View a survey scorecard](../../servicenow-platform/t_ViewAScorecard.md)
 

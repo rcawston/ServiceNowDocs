@@ -31,7 +31,7 @@ To activate Predictive Intelligence for Incident, request the Predictive Intelli
 
 [Predictive Intelligence for Change Management](change-management/change-mgmt-intelligent-solutions.md)
 
-[Task Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/task-intelligence.md)
+[Task Intelligence](../intelligent-experiences/task-intelligence/task-intelligence.md)
 
 [Task Intelligence for ITSM](task-intelligence-for-itsm/c-itsm-task-intelligence.md)
 

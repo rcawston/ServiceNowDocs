@@ -86,5 +86,5 @@ Role required: admin or survey\_admin
 
 [Schedule periods](c_SchedulePeriods.md)
 
-[Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ScheduleEvents.md)
+[Event scheduling](../platform-administration/time-configuration/c_ScheduleEvents.md)
 

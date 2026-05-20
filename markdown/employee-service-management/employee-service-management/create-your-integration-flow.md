@@ -14,7 +14,7 @@ Create the integration flow with your preferred ATS to send job requisition data
 
 ## Use Integration Hub
 
-Use the Integration Hub to integrate Hiring Experiences with your preferred ATS. For more information, see [Integration Hub spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/spokes-list.md).
+Use the Integration Hub to integrate Hiring Experiences with your preferred ATS. For more information, see [Integration Hub spokes](../../integrate-applications/integration-hub/spokes-list.md).
 
 ## Supporting actions
 
@@ -24,7 +24,7 @@ Create the supporting actions after the integration is done to establish a chann
 
 You can export the list of job requisitions from the Job Requisition \[sn\_ta\_hiring\_core\_job\_requisition\] table and imported the data to an ATS manually.
 
-For more information, see [Exporting data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ExportData.md).
+For more information, see [Exporting data](../../platform-administration/table-administration-and-data-management/c_ExportData.md).
 
 **Parent Topic:**[Send job requisitions to the ATS](send-a-job-requisition-to-the-ats.md)
 

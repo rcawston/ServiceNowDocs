@@ -68,14 +68,14 @@ In your flow, select the action description, fill in the fields as desired, and 
 In your flow, select the plus icon in the ACTION section, then proceed as you would for adding an action to a new flow.
 
 </td></tr></tbody>
-</table>    For more information on editing flows, see [Edit a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-edit.md).
+</table>    For more information on editing flows, see [Edit a flow](../../build-workflows/workflow-studio/flow-edit.md).
 
 5.  To save your changes, select **Save**.
 
 
 ## What to do next
 
-Test a flow to make certain it works the way you expect. For more information on testing flows, see [Test a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-test.md).
+Test a flow to make certain it works the way you expect. For more information on testing flows, see [Test a flow](../../build-workflows/workflow-studio/flow-test.md).
 
 **Parent Topic:**[Add a flow from scratch](create-scratch-flow.md)
 

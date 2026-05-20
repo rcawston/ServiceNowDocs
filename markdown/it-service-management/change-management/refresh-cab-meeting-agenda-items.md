@@ -131,5 +131,5 @@ Check box to mark each pre-approved change request as **Complete** in the CAB me
 **Related topics**  
 
 
-[OR conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingORConditions.md)
+[OR conditions](../../platform-user-interface/c_UsingORConditions.md)
 

@@ -23,7 +23,7 @@ Ensure you have an admin role or permission from the dashboard owner to edit the
 
 ## About this task
 
-If you have the appropriate role, you can add and edit funnel reports on a dashboard. The **Edit** button is not available on the ITOM dashboards unless the user has rights to edit it. For more details on creating dashboards, see [Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md).
+If you have the appropriate role, you can add and edit funnel reports on a dashboard. The **Edit** button is not available on the ITOM dashboards unless the user has rights to edit it. For more details on creating dashboards, see [Common dashboard tasks in the in-line editor](../../now-intelligence/common-dashboard-tasks.md).
 
 ## Procedure
 

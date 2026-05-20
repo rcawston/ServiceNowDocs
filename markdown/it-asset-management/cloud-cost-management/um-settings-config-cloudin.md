@@ -101,7 +101,7 @@ Notify users / Notify groups
 
 Users or groups to notify by email when the spend for unused resources exceeds the specified percentage of overall cloud spend.
 
- For information on configuring the email, see [Create an email template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnEmailTemplate.md).
+ For information on configuring the email, see [Create an email template](../../platform-administration/t_CreateAnEmailTemplate.md).
 
 </td></tr><tr class="sub-head"><td>
 
@@ -148,5 +148,5 @@ This field appears only when the **Advanced** check box is selected.
 **Related topics**  
 
 
-[Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ITILChangeManagement.md)
+[Change Management](../../it-service-management/change-management/c_ITILChangeManagement.md)
 

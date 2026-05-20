@@ -312,7 +312,7 @@ Vendor catalog items associated with this item. Vendor catalog items allow you t
 
 [Create a vendor catalog item](t_CreateAVendorCatalogItem.md)
 
-[Create an execution plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAnExecutionPlan.md)
+[Create an execution plan](../../servicenow-platform/service-catalog/t_CreateAnExecutionPlan.md)
 
-[Service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogVariables.md)
+[Service catalog variables](../../servicenow-platform/service-catalog/c_ServiceCatalogVariables.md)
 

@@ -39,5 +39,5 @@ The email entry field is hidden. Users can select users from the reference field
 **Related topics**  
 
 
-[Altering tables and fields using dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryAttributes.md)
+[Altering tables and fields using dictionary attributes](../platform-administration/table-administration-and-data-management/c_DictionaryAttributes.md)
 

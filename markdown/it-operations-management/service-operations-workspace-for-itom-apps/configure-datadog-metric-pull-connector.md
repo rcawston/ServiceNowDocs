@@ -19,7 +19,7 @@ Configure OAuth-based integration between your Datadog instance and ServiceNow E
 
 Role required: evt\_mgmt\_admin
 
-Configure the Datadog API Key credential from **All** &gt; **Connections and Credentials** &gt; **Credentials**. For more information on how to configure Datadog API Key credential, see [API key credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/API-key-credential-form.md).
+Configure the Datadog API Key credential from **All** &gt; **Connections and Credentials** &gt; **Credentials**. For more information on how to configure Datadog API Key credential, see [API key credentials](../../platform-security/connections-and-credentials/API-key-credential-form.md).
 
 Ensure you have the application key configured in the Datadog. For more information, see [https://docs.datadoghq.com/account\_management/api-app-keys/](https://docs.datadoghq.com/account_management/api-app-keys/).
 

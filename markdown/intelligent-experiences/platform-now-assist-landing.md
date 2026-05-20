@@ -78,21 +78,21 @@ The Technology workflow includes IT applications, such as IT services and operat
 
 </td><td>
 
--   [Now Assist for Collaborative Work Management \(CWM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/now-assist-for-cwm-landing.md)
--   [Now Assist for Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-landing-cmdb.md)
--   [Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-portfolio-management/now-assist-ea.md)
--   [Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/now-assist-for-esg.md)
--   [Now Assist for Hardware Asset Management \(HAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-hardware-asset-management/now-assist-ham.md)
--   [Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/now-assist-for-irm.md)
--   [Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom.md)
--   [Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm.md)
--   [Operational Technology \(OT\) Manager Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/now-assist-for-otm-landing.md)
--   [Now Assist for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/now-assist-for-operational-technology-service-management.md)
--   [Now Assist for Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/now-assist-security-incident-landing.md)
--   [Now Assist for Software Asset Management \(SAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/now-assist-sam.md)
--   [Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/now-assist-spm.md)
--   [Now Assist for Third-party Risk Management \(TPRM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/now-assist-tprm.md)
--   [Now Assist for Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-vulnerability-response-vr/now-assist-for-vulnerability-response-landing.md)
+-   [Now Assist for Collaborative Work Management \(CWM\)](../it-business-management/now-assist-for-collaborative-work-management-cwm/now-assist-for-cwm-landing.md)
+-   [Now Assist for Configuration Management Database \(CMDB\)](../servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-landing-cmdb.md)
+-   [Now Assist for Enterprise Architecture \(EA\)](../application-portfolio-management/now-assist-ea.md)
+-   [Now Assist for Operational Sustainability \(formerly ESG\)](../environmental-social-governance/now-assist-for-esg.md)
+-   [Now Assist for Hardware Asset Management \(HAM\)](../it-asset-management/now-assist-for-hardware-asset-management/now-assist-ham.md)
+-   [Now Assist for Integrated Risk Management \(IRM\)](../governance-risk-compliance/grc-common-functions/now-assist-for-irm.md)
+-   [Now Assist for ITOM](../it-operations-management/now-assist-for-it-operations-management/now-assist-itom.md)
+-   [Now Assist for IT Service Management \(ITSM\)](../it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm.md)
+-   [Operational Technology \(OT\) Manager Foundation](../operational-technology/now-assist-for-otm-landing.md)
+-   [Now Assist for Operational Technology Service Management \(OTSM\)](../operational-technology/now-assist-for-operational-technology-service-management.md)
+-   [Now Assist for Security Incident Response](../security-management/now-assist-for-security-incident-response-sir/now-assist-security-incident-landing.md)
+-   [Now Assist for Software Asset Management \(SAM\)](../it-asset-management/now-assist-for-software-asset-management-sam/now-assist-sam.md)
+-   [Now Assist for Strategic Portfolio Management \(SPM\)](../it-business-management/now-assist-for-strategic-portfolio-management-spm/now-assist-spm.md)
+-   [Now Assist for Third-party Risk Management \(TPRM\)](../governance-risk-compliance/third-party-risk-management/now-assist-tprm.md)
+-   [Now Assist for Vulnerability Response](../security-management/now-assist-for-vulnerability-response-vr/now-assist-for-vulnerability-response-landing.md)
 
 </td></tr><tr><td>
 
@@ -104,13 +104,13 @@ The Customer workflow includes applications that support customer service, inclu
 
 </td><td>
 
--   [Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm.md)
--   [Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/now-assist-fsm.md)
--   [Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/now-assist-for-financial-services-operations.md)
--   [Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management.md)
--   [Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-for-psds.md)
--   [Now Assist for Sales Force Automation \(SFA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-for-sales-and-order-management-som.md)
--   [Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-spmc.md)
+-   [Now Assist for Customer Service Management \(CSM\)](../customer-service-management/now-assist-for-csm/now-assist-csm.md)
+-   [Now Assist for Field Service Management \(FSM\)](../field-service-management/now-assist-for-field-service-management-fsm/now-assist-fsm.md)
+-   [Now Assist for Financial Services Operations \(FSO\)](../financial-services-operations/now-assist-for-financial-services-operations-fso/now-assist-for-financial-services-operations.md)
+-   [Now Assist for Order Management](../order-management/now-assist-order-management.md)
+-   [Now Assist for Public Sector Digital Services \(PSDS\)](../government-industry/now-assist-for-psds.md)
+-   [Now Assist for Sales Force Automation \(SFA\)](../order-management/now-assist-for-sales-and-order-management-som.md)
+-   [Now Assist for Telecommunications, Media and Technology \(TMT\)](../telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-spmc.md)
 
 </td></tr><tr><td>
 
@@ -122,11 +122,11 @@ The Employee workflow supports HR Service Delivery and Employee Experience featu
 
 </td><td>
 
--   [Now Assist for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/now-assisit-employee-exp.md)
--   [Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-landing.md)
--   [Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-hrsd.md)
--   [Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-landing.md)
--   [Now Assist for Workplace Service Delivery \(WSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/now-assist-wsd-landing.md)
+-   [Now Assist for Employee Experience](../employee-service-management/employee-experience-foundation/now-assisit-employee-exp.md)
+-   [Now Assist for Health and Safety](../employee-service-management/now-assist-for-health-and-safety/now-assist-hs-landing.md)
+-   [Now Assist for HR Service Delivery \(HRSD\)](../employee-service-management/now-assist-for-hrsd/now-assist-hrsd.md)
+-   [Now Assist for Legal Service Delivery \(LSD\)](../employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-landing.md)
+-   [Now Assist for Workplace Service Delivery \(WSD\)](../employee-service-management/now-assist-for-wsd/now-assist-wsd-landing.md)
 
 </td></tr><tr><td>
 
@@ -157,8 +157,8 @@ The Finance &amp; Supply Chain workflow supports purchase requisitions, sourcing
 </td><td>
 
 -   
--   [Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo.md)
--   [Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo.md)
+-   [Now Assist for Supplier Lifecycle Operations \(SLO\)](../source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo.md)
+-   [Now Assist for Sourcing and Procurement Operations \(SPO\)](../source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo.md)
 
 </td></tr><tr><td>
 
@@ -170,7 +170,7 @@ The App Engine workflow supports App Engine products and offerings so that you c
 
 </td><td>
 
-[Now Assist for App Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/now-assist-for-app-engine/add-ai-to-custom-apps-with-now-assist-for-app-engine-enterprise.md)
+[Now Assist for App Engine](../application-development/now-assist-for-app-engine/add-ai-to-custom-apps-with-now-assist-for-app-engine-enterprise.md)
 
 </td></tr><tr><td>
 
@@ -182,7 +182,7 @@ The Vault workflow supports generating custom data patterns from text descriptio
 
 </td><td>
 
-[Now Assist for Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-vault-landing.md)
+[Now Assist for Vault](../platform-security/now-assist-vault-landing.md)
 
 </td></tr><tr><td>
 
@@ -194,7 +194,7 @@ The Other workflow accommodates additional plugins and skills that don't fit int
 
 </td><td>
 
-[Now Assist for Zero Copy Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/now-assist-for-zero-copy-connector-for-erp.md)
+[Now Assist for Zero Copy Connector](../integrate-applications/now-assist-for-zero-copy-connector-for-erp.md)
 
 </td></tr></tbody>
 </table>For a complete list of Now Assist skills and their workflows, see [Now Assist skills](now-assist-skills/now-assist-skills.md).

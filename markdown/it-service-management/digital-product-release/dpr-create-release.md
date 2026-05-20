@@ -104,5 +104,5 @@ Steps
 **Related topics**  
 
 
-[Digital Product Release - POST /sn\_dpr/digital\_product\_release/release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/digital-product-release-api.md)
+[Digital Product Release - POST /sn\_dpr/digital\_product\_release/release](../../api-reference/rest-apis/digital-product-release-api.md)
 

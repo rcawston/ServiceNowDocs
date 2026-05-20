@@ -42,7 +42,7 @@ To view Growth plans related information from the Now Assist Admin console, you 
 
 ## What to do next
 
-To learn more about the Now Assist Admin console, see [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md).
+To learn more about the Now Assist Admin console, see [Overview tab in Now Assist Admin](../../intelligent-experiences/configuring-now-assist.md).
 
 **Parent Topic:**[Administer and maintain the Talent Development Core app](egd-administration.md)
 

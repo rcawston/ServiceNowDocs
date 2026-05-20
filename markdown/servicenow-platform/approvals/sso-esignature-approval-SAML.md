@@ -25,7 +25,7 @@ The SAML IdP must support and honor the forceAuthn attribute in SAML assertion r
 
 ## Procedure
 
-1.  Activate or upgrade to SAML 2.0 with the [Activate Multi-Provider SSO plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_ActivateMultipleProviderSSO.md).
+1.  Activate or upgrade to SAML 2.0 with the [Activate Multi-Provider SSO plugin](../../platform-security/authentication/t_ActivateMultipleProviderSSO.md).
 
 2.  Activate the [Approval with E-Signature plugin](activate-approval-esignature.md).
 

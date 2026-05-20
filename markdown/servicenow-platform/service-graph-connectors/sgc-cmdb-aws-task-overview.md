@@ -17,7 +17,7 @@ Configure your Amazon Web Services \(AWS\) environment to import data using the 
 
 ## Before you begin
 
-Install the Service Graph Connector for AWS application \(sn\_aws\_integ\). For more information, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallApplications.md).
+Install the Service Graph Connector for AWS application \(sn\_aws\_integ\). For more information, see [Install a ServiceNow Store application](../../platform-administration/t_InstallApplications.md).
 
 Role required: application administrator
 

@@ -23,7 +23,7 @@ Role required: admin
 
 The following activity packs are available and active with your Orchestration subscription:
 
--   [Orchestration - Active Directory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchActiveDirectoryActivities.md) \(com.snc.orchestration.ad\)
+-   [Orchestration - Active Directory](../../servicenow-platform/orchestration/c_OrchActiveDirectoryActivities.md) \(com.snc.orchestration.ad\)
 -   [Orchestration - Azure Active Directory](c_AzureADActivityPack.md) \(com.snc.orchestration.azure.ad\)
 -   [Orchestration - Exchange](c_OrchestrationExchangeActivities.md) \(com.snc.orchestration.exchange\)
 -   [Orchestration - SFTP](c_OrchestrationSFTPActivityPack.md) \(com.snc.orchestration.sftp\)

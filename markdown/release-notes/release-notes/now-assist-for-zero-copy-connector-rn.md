@@ -33,11 +33,11 @@ Install Now Assist for Zero Copy Connector by requesting it from the ServiceNow 
 
 ## Related ServiceNow applications and features
 
--   **[Zero Copy Connector for ERP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-integration-overview.md)**
+-   **[Zero Copy Connector for ERP](../../integrate-applications/erp-integration-framework/erp-integration-overview.md)**
 
      enables you to simplify the use of ERP data from a system of record such as SAP. Use the ERP data to create applications on the ServiceNow.
 
--   **[Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md)**
+-   **[Now Assist](../../intelligent-experiences/platform-now-assist-landing.md)**
 
     Improve productivity and efficiency in your organization, deliver better self-service, recommend actions, provide answers, and empower users to search more effectively.
 

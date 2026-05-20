@@ -27,7 +27,7 @@ Role required: learning\_admin
 
 Activating the Coaching with Learning \(sn\_coach\_lrn\) plugin enables the following applications from the ServiceNow Store:
 
--   [Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-framework.md)
+-   [Enterprise Service Management Integrations Framework](../../employee-service-management/hr-service-delivery/hr-integrations-framework.md)
 -   Cornerstone spoke
 -   Pluralsight spoke
 -   Udemy spoke
@@ -143,7 +143,7 @@ Do this
 
 </td><td>
 
-Use an API key to authenticate the ServiceNow requests. Follow the steps in [Set up the Pluralsight spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-pluralsight-spk.md) to perform the integration.
+Use an API key to authenticate the ServiceNow requests. Follow the steps in [Set up the Pluralsight spoke](../../integrate-applications/integration-hub/setup-pluralsight-spk.md) to perform the integration.
 
 </td></tr><tr><td id="d130943e324">
 
@@ -151,7 +151,7 @@ Use an API key to authenticate the ServiceNow requests. Follow the steps in [Set
 
 </td><td>
 
-Register an OAuth application in Cornerstone and authenticate requests from ServiceNow. Follow the steps in [Set up the Cornerstone spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-cornerstone.md) to perform the integration.
+Register an OAuth application in Cornerstone and authenticate requests from ServiceNow. Follow the steps in [Set up the Cornerstone spoke](../../integrate-applications/integration-hub/setup-cornerstone.md) to perform the integration.
 
 </td></tr><tr><td id="d130943e337">
 

@@ -28,7 +28,7 @@ Make sure the following setup is in place:
 
 Role required: hermes\_admin, sn\_kmf.cryptographic\_manager, or admin
 
-For details on assigning KMF roles, see [Roles installed with Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/kmf-roles.md).
+For details on assigning KMF roles, see [Roles installed with Key Management Framework](../../platform-security/platform-encryption/kmf-roles.md).
 
 ## Procedure
 

@@ -81,5 +81,5 @@ Update the wish list automatically with user-specific changes from multiple tabs
 
 [Clone a widget](t_CloneAndEditAWidget.md)
 
-[Add an item to the wish list in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-wishlist-portal.md)
+[Add an item to the wish list in Service Portal](../../servicenow-platform/service-catalog/add-to-wishlist-portal.md)
 

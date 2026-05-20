@@ -70,9 +70,9 @@ Use the Jobs table to create lifecycle event cases where you can specify which j
 **Related topics**  
 
 
-[hr\_Utils - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/hr_UtilsAPI.md)
+[hr\_Utils - Global](../../api-reference/server-api-reference/hr_UtilsAPI.md)
 
-[hr\_ActivitySet - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/hr_ActivitySetAPI.md)
+[hr\_ActivitySet - Global](../../api-reference/server-api-reference/hr_ActivitySetAPI.md)
 
-[hr\_ActivityUtils - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/hr_ActivityUtilsAPI.md)
+[hr\_ActivityUtils - Global](../../api-reference/server-api-reference/hr_ActivityUtilsAPI.md)
 

@@ -18,9 +18,9 @@ Request the contextual generative AI capabilities to summarize procurement-relat
 
 ## Before you begin
 
-Make sure that Next Experience is enabled in the instance. For more information, see [Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-page.md).
+Make sure that Next Experience is enabled in the instance. For more information, see [Next Experience UI](../../platform-user-interface/next-experience-landing-page.md).
 
-Make sure that [AI search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais.md) and Now Assist panel are enabled in the instance.
+Make sure that [AI search](../../platform-administration/ai-search/configuring-ais.md) and Now Assist panel are enabled in the instance.
 
 Role required: sn\_spend\_gen\_ai.now\_assist\_fulfiller
 
@@ -28,7 +28,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_fulfiller
 
 You can use the Now Assist panel in Source-to-Pay Workspace to summarize procurement-related records.
 
-For more information about the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md). For information about activating the Now Assist panel, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
+For more information about the Now Assist panel, see [Now Assist panel](../../intelligent-experiences/now-assist-panel-overview.md). For information about activating the Now Assist panel, see [Activate the Now Assist panel standard chat](../../intelligent-experiences/activate-now-assist-panel.md).
 
 ## Procedure
 

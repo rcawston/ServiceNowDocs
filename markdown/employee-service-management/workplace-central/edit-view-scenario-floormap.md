@@ -102,7 +102,7 @@ A link to the floor is copied and can be shared with other space planners. Make 
 1.  On the Space details panel, select the filter icon \(![Filter icon.](../../../reuse/icons/product-icons/filter-outline-24.svg)\).
 2.  On the Filter spaces pop-up, add conditions to select the spaces based on your requirement.
 
-For example, `Space type is Room`. For more information about conditions, see [Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md).
+For example, `Space type is Room`. For more information about conditions, see [Condition builder](../../platform-user-interface/c_ConditionBuilder.md).
 
 3.  Select **Apply**.
 

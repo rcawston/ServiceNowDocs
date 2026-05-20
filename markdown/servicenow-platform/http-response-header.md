@@ -64,7 +64,7 @@ If the Internet Explorer request includes the referrer URL header:
 **Related topics**  
 
 
-[Control request and response content type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/c_SpecifyContentType.md)
+[Control request and response content type](../api-reference/rest-api-explorer/c_SpecifyContentType.md)
 
 [bundle-psec.cache-control-http-header-value]
 

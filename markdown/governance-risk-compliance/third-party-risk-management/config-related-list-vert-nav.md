@@ -49,7 +49,7 @@ The following related list tables can be configured for display in the vertical 
 |Third-party|Company \[core\_company\]|
 |Vendor contacts|Vendor Contact \[vm\_vdr\_contact\]|
 
-For more information about related lists, see [Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_RelatedLists.md).
+For more information about related lists, see [Related lists](../../platform-user-interface/c_RelatedLists.md).
 
 ## Procedure
 

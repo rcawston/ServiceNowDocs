@@ -18,7 +18,7 @@ Specify the action or subflow you want an activity to run. Configure the inputs 
 ## Before you begin
 
 -   Create a Workflow Studio [subflow](create-subflow.md) or [action](create-action.md) that you want to use as the automation plan for your activity. For example, see [Create an action as an activity automation plan](create-automation-plan.md).
--   Make sure to set your current application to the application that you want your activity to run in. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+-   Make sure to set your current application to the application that you want your activity to run in. For more information, see [Application picker](../../application-development/c_ApplicationPicker.md).
 -   Role required: admin, playbook.admin, or pd\_content\_author
 
 ## Procedure
@@ -55,7 +55,7 @@ Enter a unique name for your activity.
 
 </td><td>
 
-Select a table whose records the activity can access as inputs. When adding inputs to your activity in the Workflow Studio Playbooks builder, you can dot-walk to dynamic record data from this table. See [Dot-walking to data in related tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DotWalking.md).
+Select a table whose records the activity can access as inputs. When adding inputs to your activity in the Workflow Studio Playbooks builder, you can dot-walk to dynamic record data from this table. See [Dot-walking to data in related tables](../../platform-user-interface/c_DotWalking.md).
 
  **Note:** The table specified for a playbook's triggering input record overrides the activity definition table at design time. See [Triggers](process-automation-designer-triggers.md)
 

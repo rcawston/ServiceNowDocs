@@ -35,7 +35,7 @@ For more information, see [CSM Configurable Workspace features](csm-workspace-fe
 
 ## CSM Configurable Workspace benefits
 
-The ServiceNow [Configurable Workspace UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/workspace-landing-page.md) is designed to improve user efficiency and facilitate resolutions. CSM Configurable Workspace, which is built from the Configurable Workspace UI, is specifically designed for customer service agents.
+The ServiceNow [Configurable Workspace UI](../platform-user-interface/workspace-landing-page.md) is designed to improve user efficiency and facilitate resolutions. CSM Configurable Workspace, which is built from the Configurable Workspace UI, is specifically designed for customer service agents.
 
 CSM Configurable Workspace brings together customer information, case management, and collaboration tools into a single window. This user experience enables agents to manage several cases and interactions across different channels at the same time.
 
@@ -63,7 +63,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 **Related topics**  
 
 
-[List of workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/list-of-workspaces.md)
+[List of workspaces](../platform-user-interface/list-of-workspaces.md)
 
-[Configurable Workspace glossary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configurable-workspace-glossary.md)
+[Configurable Workspace glossary](../platform-user-interface/configurable-workspace-glossary.md)
 

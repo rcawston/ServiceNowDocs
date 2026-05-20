@@ -18,8 +18,8 @@ Important notes:
 - Each file covers one product topic with YAML frontmatter keys: `title`, `product_area`, `last_updated`, `canonical_url`
 - Content is updated at least monthly
 - For human-readable docs visit https://www.servicenow.com/docs
-- Raw markdown URL pattern: `https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/{branch}/markdown/{publication}/{file}` or `markdown/{publication}/{product}/{file}`
-- Substitute `{branch}` with any family name listed above
+- Local markdown path pattern: `markdown/{publication}/{file}` or `markdown/{publication}/{product}/{file}`
+- Use the branch matching the desired release family.
 
 ## Documents
 

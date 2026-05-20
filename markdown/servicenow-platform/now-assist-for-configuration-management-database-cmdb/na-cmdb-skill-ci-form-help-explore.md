@@ -29,7 +29,7 @@ In addition to using Now Assist on the Explore CI page, Now Assist provides deta
 
 1.  While viewing a CI on the Explore CI view, select **Ask Now Assist for help**.
 
-    The Now Assist panel opens. Enter a question about any field or section on the view. For more information, see [Working in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
+    The Now Assist panel opens. Enter a question about any field or section on the view. For more information, see [Working in the Now Assist panel](../../intelligent-experiences/now-assist-panel-overview.md).
 
     ![Description of the CI attribute](../image/na-cmdb-ci-form-help-explore-ci-ex.png)
 

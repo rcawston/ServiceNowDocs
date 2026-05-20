@@ -24,7 +24,7 @@ Confirm the following:
     -   Discovery Admin Workspace v1.13.0.
     -   Visibility Content v6.13.10.
     -   Discovery and Service Mapping Patterns v1.30.2.
--   You have Code Signing enabled with the Circle of Trust established. For more information, see [Configuring Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/config-code-signing.md).
+-   You have Code Signing enabled with the Circle of Trust established. For more information, see [Configuring Code Signing](../../platform-security/config-code-signing.md).
 
 Role required: security\_admin
 
@@ -50,5 +50,5 @@ The **com.glide.codesigning.tracking.unsupported\_script\_tracking.enabled** pro
 
 [Discovery on Code Signing instances](code-sign-disco-probes.md)
 
-[Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-signing-landing.md)
+[Code Signing](../../platform-security/code-signing-landing.md)
 

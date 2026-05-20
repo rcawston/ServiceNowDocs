@@ -104,11 +104,11 @@ All Closed Complete and Closed Abandoned interactions assigned to a specific wal
 **Related topics**  
 
 
-[Agent Workspace UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/workspace-landing-page.md)
+[Agent Workspace UI](../../platform-user-interface/workspace-landing-page.md)
 
 [Service Operations Workspace](../service-operations-workspace/explore-sow.md)
 
 [Create an incident](../incident-management/create-an-incident.md)
 
-[Create a request through a catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateARequestThroughTheCatalog.md)
+[Create a request through a catalog](../../service-management-for-the-enterprise/t_CreateARequestThroughTheCatalog.md)
 

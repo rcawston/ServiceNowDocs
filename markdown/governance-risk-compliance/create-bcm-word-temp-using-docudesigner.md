@@ -93,9 +93,9 @@ Confirm that you have the templates configured. For more information, see [Set u
 **Related topics**  
 
 
-[Set up Microsoft 365 reporting configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-o365-reporting-configs.md)
+[Set up Microsoft 365 reporting configuration](../environmental-social-governance/configure-o365-reporting-configs.md)
 
-[Add additional reporting configuration filters for a Microsoft 365 configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/add-additional-reporting-filters.md)
+[Add additional reporting configuration filters for a Microsoft 365 configuration record](../environmental-social-governance/add-additional-reporting-filters.md)
 
-[Add related fields to a Microsoft 365 configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/add-related-fields-0365.md)
+[Add related fields to a Microsoft 365 configuration record](../environmental-social-governance/add-related-fields-0365.md)
 

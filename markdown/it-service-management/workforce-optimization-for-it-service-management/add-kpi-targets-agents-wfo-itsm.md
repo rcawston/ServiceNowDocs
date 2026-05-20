@@ -101,5 +101,5 @@ In the **Target** field, update the value that you'd like the agent to achieve f
 **Related topics**  
 
 
-[Performance Analytics targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-targets.md)
+[Performance Analytics targets](../../now-intelligence/performance-analytics/pa-targets.md)
 

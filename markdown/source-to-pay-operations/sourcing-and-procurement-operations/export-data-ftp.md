@@ -54,7 +54,7 @@ You can use Flow Designer subflows to move the data into a mid server and then t
 **Related topics**  
 
 
-[MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md)
+[MID Server](../../servicenow-platform/mid-server/mid-server-landing.md)
 
-[Introduction to credentials, connections, and aliases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-connections-alias.md)
+[Introduction to credentials, connections, and aliases](../../platform-security/connections-and-credentials/credentials-connections-alias.md)
 

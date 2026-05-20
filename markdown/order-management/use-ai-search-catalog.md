@@ -94,5 +94,5 @@ Use wildcard operators to find records that contain indexed terms matching a wil
 **Related topics**  
 
 
-[AI Search query language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/query-language-ais.md)
+[AI Search query language](../platform-administration/ai-search/query-language-ais.md)
 

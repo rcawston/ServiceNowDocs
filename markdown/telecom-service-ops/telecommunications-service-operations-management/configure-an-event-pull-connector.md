@@ -57,5 +57,5 @@ Role required: TSOM Assurance admin
 **Related topics**  
 
 
-[Exploring Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/exploring-metric-intelligence.md)
+[Exploring Metric Intelligence](../../it-operations-management/metric-intelligence/exploring-metric-intelligence.md)
 

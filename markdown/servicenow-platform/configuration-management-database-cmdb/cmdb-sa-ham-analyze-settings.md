@@ -38,7 +38,7 @@ Navigate to the CMDB success advisor landing page and for the HAM card, select *
 
 You need the sn\_cmdb\_admin role to access the CMDB success advisor for HAM.
 
-To manage business rules, change the application scope from CMDB success advisor to Global in the [application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+To manage business rules, change the application scope from CMDB success advisor to Global in the [application picker](../../application-development/c_ApplicationPicker.md).
 
 ## Use cases
 
@@ -153,9 +153,9 @@ Opens the New policy form to create a policy for a CI class. The **Create policy
 
 [Administer CMDB Data Manager](administer-data-manager.md)
 
-[Asset and CI management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/c_ManagingAssets.md)
+[Asset and CI management](../../it-asset-management/hardware-asset-management/c_ManagingAssets.md)
 
-[Model categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_ModelCategories.md)
+[Model categories](../../it-asset-management/product-catalog/c_ModelCategories.md)
 
 ## CMDB and HAM settings assessed in the CMDB success advisor
 

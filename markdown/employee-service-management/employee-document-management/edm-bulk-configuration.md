@@ -130,7 +130,7 @@ Log mapping
 Indicates that you want to write debug statements to the system log during the staging phase. Log mapping provides an easier debugging of mapping. Recommended when first configuring bulk imports during the testing phase.
 
 </td></tr></tbody>
-</table>    **Note:** For more information on credentials and aliases, see [Introduction to credentials, connections, and aliases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-connections-alias.md).
+</table>    **Note:** For more information on credentials and aliases, see [Introduction to credentials, connections, and aliases](../../platform-security/connections-and-credentials/credentials-connections-alias.md).
 
     For more information on domain separation, see [Domain Separation and HR Service Delivery](../hr-service-delivery/hr-domain-separation.md).
 
@@ -357,10 +357,10 @@ Import type
 
 </td><td>
 
-The import type that drives the source step. You can select the method that drives the source step. -   Sub flow: A workflow launched by another workflow to drive the import step. See [Workflows used as subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/workflows-as-subflows.md).
--   Flow action: The Flow Designer action that drives the import step. See [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
--   Workflow: An automated way to provide a multi-step process. See [Workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_WorkflowOverview.md).
--   Script: Use to automate the import step. See [Scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_Script.md).
+The import type that drives the source step. You can select the method that drives the source step. -   Sub flow: A workflow launched by another workflow to drive the import step. See [Workflows used as subflows](../../build-workflows/legacy-workflow/workflows-as-subflows.md).
+-   Flow action: The Flow Designer action that drives the import step. See [Flow Designer](../../application-development/flow-designer.md).
+-   Workflow: An automated way to provide a multi-step process. See [Workflow](../../build-workflows/legacy-workflow/c_WorkflowOverview.md).
+-   Script: Use to automate the import step. See [Scripts](../../api-reference/scripts/c_Script.md).
 
 
 </td></tr><tr><td>
@@ -457,10 +457,10 @@ Import type
 
 </td><td>
 
-The import type that drives the source step. You can select the method that drives the source step. -   Sub flow: A workflow launched by another workflow to drive the import step. See [Workflows used as subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/workflows-as-subflows.md).
--   Flow action: The Flow Designer action that drives the import step. See [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
--   Workflow: An automated way to provide a multi-step process. See [Workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_WorkflowOverview.md).
--   Script: Use to automate the import step. See [Scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_Script.md).
+The import type that drives the source step. You can select the method that drives the source step. -   Sub flow: A workflow launched by another workflow to drive the import step. See [Workflows used as subflows](../../build-workflows/legacy-workflow/workflows-as-subflows.md).
+-   Flow action: The Flow Designer action that drives the import step. See [Flow Designer](../../application-development/flow-designer.md).
+-   Workflow: An automated way to provide a multi-step process. See [Workflow](../../build-workflows/legacy-workflow/c_WorkflowOverview.md).
+-   Script: Use to automate the import step. See [Scripts](../../api-reference/scripts/c_Script.md).
 
 
 </td></tr><tr><td>
@@ -547,10 +547,10 @@ Import type
 
 </td><td>
 
-The import type that drives the source step. You can select the method that drives the source step. -   Sub flow: A workflow launched by another workflow to drive the import step. See [Workflows used as subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/workflows-as-subflows.md).
--   Flow action: The Flow Designer action that drives the import step. See [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
--   Workflow: An automated way to provide a multi-step process. See [Workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_WorkflowOverview.md).
--   Script: Use to automate the import step. See [Scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_Script.md).
+The import type that drives the source step. You can select the method that drives the source step. -   Sub flow: A workflow launched by another workflow to drive the import step. See [Workflows used as subflows](../../build-workflows/legacy-workflow/workflows-as-subflows.md).
+-   Flow action: The Flow Designer action that drives the import step. See [Flow Designer](../../application-development/flow-designer.md).
+-   Workflow: An automated way to provide a multi-step process. See [Workflow](../../build-workflows/legacy-workflow/c_WorkflowOverview.md).
+-   Script: Use to automate the import step. See [Scripts](../../api-reference/scripts/c_Script.md).
 
 
 </td></tr><tr><td>
@@ -651,10 +651,10 @@ Import type
 
 </td><td>
 
-The import type that drives the source step. You can select the method that drives the source step. -   Sub flow: A workflow launched by another workflow to drive the import step. See [Workflows used as subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/workflows-as-subflows.md).
--   Flow action: The Flow Designer action that drives the import step. See [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
--   Workflow: An automated way to provide a multi-step process. See [Workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_WorkflowOverview.md).
--   Script: Use to automate the import step. See [Scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_Script.md).
+The import type that drives the source step. You can select the method that drives the source step. -   Sub flow: A workflow launched by another workflow to drive the import step. See [Workflows used as subflows](../../build-workflows/legacy-workflow/workflows-as-subflows.md).
+-   Flow action: The Flow Designer action that drives the import step. See [Flow Designer](../../application-development/flow-designer.md).
+-   Workflow: An automated way to provide a multi-step process. See [Workflow](../../build-workflows/legacy-workflow/c_WorkflowOverview.md).
+-   Script: Use to automate the import step. See [Scripts](../../api-reference/scripts/c_Script.md).
 
 
 </td></tr><tr><td>

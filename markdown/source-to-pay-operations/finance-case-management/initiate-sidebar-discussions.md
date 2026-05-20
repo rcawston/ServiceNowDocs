@@ -50,11 +50,11 @@ The stakeholders are notified when you add them to a discussion. They can join t
 
 ## What to do next
 
-For more information on the sidebar, see [Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/sidebar-landing.md).
+For more information on the sidebar, see [Sidebar](../../conversational-interfaces/sidebar/sidebar-landing.md).
 
-To learn more about using the sidebar, see [Using Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/using-sidebar.md).
+To learn more about using the sidebar, see [Using Sidebar](../../conversational-interfaces/sidebar/using-sidebar.md).
 
-For information on the activity stream in the sidebar is, see [Activity stream in Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/activity-stream-sidebar.md).
+For information on the activity stream in the sidebar is, see [Activity stream in Sidebar](../../conversational-interfaces/sidebar/activity-stream-sidebar.md).
 
 **Parent Topic:**[Using the Finance Operations Workspace](using-fin-case-mgmt-workspace.md)
 

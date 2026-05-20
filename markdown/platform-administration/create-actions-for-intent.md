@@ -19,7 +19,7 @@ Role required: sn\_notif\_agents.notification\_ai\_admin
 
 ## About this task
 
-Subflows must be created to invoke subflows to associate an action to the intent. For more information, see [Create a subflow in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md).
+Subflows must be created to invoke subflows to associate an action to the intent. For more information, see [Create a subflow in Workflow Studio](../build-workflows/workflow-studio/create-subflow.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ Action
 
 </td><td>
 
-Select the **Subflow** tab and select the subflow that must be triggered when the intent is matched. To create subflows see, [Create a subflow in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md)
+Select the **Subflow** tab and select the subflow that must be triggered when the intent is matched. To create subflows see, [Create a subflow in Workflow Studio](../build-workflows/workflow-studio/create-subflow.md)
 
 </td></tr><tr><td id="d317391e136">
 

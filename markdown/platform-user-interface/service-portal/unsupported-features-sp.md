@@ -17,7 +17,7 @@ Service Portal is an alternative presentation layer for the platform. As such, n
 
 ## Not currently supported
 
-Domain separation at Levels 1-3. However, Service Portal does include support for domain separation at the **Data only** level. For more information, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md) and [Domain separation and Service Portal](domain-separation-service-portal.md).
+Domain separation at Levels 1-3. However, Service Portal does include support for domain separation at the **Data only** level. For more information, see [Application support for domain separation](../../platform-security/domain-separated-apps.md) and [Domain separation and Service Portal](domain-separation-service-portal.md).
 
 ## No plans to support
 
@@ -30,7 +30,7 @@ Domain separation at Levels 1-3. However, Service Portal does include support fo
 -   UI actions marked as **Client**
 -   Nested container Catalog variables
 -   Survey wizards
--   [OpenFrame](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_OpenFrameOverview.md)
+-   [OpenFrame](../../customer-service-management/c_OpenFrameOverview.md)
 
 -   **[Service Catalog forms in Service Portal](sc-forms-in-sp.md)**  
 Service Catalog forms are rendered within Service Portal widgets in a two-column layout. Complex forms may not display as expected.

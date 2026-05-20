@@ -87,14 +87,14 @@ If your organization uses DMS and Now Assist for TPRM, you can leverage AI-drive
 
 -   Smart documents – Summarizes risk management documents and provides quick Q&amp;A, reducing manual review and speeding up due diligence.
 
-    For more information, see [Smart Documents Skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills-smart-documents.md).
+    For more information, see [Smart Documents Skill](../../intelligent-experiences/now-assist-skills/now-assist-skills-smart-documents.md).
 
 -   Extract information from documents – Uses AI to pull specific data points \(such as risk indicators, compliance clauses, or contract terms\) from large documents, reducing manual review time and improving accuracy.
 
-    For more information, see [Now Assist extract information from documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-extract-information-from-documents.md).
+    For more information, see [Now Assist extract information from documents](../../intelligent-experiences/now-assist-skills/now-assist-extract-information-from-documents.md).
 
 
-For more information on Now Assist for Document Management skills, see [Explore Now Assist in Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/explore-now-assist-in-document-management.md).
+For more information on Now Assist for Document Management skills, see [Explore Now Assist in Document Management](../../servicenow-platform/explore-now-assist-in-document-management.md).
 
 ## Limitations
 
@@ -115,11 +115,11 @@ For more information on Now Assist for Document Management skills, see [Explore 
 
 [Upload and manage documents in the third-party portal](tprm-add-document-portal.md)
 
-[Document approval and publish process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-review-approval.md)
+[Document approval and publish process](../../servicenow-platform/document-management-services/document-review-approval.md)
 
-[Exploring Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/explore-doc-management.md)
+[Exploring Document Management](../../servicenow-platform/document-management-services/explore-doc-management.md)
 
-[Explore Now Assist in Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/explore-now-assist-in-document-management.md)
+[Explore Now Assist in Document Management](../../servicenow-platform/explore-now-assist-in-document-management.md)
 
-[Exploring Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/exploring-docintel.md)
+[Exploring Document Intelligence](../../intelligent-experiences/document-intelligence/exploring-docintel.md)
 

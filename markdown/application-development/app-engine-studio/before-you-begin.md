@@ -134,8 +134,8 @@ The Application Intake request process benefits your organization as follows:
 
 For more information, see [Submit your idea for app development](../application-intake/submit-intake-request.md).
 
--   The intake request form is available through the standard Service Catalog. For information about how you can modify this form, see [Service catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_IntroductionToCatalogItems.md).
--   The intake request process uses Flows in Workflow Studio to determine the approval flow. To adjust the approval flow, see [Flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flows.md).
+-   The intake request form is available through the standard Service Catalog. For information about how you can modify this form, see [Service catalog items](../../servicenow-platform/service-catalog/c_IntroductionToCatalogItems.md).
+-   The intake request process uses Flows in Workflow Studio to determine the approval flow. To adjust the approval flow, see [Flows](../../build-workflows/workflow-studio/flows.md).
 -   Admins review intake application requests in App Engine Management Center. For more information, see [Managing app development using the App Engine Management Center](../app-engine-management-center/managing-app-development-using-aemc.md).
 
 ## Application templates

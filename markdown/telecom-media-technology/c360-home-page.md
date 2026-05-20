@@ -44,10 +44,10 @@ You can perform the following tasks on this page by selecting an option from the
 
 -   Service Problem Case: See [Create a service problem case from the workspace](create-service-problem-case.md).
 -   Case: See [Create a service problem case from the Customer Service Portal](create-a-product-case-from-the-customer-service-portal.md).
--   Customer Order: See [Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md).
--   Work Order: See [Create a work order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_CreateAWorkOrder.md).
--   Complaint Case: See [Case Playbook for Complaints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-complaint-overview.md).
--   Invoice Case: See [Create an invoice case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/invoice-ops-create-invoice-case.md).
+-   Customer Order: See [Configuring Order Management](../order-management/order-mgt-configuring.md).
+-   Work Order: See [Create a work order](../field-service-management/work-order-management/t_CreateAWorkOrder.md).
+-   Complaint Case: See [Case Playbook for Complaints](../customer-service-management/csm-playbook-complaint-overview.md).
+-   Invoice Case: See [Create an invoice case](../customer-service-management/invoice-ops-create-invoice-case.md).
 
 **Note:** The options that appear in the **Create** drop down list are based on the tables configured in the Tab tables field in the all tasks card settings. See [All tasks card](c360-tasks-card.md) for details.
 

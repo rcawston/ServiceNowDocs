@@ -97,7 +97,7 @@ Release notes
 
 </td><td>
 
-[AI Search release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/ai-search-rn.md)
+[AI Search release notes](../release-notes/release-notes/ai-search-rn.md)
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Release notes
 
 </td><td>
 
-[ServiceNow AI Platform core feature release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/core-platform-rn.md)
+[ServiceNow AI Platform core feature release notes](../release-notes/release-notes/core-platform-rn.md)
 
 </td></tr><tr><td>
 
@@ -185,7 +185,7 @@ Release notes
 
 </td><td>
 
-[Data Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/data-management-rn.md)
+[Data Management release notes](../release-notes/release-notes/data-management-rn.md)
 
 </td></tr><tr><td>
 

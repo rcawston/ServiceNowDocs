@@ -69,7 +69,7 @@ Activity Table
 
 </td><td>
 
-Table where the deflection activity occurs. This table is associated with the primary activity table. For more information, see [Create deflection configurations and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/set-up-deflection-settings-va.md).
+Table where the deflection activity occurs. This table is associated with the primary activity table. For more information, see [Create deflection configurations and patterns](../../conversational-interfaces/virtual-agent/set-up-deflection-settings-va.md).
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ List of comma-separated activity system IDs.
 **Related topics**  
 
 
-[Tracking deflections using deflection topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/deflections-virtual-agent.md)
+[Tracking deflections using deflection topic blocks](../../conversational-interfaces/virtual-agent/deflections-virtual-agent.md)
 
-[Create deflection configurations and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/set-up-deflection-settings-va.md)
+[Create deflection configurations and patterns](../../conversational-interfaces/virtual-agent/set-up-deflection-settings-va.md)
 

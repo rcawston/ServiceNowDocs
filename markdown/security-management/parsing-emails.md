@@ -86,9 +86,9 @@ Select where to find the value. Choices include:-   Store the value into a field
 
 Select the field to fill in with this value. **Note:**
 
-For choice fields, matches are made to existing choices using the underlying choice label or value. If no match is found, the field is set, but no new entry is added to the choice list. For more information, see [Choice lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ChoiceLists.md).
+For choice fields, matches are made to existing choices using the underlying choice label or value. If no match is found, the field is set, but no new entry is added to the choice list. For more information, see [Choice lists](../platform-administration/c_ChoiceLists.md).
 
-For reference fields, an entry is set only when a value matching the display name of the record or a valid `sys_id` is found. For more information, see [Reference fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceField.md).
+For reference fields, an entry is set only when a value matching the display name of the record or a valid `sys_id` is found. For more information, see [Reference fields](../platform-administration/c_ReferenceField.md).
 
 </td></tr><tr><td id="d307376e417">
 

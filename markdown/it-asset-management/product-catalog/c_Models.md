@@ -65,7 +65,7 @@ If a model is no longer needed, you can delete it as long as no assets or config
 
 [Domain separation and Product Catalog](domain-separation-product-catalog.md)
 
-[Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/asset-management/c_AssetManagement.md)
+[Asset Management](../../it-service-management/asset-management/c_AssetManagement.md)
 
 [Procurement](../procurement/c_Procurement.md)
 

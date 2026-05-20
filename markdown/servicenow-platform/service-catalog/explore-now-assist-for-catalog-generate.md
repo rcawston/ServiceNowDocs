@@ -62,5 +62,5 @@ Now Assist generates only the entities that Catalog Builder supports. The limita
 **Related topics**  
 
 
-[Configuring Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-na-landing.md)
+[Configuring Now Assist Admin features](../../intelligent-experiences/configuring-na-landing.md)
 

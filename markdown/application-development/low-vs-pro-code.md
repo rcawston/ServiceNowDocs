@@ -95,9 +95,9 @@ Low-code app development streamlines the development process to build more apps 
 -   [UI Builder](ui-builder/ui-builder-overview.md)
 -   [Guided Application Creator](guided-application-creator/guided-app-creator.md)
 -   [Table Builder](form-builder-glide-family-release/tb-landing-page.md)
--   [Flows in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/exploring-flows.md)
+-   [Flows in Workflow Studio](../build-workflows/workflow-studio/exploring-flows.md)
 -   [Workspace Builder](workspace-builder/configure-workspace-builder.md)
--   [Exploring Decision Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/decision-designer-overview.md)
+-   [Exploring Decision Tables](../build-workflows/workflow-studio/decision-designer-overview.md)
 
 For more information on low-code development tools, see [Building low-code applications](building-low-code-applications-with-app-engine.md).
 
@@ -127,8 +127,8 @@ The advantage of pro-code development is being able to create custom apps withou
 
 -   [ServiceNow IDE](servicenow-ide-family-release/servicenow-ide-landing.md)
 -   [ServiceNow SDK](servicenow-sdk/servicenow-sdk-landing.md)
--   [Scripting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_Script.md)
--   [REST APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/c_RESTAPI.md)
+-   [Scripting](../api-reference/scripts/c_Script.md)
+-   [REST APIs](../api-reference/rest-api-explorer/c_RESTAPI.md)
 -   [ServiceNow Extensions for Visual Studio Code](vs-code.md)
 
 For more information on pro-code development tools, see [Building pro-code applications](building-pro-code-applications.md).

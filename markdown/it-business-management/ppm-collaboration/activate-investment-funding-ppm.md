@@ -56,5 +56,5 @@ The plugin activates the related plugins if they are not already active. It also
 
 [Install Investment Funding](../investment-funding/activate-investment-funding.md)
 
-[List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
+[List of plugins \(Australia\)](../../platform-administration/list-of-plugins.md)
 

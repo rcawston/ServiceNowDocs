@@ -390,7 +390,7 @@ Role required: pa\_admin
 
 ### Procedure
 
-1.  Run all diagnostics on all records, as described in [Performance Analytics diagnostics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/self-diagnostics.md).
+1.  Run all diagnostics on all records, as described in [Performance Analytics diagnostics](../now-intelligence/performance-analytics/self-diagnostics.md).
 
     These diagnostics can catch many mismatches between the configuration of your Platform Analytics Solutions and your tables.
 

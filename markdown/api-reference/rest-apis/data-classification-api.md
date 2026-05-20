@@ -24,7 +24,7 @@ With the Data Classification API, you can:
 
 This API requires the Data Classification \[com.glide.data\_classification\] plugin.
 
-For more information, see [Data Classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-classification/data-classification.md).
+For more information, see [Data Classification](../../platform-security/data-classification/data-classification.md).
 
 **Parent Topic:**[REST API reference](api-rest.md)
 

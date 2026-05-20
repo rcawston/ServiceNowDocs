@@ -48,7 +48,7 @@ The following procedure enables Remote Hands Agents to review the submitted case
 
 6.  Select **Summarize**
 
-    To learn more see [Generate summary for remote hands case record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/generate-summary-for-remote-hands-case-record.md)
+    To learn more see [Generate summary for remote hands case record](../../telecom-media-technology/now-assist-for-telecom-media-and-technology/generate-summary-for-remote-hands-case-record.md)
 
     You can further modify case fields. Add Work Notes for customers to view, update the state and close the case.
 

@@ -63,5 +63,5 @@ A user with the admin role can edit the contract.expiration condition check that
 
 [Condition check definitions](c_UseConditionCheckDefinitions.md)
 
-[Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
+[Email and SMS notifications](../../platform-administration/c_EmailNotifications.md)
 

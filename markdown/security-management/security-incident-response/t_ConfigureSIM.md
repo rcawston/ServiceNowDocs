@@ -259,7 +259,7 @@ Role required: sn\_si.admin
 **Related topics**  
 
 
-[Application administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/application-administration.md)
+[Application administration](../../application-development/application-administration.md)
 
 ## Manage Restricted Caller Access
 
@@ -272,9 +272,9 @@ A field called **Caller access** has been added to all tables and script include
 **Related topics**  
 
 
-[Restricted caller access privilege settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/restricted-caller-access-privilege.md)
+[Restricted caller access privilege settings](../../application-development/restricted-caller-access-privilege.md)
 
-[Set the application scope, application resource, and event access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/scope-resource-access.md)
+[Set the application scope, application resource, and event access](../../application-development/scope-resource-access.md)
 
 ## Run quick start tests for Security Incident Response
 
@@ -566,5 +566,5 @@ Zurich
 </table>**Related topics**  
 
 
-[Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/quick-start-tests.md)
+[Quick start tests](../../application-development/automated-test-framework-atf/quick-start-tests.md)
 

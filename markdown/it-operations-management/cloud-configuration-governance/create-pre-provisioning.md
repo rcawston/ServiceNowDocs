@@ -56,7 +56,7 @@ Script: Enter the name of the script.
     -   Interface Operation
 -   Flow: Select a subflow. All active s in the instance are listed.
 
-**Note:** For more information, see [Subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md).
+**Note:** For more information, see [Subflows](../../build-workflows/workflow-studio/subflows.md).
 
 </td></tr><tr><td>
 

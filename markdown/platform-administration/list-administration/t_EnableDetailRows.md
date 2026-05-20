@@ -68,7 +68,7 @@ true
 **Related topics**  
 
 
-[Lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UseLists.md)
+[Lists](../../platform-user-interface/c_UseLists.md)
 
 [Altering tables and fields using dictionary attributes](../table-administration-and-data-management/c_DictionaryAttributes.md)
 

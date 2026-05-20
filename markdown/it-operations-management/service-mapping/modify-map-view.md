@@ -240,5 +240,5 @@ The map does not show ignored errors.
 **Related topics**  
 
 
-[Create or modify map indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMapIndicators.md)
+[Create or modify map indicators](../../servicenow-platform/dependency-views/t_CreateModifyNGBSMMapIndicators.md)
 

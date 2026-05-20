@@ -209,15 +209,15 @@ The **Populate Service Account and LDC IN CMDB** scheduled job populates the Ser
 
 [Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md)
 
-[Class diagrams and class attributes for key CMDB classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
+[Class diagrams and class attributes for key CMDB classes](../../servicenow-platform/configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 
-[Description of key CMDB tables in the base system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-tables-details.md)
+[Description of key CMDB tables in the base system](../../servicenow-platform/configuration-management-database-cmdb/cmdb-tables-details.md)
 
-[CMDB CI Class Models: ServiceNow Store app that adds class models that extend the base CMDB class hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md)
+[CMDB CI Class Models: ServiceNow Store app that adds class models that extend the base CMDB class hierarchy](../../servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md)
 
-[Information about the various options for populating the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_OptionsToPopulateCMDB.md)
+[Information about the various options for populating the CMDB](../../servicenow-platform/configuration-management-database-cmdb/c_OptionsToPopulateCMDB.md)
 
-[ServiceNow Store apps that provide pre-defined Service Graph connectors for importing and integrating common third-party data into CMDB classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-third-party-integrations.md)
+[ServiceNow Store apps that provide pre-defined Service Graph connectors for importing and integrating common third-party data into CMDB classes](../../servicenow-platform/configuration-management-database-cmdb/cmdb-third-party-integrations.md)
 
 [KB0747679: Pre/Post Processing Scripts for patterns](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0747679)
 

@@ -42,5 +42,5 @@ Several types of components are installed with activation of the HR Predictive I
 **Related topics**  
 
 
-[List of plugins \(Tokyo\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
+[List of plugins \(Tokyo\)](../../platform-administration/list-of-plugins.md)
 

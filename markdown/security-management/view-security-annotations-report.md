@@ -35,5 +35,5 @@ Role required: admin
 
 [Create security annotations for users](create-multi-sec-annotations-for-users.md)
 
-[View the Reports list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/r_ViewTheReportsList.md)
+[View the Reports list](../now-intelligence/reporting/r_ViewTheReportsList.md)
 

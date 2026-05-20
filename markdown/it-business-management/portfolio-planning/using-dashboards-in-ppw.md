@@ -71,7 +71,7 @@ sn\_align\_core.apw\_user**Note:** You can edit dashboards that you own or those
 
 For example, if you create a widget in a dashboard configuring the Cost Plan Breakdown table to display budget data, the budget summary is visible on the dashboard only if you have read access to the Cost Plan Breakdown table. Similarly, when you share this dashboard with a stakeholder, the stakeholder must also have read access to the Cost Plan Breakdown table to view the budget summary.
 
-For more information on the required roles to manage Platform Analytics dashboards, see [Platform Analytics dashboard roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-dashboard-roles.md).
+For more information on the required roles to manage Platform Analytics dashboards, see [Platform Analytics dashboard roles](../../now-intelligence/pa-dashboard-roles.md).
 
 -   **[Execution Dashboard in Portfolio Planning Workspace](execution-dashboard-ppw.md)**  
 The Execution Dashboard helps portfolio and product managers gain real-time visibility into delivery progress across work items, enabling portfolio leads to detect delays, course-correct early, and keep the strategy on track.

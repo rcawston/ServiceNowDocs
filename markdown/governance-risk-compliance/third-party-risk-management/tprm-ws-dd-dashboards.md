@@ -42,5 +42,5 @@ Select the down arrow next to the name of the dashboard to open the drop-down me
 
 [Delete a TPRM dashboard](tprm-delete-db.md)
 
-[Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md)
+[Dashboards in Platform Analytics](../../now-intelligence/analytics-center-dashboards.md)
 

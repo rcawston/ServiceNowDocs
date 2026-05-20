@@ -19,11 +19,11 @@ Use CMDB APIs to create, update, and read operations on the CMDB. Domain separat
 
 Use the following CMDB APIs to create, update, and read operations on the CMDB:
 
--   [CMDBGroupAPI - Scoped](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_CMDBGroupAPIScoped.md)
--   [CMDBTransformUtil - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_CMDBTransformUtilAPI.md)
--   [CMDBUtil - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_CMDBUtilAPI.md)
--   [IdentificationEngineScriptableApi](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_IdentEngineScriptAPI.md)
--   [IdentificationEngine - Scoped](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/IdentificationEngineScopedAPI.md)
+-   [CMDBGroupAPI - Scoped](../../api-reference/server-api-reference/c_CMDBGroupAPIScoped.md)
+-   [CMDBTransformUtil - Global](../../api-reference/server-api-reference/c_CMDBTransformUtilAPI.md)
+-   [CMDBUtil - Global](../../api-reference/server-api-reference/c_CMDBUtilAPI.md)
+-   [IdentificationEngineScriptableApi](../../api-reference/server-api-reference/c_IdentEngineScriptAPI.md)
+-   [IdentificationEngine - Scoped](../../api-reference/server-api-reference/IdentificationEngineScopedAPI.md)
 
 ## Domain separation in CMDB APIs
 

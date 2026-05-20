@@ -382,7 +382,7 @@ Account number of the general ledger \(GL\) used to generate the invoice.Target 
 
 See also:
 
--   [ERP source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/erp-source.md)
+-   [ERP source](../../source-to-pay-operations/source-to-pay-integration-framework/erp-source.md)
 -   
 
 </td></tr><tr><td>
@@ -1030,7 +1030,7 @@ invoices.erp\_number
 
 </td><td>
 
-Unique number generated within the ERP \(Enterprise Resource Planning\) system for the purchase order. For information, see [Purchase order integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/purchase-order-integration-2.md).Target field: u\_erp\_number
+Unique number generated within the ERP \(Enterprise Resource Planning\) system for the purchase order. For information, see [Purchase order integration](../../source-to-pay-operations/source-to-pay-integration-framework/purchase-order-integration-2.md).Target field: u\_erp\_number
 
 Related table: Invoice Import \[sn\_spend\_intg\_imp\_invoice\]
 
@@ -1286,7 +1286,7 @@ Maximum length: 40
 
 See also:
 
--   [ERP source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/erp-source.md)
+-   [ERP source](../../source-to-pay-operations/source-to-pay-integration-framework/erp-source.md)
 -   
 
 </td></tr><tr><td>
@@ -1915,7 +1915,7 @@ invoices.target\_erp
 
 </td><td>
 
-ERP record in which the invoice is posted. Located in the ERP Source \[sn\_fin\_erp\_source\] table. See [ERP source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/erp-source.md).Data type: String
+ERP record in which the invoice is posted. Located in the ERP Source \[sn\_fin\_erp\_source\] table. See [ERP source](../../source-to-pay-operations/source-to-pay-integration-framework/erp-source.md).Data type: String
 
 </td></tr><tr><td>
 
@@ -3441,7 +3441,7 @@ Account number of the general ledger \(GL\) used to generate the invoice.Target 
 
 See also:
 
--   [ERP source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/erp-source.md)
+-   [ERP source](../../source-to-pay-operations/source-to-pay-integration-framework/erp-source.md)
 -   
 
 </td></tr><tr><td>

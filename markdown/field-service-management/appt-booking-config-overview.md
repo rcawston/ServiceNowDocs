@@ -52,5 +52,5 @@ For work order tasks that have scheduled appointments, dispatchers receive warni
 
 [Global domain configurations](t_ConfigureFieldService.md)
 
-[Schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UseSchedules.md)
+[Schedules](../platform-administration/time-configuration/c_UseSchedules.md)
 

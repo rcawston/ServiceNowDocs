@@ -132,7 +132,7 @@ Enter the API token to access the instance.
 
 3.  If your Jira instance is attached to a MID Server, select the **MID Server** option and enter its details.
 
-For more information about MID server, see [MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerSelector.md)
+For more information about MID server, see [MID Server selection](../../servicenow-platform/mid-server/c_MIDServerSelector.md)
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ Jira Cloud
 https://api.atlassian.com/ex/jira/<Cloud-ID>
     ```
 
-For information on obtaining the value of Cloud ID, see [Obtain the value of Cloud ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-jira-serv-mgmt.md).
+For information on obtaining the value of Cloud ID, see [Obtain the value of Cloud ID](../../integrate-applications/integration-hub/setup-jira-serv-mgmt.md).
 
 2.  Select the credential type as **Basic Auth** or **OAuth 2.0 with 3LO**.
 
@@ -176,7 +176,7 @@ Select an existing OAuth 2.0 credential record in the **Credential** field, or s
 
 3.  If your Jira instance is attached to a MID Server, select the **MID Server** option and enter its details.
 
-For more information about MID server, see [MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerSelector.md)
+For more information about MID server, see [MID Server selection](../../servicenow-platform/mid-server/c_MIDServerSelector.md)
 
 </td></tr></tbody>
 </table>    2.  Select **Connect**.

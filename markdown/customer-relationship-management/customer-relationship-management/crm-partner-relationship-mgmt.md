@@ -63,11 +63,11 @@ PRM provides benefits to internal users across an organization.
 **Related topics**  
 
 
-[Configure Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-partner-relationship-management.md)
+[Configure Partner Relationship Management](../../order-management/configure-partner-relationship-management.md)
 
-[Partner Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-workspace.md)
+[Partner Workspace](../../order-management/partner-workspace.md)
 
-[Deal Registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/deal-registration-management.md)
+[Deal Registration](../../order-management/deal-registration-management.md)
 
-[Configure Segment Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-segment-management.md)
+[Configure Segment Management](../../order-management/configure-segment-management.md)
 

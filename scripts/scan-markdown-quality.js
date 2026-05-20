@@ -23,12 +23,15 @@ const skipDirs = new Set(['.git', 'node_modules', '.DS_Store']);
 const generatedMarkdownReports = new Set([
   'broken-links-report.md',
   'inline-code-anomalies-report.md',
+  'remaining-broken-markdown-links.md',
 ]);
 
 const brokenLinksMd = path.join(repo, 'broken-links-report.md');
 const brokenLinksCsv = path.join(repo, 'broken-links-report.csv');
 const inlineCodeMd = path.join(repo, 'inline-code-anomalies-report.md');
 const inlineCodeCsv = path.join(repo, 'inline-code-anomalies-report.csv');
+const remainingMarkdownMd = path.join(repo, 'remaining-broken-markdown-links.md');
+const remainingMarkdownCsv = path.join(repo, 'remaining-broken-markdown-links.csv');
 
 function toPosix(filePath) {
   return filePath.split(path.sep).join('/');
@@ -825,7 +828,7 @@ function writeBrokenLinkReports(summary) {
   md += '- Checked inline Markdown links/images, reference-style link definitions/usages, and simple literal HTML `href`/`src` attributes.\n';
   md += '- Skipped fenced code blocks, including generated fences that begin immediately after an HTML tag, and inline code spans.\n';
   md += '- Validated local relative/root paths, same-page anchors, and anchors in local Markdown targets.\n';
-  md += '- Treated `raw.githubusercontent.com/ServiceNow/ServiceNowDocs/...` and matching GitHub `blob`/`tree` URLs as local-equivalent repository paths.\n';
+  md += '- Treated ServiceNowDocs raw GitHub and `blob`/`tree` URLs as local-equivalent repository paths.\n';
   md += '- Did not probe third-party external URLs; they are counted as unchecked external links.\n';
   md += '- Suppressed reference-link artifacts on lines reported in the inline-code anomaly report.\n\n';
   md += '## Summary\n\n';
@@ -923,6 +926,64 @@ function writeInlineCodeReports(anomalies) {
   fs.writeFileSync(inlineCodeCsv, csv, 'utf8');
 }
 
+function writeRemainingMarkdownReports(markdownBroken) {
+  const rows = [...markdownBroken].sort((a, b) => (
+    a.issue.localeCompare(b.issue) ||
+    a.source.localeCompare(b.source) ||
+    a.line - b.line ||
+    String(a.target).localeCompare(String(b.target))
+  ));
+
+  let md = '';
+  md += '# Remaining Broken Markdown Links\n\n';
+  md += `Generated: ${new Date().toISOString()}\n\n`;
+  md += `Repository: ${repo}\n\n`;
+  md += '## Scope\n\n';
+  md += '- Excludes image links.\n';
+  md += '- Excludes third-party external links.\n';
+  md += '- Includes remaining broken Markdown file links, target anchors, and same-page anchors after the local path-fix pass.\n\n';
+  md += '## Summary\n\n';
+  md += `- Remaining broken Markdown links: ${rows.length}\n`;
+  md += `- Files containing remaining broken Markdown links: ${new Set(rows.map((row) => row.source)).size}\n\n`;
+  md += '### By Issue\n\n';
+  md += renderSummaryTable(countBy(rows, 'issue'));
+  md += '\n## Links\n\n';
+  md += '| Issue | Source | Line | Target | Resolved target | Syntax | Link text |\n';
+  md += '|---|---|---:|---|---|---|---|\n';
+  for (const row of rows) {
+    md += `| ${escapeMd(row.issue)} | ${escapeMd(row.source)} | ${row.line} | ${escapeMd(truncate(row.target, 220))} | ${escapeMd(truncate(row.resolved || '', 220))} | ${escapeMd(row.syntax)} | ${escapeMd(truncate(row.label || '', 160))} |\n`;
+  }
+  fs.writeFileSync(remainingMarkdownMd, md, 'utf8');
+
+  const header = [
+    'target_kind',
+    'issue',
+    'source',
+    'line',
+    'target',
+    'resolved_target',
+    'syntax',
+    'link_text_or_alt',
+    'mapped_from',
+    'candidates',
+  ];
+  const csv = [header.map(csvCell).join(',')]
+    .concat(rows.map((row) => [
+      row.targetKind,
+      row.issue,
+      row.source,
+      row.line,
+      row.target,
+      row.resolved || '',
+      row.syntax,
+      row.label || '',
+      row.mappedFrom || '',
+      row.candidates || '',
+    ].map(csvCell).join(',')))
+    .join('\n') + '\n';
+  fs.writeFileSync(remainingMarkdownCsv, csv, 'utf8');
+}
+
 function main() {
   const allFiles = walk(repo).sort();
   const fileSet = new Set(allFiles);
@@ -970,13 +1031,14 @@ function main() {
   const broken = checked.filter((link) => link.issue);
   const uncheckedExternal = checked.filter((link) => link.unchecked);
 
-  writeBrokenLinkReports({
+  const brokenLinkReports = writeBrokenLinkReports({
     markdownFiles,
     totalLinks: allLinks.length,
     checked,
     broken,
     uncheckedExternal,
   });
+  writeRemainingMarkdownReports(brokenLinkReports.markdownBroken);
   writeInlineCodeReports(anomalies);
 
   console.log(JSON.stringify({
@@ -993,6 +1055,8 @@ function main() {
       path.basename(brokenLinksCsv),
       path.basename(inlineCodeMd),
       path.basename(inlineCodeCsv),
+      path.basename(remainingMarkdownMd),
+      path.basename(remainingMarkdownCsv),
     ],
   }, null, 2));
 }

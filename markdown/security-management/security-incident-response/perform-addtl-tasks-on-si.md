@@ -75,7 +75,7 @@ Choose and run a Security Operations workflow.
 
 </td></tr><tr><td id="d215246e138">
 
-**[View SLA timeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_ViewSLATimeline.md)**
+**[View SLA timeline](../../it-service-management/service-level-management/t_ViewSLATimeline.md)**
 
 </td><td>
 

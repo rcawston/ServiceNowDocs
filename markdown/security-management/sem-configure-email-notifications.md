@@ -27,7 +27,7 @@ Role required: See [Access control lists \(ACLs\) for administration rules](sem-
 
 4.  Select **New**.
 
-    For detailed instructions on creating email notifications, see [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md).
+    For detailed instructions on creating email notifications, see [Create an email notification](../platform-administration/t_CreateANotification.md).
 
 
 ## Result

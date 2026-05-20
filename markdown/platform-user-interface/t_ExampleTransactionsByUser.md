@@ -96,5 +96,5 @@ Notes and limitations:
 **Related topics**  
 
 
-[Add a related list to a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md)
+[Add a related list to a form](../platform-administration/configure-form-layout.md)
 

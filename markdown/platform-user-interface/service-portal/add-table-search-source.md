@@ -124,7 +124,7 @@ Table
 
 </td><td>
 
-Select a table from the list that you want to draw your results from. You can select any table in the platform. For example, User \[sys\_user\] or Knowledge \[kb\_knowledge\]. **Note:** Only indexed tables return search results. Learn more: [Configure a table for indexing and searching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-single-table-for-indexing.md).
+Select a table from the list that you want to draw your results from. You can select any table in the platform. For example, User \[sys\_user\] or Knowledge \[kb\_knowledge\]. **Note:** Only indexed tables return search results. Learn more: [Configure a table for indexing and searching](../../platform-administration/search-administration/configure-single-table-for-indexing.md).
 
 </td></tr><tr><td>
 

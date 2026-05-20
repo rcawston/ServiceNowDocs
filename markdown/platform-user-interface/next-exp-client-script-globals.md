@@ -40,5 +40,5 @@ if (NOW.isUsingPolaris && (!top.NOW || top.NOW.isPolarisWrapper !== "true")) {
 **Related topics**  
 
 
-[PolarisUI API - Scoped](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/PolarisUIScopedAPI.md)
+[PolarisUI API - Scoped](../api-reference/server-api-reference/PolarisUIScopedAPI.md)
 

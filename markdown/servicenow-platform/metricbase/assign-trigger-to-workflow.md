@@ -128,7 +128,7 @@ Select the roles can run the flow. This option is only available when **Run as**
 
         Different triggers may execute different flows. ![Test the flow.](../image/test-flow.png)
 
-        **Note:** When you test a flow, the system does not execute the trigger, and therefore does not create a record. By selecting a record in the Test flow dialog box, the system acts as if that record was just created. For more information, see [Test a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-test.md).
+        **Note:** When you test a flow, the system does not execute the trigger, and therefore does not create a record. By selecting a record in the Test flow dialog box, the system acts as if that record was just created. For more information, see [Test a flow](../../build-workflows/workflow-studio/flow-test.md).
 
     3.  Select **Submit**.
 

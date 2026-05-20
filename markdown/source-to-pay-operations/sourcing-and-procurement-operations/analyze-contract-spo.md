@@ -23,7 +23,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_fulfiller or sn\_cm\_core.contract\
 
 You can analyze an entire document and identify any non-standard or missing clauses by using generative AI with the Now Assist in Contract Management application. With generative AI, your organization can save time and effort by reducing the need for manual review.
 
-For more information, see [Contract analysis using Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-NA-review-land.md).
+For more information, see [Contract analysis using Now Assist in Contract Management](../../employee-service-management/contract-management-pro/cncore-NA-review-land.md).
 
 ## Procedure
 
@@ -102,7 +102,7 @@ Steps
 
 9.  View the analysis and select **Back** to go to the analyzed contracts in the Now Assist contextual side panel.
 
-    You can only view the suggestions in the contextual side panel. To act on a suggestion, open a .docx Microsoft Word document and use the Microsoft Word add-in for ServiceNow Contracts. For more information, see [Contract analysis states in Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-states.md)
+    You can only view the suggestions in the contextual side panel. To act on a suggestion, open a .docx Microsoft Word document and use the Microsoft Word add-in for ServiceNow Contracts. For more information, see [Contract analysis states in Now Assist in Contract Management](../../employee-service-management/contract-management-pro/cmpro-na-states.md)
 
 
 -   **[RCA approvals for Now Assist in Contract Management](approve-rca-contracts-spo.md)**  

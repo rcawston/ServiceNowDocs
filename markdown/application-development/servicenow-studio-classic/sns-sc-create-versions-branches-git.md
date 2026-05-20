@@ -143,7 +143,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Follow the steps listed in [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
+1.  Follow the steps listed in [Add a system property](../../platform-administration/r_AvailableSystemProperties.md).
 
 2.  Add the **glide.source\_control.default\_branch\_name** property, and specify the default branch name of the Git source control repository to work from.
 

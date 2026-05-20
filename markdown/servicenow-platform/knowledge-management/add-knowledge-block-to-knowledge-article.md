@@ -45,7 +45,7 @@ Role required: user must have contributor access to the knowledge base.
 
     **Note:** Blocks can be added to only the text field.
 
-    In the **Add Blocks** side panel, you can search for, do an advanced search, view, and insert knowledge blocks into the article. To use condition builder with advanced search, see [Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md). You can also create blocks directly from the side panel.
+    In the **Add Blocks** side panel, you can search for, do an advanced search, view, and insert knowledge blocks into the article. To use condition builder with advanced search, see [Condition builder](../../platform-user-interface/c_ConditionBuilder.md). You can also create blocks directly from the side panel.
 
     -   You can configure the number of search results displayed in the **Add Blocks** side panel using the **glide.knowman.add\_blocks.search\_results** property. By default, the minimum number of search results displayed is 6 and the maximum number of search results displayed is 25. See [Knowledge properties](r_KnowledgeProperties.md#) for more information.
     -   If there are knowledge blocks you cannot find, make sure that the blocks are published, in the same language, and in the same knowledge base as an article.![Insert knowledge blocks into article, as well as search for and create blocks.](../image/knowledge-blocks-insert-blocks-into-article.png)

@@ -63,7 +63,7 @@ Word Corpus
 
 </td><td>
 
-Defines which knowledge articles and tasks are selected for knowledge gap analysis.If you don’t have a relevant word corpus, follow the steps in [Create a word corpus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-word-corpus.md).
+Defines which knowledge articles and tasks are selected for knowledge gap analysis.If you don’t have a relevant word corpus, follow the steps in [Create a word corpus](../../intelligent-experiences/predictive-intelligence/create-word-corpus.md).
 
 </td></tr><tr><td>
 
@@ -144,7 +144,7 @@ Frequency with which to include new records in the model for the similarity solu
     -   For an existing solution definition record, click **Update &amp; Retrain**.
 5.  Include more useful related articles by reviewing the similarity examples based on the similarity score and updating the similarity score threshold value.
 
-    For more information, see [Review solution similarity examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/review-similarity-examples.md) and [Update your similarity score threshold](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/update-similarity-threshold.md).
+    For more information, see [Review solution similarity examples](../../intelligent-experiences/predictive-intelligence/review-similarity-examples.md) and [Update your similarity score threshold](../../intelligent-experiences/predictive-intelligence/update-similarity-threshold.md).
 
 6.  In the Solution Definitions \(ML view\) list, search for and select the clustering solution definition for the task type.
 
@@ -251,9 +251,9 @@ Complete the KB curation configuration form to define the scheduled jobs for dem
 
 [Predictive Intelligence for Knowledge Management](predictive-intelligence-for-km.md)
 
-[Create and train a similarity solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-similarity-solution.md)
+[Create and train a similarity solution](../../intelligent-experiences/predictive-intelligence/create-similarity-solution.md)
 
-[Create and train a clustering solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-clustering-solution.md)
+[Create and train a clustering solution](../../intelligent-experiences/predictive-intelligence/create-clustering-solution.md)
 
 [Analyze knowledge gaps from a demand insights dashboard and create knowledge gap feedback tasks](analyze-knowledge-gaps-demand-insights.md)
 

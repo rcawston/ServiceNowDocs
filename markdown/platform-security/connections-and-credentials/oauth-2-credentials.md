@@ -76,9 +76,9 @@ Ensure that you are aware of these considerations if you have selected the **Con
 -   Ensure that there is at least one MID Server \(in the MID Servers selected in **Applies to**\) with these configurations:
     -   The value of the **Status** field is **Up**.
     -   The value of the **Validated** field is **Yes**.
-    -   The capability of the MID Server is set to **REST** or **ALL**. To learn how to configure the MID server, see [https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/configure-capabilities.md](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/configure-capabilities.md).![MID Server status.](../image/MidServerDashbardGaugeOAuth2.0.png)
+    -   The capability of the MID Server is set to **REST** or **ALL**. To learn how to configure the MID server, see [../../integrate-applications/orchestration/configure-capabilities.md](../../integrate-applications/orchestration/configure-capabilities.md).![MID Server status.](../image/MidServerDashbardGaugeOAuth2.0.png)
 
-To learn more about these statuses, see [MID Server dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerDashboard.md).
+To learn more about these statuses, see [MID Server dashboard](../../servicenow-platform/mid-server/c_MIDServerDashboard.md).
 
 
 </td></tr><tr><td>

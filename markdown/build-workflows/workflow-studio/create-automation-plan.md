@@ -20,7 +20,7 @@ Create an example action to configure and run as an activity from Playbooks.
 Role required:
 
 -   This task requires some knowledge of creating flows in Workflow Studio environment. For more information, see [Building flows](flows.md).
--   This task requires some knowledge of server-side scripting. For more information, see [Server-side scripting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ServerScripting.md).
+-   This task requires some knowledge of server-side scripting. For more information, see [Server-side scripting](../../api-reference/scripts/c_ServerScripting.md).
 -   admin
 
 ## About this task

@@ -20,7 +20,7 @@ Domain separation is unsupported in remote tables. Domain separation enables you
 -   The domain field may exist on data tables but there is no business logic to manage the data.
 -   This level is not considered domain-separated.
 
-For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
+For more information on support levels, see [Application support for domain separation](../../platform-security/domain-separated-apps.md).
 
 ## Domain Separation Overview
 
@@ -39,5 +39,5 @@ However, script definitions that you create and associate with a remote table ca
 
 [Create script definitions for a remote table](create-remote-table-script.md)
 
-[Domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
+[Domain separation](../../platform-security/domain-sep-landing-page.md)
 

@@ -18,7 +18,7 @@ Generate an email as a recommendation based on the context of the incident using
 
 ## Before you begin
 
-An admin must activate the email response skill. For more information, see [Configure email reply recommendation in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-email-recommendation.md).
+An admin must activate the email response skill. For more information, see [Configure email reply recommendation in the Now Assist Admin console](../../intelligent-experiences/configure-email-recommendation.md).
 
 Role required: itil
 

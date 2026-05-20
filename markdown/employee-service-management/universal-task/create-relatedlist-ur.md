@@ -41,7 +41,7 @@ Role required: admin
 
     ![Disable the New tab.](../images/ut-relatdlst-new-tab.png)
 
-    For more information on adding related lists, see [Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_RelatedLists.md).
+    For more information on adding related lists, see [Related lists](../../platform-user-interface/c_RelatedLists.md).
 
 
 **Parent Topic:**[Configuring your service for Universal Task](config-service-for-ut.md)

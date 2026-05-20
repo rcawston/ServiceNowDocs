@@ -13,7 +13,7 @@ breadcrumb: [Callback requests from customers, Use omnichannel callback, Custome
 
 As a customer, you can request a callback from a customer service agent through a Virtual Agent conversation. You can request an immediate voice callback or schedule a voice or video callback that you can reschedule or cancel.
 
-For more information about setting up Omnichannel Callback, refer to [Configuring Omnichannel Callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback/configuring-omnichannel-callback.md)
+For more information about setting up Omnichannel Callback, refer to [Configuring Omnichannel Callback](../conversational-interfaces/omnichannel-callback/configuring-omnichannel-callback.md)
 
 ## Request a callback from a Virtual Agent chat
 

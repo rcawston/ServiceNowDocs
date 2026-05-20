@@ -27,7 +27,7 @@ Import a document extraction use case for use in your ServiceNow instance.
 
 Follow these steps to import a document extraction use case along with its fields, field groups, integrations, flows, and all related machine learning \(ML\) models.
 
-For more information, see [System update sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets/system-update-sets.md).
+For more information, see [System update sets](../../application-development/system-update-sets/system-update-sets.md).
 
 ## Procedure
 

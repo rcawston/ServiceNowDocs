@@ -53,5 +53,5 @@ Predefined HR reports are available in the **HR Case Management** &gt; **Reports
 **Related topics**  
 
 
-[Getting started with reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_GenerateReports.md)
+[Getting started with reports](../../now-intelligence/reporting/c_GenerateReports.md)
 

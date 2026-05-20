@@ -28,5 +28,5 @@ You can:
 **Related topics**  
 
 
-[Contextual search overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/c_ContextualSearch.md)
+[Contextual search overview](../../platform-administration/contextual-search/c_ContextualSearch.md)
 

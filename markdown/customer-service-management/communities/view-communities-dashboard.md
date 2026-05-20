@@ -99,7 +99,7 @@ Heat maps display data for **Number of Posts Moved** and **Featured Content**.
 **Related topics**  
 
 
-[Performance Analytics scorecards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_UsePerformanceAnalyticsScorecards.md)
+[Performance Analytics scorecards](../../now-intelligence/performance-analytics/c_UsePerformanceAnalyticsScorecards.md)
 
-[Performance Analytics widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Widgets.md)
+[Performance Analytics widgets](../../now-intelligence/performance-analytics/c_Widgets.md)
 

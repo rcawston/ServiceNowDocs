@@ -27,9 +27,9 @@ Now Assist for Creator includes generative and agentic AI capabilities that make
 |Generate a scoped application complete with tables, experiences, and roles from a natural language description.|[App generation](sns-now-assist-app-gen-landing.md)|Citizen developer, Pro-code developer|
 |Vibe code a complete full-stack application, including core logic and UI components, through a conversation with an autonomous AI agent.|[Build Agent](../build-agent.md)|Pro-code developer|
 |Create multi-step flows from natural language descriptions and generate recommendations for the next step of an existing flow.|[Flow generation](flow-generation-landing.md), [Flow recommendations](flow-recommendations-landing.md)|Citizen developer, Pro-code developer|
-|Write scripts quickly with AI-generated code based on text or code prompts.|[Now Assist for Code](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/now-assist-code-landing.md)|Citizen developer, Pro-code developer|
+|Write scripts quickly with AI-generated code based on text or code prompts.|[Now Assist for Code](../../api-reference/scripts/now-assist-code-landing.md)|Citizen developer, Pro-code developer|
 |Create UI pages and experiences in UI Builder by describing what you want in natural language.|[UI generation](ui-generation-landing.md), [Using UI Builder agent](using-ui-builder-agent.md#)|Citizen developer, Pro-code developer|
-|Generate catalog items from text instructions.|[Now Assist in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-for-catalog-generation.md)|Citizen developer, Pro-code developer|
+|Generate catalog items from text instructions.|[Now Assist in Catalog Builder](../../servicenow-platform/service-catalog/now-assist-for-catalog-generation.md)|Citizen developer, Pro-code developer|
 |Automate test creation and diagnose ATF test failures.|[Test generation](../test-generation/test-generation-intro.md), [ATF troubleshooting agent](atf-troubleshooting-agent-landing-page.md)|Pro-code developer|
 
 ## What to explore next

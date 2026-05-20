@@ -184,5 +184,5 @@ Review and confirm your purchase request details from **Procurement Case Managem
 
 [Purchase revision roles and responsibilities](purchase-revision-flows-roles.md)
 
-[Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md)
+[Playbooks](../../build-workflows/workflow-studio/process-automation-designer.md)
 

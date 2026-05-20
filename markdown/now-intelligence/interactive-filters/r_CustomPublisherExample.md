@@ -24,11 +24,11 @@ This example details how to create a custom filter to filter reports on the Task
 **Related topics**  
 
 
-[Configure a content block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentBlock.md)
+[Configure a content block](../../platform-user-interface/content-management-system/t_CreateAContentBlock.md)
 
-[UI scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_UIScripts.md)
+[UI scripts](../../api-reference/scripts/c_UIScripts.md)
 
-[Jelly tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/r_JellyTags.md)
+[Jelly tags](../../api-reference/scripts/r_JellyTags.md)
 
 [DashboardMessageHandler](c_DashboardMessageHandler.md#)
 

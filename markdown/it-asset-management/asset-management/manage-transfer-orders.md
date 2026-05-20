@@ -27,7 +27,7 @@ Consumable assets and non-consumable assets can be transferred as follows:
 -   If the Service Management Core plugin is activated, the Transfer Order Line SM core workflow manages the processing of the transfer order lines.
 -   If the Field Service Management plugin \(com.snc.work\_management\) is activated, the Transfer Order Line SMCore workflow manages the processing of the transfer order lines.
 
-For more information, see [Move an asset through the transfer process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/create-transfer-order-line-task.md).
+For more information, see [Move an asset through the transfer process](../../field-service-management/work-order-management/create-transfer-order-line-task.md).
 
 ## Transfer order lines
 

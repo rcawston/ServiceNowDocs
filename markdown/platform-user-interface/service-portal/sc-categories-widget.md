@@ -153,5 +153,5 @@ Verifies with each item that the user has the right roles to view the catalog it
 
 [Clone a widget](t_CloneAndEditAWidget.md)
 
-[Access Service Catalog categories in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/access-categories-portal.md)
+[Access Service Catalog categories in Service Portal](../../servicenow-platform/service-catalog/access-categories-portal.md)
 

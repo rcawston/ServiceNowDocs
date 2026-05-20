@@ -46,7 +46,7 @@ In the links below, Now Assist for Employee Center Pro features are organized in
 
 [Employee Center Pro](employee-center-pro-landing.md)
 
-[Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md)
+[Now Assist](../../intelligent-experiences/platform-now-assist-landing.md)
 
-[AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md)
+[AI Search](../../platform-administration/ai-search/overview-ais.md)
 

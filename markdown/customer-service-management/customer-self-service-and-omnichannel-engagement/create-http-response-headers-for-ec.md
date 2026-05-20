@@ -136,5 +136,5 @@ Detailed description for the HTTP response header.
 **Related topics**  
 
 
-[HTTP Response Headers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/http-response-header.md)
+[HTTP Response Headers](../../servicenow-platform/http-response-header.md)
 

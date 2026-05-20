@@ -47,7 +47,7 @@ Using a dictionary entry to make a field mandatory does not work when using WebS
 **Related topics**  
 
 
-[Set a CI field to be mandatory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_SetCIFieldMandatory.md)
+[Set a CI field to be mandatory](../servicenow-platform/configuration-management-database-cmdb/t_SetCIFieldMandatory.md)
 
 [Define a dictionary override](table-administration-and-data-management/t_DefineADictionaryOverride.md)
 

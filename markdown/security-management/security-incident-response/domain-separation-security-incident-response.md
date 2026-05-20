@@ -24,7 +24,7 @@ Domain separation is supported in Security Incident Response. Domain separation 
 
 Sample use case: An admin must be able to make comments required when a record closes for one tenant, but not for another.
 
-For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
+For more information on support levels, see [Application support for domain separation](../../platform-security/domain-separated-apps.md).
 
 ## Domain separation in SIR overview
 
@@ -131,7 +131,7 @@ The following tasks must be configured:
     -   Set the email parsing inbox: [Security Operations email parsing](../email-parsing.md)
     -   Set up email parsers for alert ingestion: [Create email parsers in Security Operations](../parsing-emails.md)
     -   Set up email matching rules for user-reported phishing: [Create rules to validate user-reported phishing attacks](setup-assistant-reference.md#)
-    -   Set up email inbound actions: [Inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_InboundEmailActions.md)
+    -   Set up email inbound actions: [Inbound email actions](../../platform-administration/c_InboundEmailActions.md)
 4.  Security incident playbook settings
     -   Review and set up runbook documents: [Create a Security Incident Response runbook](setup-assistant-reference.md#)
     -   Set up security incident workflows: [Security Operations common functionality](../sec-ops-common-functionality.md)
@@ -171,5 +171,5 @@ The following tasks must be configured:
 **Related topics**  
 
 
-[Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
+[Domain separation for service providers](../../platform-security/domain-sep-landing-page.md)
 

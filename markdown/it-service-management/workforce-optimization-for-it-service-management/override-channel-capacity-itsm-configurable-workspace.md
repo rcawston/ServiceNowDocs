@@ -21,7 +21,7 @@ Role required: sn\_wfo\_cfg\_ws.manager
 
 ## About this task
 
-By default, the override capacity is valid for 12 hours. Administrator can change the duration using the **sn\_channel\_mgmt.awa\_agent\_temporary\_override\_time.minutes** system property. For information on adding a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md). The capacity resets to the previous value after the specified time. The scheduled job **Reset Temporary Capacity Override** is executed every two minutes to check the invalid or expired overridden capacity and resets to the previous value.
+By default, the override capacity is valid for 12 hours. Administrator can change the duration using the **sn\_channel\_mgmt.awa\_agent\_temporary\_override\_time.minutes** system property. For information on adding a system property, see [Add a system property](../../platform-administration/r_AvailableSystemProperties.md). The capacity resets to the previous value after the specified time. The scheduled job **Reset Temporary Capacity Override** is executed every two minutes to check the invalid or expired overridden capacity and resets to the previous value.
 
 **Note:** You can override the channel capacity for a single agent at a time. Ensure that an agent to whom you want to override the channel capacity needs to be associated with Advanced Work Assignment and the required channels.
 

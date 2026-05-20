@@ -21,7 +21,7 @@ Role required: admin, pd\_content\_author
 
 A playbook is set of steps that defines a process. A decision tree can be added as one of the steps within a playbook.
 
-Playbooks are displayed in cases on Agent Workspace based on trigger definitions defined for each playbook in the Process Automation Designer. For more details, see [Process Automation Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md). Based on the context of the case the customer service agent is working on, the playbook and any associated decision trees are displayed.
+Playbooks are displayed in cases on Agent Workspace based on trigger definitions defined for each playbook in the Process Automation Designer. For more details, see [Process Automation Designer](../build-workflows/workflow-studio/process-automation-designer.md). Based on the context of the case the customer service agent is working on, the playbook and any associated decision trees are displayed.
 
 For more details on playbooks for Customer Service Management, see [Playbooks for Customer Service Management](customer-service-case-playbooks.md).
 

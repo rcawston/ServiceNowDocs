@@ -23,7 +23,7 @@ Role required: admin
 
 -   Field recommendations are only available in the Advanced Recommended actions for ITSM application, which requires the ITSM Pro package subscription.
 -   The recommendations associated with field recommendations must be active.
--   The field recommendations must be configured in the Recommended Actions. For more information, see [Create a field recommendation in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-field-recs-create.md).
+-   The field recommendations must be configured in the Recommended Actions. For more information, see [Create a field recommendation in Recommended Actions](../../customer-service-management/ra-csm-field-recs-create.md).
 
 ## Procedure
 

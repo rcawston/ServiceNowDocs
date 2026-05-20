@@ -17,7 +17,7 @@ Enable the large language model \(LLM\)-based conversational experience with Now
 
 ## Before you begin
 
-Ensure that you enable AI Search to have Now Assist conversations using the Now LLM Service. For more information about enabling AI Search, see [Enable AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-ais-next-exp-app.md).
+Ensure that you enable AI Search to have Now Assist conversations using the Now LLM Service. For more information about enabling AI Search, see [Enable AI Search for Next Experience](../../platform-administration/ai-search/enable-ais-next-exp-app.md).
 
 Role required: admin
 

@@ -23,13 +23,13 @@ Automate workflows with Virtual Agent. In this example, a user is notified that 
 
 Virtual Agent comes with a basic configuration that includes common greetings, NLU intents, reusable logic, and pre-built conversations. Using these building blocks, you can quickly put together workflows to handle some of the most common organizational needs, including the following:
 
--   [Resetting a password](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-password-management.md)
--   [IT Self-Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-self-service-topics.md)
--   [IT troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-it-issues-generic.md)
--   [HR queries and employee profile updates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-virtual-agent-conversations.md)
--   [Customer Service queries and requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-virtual-agent-chatbot.md)
+-   [Resetting a password](../../it-service-management/itsm-virtual-agent/itsm-password-management.md)
+-   [IT Self-Service](../../it-service-management/itsm-virtual-agent/itsm-va-self-service-topics.md)
+-   [IT troubleshooting](../../it-service-management/itsm-virtual-agent/itsm-va-it-issues-generic.md)
+-   [HR queries and employee profile updates](../../employee-service-management/hr-service-delivery/hr-virtual-agent-conversations.md)
+-   [Customer Service queries and requests](../../customer-service-management/csm-virtual-agent-chatbot.md)
 
-To help you understand the possibilities, the Asset Refresh example uses pre-built topic blocks that are included in the [ITSM Virtual Agent Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-virtual-agent.md) plugin. These topic blocks do most of the "heavy lifting" in the topic.
+To help you understand the possibilities, the Asset Refresh example uses pre-built topic blocks that are included in the [ITSM Virtual Agent Conversations](../../it-service-management/itsm-virtual-agent/itsm-virtual-agent.md) plugin. These topic blocks do most of the "heavy lifting" in the topic.
 
 ## Asset Refresh workflow
 

@@ -20,7 +20,7 @@ Configure the New Relic analysis AI agent for the analyze alert impact agentic w
 
 Before configuring the New Relic analysis AI agent, you must do the following:
 
--   [Install Now Assist for IT Operations Management \(ITOM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
+-   [Install Now Assist for IT Operations Management \(ITOM\)](../../intelligent-experiences/install-now-assist-feature-plugins.md).
 -   [Integrate New Relic with Event Management](../event-management/new-relic-events-integration.md).
 -   Copy your New Relic API key.
 

@@ -110,7 +110,7 @@ If you’re an anonymous user not logged in to the application, enter keywords f
 1.  Initiate submitting your request for one of the catalog items.
     -   If you’re using the virtual agent conversation without enabling NLU, select **Show Me Everything** and then select **Submit a request**.
     -   If you’re using NLU in your virtual agent conversation, enter an utterance for example open a request, that will identify that there is a NLU and intent associated.
-2.  Select the catalog item. The Search Catalog Item topic block searches for the catalog item and displays a link based on your search. For more information about search catalog item, see [ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-virtual-agent.md)
+2.  Select the catalog item. The Search Catalog Item topic block searches for the catalog item and displays a link based on your search. For more information about search catalog item, see [ITSM Virtual Agent](../it-service-management/itsm-virtual-agent/itsm-virtual-agent.md)
 
 **Note:** Wherever the topic is opened, the records will display on the same portal.
 
@@ -157,5 +157,5 @@ The topic block returns the variable case\_sys\_id
 
 [Customer Service Virtual Agent conversations](csm-virtual-agent-chatbot.md)
 
-[Maximizing code reuse with topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topic-blocks-overview.md)
+[Maximizing code reuse with topic blocks](../conversational-interfaces/virtual-agent/topic-blocks-overview.md)
 

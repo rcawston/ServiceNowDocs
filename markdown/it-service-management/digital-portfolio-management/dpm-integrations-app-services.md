@@ -55,7 +55,7 @@ Key performance indicator \(KPI\) data from PA that comes with the base system. 
 -   New requests
 -   Changes
 
- For additional KPI data, see [KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md).
+ For additional KPI data, see [KPI Details](../../now-intelligence/kpi-details.md).
 
 </td></tr><tr><td>
 

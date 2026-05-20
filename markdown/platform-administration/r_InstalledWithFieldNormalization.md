@@ -70,7 +70,7 @@ The following business rules were created for this plugin:
 **Related topics**  
 
 
-[Enable auditing for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnableAuditingForATable.md)
+[Enable auditing for a table](../platform-security/t_EnableAuditingForATable.md)
 
 ## Normalizer \[normalizer\]
 

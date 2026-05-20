@@ -65,5 +65,5 @@ This business rule is installed with Live Feed Document. There are no tables, ro
 
 [Provide access to Live Feed from CMS pages](t_AccessLiveFeedFromCMSPages.md)
 
-[Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md)
+[Activate a plugin](../../platform-administration/t_ActivateAPlugin.md)
 

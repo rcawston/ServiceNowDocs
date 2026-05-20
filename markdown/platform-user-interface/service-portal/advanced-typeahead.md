@@ -17,7 +17,7 @@ Configure the way typeahead results display with an advanced template.
 
 ## Before you begin
 
-**Note:** Search suggestions replaces typeahead search in Service Portal. Update the **glide.service\_portal.search\_as\_you\_type\_behavior** system property to change this behavior. For more information, see [Enable and disable search suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/enable-search-suggestions.md). Service Portal search widgets automatically use whichever feature you enable.
+**Note:** Search suggestions replaces typeahead search in Service Portal. Update the **glide.service\_portal.search\_as\_you\_type\_behavior** system property to change this behavior. For more information, see [Enable and disable search suggestions](../../platform-administration/search-administration/enable-search-suggestions.md). Service Portal search widgets automatically use whichever feature you enable.
 
 Role required: admin
 

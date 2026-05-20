@@ -12,7 +12,7 @@ reading_time_minutes: 2
 
 The ServiceNow® Accounts Payable Operations application enables accounts payable specialists to automate cost allocations in the invoice lines using distribution sets. The AI-powered agent provides business owner recommendations for non-PO invoices based on historical patterns. The Accounts Payable Operations was enhanced and updated in the Australia release.
 
--   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
+-   **[ServiceNow product tiers](../../intelligent-experiences/ai-native-sku-overview.md)**
 
     The ServiceNow AI Platform now brings you an AI native experience with three licensing tiers available:
 

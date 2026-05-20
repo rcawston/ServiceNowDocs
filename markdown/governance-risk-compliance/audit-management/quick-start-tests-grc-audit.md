@@ -97,5 +97,5 @@ Paris
 **Related topics**  
 
 
-[Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/quick-start-tests.md)
+[Quick start tests](../../application-development/automated-test-framework-atf/quick-start-tests.md)
 

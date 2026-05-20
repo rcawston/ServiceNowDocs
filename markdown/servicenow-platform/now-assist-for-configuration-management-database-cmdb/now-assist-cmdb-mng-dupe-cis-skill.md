@@ -106,11 +106,11 @@ If you think that data might have changed after you viewed the response, select 
 </table>
 ## What to do next
 
--   For more information, see [Working in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
+-   For more information, see [Working in the Now Assist panel](../../intelligent-experiences/now-assist-panel-overview.md).
 
 -   To start over, select **Reset conversation** in the More menu \(![More menu icon](../../../administer/dynamic-translation/image/Ellipses.png)\).
 
-    **Warning:** If you reset the conversation, all existing messages are deleted and an entirely new conversation starts. To learn more about using the Now Assist panel, see [Working in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
+    **Warning:** If you reset the conversation, all existing messages are deleted and an entirely new conversation starts. To learn more about using the Now Assist panel, see [Working in the Now Assist panel](../../intelligent-experiences/now-assist-panel-overview.md).
 
 -   [See how IRE detects duplicate CIs and generates de-duplication tasks](../configuration-management-database-cmdb/id-detect-dup-ci.md).
 -   [See how to manage and remediate the de-duplication tasks by using de-duplication templates](../configuration-management-database-cmdb/de-duplication-tasks.md).
@@ -118,7 +118,7 @@ If you think that data might have changed after you viewed the response, select 
 **Related topics**  
 
 
-[Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md)
+[Now Assist panel](../../intelligent-experiences/now-assist-panel-overview.md)
 
 [Duplicate CIs remediation](../configuration-management-database-cmdb/de-duplication-tasks.md)
 

@@ -73,7 +73,7 @@ Activate the property \(glide.knowman.apply\_article\_read\_criteria\) to overri
 
 
 </td></tr></tbody>
-</table>    **Note:** If the **Can Read** and **Cannot Read** fields aren't visible, configure the Knowledge form to display them. For more information, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
+</table>    **Note:** If the **Can Read** and **Cannot Read** fields aren't visible, configure the Knowledge form to display them. For more information, see [Configuring the form layout](../../platform-administration/configure-form-layout.md).
 
 3.  On the Knowledge form, click **Update**, and then click **Publish** to apply the changes.
 

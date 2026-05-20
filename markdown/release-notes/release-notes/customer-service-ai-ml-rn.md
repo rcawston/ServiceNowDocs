@@ -27,7 +27,7 @@ The ServiceNow® Intelligence for Customer Service Management \(CSM\) applicatio
 -   Use AI to populate interaction wrap-up codes and notes, saving agents time.
 -   Simplify metadata management by granting developer roles and privileges to your granular admin users.
 
-See [Intelligence for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/intelligence-csm.md) for more information.
+See [Intelligence for CSM](../../customer-service-management/intelligence-csm.md) for more information.
 
 **Important:** The following applications are available in ServiceNow Store:
 
@@ -40,16 +40,16 @@ For details, see the "Activation information" section of these release notes.
 
 ## New in the Australia release
 
--   **[Quality assurance management skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/quality-assurance-management.md)**
+-   **[Quality assurance management skill](../../customer-service-management/now-assist-for-csm/quality-assurance-management.md)**
 
     Automatically evaluate agent activity on closed cases using AI models that score each interaction against a configurable quality rubric, eliminating manual sampling and ensuring consistent, objective assessments at scale.
 
--   **[Extended table support for email reply recommendation skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/configure-extended-table-support-for-the-email-reply-recommendation-skill.md)**
+-   **[Extended table support for email reply recommendation skill](../../customer-service-management/now-assist-for-csm/configure-extended-table-support-for-the-email-reply-recommendation-skill.md)**
 
     Automatically receive email reply recommendations on extended table record pages in Now Assist for CSM, allowing agents to quickly respond to customers, provide intelligent recommendations and reducing manual effort.
 
 
--   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
+-   **[ServiceNow product tiers](../../intelligent-experiences/ai-native-sku-overview.md)**
 
     The ServiceNow AI Platform now brings you a new AI experience with three licensing tiers available:
 
@@ -58,55 +58,55 @@ For details, see the "Activation information" section of these release notes.
     -   Prime: Act autonomously with all AI assets, and create your own
     Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents.
 
--   **[AI workflow tab added in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/ai-workflow-pattern-in-customer-service-management.md)**
+-   **[AI workflow tab added in Core UI](../../customer-service-management/now-assist-for-csm/ai-workflow-pattern-in-customer-service-management.md)**
 
     Availability of AI Workflow tab within case view of case table records and email interaction view of interaction records in Core UI, showing agentic workflows and actionable AI-driven insights directly in the record UI.
 
--   **[Filter controls in Now Assist Guardian](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-guardian-csm-filters.md)**
+-   **[Filter controls in Now Assist Guardian](../../customer-service-management/now-assist-for-csm/now-assist-guardian-csm-filters.md)**
 
     Availability of filter controls for CSM in the Now Assist Guardian interface, allowing users to toggle the base system filters on and off. Filtered results display in a user-friendly format for quick case review and action.
 
 
--   **[Guided Decisions - UI Layout tab for the Guided Decision with inputs/outputs activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-gd-input-output-playbook.md)**
+-   **[Guided Decisions - UI Layout tab for the Guided Decision with inputs/outputs activity](../../customer-service-management/add-gd-input-output-playbook.md)**
 
     Configure the display of knowledge articles directly from the UI Layout tab by setting a default article height and choosing whether articles appear collapsed by default in the playbook.
 
--   **[Guided Decisions - Restart option for the Guided Decision with inputs and outputs activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-gd-input-output-playbook.md)**
+-   **[Guided Decisions - Restart option for the Guided Decision with inputs and outputs activity](../../customer-service-management/add-gd-input-output-playbook.md)**
 
     As an agent, you can restart a Guided Decision with inputs and outputs activity in a playbook by selecting the **Restart Activity** option when the activity is in a complete, skipped, or error state and the stage is still in progress.
 
--   **[Recommended Actions - Hybrid search in AI search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-hybrid-search.md)**
+-   **[Recommended Actions - Hybrid search in AI search](../../customer-service-management/ra-hybrid-search.md)**
 
     Recommended Actions in CSM Configurable Workspace now uses hybrid search, combining keyword and semantic matching to surface more relevant KB articles and guided actions in the AI search tab, even when agent queries do not match article content exactly.
 
--   **[Recommended Actions - View the relevancy score on the Case resolution guidance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba-use-ai-search.md)**
+-   **[Recommended Actions - View the relevancy score on the Case resolution guidance](../../customer-service-management/nba-use-ai-search.md)**
 
     View the relevancy score, which indicates how well a search result matches the agent's query, on the search result recommendation cards in the Search tab of the Recommended Actions panel for the Case resolution guidance.
 
--   **[Recommended Actions – Configure contextual filtering of AI search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-configure-contextual-filtering.md)**
+-   **[Recommended Actions – Configure contextual filtering of AI search results](../../customer-service-management/ra-configure-contextual-filtering.md)**
 
     Enhance search accuracy by ensuring results are contextually relevant to the record being viewed by the agent. Search results are dynamically filtered based on contextual information passed through additional context parameters. To configure the contextual filtering of the Search results, enable the dynamic filter for a search source in a Search profile and then create the AisDynamicFilter implementation for the source which holds the filtering conditions.
 
--   **[Recommended Actions – Support for mandatory Contextual Inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-create-context-inputs.md)**
+-   **[Recommended Actions – Support for mandatory Contextual Inputs](../../customer-service-management/ra-csm-create-context-inputs.md)**
 
     As an RA author, you can mark specific context inputs as mandatory by selecting the Mandatory check box in the Context Inputs form. When one or more context inputs are configured as mandatory, you must set the values for these contextual inputs directly on Recommended Actions component on the record page in the UI Builder for the recommendations to be generated.
 
--   **[Recommended Actions - Manage and conﬁgure metadata with delegated developer approach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-installed-components.md)**
+-   **[Recommended Actions - Manage and conﬁgure metadata with delegated developer approach](../../customer-service-management/ra-csm-installed-components.md)**
 
     Grant granular admin users delegated developer privileges and required roles to manage and configure metadata. This includes the Manage update set permission, domain\_picker role, and metadata\_scope\_viewer role for viewing and modifying the application scope of metadata records.
 
--   **[AI interaction wrap-up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/interaction-wrapup-ai-generated.md)**
+-   **[AI interaction wrap-up](../../customer-service-management/interaction-wrapup-ai-generated.md)**
 
     Provides agents with AI assistance during the interaction wrap-up period. This feature generates wrap-up content for interaction records, such as the wrap-up code and notes.
 
--   **[Process mining - Pre‑configured templates for CSM Process Mining Projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/process-opt-csm.md)**
+-   **[Process mining - Pre‑configured templates for CSM Process Mining Projects](../../customer-service-management/process-opt-csm.md)**
 
     Select pre‑configured templates from the Process Mining Content Pack for CSM to quickly set up customer service case projects with default settings already applied. These templates help accelerate project creation by providing standardized configurations tailored for common Customer Service Management scenarios.
 
 
 ## Activation information
 
-Customer Service Management is available with activation of the Customer Service plugin \(com.sn\_customerservice\). For details, see [Activate Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_ActivateCustomerService.md).
+Customer Service Management is available with activation of the Customer Service plugin \(com.sn\_customerservice\). For details, see [Activate Customer Service Management](../../customer-service-management/t_ActivateCustomerService.md).
 
 ## Plugin information
 
@@ -119,11 +119,11 @@ Customer Service Management is available with activation of the Customer Service
 
 ## Browser requirements
 
-ServiceNow workspaces don’t support mobile devices, Internet Explorer, or Microsoft Edge. Instead, use Microsoft Edge - Chromium or one of the other supported browsers listed in [Browser support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/browser-support.md).
+ServiceNow workspaces don’t support mobile devices, Internet Explorer, or Microsoft Edge. Instead, use Microsoft Edge - Chromium or one of the other supported browsers listed in [Browser support](../../platform-user-interface/browser-support.md).
 
 ## Related ServiceNow applications and features
 
--   **[Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)**
+-   **[Customer Service Management](../../customer-service-management/c_CustomerServiceManagement.md)**
 
     Provide the service and support that your external customers need with Customer Service Management.
 
@@ -131,11 +131,11 @@ ServiceNow workspaces don’t support mobile devices, Internet Explorer, or Micr
 
     Summarize customer chat conversations on interactions, summarize case details, and generate case resolution notes with the ServiceNow® Now Assist for CSM application.
 
--   **[Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/document-intelligence-landing.md)**
+-   **[Document Intelligence](../../intelligent-experiences/document-intelligence/document-intelligence-landing.md)**
 
     Extract the data from documents and integrate the data into automation workflows to save time and resources by using the Document Intelligence AI solution.
 
--   **[Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence-landing.md)**
+-   **[Predictive Intelligence](../../intelligent-experiences/predictive-intelligence/predictive-intelligence-landing.md)**
 
     Improve processes across the platform, such as automatically populating fields when a case is created, categorizing and routing work, and suggesting case resolutions through Predictive Intelligence AI.
 

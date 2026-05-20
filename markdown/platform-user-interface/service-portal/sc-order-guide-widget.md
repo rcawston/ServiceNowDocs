@@ -15,7 +15,7 @@ breadcrumb: [Service Catalog widgets, Widget library, Using portal widgets, Conf
 
 Use this widget \(widget-sc-order-guide-v2\) to request an order guide, that is, a single service catalog request for several catalog items with a specific purpose. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-Configure [order guides](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogOrderGuides.md) using the Service Catalog in the platform UI by navigating to **Service Catalog** &gt; **Catalog Definitions** &gt; **Order Guides**.
+Configure [order guides](../../servicenow-platform/service-catalog/c_ServiceCatalogOrderGuides.md) using the Service Catalog in the platform UI by navigating to **Service Catalog** &gt; **Catalog Definitions** &gt; **Order Guides**.
 
 The order guide form comprises the following sections:
 
@@ -37,7 +37,7 @@ Each accordion displays:
 
     **Note:** If the fields are mandatory, a red asterisk is displayed beside **Options**.
 
--   A toggle to include the catalog item in the order guide request. You can make it mandatory to include all items in the order guide request by not displaying the toggle. You can make it optional to include items in the order guide request by displaying the toggle. To display the toggle for each catalog item of the order guide, select the **Show Include Toggle \(Service Portal\)** check box while configuring the order guide. For more information, see [Create an order guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAnOrderGuide.md) .
+-   A toggle to include the catalog item in the order guide request. You can make it mandatory to include all items in the order guide request by not displaying the toggle. You can make it optional to include items in the order guide request by displaying the toggle. To display the toggle for each catalog item of the order guide, select the **Show Include Toggle \(Service Portal\)** check box while configuring the order guide. For more information, see [Create an order guide](../../servicenow-platform/service-catalog/t_CreateAnOrderGuide.md) .
 
     **Note:** When an item is excluded from the order guide request, the item is not editable and the corresponding mandatory field restrictions are ignored.
 
@@ -161,7 +161,7 @@ Option to display the **Add to Cart** button on the order guide summary page.
 
 [Clone a widget](t_CloneAndEditAWidget.md)
 
-[Request an order guide from Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-order-guide-portal.md)
+[Request an order guide from Service Portal](../../servicenow-platform/service-catalog/request-order-guide-portal.md)
 
-[Configure order guide widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-cart-widgets.md)
+[Configure order guide widgets](../../servicenow-platform/service-catalog/service-catalog-cart-widgets.md)
 

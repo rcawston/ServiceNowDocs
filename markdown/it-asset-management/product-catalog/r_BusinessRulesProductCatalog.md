@@ -27,5 +27,5 @@ Product Catalog plugin adds the following business rules.
 **Related topics**  
 
 
-[Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/business-rules-classic/c_BusinessRules.md)
+[Business rules](../../api-reference/business-rules-classic/c_BusinessRules.md)
 
