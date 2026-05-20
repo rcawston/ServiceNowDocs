@@ -77,5 +77,5 @@ Sum of Capex and Opex amounts.The total project funding budget amount rolls up t
 
 ## What to do next
 
-The project target and budget expense values for both capital and operating expenses for a single fiscal period is stored in the [Project Funding \[project\_funding\] table](multicurrency-fields-project-form.md#project_funding_project_curr). When you update the project funding record, the amounts are converted to project currency.
+The project target and budget expense values for both capital and operating expenses for a single fiscal period is stored in the [Project Funding \[project\_funding\] table](multicurrency-fields-project-form.md#multicurrency-fields-in-the-project-funding-form). When you update the project funding record, the amounts are converted to project currency.
 

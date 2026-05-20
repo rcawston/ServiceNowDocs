@@ -23,7 +23,7 @@ Role required: none
 
 In addition to selecting text, the ActionSet Text Selection action can copy or delete text in a targeted application window. You can also set the action to trim leading or trailing white space from the captured text.
 
-You can configure the properties for the Text Selection component. For more information about these properties, see [ActionSet Text Selection- Properties](actionset-actions-properties.md#ActionSet-TextSelection).
+You can configure the properties for the Text Selection component. For more information about these properties, see [ActionSet Text Selection- Properties](actionset-actions-properties.md#set-text).
 
 ## Procedure
 

@@ -25,7 +25,7 @@ Use the Collect User Data activity if:
 
 If you already have a table to store the collected data, use the [User Form activity](user-form-activity.md).
 
-The key input for this activity is the **User form for data collection** field, under the [Inputs](collect-user-data-activity.md#collect-user-data_inputs) section. To provide this input, you must [create a data definition](create-data-definition.md) first.
+The key input for this activity is the **User form for data collection** field, under the [Inputs](collect-user-data-activity.md#collect-user-data-activity) section. To provide this input, you must [create a data definition](create-data-definition.md) first.
 
 ## Roles and availability
 

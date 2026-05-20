@@ -89,7 +89,7 @@ Connectors Status
 
 </td><td>
 
-Monitor to track the active status of the connectors. Select only one threshold to configure which severity to invoke using 1 to select the threshold field or 0 to ignore the threshold field. For more information, see [Connector status example](configure-threshold-monitoring.md#threshold-example). Health Monitor script selected: `Connectors Monitor`.
+Monitor to track the active status of the connectors. Select only one threshold to configure which severity to invoke using 1 to select the threshold field or 0 to ignore the threshold field. For more information, see [Connector status example](configure-threshold-monitoring.md#example). Health Monitor script selected: `Connectors Monitor`.
 
 </td></tr><tr><td>
 
@@ -178,7 +178,7 @@ Script
 
 </td><td>
 
-Monitoring script. Click the search icon. The existing scripts are listed in the Health Monitor Scripts screen, or click **New** to create a custom health monitor script. For more information about creating a custom health monitor script, see step [3](custom-configure-threshold-monitoring.md#step_4_custom).
+Monitoring script. Click the search icon. The existing scripts are listed in the Health Monitor Scripts screen, or click **New** to create a custom health monitor script. For more information about creating a custom health monitor script, see step [3](custom-configure-threshold-monitoring.md#table_w34_sg2_2fb).
 
 </td></tr><tr><td colspan="2">
 

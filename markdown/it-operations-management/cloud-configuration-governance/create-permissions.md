@@ -32,7 +32,7 @@ Assign a permission to refine the actions that are allowed or prohibited for use
     |-----|-----------|
     |Target type|Select the cloud table in which the target record belongs.|
     |All Entities|Select this option to apply the permission to all records in the table.|
-    |Permission|Select the [permission type](cloud-permissions.md#default-permission).|
+    |Permission|Select the [permission type](cloud-permissions.md#permission-types).|
     |Target Entity|Select the record that the permission is based upon.|
     |Group|Select the user group.|
 

@@ -97,7 +97,7 @@ Applies on Catalog Tasks
 
 </td><td>
 
-Select the check box to apply the UI policy on a Catalog Task form. Available in the fulfiller view. See [VEditor](service-catalog-variable-editor.md#cat-VEditor).
+Select the check box to apply the UI policy on a Catalog Task form. Available in the fulfiller view. See [VEditor](service-catalog-variable-editor.md#veditor).
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Applies on Requested Items
 
 </td><td>
 
-Select the check box to apply the UI policy on a Requested Item form. Available in the fulfiller view. See [VEditor](service-catalog-variable-editor.md#cat-VEditor).
+Select the check box to apply the UI policy on a Requested Item form. Available in the fulfiller view. See [VEditor](service-catalog-variable-editor.md#veditor).
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Applies on the Target Record
 
 </td><td>
 
-Select the check box to support the catalog UI policy on a record created for task-extended tables via record producers. See [Default variable editor](service-catalog-variable-editor.md#cat-default-variable-editor).
+Select the check box to support the catalog UI policy on a record created for task-extended tables via record producers. See [Default variable editor](service-catalog-variable-editor.md#default-variable-editor).
 
 </td></tr><tr><td>
 

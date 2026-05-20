@@ -19,8 +19,8 @@ As a user with the sn\_hcls.admin role, you can configure a privacy policy for o
 
 You can determine the consent management process as one of the following types:
 
--   [Standard](hcls-consent-mgmt.md#section_ar1_sb2_ftb)
--   [Document](hcls-consent-mgmt.md#section_lgc_pb2_ftb)
+-   [Standard](hcls-consent-mgmt.md#configuring-standard-policy-types)
+-   [Document](hcls-consent-mgmt.md#configuring-document-policy-types)
 
 ## Configuring standard policy types
 

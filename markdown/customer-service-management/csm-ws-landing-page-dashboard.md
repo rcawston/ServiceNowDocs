@@ -15,7 +15,7 @@ Enable your users to display, customize, and share dashboards in CSM Configurabl
 
 Workspace dashboards enable users such as agents and managers to configure and customize their own metrics. These users can switch between available dashboards and modify dashboard lists and metrics to track important information. They can also share dashboards with coworkers and across teams.
 
-To display workspace dashboards, system administrators activate the [CSM Dashboards](csm-ws-landing-page-dashboard.md#section_bhb_2n4_4xb) landing page variant and configure user privileges. When configured, users included in the page audience see the Dashboard Overview landing page in CSM Configurable Workspace and the [default dashboards](csm-ws-landing-page-dashboard.md#section_vny_jwb_4xb) included with that page.
+To display workspace dashboards, system administrators activate the [CSM Dashboards](csm-ws-landing-page-dashboard.md#activating-the-csm-dashboards-landing-page-variant) landing page variant and configure user privileges. When configured, users included in the page audience see the Dashboard Overview landing page in CSM Configurable Workspace and the [default dashboards](csm-ws-landing-page-dashboard.md#dashboard-overview-landing-page-default-dashboards) included with that page.
 
 The dashboards are represented by tiles on the Dashboard Overview landing page. The individual tiles show the title, the creator, whether the dashboard is certified, and an indication that the logged in user has bookmarked the dashboard.
 
@@ -29,7 +29,7 @@ The **CSM Dashboards** landing page variant is included with the CSM and FSM Con
 
 The CSM Configurable Workspace application, which includes the CSM and FSM Configurable Workspace plugin, is available from the ServiceNow® Store.
 
-The default dashboards available with this landing page variant are available depending on [user role](csm-ws-landing-page-dashboard.md#section_qk3_nm4_4xb). Some of these dashboards require additional plugins to see all of the dashboard information. These plugins include:
+The default dashboards available with this landing page variant are available depending on [user role](csm-ws-landing-page-dashboard.md#user-roles-for-the-dashboard-overview-landing-page). Some of these dashboards require additional plugins to see all of the dashboard information. These plugins include:
 
 -   Performance Analytics - Content Pack - Customer Service \(com.snc.pa.customer\_service\)
 -   Performance Analytics – Content Pack – Customer Service Management – Advanced \(com.snc.pa.customer\_service\_advanced\)
@@ -44,7 +44,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The **CSM Dashboards** landing page variant is an optional page variant for the **CSM/FSM Configurable Workspace experience**. By default, this page variant is marked as inactive and has an order value of 0. When activated and set to the lowest order number, the system uses the **CSM Dashboards** landing page in place of the default [CSM Landing Page](csm-ws-landing-page-original.md) for the users included in the page audience.
 
-**Note:** The default landing page, Dashboard Overview, and the [default dashboards](csm-ws-landing-page-dashboard.md#section_vny_jwb_4xb) included with that page are available in read-only mode and are provided as examples. It is recommended that you create and customize duplicates of the landing page and dashboards.
+**Note:** The default landing page, Dashboard Overview, and the [default dashboards](csm-ws-landing-page-dashboard.md#dashboard-overview-landing-page-default-dashboards) included with that page are available in read-only mode and are provided as examples. It is recommended that you create and customize duplicates of the landing page and dashboards.
 
 For more information about activating a page variant and setting the order, see [Set record page order](config-csm-ws-set-record-page-order.md).
 
@@ -64,7 +64,7 @@ The system administrator can change these default roles by configuring the page 
 -   [Learn about audiences](../application-development/ui-builder/add-audiences.md)
 -   [Add an audience to your UI Builder page](../application-development/ui-builder/configure-audiences.md)
 
-Roles determine view access for the dashboards available with the Dashboard Overview landing page. For details, see [Default dashboards](csm-ws-landing-page-dashboard.md#section_vny_jwb_4xb).
+Roles determine view access for the dashboards available with the Dashboard Overview landing page. For details, see [Default dashboards](csm-ws-landing-page-dashboard.md#dashboard-overview-landing-page-default-dashboards).
 
 The service management agent role \(sn\_esm\_agent\) contains the data visualizations creator role \(viz\_creator\), which is a role associated with the Visualization Designer and Visualization Library. Users with the viz\_creator role can create visualizations. The customer service agent \(sn\_customerservice\_agent\) and consumer service agent \(sn\_customerservice.consumer\_agent\) roles contain the sn\_esm\_agent role. For more information, see [Data visualizations in Platform Analytics](../now-intelligence/analytics-center-data-visualizations.md).
 

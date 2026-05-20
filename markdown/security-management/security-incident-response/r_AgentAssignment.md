@@ -47,7 +47,7 @@ The settings for the auto-assignment weighting properties, found in **Security I
 
 These values help you prioritize which auto-assignment selection criterion is more important to your organization. Set the priority values between 1 \(less important\) and 10 \(important\).
 
-For an example of how the weighting properties affect agent ratings, see [Agent auto-assignment using multiple selection criteria](r_AgentAssignment.md#auto-agent-mult-criteria).
+For an example of how the weighting properties affect agent ratings, see [Agent auto-assignment using multiple selection criteria](r_AgentAssignment.md#agent-auto-assignment-using-multiple-selection-criteria).
 
 ### On-call scheduling
 
@@ -75,7 +75,7 @@ When a task is created, agent locations are compared to the following ranges to 
 |40.1 to 100|0.1|
 |&gt;100|0|
 
-If the application is configured to use other selection criteria, such as skills, time zone, or schedule, the ratings of all selection criteria are weighted and summed up. The agent with the highest overall rating is auto-assigned for the task. See [Agent auto-assignment using multiple selection criteria](r_AgentAssignment.md#auto-agent-mult-criteria) for details.
+If the application is configured to use other selection criteria, such as skills, time zone, or schedule, the ratings of all selection criteria are weighted and summed up. The agent with the highest overall rating is auto-assigned for the task. See [Agent auto-assignment using multiple selection criteria](r_AgentAssignment.md#agent-auto-assignment-using-multiple-selection-criteria) for details.
 
 ### Agent auto-assignment using skills
 
@@ -99,7 +99,7 @@ For example, if a task requires four skills, and Agent A possesses three of them
 -   Agent A skill rating = 3/4 or 0.75
 -   Agent B skill rating = 2/4 or 0.5
 
-If the application is configured to use other selection criteria, such as location or time zone, the ratings of all selection criteria are weighted and summed up. The agent with the highest overall rating is selected for the task. See [Agent auto-assignment using multiple selection criteria](r_AgentAssignment.md#auto-agent-mult-criteria) for details.
+If the application is configured to use other selection criteria, such as location or time zone, the ratings of all selection criteria are weighted and summed up. The agent with the highest overall rating is selected for the task. See [Agent auto-assignment using multiple selection criteria](r_AgentAssignment.md#agent-auto-assignment-using-multiple-selection-criteria) for details.
 
 ### Agent auto-assignment using time zones
 
@@ -133,7 +133,7 @@ The rating of the agent in Paris is calculated as:
 
 So if the auto-assignment of the task is based on the time zone alone, it’s assigned to the agent from Los Angeles.
 
-If the application is configured to use other selection criteria, such as skills or location, the ratings of all selection criteria are weighted and summed. The agent with the highest overall rating is selected for the task. See [Agent auto-assignment using multiple selection criteria](r_AgentAssignment.md#auto-agent-mult-criteria) for the details.
+If the application is configured to use other selection criteria, such as skills or location, the ratings of all selection criteria are weighted and summed. The agent with the highest overall rating is selected for the task. See [Agent auto-assignment using multiple selection criteria](r_AgentAssignment.md#agent-auto-assignment-using-multiple-selection-criteria) for the details.
 
 ### Agent auto-assignment using group coverage areas
 
@@ -143,9 +143,9 @@ Agents can be auto-assigned based on the group coverage area defined in their us
 
 When a task is created, the agents ratings are calculated. For more information, see:
 
--   [Agent auto assignment using location](r_AgentAssignment.md#auto-agent-location)
--   [Agent auto-assignment using skills](r_AgentAssignment.md#auto-agent-skills)
--   [Agent auto-assignment using time zones](r_AgentAssignment.md#auto-agent-timezones)
+-   [Agent auto assignment using location](r_AgentAssignment.md#agent-auto-assignment-using-location)
+-   [Agent auto-assignment using skills](r_AgentAssignment.md#agent-auto-assignment-using-skills)
+-   [Agent auto-assignment using time zones](r_AgentAssignment.md#agent-auto-assignment-using-time-zones)
 
 Auto-assignment is based on the following calculation:
 

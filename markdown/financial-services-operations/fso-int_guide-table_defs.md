@@ -14,7 +14,7 @@ breadcrumb: [Developer resources, Financial Services Operations \(FSO\)]
 
 The Financial Services Operations \(FSO\) product provides multiple tables that you can leverage within your custom FSO applications. This section identifies the most frequently used of these tables and defines the fields contained within them.
 
--   [Consumer \[csm\_consumer\] table](fso-int_guide-table_defs.md#csm_consumer)
+-   [Consumer \[csm\_consumer\] table](fso-int_guide-table_defs.md#consumer-csm-consumer-table)
 -   [Credit Card \[sn\_bom\_credit\_card\] table](fso-int_guide-table_defs.md#sn_bom_credit_card)
 -   [Credit Card Service \[sn\_bom\_credit\_card\_service\] table](fso-int_guide-table_defs.md#sn_bom_credit_card_service)
 -   [Inbound Document \[sn\_bom\_document\_inbound\_document\] table](fso-int_guide-table_defs.md#sn_bom_document_inbound_document)

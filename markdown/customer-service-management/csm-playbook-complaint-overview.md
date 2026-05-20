@@ -21,7 +21,7 @@ The Case Playbook for Complaints can be used with cases that are created using t
 
 ## Case Playbook for Complaints application
 
-The Case Playbook for Complaints 3.0 application \(com.sn\_csm\_complaint\_caseflow\) is available from the ServiceNow® Store. For more information, see [Playbook plugins](setting-up-csm-playbooks.md#section_qgq_ylk_llb).
+The Case Playbook for Complaints 3.0 application \(com.sn\_csm\_complaint\_caseflow\) is available from the ServiceNow® Store. For more information, see [Playbook plugins](setting-up-csm-playbooks.md#playbook-plugins).
 
 ## Case Playbook for Complaints PAD process definition
 

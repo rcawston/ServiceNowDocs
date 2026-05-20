@@ -23,6 +23,7 @@ const skipDirs = new Set(['.git', 'node_modules', '.DS_Store']);
 const generatedMarkdownReports = new Set([
   'broken-links-report.md',
   'inline-code-anomalies-report.md',
+  'remaining-broken-anchor-candidates.md',
   'remaining-broken-markdown-links.md',
 ]);
 
@@ -30,6 +31,8 @@ const brokenLinksMd = path.join(repo, 'broken-links-report.md');
 const brokenLinksCsv = path.join(repo, 'broken-links-report.csv');
 const inlineCodeMd = path.join(repo, 'inline-code-anomalies-report.md');
 const inlineCodeCsv = path.join(repo, 'inline-code-anomalies-report.csv');
+const anchorCandidatesMd = path.join(repo, 'remaining-broken-anchor-candidates.md');
+const anchorCandidatesCsv = path.join(repo, 'remaining-broken-anchor-candidates.csv');
 const remainingMarkdownMd = path.join(repo, 'remaining-broken-markdown-links.md');
 const remainingMarkdownCsv = path.join(repo, 'remaining-broken-markdown-links.csv');
 
@@ -582,15 +585,17 @@ function slugifyHeading(value) {
 function createAnchorResolver(fileSet) {
   const anchorCache = new Map();
 
-  function anchorsFor(file) {
+  function collectAnchors(file) {
     if (anchorCache.has(file)) {
       return anchorCache.get(file);
     }
 
     const anchors = new Set();
+    const rows = [];
     if (!fileSet.has(file) || !markdownExts.has(path.posix.extname(file).toLowerCase())) {
-      anchorCache.set(file, anchors);
-      return anchors;
+      const empty = { anchors, rows };
+      anchorCache.set(file, empty);
+      return empty;
     }
 
     const text = fs.readFileSync(path.join(repo, file), 'utf8');
@@ -598,7 +603,10 @@ function createAnchorResolver(fileSet) {
     const counts = new Map();
     const fence = { marker: null, len: 0 };
 
-    for (const raw of lines) {
+    for (let index = 0; index < lines.length; index += 1) {
+      const raw = lines[index];
+      const line = index + 1;
+
       if (isFenceLine(raw, fence)) {
         continue;
       }
@@ -610,32 +618,66 @@ function createAnchorResolver(fileSet) {
       const idRe = /\bid\s*=\s*(["'])(.*?)\1/gi;
       while ((match = idRe.exec(raw)) !== null) {
         anchors.add(match[2]);
+        rows.push({
+          anchor: match[2],
+          label: match[2],
+          type: 'html-id',
+          line,
+        });
       }
 
       const nameRe = /<a\b[^>]*\bname\s*=\s*(["'])(.*?)\1/gi;
       while ((match = nameRe.exec(raw)) !== null) {
         anchors.add(match[2]);
+        rows.push({
+          anchor: match[2],
+          label: match[2],
+          type: 'html-name',
+          line,
+        });
       }
 
       const attrAnchor = raw.match(/\{#([^}\s]+)\}\s*$/);
       if (attrAnchor) {
         anchors.add(attrAnchor[1]);
+        rows.push({
+          anchor: attrAnchor[1],
+          label: attrAnchor[1],
+          type: 'explicit-anchor',
+          line,
+        });
       }
 
       const heading = raw.match(/^\s{0,3}#{1,6}\s+(.+?)\s*#*\s*$/);
       if (heading) {
-        const base = slugifyHeading(heading[1].replace(/\s+\{#([^}\s]+)\}\s*$/, ''));
+        const level = raw.match(/^\s{0,3}(#{1,6})\s+/)[1].length;
+        const label = heading[1].replace(/\s+\{#([^}\s]+)\}\s*$/, '');
+        const base = slugifyHeading(label);
         if (base) {
           const count = counts.get(base) || 0;
-          anchors.add(count === 0 ? base : `${base}-${count}`);
+          const anchor = count === 0 ? base : `${base}-${count}`;
+          anchors.add(anchor);
+          rows.push({
+            anchor,
+            label: stripMdEscapes(label).trim(),
+            type: `h${level}`,
+            line,
+          });
           counts.set(base, count + 1);
         }
       }
     }
 
-    anchorCache.set(file, anchors);
-    return anchors;
+    const collected = { anchors, rows };
+    anchorCache.set(file, collected);
+    return collected;
   }
+
+  function anchorsFor(file) {
+    return collectAnchors(file).anchors;
+  }
+
+  anchorsFor.rowsFor = (file) => collectAnchors(file).rows;
 
   return anchorsFor;
 }
@@ -984,6 +1026,345 @@ function writeRemainingMarkdownReports(markdownBroken) {
   fs.writeFileSync(remainingMarkdownCsv, csv, 'utf8');
 }
 
+function normalizeTextForMatch(value) {
+  return stripMdEscapes(htmlDecodeMinimal(String(value ?? '')))
+    .replace(/`([^`]*)`/g, '$1')
+    .replace(/<[^>]+>/g, ' ')
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, ' ');
+}
+
+function normalizedAnchorId(value) {
+  return slugifyHeading(String(value ?? '').replace(/[_\s]+/g, ' '));
+}
+
+function matchTokens(value) {
+  return normalizeTextForMatch(value)
+    .replace(/[^\p{L}\p{N}]+/gu, ' ')
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean);
+}
+
+function tokenOverlap(left, right) {
+  const leftTokens = new Set(matchTokens(left));
+  const rightTokens = new Set(matchTokens(right));
+  if (!leftTokens.size || !rightTokens.size) {
+    return 0;
+  }
+
+  let intersection = 0;
+  for (const token of leftTokens) {
+    if (rightTokens.has(token)) {
+      intersection += 1;
+    }
+  }
+
+  return intersection / Math.min(leftTokens.size, rightTokens.size);
+}
+
+function levenshtein(left, right) {
+  if (left === right) {
+    return 0;
+  }
+  if (!left.length) {
+    return right.length;
+  }
+  if (!right.length) {
+    return left.length;
+  }
+
+  let previous = Array.from({ length: right.length + 1 }, (_, index) => index);
+  for (let i = 0; i < left.length; i += 1) {
+    const current = [i + 1];
+    for (let j = 0; j < right.length; j += 1) {
+      current[j + 1] = Math.min(
+        current[j] + 1,
+        previous[j + 1] + 1,
+        previous[j] + (left[i] === right[j] ? 0 : 1),
+      );
+    }
+    previous = current;
+  }
+  return previous[right.length];
+}
+
+function stringSimilarity(left, right) {
+  const a = normalizeTextForMatch(left);
+  const b = normalizeTextForMatch(right);
+  if (!a || !b) {
+    return 0;
+  }
+  const maxLength = Math.max(a.length, b.length);
+  return maxLength ? 1 - (levenshtein(a, b) / maxLength) : 0;
+}
+
+function scoreAnchorCandidate(row, candidate, requestedAnchor) {
+  const reasons = [];
+  const requestedId = String(requestedAnchor || '');
+  const requestedNorm = normalizedAnchorId(requestedId);
+  const candidateId = String(candidate.anchor || '');
+  const candidateNorm = normalizedAnchorId(candidateId);
+  const linkText = normalizeTextForMatch(row.label || '');
+  const candidateLabel = normalizeTextForMatch(candidate.label || candidate.anchor || '');
+  const linkSlug = slugifyHeading(row.label || '');
+  let score = 0;
+
+  function record(candidateScore, reason) {
+    if (candidateScore > score) {
+      score = candidateScore;
+    }
+    if (reason) {
+      reasons.push(reason);
+    }
+  }
+
+  if (requestedId && requestedId === candidateId) {
+    record(100, 'exact anchor id');
+  } else if (requestedId && requestedId.toLowerCase() === candidateId.toLowerCase()) {
+    record(100, 'case-insensitive anchor id match');
+  }
+
+  if (requestedNorm && requestedNorm === candidateNorm) {
+    record(98, 'normalized requested id match');
+  }
+
+  if (linkSlug && linkSlug === candidateNorm) {
+    record(97, 'link text slug equals heading anchor');
+  }
+
+  if (linkText && candidateLabel && linkText === candidateLabel) {
+    record(97, 'link text equals heading text');
+  }
+
+  if (linkText && candidateLabel && candidateLabel.includes(linkText)) {
+    record(88, 'heading contains link text');
+  }
+
+  if (linkText && candidateLabel && linkText.includes(candidateLabel)) {
+    record(86, 'link text contains heading');
+  }
+
+  if (linkSlug && candidateNorm && candidateNorm.includes(linkSlug)) {
+    record(88, 'candidate id contains link text slug');
+  }
+
+  if (linkSlug && candidateNorm && linkSlug.includes(candidateNorm)) {
+    record(86, 'link text slug contains candidate id');
+  }
+
+  const linkCandidateOverlap = tokenOverlap(row.label || '', candidate.label || candidate.anchor || '');
+  if (linkCandidateOverlap >= 0.75) {
+    record(Math.round(70 + (linkCandidateOverlap * 10)), `link/candidate token overlap ${linkCandidateOverlap.toFixed(2)}`);
+  } else if (linkCandidateOverlap >= 0.5) {
+    record(Math.round(60 + (linkCandidateOverlap * 10)), `link/candidate token overlap ${linkCandidateOverlap.toFixed(2)}`);
+  }
+
+  const requestCandidateOverlap = tokenOverlap(requestedId.replace(/[-_]/g, ' '), candidateId.replace(/[-_]/g, ' '));
+  if (requestCandidateOverlap >= 0.6) {
+    record(Math.round(65 + (requestCandidateOverlap * 15)), `requested/candidate token overlap ${requestCandidateOverlap.toFixed(2)}`);
+  }
+
+  const linkSimilarity = stringSimilarity(row.label || '', candidate.label || candidate.anchor || '');
+  if (linkSimilarity >= 0.8) {
+    record(Math.round(60 + (linkSimilarity * 10)), `link/candidate text similarity ${linkSimilarity.toFixed(2)}`);
+  }
+
+  const idSimilarity = stringSimilarity(requestedNorm, candidateNorm);
+  if (idSimilarity >= 0.8) {
+    record(Math.round(60 + (idSimilarity * 15)), `requested/candidate id similarity ${idSimilarity.toFixed(2)}`);
+  }
+
+  return {
+    ...candidate,
+    score,
+    reasons: [...new Set(reasons)],
+  };
+}
+
+function anchorConfidence(score) {
+  if (score >= 90) {
+    return 'high';
+  }
+  if (score >= 75) {
+    return 'medium';
+  }
+  if (score >= 60) {
+    return 'low';
+  }
+  return 'none';
+}
+
+function splitResolvedAnchor(resolved) {
+  const text = String(resolved || '');
+  const hash = text.indexOf('#');
+  if (hash < 0) {
+    return { targetFile: text, requestedAnchor: '' };
+  }
+  return {
+    targetFile: text.slice(0, hash),
+    requestedAnchor: text.slice(hash + 1),
+  };
+}
+
+function suggestedAnchorTarget(originalTarget, anchor) {
+  if (!anchor) {
+    return '';
+  }
+  const target = String(originalTarget || '');
+  const hash = target.indexOf('#');
+  const base = hash >= 0 ? target.slice(0, hash) : target;
+  return `${base}#${anchor}`;
+}
+
+function writeAnchorCandidateReports(markdownBroken, anchorsFor) {
+  const anchorRows = [...markdownBroken]
+    .filter((row) => row.issue === 'missing target anchor' || row.issue === 'missing same-page anchor')
+    .sort((a, b) => (
+      a.issue.localeCompare(b.issue) ||
+      a.source.localeCompare(b.source) ||
+      a.line - b.line ||
+      String(a.target).localeCompare(String(b.target))
+    ));
+
+  const rows = anchorRows.map((row) => {
+    const split = splitResolvedAnchor(row.resolved);
+    const targetFile = split.targetFile || row.source;
+    const requestedAnchor = split.requestedAnchor || splitLocalTarget(row.target).fragment || '';
+    const scored = anchorsFor.rowsFor(targetFile)
+      .map((candidate) => scoreAnchorCandidate(row, candidate, requestedAnchor))
+      .sort((a, b) => (
+        b.score - a.score ||
+        a.line - b.line ||
+        String(a.anchor).localeCompare(String(b.anchor))
+      ));
+    const best = scored[0] || {
+      anchor: '',
+      label: '',
+      type: '',
+      line: '',
+      score: 0,
+      reasons: [],
+    };
+    const second = scored[1] || { anchor: '', score: '' };
+    const confidence = anchorConfidence(best.score || 0);
+    const suggested = confidence === 'none' ? '' : suggestedAnchorTarget(row.target, best.anchor);
+
+    return {
+      confidence,
+      candidateScore: best.score || 0,
+      issue: row.issue,
+      source: row.source,
+      line: row.line,
+      originalTarget: row.target,
+      suggestedTarget: suggested,
+      resolvedTarget: row.resolved || '',
+      requestedAnchor,
+      targetFile,
+      linkText: row.label || '',
+      candidateAnchor: confidence === 'none' ? '' : best.anchor,
+      candidateLabel: confidence === 'none' ? '' : best.label,
+      candidateType: confidence === 'none' ? '' : best.type,
+      candidateLine: confidence === 'none' ? '' : best.line,
+      anchorCount: scored.length,
+      reasons: confidence === 'none' ? '' : best.reasons.join('; '),
+      secondCandidate: second.anchor,
+      secondScore: second.score,
+    };
+  });
+
+  const confidenceCounts = countBy(rows, 'confidence');
+  const issueCounts = countBy(rows, 'issue');
+  const targetFiles = new Set(rows.map((row) => row.targetFile).filter(Boolean));
+  const high = confidenceCounts.high || 0;
+  const medium = confidenceCounts.medium || 0;
+
+  let md = '';
+  md += '# Remaining Broken Anchor Candidate Report\n\n';
+  md += `Generated: ${new Date().toISOString()}\n\n`;
+  md += `Repository: ${repo}\n\n`;
+  md += '## Scope\n\n';
+  md += '- Scans the remaining `missing target anchor` and `missing same-page anchor` rows from `remaining-broken-markdown-links.csv`.\n';
+  md += '- Compares each requested `#anchor` with actual headings and explicit anchors in the target file.\n';
+  md += '- Scores candidates using link text, heading text, anchor IDs, token overlap, and string similarity.\n';
+  md += '- Suggested targets are candidates only; high scores are good automatic-fix candidates, medium scores need review.\n\n';
+  md += '## Summary\n\n';
+  md += `- Broken anchor links scanned: ${rows.length}\n`;
+  md += `- High-confidence candidates: ${high}\n`;
+  md += `- Reasonable candidates (high + medium): ${high + medium}\n`;
+  md += `- Target files scanned: ${targetFiles.size}\n\n`;
+  md += '### By Confidence\n\n';
+  md += '| Confidence | Count |\n|---|---:|\n';
+  for (const confidence of ['high', 'medium', 'low', 'none']) {
+    md += `| ${confidence} | ${confidenceCounts[confidence] || 0} |\n`;
+  }
+  md += '\n### By Issue\n\n';
+  md += renderSummaryTable(issueCounts);
+  md += '\n## Candidate Links\n\n';
+  md += '| Confidence | Score | Issue | Source | Line | Original target | Suggested target | Link text | Candidate label | Candidate line | Reason |\n';
+  md += '|---|---:|---|---|---:|---|---|---|---|---:|---|\n';
+  for (const row of rows) {
+    md += `| ${escapeMd(row.confidence)} | ${row.candidateScore} | ${escapeMd(row.issue)} | ${escapeMd(row.source)} | ${row.line} | ${escapeMd(truncate(row.originalTarget, 180))} | ${escapeMd(truncate(row.suggestedTarget, 180))} | ${escapeMd(truncate(row.linkText, 120))} | ${escapeMd(truncate(row.candidateLabel, 120))} | ${row.candidateLine || ''} | ${escapeMd(truncate(row.reasons, 160))} |\n`;
+  }
+  fs.writeFileSync(anchorCandidatesMd, md, 'utf8');
+
+  const header = [
+    'confidence',
+    'candidate_score',
+    'issue',
+    'source',
+    'source_line',
+    'original_target',
+    'suggested_target',
+    'resolved_target',
+    'requested_anchor',
+    'target_file',
+    'link_text',
+    'candidate_anchor',
+    'candidate_label',
+    'candidate_type',
+    'candidate_line',
+    'anchor_count',
+    'reasons',
+    'second_candidate',
+    'second_score',
+  ];
+  const csv = [header.map(csvCell).join(',')]
+    .concat(rows.map((row) => [
+      row.confidence,
+      row.candidateScore,
+      row.issue,
+      row.source,
+      row.line,
+      row.originalTarget,
+      row.suggestedTarget,
+      row.resolvedTarget,
+      row.requestedAnchor,
+      row.targetFile,
+      row.linkText,
+      row.candidateAnchor,
+      row.candidateLabel,
+      row.candidateType,
+      row.candidateLine,
+      row.anchorCount,
+      row.reasons,
+      row.secondCandidate,
+      row.secondScore,
+    ].map(csvCell).join(',')))
+    .join('\n') + '\n';
+  fs.writeFileSync(anchorCandidatesCsv, csv, 'utf8');
+
+  return {
+    scanned: rows.length,
+    targetFiles: targetFiles.size,
+    confidence: confidenceCounts,
+    issueCounts,
+    high,
+    reasonable: high + medium,
+  };
+}
+
 function main() {
   const allFiles = walk(repo).sort();
   const fileSet = new Set(allFiles);
@@ -1039,6 +1420,7 @@ function main() {
     uncheckedExternal,
   });
   writeRemainingMarkdownReports(brokenLinkReports.markdownBroken);
+  const anchorCandidateSummary = writeAnchorCandidateReports(brokenLinkReports.markdownBroken, context.anchorsFor);
   writeInlineCodeReports(anomalies);
 
   console.log(JSON.stringify({
@@ -1050,11 +1432,14 @@ function main() {
     uncheckedExternal: uncheckedExternal.length,
     inlineCodeAnomalies: anomalies.length,
     inlineCodeByIssue: countBy(anomalies, 'issue'),
+    anchorCandidates: anchorCandidateSummary,
     reports: [
       path.basename(brokenLinksMd),
       path.basename(brokenLinksCsv),
       path.basename(inlineCodeMd),
       path.basename(inlineCodeCsv),
+      path.basename(anchorCandidatesMd),
+      path.basename(anchorCandidatesCsv),
       path.basename(remainingMarkdownMd),
       path.basename(remainingMarkdownCsv),
     ],

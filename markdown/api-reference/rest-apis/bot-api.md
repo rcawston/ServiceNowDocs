@@ -61,15 +61,15 @@ action
 
 Action that the VA should take.Valid values:
 
--   [AGENT](bot-api.md#vabot-ex-agent): Switches the conversation from VA to Live Agent.
+-   [AGENT](bot-api.md#virtual-agent-bot-integration-api): Switches the conversation from VA to Live Agent.
 -   [CREATE\_CONVERSATION](bot-api.md#vabot-ex-createconvo): Creates a chat interaction.
--   [END\_CONVERSATION](bot-api.md#vabot-ex-faultconvo): Ends the chat conversation. The **message.text** parameter should be empty when using this action.
--   [FAULT\_CONVERSATION](bot-api.md#vabot-ex-faultconvo): Faults a conversation. When setting a FAULT\_CONVERSATION action, provide a description for the **cause** parameter.
+-   [END\_CONVERSATION](bot-api.md#end-a-virtual-agent-conversation-by-setting-the-action-parameter): Ends the chat conversation. The **message.text** parameter should be empty when using this action.
+-   [FAULT\_CONVERSATION](bot-api.md#fault-a-conversation-using): Faults a conversation. When setting a FAULT\_CONVERSATION action, provide a description for the **cause** parameter.
 -   [SEND\_HISTORY](bot-api.md#vabot-ex-sendhist): Updates only the chat history. The chat history can also be sent using standard message processing with the **history** parameter.
 -   SET\_USER\_TIMEZONE: Sets the user’s time zone to the time zone specified in the **timezone** parameter. This time zone remains in effect until you reset it using this same parameter.
--   [START\_CONVERSATION](bot-api.md#vabot-ex-startconvo): Starts a chat conversation.
--   [START\_CREATED\_CONVERSATION](bot-api.md#vabot-ex-startcreatedconvo): Starts a chat conversation initiated using `CREATE_CONVERSATION`.
--   [SWITCH](bot-api.md#vabot-ex-switch): Switch the conversation to a topic that matches what is specified in the **intent.id** or **topic.name** parameters.
+-   [START\_CONVERSATION](bot-api.md#start-a-conversation-initiated-using-the-start-created-conversation-action): Starts a chat conversation.
+-   [START\_CREATED\_CONVERSATION](bot-api.md#start-a-conversation-initiated-using-the-start-created-conversation-action): Starts a chat conversation initiated using `CREATE_CONVERSATION`.
+-   [SWITCH](bot-api.md#change-an-ongoing-conversation-using-the-switch-action-parameter): Switch the conversation to a topic that matches what is specified in the **intent.id** or **topic.name** parameters.
 
 **Note:** Only use the `SWITCH` action for topic switching when the intent discovery happens in the primary bot. If the intent discovery happens in the ServiceNow® VA, use the **message.text** parameter.
 

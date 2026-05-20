@@ -98,7 +98,7 @@ OAuth Client ID
 
 </td><td>
 
-Application \(client\) ID of your Jamf client application as noted in the [Before you begin](sgcc-configure-jamf-integration.md#prereq) section.**Note:** Verify that the Jamf client has read privileges for the **Computers** and **Mobile Devices** categories in Jamf.
+Application \(client\) ID of your Jamf client application as noted in the [Before you begin](sgcc-configure-jamf-integration.md#before-you-begin) section.**Note:** Verify that the Jamf client has read privileges for the **Computers** and **Mobile Devices** categories in Jamf.
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ OAuth Client Secret
 
 </td><td>
 
-Client Secret of your Jamf client application as noted in the [Before you begin](sgcc-configure-jamf-integration.md#prereq) section.
+Client Secret of your Jamf client application as noted in the [Before you begin](sgcc-configure-jamf-integration.md#before-you-begin) section.
 
 </td></tr><tr><td>
 

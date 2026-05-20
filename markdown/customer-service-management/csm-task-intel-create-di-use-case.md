@@ -43,7 +43,7 @@ Create a use case that identifies the information to extract from email and case
 
 ## Create a use case
 
-Create a use case to identify a document or set of documents to be processed together in Document Intelligence. With Document Intelligence for Customer Service, the [Use Cases list](csm-document-intelligence.md#section_cyk_n1r_fwb) in the DocIntel Admin experience uses a default filter with an OR condition to show use cases for:
+Create a use case to identify a document or set of documents to be processed together in Document Intelligence. With Document Intelligence for Customer Service, the [Use Cases list](csm-document-intelligence.md#use-cases-list) in the DocIntel Admin experience uses a default filter with an OR condition to show use cases for:
 
 -   Application = Task Intelligence for Customer service -or-
 -   MLUC ID = MLUC CSM-00003

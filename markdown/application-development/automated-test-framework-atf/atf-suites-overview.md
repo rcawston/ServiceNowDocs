@@ -49,7 +49,7 @@ The watchlist on the test suite run record also allows you to specify users to r
 
 If the test suite contains one or more form steps \(steps involving a user interface\), you must ensure that a scheduled client test runner is actively running in a browser when the schedule triggers the suite run.
 
-**Note:** See [Browser recommendations and requirements](atf-test-runners.md#kvv_h25_gx) for recommendations and requirements for running the client test runner.
+**Note:** See [Browser recommendations and requirements](atf-test-runners.md#browser-recommendations-for-all-tests-and-suites) for recommendations and requirements for running the client test runner.
 
 For step-by-step instructions on how to schedule a test suite, see [Schedule an automated test suite](atf-sched-suite-steps.md).
 

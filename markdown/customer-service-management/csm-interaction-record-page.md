@@ -32,7 +32,7 @@ For more information about this feature, see [User presence](../platform-user-in
 
 ## Thin compose modeless dialogs
 
-[Thin compose modeless dialogs](csm-front-line-case-page-modeless-dialogs.md#section_nws_1rs_rfc) enable agents to initiate a work note or email from the activity stream in a modeless dialog.
+[Thin compose modeless dialogs](csm-front-line-case-page-modeless-dialogs.md#thin-compose-modeless-dialogs) enable agents to initiate a work note or email from the activity stream in a modeless dialog.
 
 **Note:** For the CSM Interaction record page, the thin compose modeless dialogs feature is hidden by default and can be enabled by the admin.
 
@@ -63,7 +63,7 @@ The Recommended Actions tab includes [AI search](ra-csm-ai-search.md) functional
 
 ## Editable record header field
 
-Agents can edit the short description of a record directly from the record header field. For more information, see [Editable record headers](csm-workspace-agent-actions.md#section_hhb_1tj_23c).
+Agents can edit the short description of a record directly from the record header field. For more information, see [Editable record headers](csm-workspace-agent-actions.md#editable-record-headers).
 
 ## Collaborate component
 

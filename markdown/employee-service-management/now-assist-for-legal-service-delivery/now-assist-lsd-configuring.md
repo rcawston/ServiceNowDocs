@@ -67,7 +67,7 @@ Legal Request and Matter
 
 1.  Install the Legal Service Delivery - Prime plugin \(sn\_lg\_ai\_prime\).
 
-    -   For information about the plugin dependencies and plugin activation order, see [Application information](now-assist-lsd-support-info.md#lsd-application-info).
+    -   For information about the plugin dependencies and plugin activation order, see [Application information](now-assist-lsd-support-info.md#application-information).
     -   For information about the installation process, see [Install Now Assist plugins](../../intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist Skills** tab of the Now Assist Admin console.
 

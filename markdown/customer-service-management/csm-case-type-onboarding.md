@@ -21,7 +21,7 @@ Use the Case Playbook for Onboarding for cases that were created by using the on
 
 ## Case Playbook for Onboarding application
 
-The Case Playbook for Onboarding application \(com.sn\_csm\_onboarding\_caseflow\) is available from the ServiceNow® Store. For more information, see [Playbook plugins](setting-up-csm-playbooks.md#section_qgq_ylk_llb).
+The Case Playbook for Onboarding application \(com.sn\_csm\_onboarding\_caseflow\) is available from the ServiceNow® Store. For more information, see [Playbook plugins](setting-up-csm-playbooks.md#playbook-plugins).
 
 ## Case Playbook for onboarding a PAD process definition
 

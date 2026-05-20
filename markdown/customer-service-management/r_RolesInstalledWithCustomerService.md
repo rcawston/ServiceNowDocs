@@ -60,7 +60,7 @@ External Roles
 **Business-to-consumer \(B2C\)** sn\_customerservice.consumer
 
 </td></tr></tbody>
-</table>For details about these roles, see [CSM roles and descriptions](r_RolesInstalledWithCustomerService.md#section_p5t_gcr_3mb) below.
+</table>For details about these roles, see [CSM roles and descriptions](r_RolesInstalledWithCustomerService.md#csm-roles-and-descriptions) below.
 
 ## Internal and external roles
 
@@ -82,9 +82,9 @@ The primary roles available in Customer Service Management are based on the foll
 -   sn\_esm\_user
 -   sn\_esm\_user\_admin
 
-For more information about these roles, see [Roles installed with the Customer Service Base Entities plugin](r_RolesInstalledWithCustomerService.md#section_uff_bbj_x2b) below.
+For more information about these roles, see [Roles installed with the Customer Service Base Entities plugin](r_RolesInstalledWithCustomerService.md#roles-installed-with-the-customer-service-base-entities-plugin) below.
 
-For more information about the CSM primary role structure and included roles, see [CSM roles and descriptions](r_RolesInstalledWithCustomerService.md#section_p5t_gcr_3mb) below.
+For more information about the CSM primary role structure and included roles, see [CSM roles and descriptions](r_RolesInstalledWithCustomerService.md#csm-roles-and-descriptions) below.
 
 ## Explicit roles
 

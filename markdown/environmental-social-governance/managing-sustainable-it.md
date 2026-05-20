@@ -27,7 +27,7 @@ For the Digital End-User Experience \(DEX\), data on energy emissions from lapto
 -   Assign appropriate entities \(locations/models\) to each metric definition.
 -   For emissions-related metrics configure the emission factor “CO2 equivalent from Purchased Electricity eGRID” from the eGRID source via Content Accelerator.
 
-    **Note:** Confirm that the emission factor’s location matches the asset location records. If no emission factor is found for a location, the calculated value will be zero [usage-of-emission-factors-in-a-calculated-metric-definition.md\#ul\_nhx\_5t3\_fdc](usage-of-emission-factors-in-a-calculated-metric-definition.md#ul_nhx_5t3_fdc).
+    **Note:** Confirm that the emission factor’s location matches the asset location records. If no emission factor is found for a location, the calculated value will be zero [usage-of-emission-factors-in-a-calculated-metric-definition.md\#ul\_nhx\_5t3\_fdc](usage-of-emission-factors-in-a-calculated-metric-definition.md#usage-of-emission-factors-in-a-calculated-metric-definition).
 
 -   Set the metric period date to the previous month.
 

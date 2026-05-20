@@ -60,7 +60,7 @@ If you’re upgrading, you must re-configure your orchestration tool before sett
 
 Set the **setCloseCode:** parameter to `true/false` based on the desired behavior. Default is true.
 
-If set to true, the **Close code** and **Close notes** fields are updated as specified in the change step attributes and the change request is moved to post-implement when a stage is completed. You can override this behavior by enabling the **Auto close code** feature. The setCloseCode feature will get disabled when autoCloseChange is enabled and set to true or false. For more information, see [Auto Close Change](dev-ops-config-change-details.md#section_ts2_c1b_5yb). Use the autoCloseChange feature for more accurate change request details.
+If set to true, the **Close code** and **Close notes** fields are updated as specified in the change step attributes and the change request is moved to post-implement when a stage is completed. You can override this behavior by enabling the **Auto close code** feature. The setCloseCode feature will get disabled when autoCloseChange is enabled and set to true or false. For more information, see [Auto Close Change](dev-ops-config-change-details.md#auto-close-change). Use the autoCloseChange feature for more accurate change request details.
 
 If set to false, when the job or pipeline has completed, the change request isn’t updated and remains in the Implement state.
 

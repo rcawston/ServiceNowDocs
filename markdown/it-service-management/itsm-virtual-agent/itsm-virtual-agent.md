@@ -54,7 +54,7 @@ The ITSM Virtual Agent topics re-factored with gs.getMessageLang\(\) provide you
 
 ## Edge Encryption for ITSM Virtual Agent
 
-Edge encryption provides you with direct control over your data security. Encryption and key management are performed on your intranet between your browser and your ServiceNow® instance. For details about edge encryption, see [Edge Encryption for ITSM Virtual Agent within ITSM](../r_ITServiceManagement.md#section_ppf_jdm_ykb).
+Edge encryption provides you with direct control over your data security. Encryption and key management are performed on your intranet between your browser and your ServiceNow® instance. For details about edge encryption, see [Edge Encryption for ITSM Virtual Agent within ITSM](../r_ITServiceManagement.md#edge-encryption-for-itsm-virtual-agent-within-itsm).
 
 -   **[Exploring ITSM Virtual Agent](explore-itsm-va.md)**  
 The ServiceNow ITSM Virtual Agent provides assistance through conversations within an intelligent messaging interface.

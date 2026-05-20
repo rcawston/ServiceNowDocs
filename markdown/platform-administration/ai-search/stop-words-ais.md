@@ -33,7 +33,7 @@ To be eligible for removal from a search query's terms, a stop word must satisfy
 
 -   It must be active.
 -   The stop word dictionary that includes it must be published.
--   Its length doesn't exceed the [dictionary term-length limit](stop-words-ais.md#dictionary-term-length-limit-stop-words).
+-   Its length doesn't exceed the [dictionary term-length limit](stop-words-ais.md#dictionary-term-length-limit).
 
 The system locates eligible stop words in stop word dictionaries as follows:
 
@@ -62,7 +62,7 @@ The search profile specified for the search query doesn't link to a published st
 The system only considers stop words from the default \(English\) stop word dictionary. As an example, suppose a search application's search profile has no linked Spanish stop word dictionary. When a user searches in Spanish in this application, only stop words from the default \(English\) stop word dictionary are eligible for removal from the search query terms.
 
 </td></tr></tbody>
-</table>For more details on language support in stop word dictionaries, see [Language dependence](stop-words-ais.md#stop-word-language-dependence-section).
+</table>For more details on language support in stop word dictionaries, see [Language dependence](stop-words-ais.md#language-dependence).
 
 ## Dictionary term-length limit
 

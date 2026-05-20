@@ -91,7 +91,7 @@ This property is used for soft deletion and life cycle handling using the Integr
 -   Type: true \| false
 -   Default value: true
 
-For more information about soft deletion for the Service Graph Connector for GCP, see [Soft deletion](sgc-cmdb-gcp-removal.md#section_dgn_plz_ncc).
+For more information about soft deletion for the Service Graph Connector for GCP, see [Soft deletion](sgc-cmdb-gcp-removal.md#soft-deletion).
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ This property is used for soft deletion. Time in days in which the sys\_object\_
 -   Type: integer
 -   Default value: empty
 
-For more information about soft deletion for the Service Graph Connector for GCP, see [Soft deletion](sgc-cmdb-gcp-removal.md#section_dgn_plz_ncc).
+For more information about soft deletion for the Service Graph Connector for GCP, see [Soft deletion](sgc-cmdb-gcp-removal.md#soft-deletion).
 
 </td></tr><tr><td colspan="2">
 

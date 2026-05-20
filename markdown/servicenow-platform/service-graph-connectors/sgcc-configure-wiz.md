@@ -101,7 +101,7 @@ Client ID
 
 </td><td>
 
-Client ID of your Wiz application as described in [Before you begin](sgcc-configure-wiz.md#task-prereq).
+Client ID of your Wiz application as described in [Before you begin](sgcc-configure-wiz.md#before-you-begin).
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ Client secret
 
 </td><td>
 
-Client secret of your Wiz application as described in [Before you begin](sgcc-configure-wiz.md#task-prereq).
+Client secret of your Wiz application as described in [Before you begin](sgcc-configure-wiz.md#before-you-begin).
 
 </td></tr><tr><td>
 

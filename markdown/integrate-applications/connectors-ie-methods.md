@@ -15,9 +15,9 @@ The IE connector methods perform different tasks on the IE connector, screens, a
 
 ## IE connector method levels
 
-[Connector level methods](connectors-ie-methods.md#IE-connector-level-methods)
+[Connector level methods](connectors-ie-methods.md#connector-level-methods)
 
-[Screen level methods](connectors-ie-methods.md#IE-screen-level-methods)
+[Screen level methods](connectors-ie-methods.md#screen-level-methods)
 
 [Element level methods](connectors-ie-methods.md)
 
@@ -79,7 +79,7 @@ To configure the JavaScript, do the following steps.
 
 -   **Input**
 
-    [Parameter](method-parameter-ie.md#executejavascript-input-parameter)
+    [Parameter](method-parameter-ie.md#parameters-of-the-ie-connector-methods)
 
 -   **Output**
 

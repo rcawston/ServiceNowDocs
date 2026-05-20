@@ -43,7 +43,7 @@ The Automated Test Framework includes specific types of steps such as Open Form,
 
 6.  In the **Category** field, select the category to which you want to assign this step.
 
-    Categories are used for filtering the step list in the Add Step dialog. For more information, see [Category field example](atf-step-config-xmpls.md#hbm_xwc_yw).
+    Categories are used for filtering the step list in the Add Step dialog. For more information, see [Category field example](atf-step-config-xmpls.md#category-field-example).
 
 7.  In the **Batch Order Constraint** field, choose one of the following values.
 
@@ -53,11 +53,11 @@ The Automated Test Framework includes specific types of steps such as Open Form,
     -   **Stop Execution**: If a test includes a batch with this step, this step must be the last step in the batch.
 8.  In the **Order** field, enter an integer specifying where steps with this configuration appear in the step list on the Add Test Step dialog.
 
-    For more information, see the example using the **Order** field in [Order field example](atf-step-config-xmpls.md#iss_1jv_xw).
+    For more information, see the example using the **Order** field in [Order field example](atf-step-config-xmpls.md#order-field-example).
 
 9.  In the **Template reminder** field, enter the instructions you want to appear when this step is included in a test as part of a template.
 
-    For more information, see the [example of using the Template reminder field.](atf-step-config-xmpls.md#qzw_phv_xw)
+    For more information, see the [example of using the Template reminder field.](atf-step-config-xmpls.md#template-reminder-example)
 
 10. In the **HTML description** field, enter the text you want to appear when the cursor highlights this step on the Create New Step dialog.
 
@@ -67,7 +67,7 @@ The Automated Test Framework includes specific types of steps such as Open Form,
 
 11. In the **Description generation script** field, add code to the provided template to generate the description assigned to a Test Step record when a step of this type is included in a test.
 
-    For more information about writing this script, see [Step description generation script](atf-config-desc-script.md). To see an example of where the system displays this description, see [Description generation script example](atf-step-config-xmpls.md#b5m_zrx_yw).
+    For more information about writing this script, see [Step description generation script](atf-config-desc-script.md). To see an example of where the system displays this description, see [Description generation script example](atf-step-config-xmpls.md#description-generation-script-example).
 
 12. In the **Step Execution Script** field, add code to the provided template to define the script that executes when a step of this type runs.
 

@@ -177,7 +177,7 @@ In this workflow:
 2.  The supplier manager uses the onboarding playbook, which provides a streamlined and guided process to onboard suppliers. For more information, see [Use the supplier onboarding playbook to onboard suppliers](../source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md).
 3.  The supplier manager submits a due diligence request.
 
-    Performing due diligence is a key aspect of onboarding a supplier. The supplier risk assessment is done by the third-party risk \(TPR\) assessor. For more information, see [Get started with Risk Assessments Integration for Supplier Lifecycle Operations](#get-started-risk-assess).
+    Performing due diligence is a key aspect of onboarding a supplier. The supplier risk assessment is done by the third-party risk \(TPR\) assessor. For more information, see [Get started with Risk Assessments Integration for Supplier Lifecycle Operations](#get-started-with-risk-assessments-integration-for-supplier-lifecycle-operations).
 
 4.  The TPR manager approves the due diligence request.
 5.  The inherent risk questionnaire is created and assigned to the TPR assessor.

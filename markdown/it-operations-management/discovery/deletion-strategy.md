@@ -89,7 +89,7 @@ Mark as retired
 Marks the **Status** \[install\_status\] field of the configuration file CI record as **Retired**, meaning that Discovery no longer uses this configuration file. This status does not instruct the system to delete the actual CI or the relationship.
 
 </td></tr></tbody>
-</table>**Note:** Deletion strategies are not available for related entries, which are rules that are based on related CIs. For more information, see [Related entries](../../servicenow-platform/configuration-management-database-cmdb/c_IdentificationRules.md#section_ftc_tg4_j1b).
+</table>**Note:** Deletion strategies are not available for related entries, which are rules that are based on related CIs. For more information, see [Related entries](../../servicenow-platform/configuration-management-database-cmdb/c_IdentificationRules.md#related-entries).
 
 -   **[Set a deletion strategy](set-deletion-strategy.md)**  
 Set a deletion strategy when you want to take action on a related configuration item \(CI\) that Discovery can no longer find through pattern discovery. You can delete the main CI only when it is an Application or Cloud Resource pattern type.

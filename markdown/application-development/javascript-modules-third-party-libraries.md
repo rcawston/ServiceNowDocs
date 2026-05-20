@@ -19,7 +19,7 @@ A module is a JavaScript file that contains related code that's shared and reuse
 
 In a module, you identify code for reuse with export statements. Then, use import or require statements to reuse the code elsewhere in your applications. You must add third-party Node Package Manager \(npm\) libraries to applications as dependencies to use their module code. For general information about the syntax used to create JavaScript modules, see the [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) page on the MDN Web Docs website.
 
-**Note:** To use global Glide Server APIs in modules, they must be imported from the `@servicenow/glide` package. For more information, see [Importing server APIs](javascript-modules-third-party-libraries.md#section_pn3_lsk_cfc).
+**Note:** To use global Glide Server APIs in modules, they must be imported from the `@servicenow/glide` package. For more information, see [Importing server APIs](javascript-modules-third-party-libraries.md#importing-server-apis).
 
 ## Limitations
 

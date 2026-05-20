@@ -269,7 +269,7 @@ Calls made to REST endpoints return HTTP response codes. You can use these respo
 
 ## REST API security
 
-By default, ServiceNow REST APIs use basic authentication or OAuth to authorize user access to REST APIs/endpoints. You can also configure your instance to use [multi-factor authentication](c_RESTAPI.md#multi-factor-auth-inbound-REST) to access REST APIs.
+By default, ServiceNow REST APIs use basic authentication or OAuth to authorize user access to REST APIs/endpoints. You can also configure your instance to use [multi-factor authentication](c_RESTAPI.md#multi-factor-authentication-for-inbound-rest) to access REST APIs.
 
 The user ID that you specify in a REST endpoint call is subject to access control in the same way as an interactive user. Each request requires the proper authentication information, such as user name and password. Ensure that each endpoint request includes an Authorization header with sufficient credentials to access the endpoint.
 

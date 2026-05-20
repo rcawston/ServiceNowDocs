@@ -57,7 +57,7 @@ The guided setup for the Service Graph Connector for Google Console provides an 
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Google Console integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Google Console integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#using-the-cmdb-integrations-dashboard).
 
 ## Data mapping
 
@@ -95,19 +95,19 @@ SG-GoogleConsole-ChromeDevices \[sn\_googleconsole\_i\_sg\_googleconsole\_chrome
 
 </td><td>
 
-[Computer](sgc-cmdb-google-console-classes.md#section_oms_1jg_4bc)[IP Address](sgc-cmdb-google-console-classes.md#section_dtc_bjg_4bc)
+[Computer](sgc-cmdb-google-console-classes.md#computer-cmdb-ci-computer)[IP Address](sgc-cmdb-google-console-classes.md#section_dtc_bjg_4bc)
 
-[Network Adapter](sgc-cmdb-google-console-classes.md#section_blk_bjg_4bc)
+[Network Adapter](sgc-cmdb-google-console-classes.md#network-adapter-cmdb-ci-network-adapter)
 
 When the Software Asset Management \(SAM\) and SAM Foundation applications are not installed:
 
-[Software](sgc-cmdb-google-console-classes.md#section_elt_bjg_4bc)
+[Software](sgc-cmdb-google-console-classes.md#software-cmdb-ci-spkg)
 
-[Software Instance](sgc-cmdb-google-console-classes.md#section_hbl_cjg_4bc)
+[Software Instance](sgc-cmdb-google-console-classes.md#software-instance-cmdb-software-instance)
 
 When the SAM application, the SAM Foundation application, or both are installed:
 
-[Software Installation](sgc-cmdb-google-console-classes.md#section_d2c_cjg_4bc)
+[Software Installation](sgc-cmdb-google-console-classes.md#software-installation-cmdb-sam-sw-install)
 
 </td><td>
 

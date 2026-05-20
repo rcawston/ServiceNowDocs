@@ -31,7 +31,7 @@ See [App Engine Management Center](../../application-development/app-engine-mana
 
 ## UI changes
 
--   **[Filter and search for requests in AEMC](../../application-development/app-engine-management-center/filter-search-aemc.md#section_kvc_43q_dtb)**
+-   **[Filter and search for requests in AEMC](../../application-development/app-engine-management-center/filter-search-aemc.md#filter-and-search-for-requests-in-aemc)**
 
     You can now filter by key fields such as status, owner, type, environment, and date, with the option to apply multiple filters simultaneously for the **Requests** tab. Filtered results update in real-time, and active filters are clearly indicated. You can easily remove individual filters or reset the list to its default state with a single action. Additionally, commonly used filter combinations can be saved and reused on the same list.
 

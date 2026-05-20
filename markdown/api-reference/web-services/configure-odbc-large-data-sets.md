@@ -21,7 +21,7 @@ You must have administrator-level access for the Windows computer on which you w
 
 ## About this task
 
-These properties are set using the ODBC Management Console available on Windows operating systems. For more information, see [ODBC management console properties](r_SettingODBCProperties.md#ODBC_mgmt_console_properties).
+These properties are set using the ODBC Management Console available on Windows operating systems. For more information, see [ODBC management console properties](r_SettingODBCProperties.md#odbc-management-console-properties).
 
 ## Procedure
 

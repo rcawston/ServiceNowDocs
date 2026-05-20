@@ -19,8 +19,8 @@ When importing large GCP resources, the data sources in the Service Graph Connec
 
 You can use one or more of the following options to handle the REST response size limitation error in the Service Graph Connector for GCP:
 
--   [Save the response as an attachment](sgc-cmdb-large-data-vol.md#section_jcj_2gt_bzb)
--   [Modify the batch size](sgc-cmdb-large-data-vol.md#section_aqx_5gt_bzb)
+-   [Save the response as an attachment](sgc-cmdb-large-data-vol.md#save-the-response-as-an-attachment)
+-   [Modify the batch size](sgc-cmdb-large-data-vol.md#modify-the-batch-size)
 
 ## Save the response as an attachment
 

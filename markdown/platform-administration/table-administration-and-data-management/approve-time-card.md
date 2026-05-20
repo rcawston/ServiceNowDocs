@@ -46,7 +46,7 @@ You can view only those time cards that are submitted to you for approval or you
 
 -   If a time card is in the Rejected state, the associated time sheet also moves to the Rejected state irrespective of the state of other time cards in the time sheet.
 
-    **Note:** If a time sheet is rejected, it gets listed in the notifications for the rejected time sheets under notifications icon ![screenshot for notification icon](../image/NotificationIcon.png) on [Time Sheet Portal](worker-portal.md#section_sth_2wd_vz).
+    **Note:** If a time sheet is rejected, it gets listed in the notifications for the rejected time sheets under notifications icon ![screenshot for notification icon](../image/NotificationIcon.png) on [Time Sheet Portal](worker-portal.md#time-sheet-portal).
 
 -   If **Project time approver** is set to **Both** in the assigned time sheet policy, the time card is in the Submitted state only if both approvers approve it. If one of the approver rejects, the time card state is set to Rejected and the **Approved by** field is cleared, requiring approval of both approvers on resubmission.
 

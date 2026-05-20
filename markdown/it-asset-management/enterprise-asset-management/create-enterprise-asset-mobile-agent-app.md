@@ -41,7 +41,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 4.  If your enterprise asset contains a serial number, scan or enter the serial number to verify if the asset already exists.
 
-    If you want to skip this verification, tap the back arrow at the top left corner of the screen to proceed directly to the Create Asset form. You can then proceed either to [step 5](create-enterprise-asset-mobile-agent-app.md#verification-asset-tag) to verify the asset existence based on asset tags or to [step 6](create-enterprise-asset-mobile-agent-app.md#create-asset) to skip both verifications and continue with the asset creation process.
+    If you want to skip this verification, tap the back arrow at the top left corner of the screen to proceed directly to the Create Asset form. You can then proceed either to [step 5](create-enterprise-asset-mobile-agent-app.md#verification-asset-tag) to verify the asset existence based on asset tags or to [step 6](create-enterprise-asset-mobile-agent-app.md#create-an-enterprise-asset-in-the-mobile-agent-application) to skip both verifications and continue with the asset creation process.
 
     1.  Use the camera on your mobile device to scan the serial number.
 
@@ -67,7 +67,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
         -   If the enterprise asset does not already exist, proceed to [step 7](create-enterprise-asset-mobile-agent-app.md#more-options-menu) to continue with the asset creation process.
 5.  If your enterprise asset contains an asset tag, scan the asset tag or enter the asset tag value to verify if the asset already exists.
 
-    If you want to skip this verification, proceed directly to [step 6](create-enterprise-asset-mobile-agent-app.md#create-asset) to continue with the asset creation process.
+    If you want to skip this verification, proceed directly to [step 6](create-enterprise-asset-mobile-agent-app.md#create-an-enterprise-asset-in-the-mobile-agent-application) to continue with the asset creation process.
 
     1.  On the Create Asset form, tap the **Asset Tag** field.
 

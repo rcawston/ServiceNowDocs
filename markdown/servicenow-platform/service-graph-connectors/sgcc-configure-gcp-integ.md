@@ -153,7 +153,7 @@ Select **Projects** when the ServiceNow service account has access to data withi
 
     1.  In the **Setup** stage of the playbook, select the **Configure connection properties** activity.
 
-        If deep discovery is already configured on the connection, the values are pre-populated on the Deep Discovery properties form. For more information about the deep discovery connection properties for GCP, see [Deep discovery connection properties](sgc-gcp-deep-discovery.md#section_xwn_4c3_cgc).
+        If deep discovery is already configured on the connection, the values are pre-populated on the Deep Discovery properties form. For more information about the deep discovery connection properties for GCP, see [Deep discovery connection properties](sgc-gcp-deep-discovery.md#deep-discovery-connection-properties).
 
     2.  Review the pre-populated fields on the Deep Discovery properties form.
 

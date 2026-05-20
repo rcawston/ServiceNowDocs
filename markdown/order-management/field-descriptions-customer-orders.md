@@ -67,7 +67,7 @@ State
 
 </td><td>
 
-Indicator of the current processing state for the customer order, including all of its associated line items. **Note:** To view a comprehensive listing of customer order states with detailed descriptions, see [Customer Order form states](order-mgt-state-values.md#section-cust-order-state) and [Customer order states](order-mgt-state-values.md).
+Indicator of the current processing state for the customer order, including all of its associated line items. **Note:** To view a comprehensive listing of customer order states with detailed descriptions, see [Customer Order form states](order-mgt-state-values.md#customer-order-form-states) and [Customer order states](order-mgt-state-values.md).
 
 </td></tr><tr><td>
 

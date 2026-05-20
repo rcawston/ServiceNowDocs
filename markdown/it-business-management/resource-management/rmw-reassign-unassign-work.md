@@ -39,7 +39,7 @@ Role required: resource\_user, resource\_manager
     1.  Select the row context menu \(![Three vertical dots icon for row context menu.](../../project-workspace/image/icon-row-context-menu.png)\) for the required work item.
     2.  Select **Reassign work**.
 
-        **Tip:** [Group the resource board](using-rmw.md#section_mcj_3sl_cdc) by the primary attributes to drag and drop the resource assignments to another resource to completely reassign work.
+        **Tip:** [Group the resource board](using-rmw.md#group-resources-on-resource-board) by the primary attributes to drag and drop the resource assignments to another resource to completely reassign work.
 
     3.  On the Reassign work window, enter the name of the resource in the **User** field to whom you want to reassign the work and duration using the **Start month** and **End month** date picker.
 

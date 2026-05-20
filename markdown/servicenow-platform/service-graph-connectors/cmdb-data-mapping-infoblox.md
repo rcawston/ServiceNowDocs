@@ -49,7 +49,7 @@ SG-Infoblox IP Pool \[sn\_infoblox\_integ\_sg\_infoblox\_ip\_pool\]
 
 </td><td>
 
-[Managed IP Pool \[cmdb\_ci\_ip\_pool\]](sgc-cmdb-infoblox-classes.md#section_etk_zkg_fxb)
+[Managed IP Pool \[cmdb\_ci\_ip\_pool\]](sgc-cmdb-infoblox-classes.md#managed-ip-pool-cmdb-ci-ip-pool)
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ SG-Infoblox Detailed Subnetwork \[sn\_infoblox\_integ\_sg\_infoblox\_detailed\_s
 
 </td><td>
 
-[Managed IP Network Subnet \[cmdb\_ci\_ip\_network\_subnet\]](sgc-cmdb-infoblox-classes.md#section_pmk_zkg_fxb)[Managed Network \[cmdb\_ci\_managed\_network\]](sgc-cmdb-infoblox-classes.md#section_xcl_zkg_fxb)
+[Managed IP Network Subnet \[cmdb\_ci\_ip\_network\_subnet\]](sgc-cmdb-infoblox-classes.md#managed-ip-network-subnet-cmdb-ci-ip-network-subnet)[Managed Network \[cmdb\_ci\_managed\_network\]](sgc-cmdb-infoblox-classes.md#managed-network-cmdb-ci-managed-network)
 
 </td></tr><tr><td>
 
@@ -81,9 +81,9 @@ SG-Infoblox IP Address \[sn\_infoblox\_integ\_sg\_infoblox\_ip\_address\]
 
 </td><td>
 
-[Allocated IP Address \[cmdb\_ci\_allocated\_ip\_address\]](sgc-cmdb-infoblox-classes.md#section_c3g_zkg_fxb)[Managed IP Network Subnet \[cmdb\_ci\_ip\_network\_subnet\]](sgc-cmdb-infoblox-classes.md#section_pmk_zkg_fxb)
+[Allocated IP Address \[cmdb\_ci\_allocated\_ip\_address\]](sgc-cmdb-infoblox-classes.md#allocated-ip-address-cmdb-ci-allocated-ip-address)[Managed IP Network Subnet \[cmdb\_ci\_ip\_network\_subnet\]](sgc-cmdb-infoblox-classes.md#managed-ip-network-subnet-cmdb-ci-ip-network-subnet)
 
-[Managed Network \[cmdb\_ci\_managed\_network\]](sgc-cmdb-infoblox-classes.md#section_xcl_zkg_fxb)
+[Managed Network \[cmdb\_ci\_managed\_network\]](sgc-cmdb-infoblox-classes.md#managed-network-cmdb-ci-managed-network)
 
 </td></tr><tr><td>
 
@@ -99,10 +99,10 @@ SG-Infoblox DNS Alias \[sn\_infoblox\_integ\_sg\_infoblox\_dns\_alias\]
 
 </td><td>
 
-[DNS Alias \[cmdb\_ci\_dns\_alias\]](sgc-cmdb-infoblox-classes.md#section_ypk_wmh_yxb)
+[DNS Alias \[cmdb\_ci\_dns\_alias\]](sgc-cmdb-infoblox-classes.md#dns-alias-cmdb-ci-dns-alias)
 
 </td></tr></tbody>
-</table>For the SG-Infoblox IP Address data source, the [Detailed Subnetwork](sgc-cmdb-infoblox-classes.md#section_nlp_s44_nfc) \[sn\_infoblox\_integ\_sg\_infoblox\_detailed\_subnetwork\] table determines which IP addresses are imported based on the value of the **Get Ip Address** field.
+</table>For the SG-Infoblox IP Address data source, the [Detailed Subnetwork](sgc-cmdb-infoblox-classes.md#sg-infoblox-detailed-subnetwork-sn-infoblox-integ-sg-infoblox-detailed-subnetwork) \[sn\_infoblox\_integ\_sg\_infoblox\_detailed\_subnetwork\] table determines which IP addresses are imported based on the value of the **Get Ip Address** field.
 
 A global default value can be set for the **Get Ip Address** option by setting the value of the **sn\_infoblox\_integ.default\_get\_ip\_address** system property in Service Graph Connector for Infoblox version 1.5.0 and later. Alternatively, you can update either the **sn\_infoblox\_integ.included\_network\_regex** system property to specify the list of IP addresses to be imported or the **sn\_infoblox\_integ.excluded\_network\_regex** system property to specify the list of IP addresses to be excluded from the import. For more information, see [Service Graph Connector for Infoblox properties](cmdb-sgc-infoblox-props.md).
 

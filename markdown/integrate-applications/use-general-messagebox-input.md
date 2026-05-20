@@ -21,7 +21,7 @@ Role required: none
 
 The input component is used in the Attended Robot automation.
 
-To configure the properties, see [Properties of Confirm components](Properties-general-components.md#confirm-components).
+To configure the properties, see [Properties of Confirm components](Properties-general-components.md#properties-of-the-general-components).
 
 ## Procedure
 

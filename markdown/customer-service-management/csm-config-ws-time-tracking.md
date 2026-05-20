@@ -33,7 +33,7 @@ Start and stop entries in the Time Entry table mark when an agent is actively wo
     -   Is inactive on the current tab for two minutes
     -   Logs out
 
-The Time Entry table stores the start and stop events and the time captured for each start/stop pair. The system runs a scheduled job every 24 hours that aggregates this information and stores it in the Time Entry Aggregated table. Agents can view this aggregated time data in the [My Timelog list](csm-config-ws-time-tracking.md#time_tracker_my_timelog_list).
+The Time Entry table stores the start and stop events and the time captured for each start/stop pair. The system runs a scheduled job every 24 hours that aggregates this information and stores it in the Time Entry Aggregated table. Agents can view this aggregated time data in the [My Timelog list](csm-config-ws-time-tracking.md#my-timelog-list).
 
 ## Timer component
 

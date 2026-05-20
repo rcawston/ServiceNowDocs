@@ -29,7 +29,7 @@ Role required: personalize\_form or AES user role and delegated developer permis
 
 1.  Access Table Builder.
 
-    -   For information on viewing forms, see [Launching Table Builder from UI Builder](accessing-form-builder.md#section_ucg_cht_lsb).
+    -   For information on viewing forms, see [Launching Table Builder from UI Builder](accessing-form-builder.md#launching-table-builder-from-ui-builder).
 2.  Select the **Forms** tab.
 
 3.  Select a form view.

@@ -36,7 +36,7 @@ The following products, for example, benefit from the standardized values:
 
 ## How the mapping between legacy status values and CSDM life-cycle values is specified
 
-A life-cycle value pair is the combination life cycle stage and life cycle stage status values for a CI, asset, or IBI over the life cycle of a product instance. The base system includes the life-cycle mapping \[life\_cycle\_mapping\] table that holds mapping rules. The default rules specify how to align common legacy status values to a CSDM life-cycle value pair. You can update and add rules as needed. \(The table is described more fully in [Life cycle mapping table](csdm-life-cyle-terms.md#section_csdm-lifecycle-mapping-table).\)
+A life-cycle value pair is the combination life cycle stage and life cycle stage status values for a CI, asset, or IBI over the life cycle of a product instance. The base system includes the life-cycle mapping \[life\_cycle\_mapping\] table that holds mapping rules. The default rules specify how to align common legacy status values to a CSDM life-cycle value pair. You can update and add rules as needed. \(The table is described more fully in [Life cycle mapping table](csdm-life-cyle-terms.md#life-cycle-mapping-table).\)
 
 ![Mapping rule that specifies the mapping between a legacy status value and the equivalent CSDM life-cycle value pair.](../../csdm-implementation/image/csdm-lifecycle-mapping-form-annota.png)
 

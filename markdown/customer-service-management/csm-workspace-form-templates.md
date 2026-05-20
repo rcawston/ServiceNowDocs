@@ -147,7 +147,7 @@ Example: A case has **Account = XYZ** **and** **State = Open**. The template "St
 
 ## Adding comments, work notes, and email with templates
 
-You can create and use form templates that add content to the **Additional comments** and **Work notes** fields on a case or interaction and then post that content to the activity stream. Selecting a template displays a modeless dialog with the template content. For more information, see [Modeless dialogs](csm-front-line-case-page-modeless-dialogs.md#section_gzj_wlb_s2c).
+You can create and use form templates that add content to the **Additional comments** and **Work notes** fields on a case or interaction and then post that content to the activity stream. Selecting a template displays a modeless dialog with the template content. For more information, see [Modeless dialogs](csm-front-line-case-page-modeless-dialogs.md#modeless-dialogs).
 
 **Using template email content:** When a template is applied that includes email content, an email draft appears in the Email tab. Select the **Email** tab to view the draft. The **To**, **Cc**, and **Subject** fields are populated based on case information. Review the email, make any edits if needed, and select **Send**.
 

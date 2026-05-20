@@ -21,7 +21,7 @@ To run an Oracle database in a multitenant architecture, you must purchase and m
 
 ## Oracle Multitenant option licensing
 
-The Oracle Multitenant option supports both the Named User Plus and Per Processor license metrics. The Named User Plus license metric licenses all users and physical devices that access a user-created PDB. The Per Processor license metric licenses the processor cores on all physical hosts that are running a user-created PDB. For more information on these license metrics, see [Oracle license metrics](oracle-publisher-pack.md#section_q2j_3dn_qpb).
+The Oracle Multitenant option supports both the Named User Plus and Per Processor license metrics. The Named User Plus license metric licenses all users and physical devices that access a user-created PDB. The Per Processor license metric licenses the processor cores on all physical hosts that are running a user-created PDB. For more information on these license metrics, see [Oracle license metrics](oracle-publisher-pack.md#oracle-license-metrics).
 
 **Important:** Oracle Multitenant option licensing accounts for user-created PDBs only. It does not account for proxy PDBs or seed PDBs.
 

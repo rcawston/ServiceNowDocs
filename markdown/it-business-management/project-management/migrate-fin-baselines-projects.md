@@ -92,7 +92,7 @@ For a description of the field names, see [Scheduled Script Execution Form](sche
 
 ## Result
 
-Financial baselines for the selected projects will be migrated to Next Experience and you can view them in the [Baseline view](../project-workspace/using-financials-prj-wrkspc.md#section_bkp_g2l_2zb).
+Financial baselines for the selected projects will be migrated to Next Experience and you can view them in the [Baseline view](../project-workspace/using-financials-prj-wrkspc.md#baseline-view).
 
 ## What to do next
 

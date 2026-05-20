@@ -43,7 +43,7 @@ Description
 
 </td><td>
 
-Use a file to store a single encryption key. You can use an existing file in the `/keys` directory, or you can generate a new file. To generate a new file, enter an alias and select **Generate**. A file containing an encryption key is created.**Note:** This choice designates both the storage location and the encryption key. If you select **File Store**, select **Next** and go to [step 5](configure-256-key.md#use-256-bit-encryption).
+Use a file to store a single encryption key. You can use an existing file in the `/keys` directory, or you can generate a new file. To generate a new file, enter an alias and select **Generate**. A file containing an encryption key is created.**Note:** This choice designates both the storage location and the encryption key. If you select **File Store**, select **Next** and go to [step 5](configure-256-key.md#configure-the-aes-256-bit-encryption-key).
 
 </td></tr><tr><td id="d158240e130">
 

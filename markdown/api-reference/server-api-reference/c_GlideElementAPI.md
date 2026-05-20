@@ -1023,7 +1023,7 @@ for (var i = 0; i < fields.size(); i++) {
 
 Retrieves the platform object associated with the field's value.
 
-For a use case, see [Modify GlideDateTime field values](../scripts/r_UsefulFieldScripts.md#section_mod-gdt-fields).
+For a use case, see [Modify GlideDateTime field values](../scripts/r_UsefulFieldScripts.md#modify-glidedatetime-field-values).
 
 |Name|Type|Description|
 |----|----|-----------|

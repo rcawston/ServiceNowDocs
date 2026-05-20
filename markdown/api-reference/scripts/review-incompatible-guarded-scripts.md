@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Guarded script detects and records scripts that use unsupported JavaScript features in the Incompatible Guarded Scripts list when transactions calling those scripts are sent. For information about supported features, see [JavaScript features supported by guarded script](guarded-script.md#supported-features).
+Guarded script detects and records scripts that use unsupported JavaScript features in the Incompatible Guarded Scripts list when transactions calling those scripts are sent. For information about supported features, see [JavaScript features supported by guarded script](guarded-script.md#javascript-features-supported-by-guarded-script).
 
 **Note:** When guarded script is in Phase 1: Detection, scripts sent from authenticated users are recorded in the Incompatible Guarded Scripts list only if they have incompatible syntax. Scripts with incompatible APIs aren't recorded until Phase 2: Syntax enforcement.
 

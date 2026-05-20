@@ -84,7 +84,7 @@ Role required:
 
     **Note:** If there are neither any records available from the watch topic, nor any records selected for transfer, the **Create Remediation Effort** button is deactivated.
 
-    For more information on how the Remediation Tasks associated with the Remediation Efforts are impacted by records transfer, see [Transferring records or record carry over](vulnerability-manager-workspace/vr-ws-re-lifecycle.md#section-wmws-re-transfer-records).
+    For more information on how the Remediation Tasks associated with the Remediation Efforts are impacted by records transfer, see [Transferring records or record carry over](vulnerability-manager-workspace/vr-ws-re-lifecycle.md#transferring-records-or-record-carry-over).
 
 
 **Parent Topic:**[Use Remediation Effort records](sem-ws-remed-eff-rcd.md)

@@ -75,7 +75,7 @@ Gateway \[sn\_mulesoft\_gateway\]
 
 </td><td>
 
-[Anypoint API Gateway](api-sgc-mulesoft-tables.md#section_d3q_45r_whc)
+[Anypoint API Gateway](api-sgc-mulesoft-tables.md#anypoint-api-gateway-cmdb-ci-anypoint-api-gateway)
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Managed API \[sn\_mulesoft\_managed\_api\]
 
 </td><td>
 
-[Managed API](api-sgc-mulesoft-tables.md#section_uww_y5r_whc)[Key Value \[cmdb\_key\_value\]](api-sgc-mulesoft-tables.md#section_w23_ywr_whc)
+[Managed API](api-sgc-mulesoft-tables.md#managed-api-cmdb-ci-managed-api)[Key Value \[cmdb\_key\_value\]](api-sgc-mulesoft-tables.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ Frontend And Backend \[sn\_mulesoft\_frontend\_and\_backend\]
 
 </td><td>
 
-[Frontend](api-sgc-mulesoft-tables.md#section_ayw_2vr_whc)[Backend](api-sgc-mulesoft-tables.md#section_zgm_nwr_whc)
+[Frontend](api-sgc-mulesoft-tables.md#api-frontend-cmdb-ci-api-frontend)[Backend](api-sgc-mulesoft-tables.md#api-backend-cmdb-ci-api-backend)
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ API Deployments \[sn\_mulesoft\_api\_deployments\]
 
 </td><td>
 
-[API Deployment](api-sgc-mulesoft-tables.md#section_scn_rwr_whc)[Data Service Instance](api-sgc-mulesoft-tables.md#section_cnb_wwr_whc)
+[API Deployment](api-sgc-mulesoft-tables.md#api-deployment-cmdb-ci-api-deployment)[Data Service Instance](api-sgc-mulesoft-tables.md#data-service-instance-cmdb-ci-data-service-instance)
 
 </td></tr></tbody>
 </table>For more information on where data is saved when pulling data from a MuleSoft Anypoint Platform application, see [Target tables for storing API Service Graph Connector for MuleSoft data](api-sgc-mulesoft-tables.md).

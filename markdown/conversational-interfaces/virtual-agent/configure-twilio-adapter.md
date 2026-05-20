@@ -112,7 +112,7 @@ Message auth that you created.
 </td></tr></tbody>
 </table>    3.  Click **Submit**.
 
-4.  In the Twilio Console, for the phone number that you specified in Step [3](configure-twilio-adapter.md#mess-prov-app), update the SMS incoming web-hook.
+4.  In the Twilio Console, for the phone number that you specified in Step [3](configure-twilio-adapter.md#table_f34_25r_cmb), update the SMS incoming web-hook.
 
     To update the web-hook, navigate to the phone number in your Twilio console: **Phone Numbers** &gt; **Manager** &gt; **Active numbers**. Click on the phone number and enter the following address in the Messaging web-hook field:
 

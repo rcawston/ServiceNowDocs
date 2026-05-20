@@ -37,7 +37,7 @@ Set conditions for a filter in your data resource. For more information, see [Co
 
 Data resources fetch data from Glide, GraphQL, and REST APIs, then transform it for use in a component on a UI Builder page.
 
-Components use both inherited and local data resource instances. Inherited data resources are automatically loaded into a UI Builder page, and local data resource instances can be added and configured. Data resources are evaluated based on specified input values to make sure the right data is retrieved. For more information about inherited and local data resources, see [Inherited versus local data resources in UI Builder](data-resources.md#inherited_versus_local).
+Components use both inherited and local data resource instances. Inherited data resources are automatically loaded into a UI Builder page, and local data resource instances can be added and configured. Data resources are evaluated based on specified input values to make sure the right data is retrieved. For more information about inherited and local data resources, see [Inherited versus local data resources in UI Builder](data-resources.md#inherited-versus-local-data-resources-in-ui-builder).
 
 ## Local data resources in UI Builder
 

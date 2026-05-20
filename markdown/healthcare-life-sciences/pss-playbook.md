@@ -43,7 +43,7 @@ Complete the initial enrollment application review activities.
 
 </td></tr><tr><td>
 
-[Benefit investigation](pss-playbook.md#section_qbd_tsx_crb)
+[Benefit investigation](pss-playbook.md#completing-the-benefit-investigation-activities)
 
 </td><td>
 
@@ -61,7 +61,7 @@ Place a prescription order.
 
 </td></tr><tr><td>
 
-[Program services](pss-playbook.md#section_fz4_gzx_crb)
+[Program services](pss-playbook.md#fulfilling-the-program-services)
 
 </td><td>
 

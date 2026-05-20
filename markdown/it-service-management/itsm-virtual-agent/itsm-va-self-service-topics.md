@@ -91,7 +91,7 @@ Users can raise the urgency of an IT ticket for a faster resolution. Escalating 
 
 ## Get Password Reset Link \(deprecated\)
 
-This topic is deprecated. Use [Reset Password](itsm-password-management.md#itsm-va-reset-password-topic) instead.
+This topic is deprecated. Use [Reset Password](itsm-password-management.md#reset-password) instead.
 
 Users can access a password reset link when system lockout occurs or when passwords are forgotten. When a user enters keywords related to password reset, Virtual Agent provides a link to the password reset process. If a user is not authenticated in the system, Virtual Agent requests the user's email address. If a user is not enrolled in Password Reset, Virtual Agent provides a link to **Password Enrollment**.
 

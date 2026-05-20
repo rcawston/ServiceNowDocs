@@ -18,7 +18,7 @@ An encryption rule maps fields in a client request to fields in a table on your 
 An encryption rule action only runs when the encryption rule condition returns true. An encryption rule identifies the data to be encrypted in your request payload. Because the rule iterates over the content in the request object, you must understand the form and structure of your request body and determine what in the request must be encrypted. The data to be encrypted might be located within:
 
 -   A [POST or URL parameter](param-apis.md#).
--   JSON or XML content within a [POST or URL parameter](param-apis.md#xml-json).
+-   JSON or XML content within a [POST or URL parameter](param-apis.md#encrypt-json-or-xml-within-a-parameter).
 -   A [JSON](json-overview.md) payload.
 -   An [XML](xml-overview.md) payload.
 

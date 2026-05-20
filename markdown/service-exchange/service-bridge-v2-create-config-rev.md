@@ -26,11 +26,11 @@ A configuration can be one of the following:
 
 **Note:** The following sections describe the various stages in the configuration revision life-cycle of a remote task definition. You can:
 
--   [Create a configuration revision](service-bridge-v2-create-config-rev.md#section_l2g_psf_tbc)
--   [Archive a configuration revision](service-bridge-v2-create-config-rev.md#section_zjw_2qc_sbc)
--   [Retire a configuration](service-bridge-v2-create-config-rev.md#section_x1w_dqc_sbc)
--   [Copy a configuration revision](service-bridge-v2-create-config-rev.md#section_gst_43n_tbc)
--   [Delete a configuration](service-bridge-v2-create-config-rev.md#section_igy_2jn_tbc)
+-   [Create a configuration revision](service-bridge-v2-create-config-rev.md#create-a-configuration-revision)
+-   [Archive a configuration revision](service-bridge-v2-create-config-rev.md#archive-a-configuration-revision)
+-   [Retire a configuration](service-bridge-v2-create-config-rev.md#retire-a-configuration)
+-   [Copy a configuration revision](service-bridge-v2-create-config-rev.md#copy-a-configuration-revision)
+-   [Delete a configuration](service-bridge-v2-create-config-rev.md#delete-a-configuration)
 
 You can follow the same process to create revisions for a remote record producer.
 

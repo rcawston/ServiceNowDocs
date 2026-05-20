@@ -395,7 +395,7 @@ From the Interactions table, you can open a specific record to see additional de
 
 -   **Related Tasks**
 
-    Any cases, incidents, or requests created or updated during the conversation are automatically attached to the interaction record as a Related Task. To ensure that these tasks are included with the interaction record, design your conversation topics using certain Assistant Designer utilities and the system method vaSystem.attachRecordToConversation. For details, see [Topic design considerations](va-interactions.md#section_nd1_fs1_zjb) below.
+    Any cases, incidents, or requests created or updated during the conversation are automatically attached to the interaction record as a Related Task. To ensure that these tasks are included with the interaction record, design your conversation topics using certain Assistant Designer utilities and the system method vaSystem.attachRecordToConversation. For details, see [Topic design considerations](va-interactions.md#topic-design-considerations) below.
 
     ![The Related Tasks tab on the Interactions record shows the incident record that was created during the interaction.](../images/VA-interaction-relatedtask.png)
 

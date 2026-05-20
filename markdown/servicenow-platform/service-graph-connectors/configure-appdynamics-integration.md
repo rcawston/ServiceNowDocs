@@ -39,7 +39,7 @@ When using client credentials for authentication, obtain the OAuth credentials f
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#service-graph-connector-user-roles).
 
 ## Procedure
 
@@ -175,7 +175,7 @@ OAuth Client ID
 
 </td><td>
 
-Application \(client\) ID of your AppDynamics client application as noted in the [Before you begin](configure-appdynamics-integration.md#prereq_xvj_dg1_bgc) section.**Note:** Verify that the API client has a role with the required privileges and sufficient Token Expiration Time.
+Application \(client\) ID of your AppDynamics client application as noted in the [Before you begin](configure-appdynamics-integration.md#before-you-begin) section.**Note:** Verify that the API client has a role with the required privileges and sufficient Token Expiration Time.
 
 </td></tr><tr><td>
 
@@ -183,7 +183,7 @@ OAuth Client Secret
 
 </td><td>
 
-Client secret of your AppDynamics client application as noted in the [Before you begin](configure-appdynamics-integration.md#prereq_xvj_dg1_bgc) section.
+Client secret of your AppDynamics client application as noted in the [Before you begin](configure-appdynamics-integration.md#before-you-begin) section.
 
 </td></tr></tbody>
 </table>            6.  Select **Edit Connection**.

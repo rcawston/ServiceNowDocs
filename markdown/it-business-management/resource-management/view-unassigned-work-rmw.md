@@ -17,7 +17,7 @@ Filter unassigned tasks to view custom requests to match with your organization'
 
 ## Before you begin
 
--   Create resource assignments, or migrate your existing resource plans from Classic to Next Experience. For more information, see [Create resource assignments using Resource Management Workspace,](create-ra-rmw.md)[Create resource assignments using Project Workspace](create-ra-pws-rmw.md), or [Migrate resource plans to resource assignments](rsrc-plans-rsrc-asgmnts.md#section_tmb_sd5_zzb).
+-   Create resource assignments, or migrate your existing resource plans from Classic to Next Experience. For more information, see [Create resource assignments using Resource Management Workspace,](create-ra-rmw.md)[Create resource assignments using Project Workspace](create-ra-pws-rmw.md), or [Migrate resource plans to resource assignments](rsrc-plans-rsrc-asgmnts.md#resource-plans-to-resource-assignments).
 -   Role required: resource\_user, resource\_manager
 
 ## Procedure

@@ -41,7 +41,7 @@ When you see the details of a loss scenario associated to a plan, you can also v
 
 7.  To add a related asset to the existing list of assets that can be impacted and dependent on the plan loss scenario, click the **Related Asset Dependencies** tab.
 
-    For more information, see [Identify loss scenarios and align them to a business continuity plan](loss-scenarios-align-with-bcp.md#rel-asset-dependencies).
+    For more information, see [Identify loss scenarios and align them to a business continuity plan](loss-scenarios-align-with-bcp.md#identify-loss-scenarios-and-align-them-to-the-plan).
 
 8.  To remove an asset from the plan, select the item and click **Remove**.
 
@@ -57,6 +57,6 @@ When you see the details of a loss scenario associated to a plan, you can also v
 
 10. To add a recovery task to the recovery strategy of a plan’s loss scenario, click the **Recovery Tasks** tab.
 
-    You can create a recovery task at the recovery strategy level and also at the plan level. See: [Create, update, and group recovery tasks](bcp-recovery-tasks-grid.md#create-rec-task).
+    You can create a recovery task at the recovery strategy level and also at the plan level. See: [Create, update, and group recovery tasks](bcp-recovery-tasks-grid.md#create-update-and-group-recovery-tasks).
 
 

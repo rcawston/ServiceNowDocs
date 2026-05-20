@@ -207,5 +207,5 @@ Add tags to track analytics for the voice assistant. For example: HR Business Un
 
 ## What to do next
 
-Test the execution of your AI voice agent by manually calling in the telephony number to see if the AI voice agent functions the way you defined it. Review the transcript and logs for troubleshooting and improving the conversational experience of users. See [AI voice agent transcript and logs tables](voice-agent-reference.md#section_vvs_s1f_nhc) for information on the tables containing transcript and logs.
+Test the execution of your AI voice agent by manually calling in the telephony number to see if the AI voice agent functions the way you defined it. Review the transcript and logs for troubleshooting and improving the conversational experience of users. See [AI voice agent transcript and logs tables](voice-agent-reference.md#ai-voice-agent-transcript-and-logs-tables) for information on the tables containing transcript and logs.
 

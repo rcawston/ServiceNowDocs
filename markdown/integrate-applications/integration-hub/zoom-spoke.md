@@ -757,7 +757,7 @@ There might be AI agents installed with the Now Assist application that are not 
 
 ## Zoom spoke requirements
 
-These actions use REST calls, which can run on an instance or Zoom spoke See [Building flows](../../build-workflows/workflow-studio/flows.md) for more information. Use the connection record that is associated with the Zoom alias to configure where actions run and set Zoom spoke selection attributes. For more information about the alias, see [Connection and credential alias](zoom-spoke.md#section_ibn_pj2_hfb).
+These actions use REST calls, which can run on an instance or Zoom spoke See [Building flows](../../build-workflows/workflow-studio/flows.md) for more information. Use the connection record that is associated with the Zoom alias to configure where actions run and set Zoom spoke selection attributes. For more information about the alias, see [Connection and credential alias](zoom-spoke.md#connection-and-credential-alias-requirements).
 
 ## Connection and credential alias requirements
 

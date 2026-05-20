@@ -39,7 +39,7 @@ Role required: atf\_test\_admin, atf\_test\_designer, or admin
 
     **Note:** If the test execution property is not enabled, the **Run Test** button does not appear. In this case, see the annotation at the top of the form, and click the link to enable running tests.
 
-    If the test includes a form step \(any step involving a UI\), or other kinds of [UI test steps](ui-test-steps.md), the [Pick a browser](atf-pick-a-browser.md) dialog appears before executing the tests. Use it to choose among any currently running test clients, or start a new runner. For more information, review [Browser recommendations for all tests and suites](atf-test-runners.md#kvv_h25_gx). If the test only includes [server test steps](server-test-steps.md), the system executes the tests without displaying the Pick a Browser dialog.
+    If the test includes a form step \(any step involving a UI\), or other kinds of [UI test steps](ui-test-steps.md), the [Pick a browser](atf-pick-a-browser.md) dialog appears before executing the tests. Use it to choose among any currently running test clients, or start a new runner. For more information, review [Browser recommendations for all tests and suites](atf-test-runners.md#browser-recommendations-for-all-tests-and-suites). If the test only includes [server test steps](server-test-steps.md), the system executes the tests without displaying the Pick a Browser dialog.
 
 
 ## What to do next

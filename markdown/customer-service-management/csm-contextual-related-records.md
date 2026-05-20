@@ -54,7 +54,7 @@ This plugin adds the Dynamic Related Record menu and the following modules to th
 -   Related Record Contexts
 -   Related Record Definitions
 
-This plugin also adds several related record definitions. For more information, see [Related record definitions included with the plugin](dynamic-related-records-configure.md#section_khj_gwl_jpb).
+This plugin also adds several related record definitions. For more information, see [Related record definitions included with the plugin](dynamic-related-records-configure.md#related-record-definitions-included-with-the-plugin).
 
 ## Using dynamic related records with Playbooks for Customer Service Management
 

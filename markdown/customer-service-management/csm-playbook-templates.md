@@ -13,12 +13,12 @@ breadcrumb: [Playbooks in Customer Service Management, Agent tools, Organize age
 
 Use playbook page templates to create pages and page variants for use in CSM Configurable Workspace. These pages and page variants provide agents with either horizontal or vertical playbooks that they can use to complete tasks and resolve cases.
 
-The following page templates are available with the Playbooks for Customer Service Management application \[com.sn\_csm\_playbook\]. For more information, see [Playbook plugins](setting-up-csm-playbooks.md#section_qgq_ylk_llb).
+The following page templates are available with the Playbooks for Customer Service Management application \[com.sn\_csm\_playbook\]. For more information, see [Playbook plugins](setting-up-csm-playbooks.md#playbook-plugins).
 
 |Page template|Description|
 |-------------|-----------|
-|[Case playbook: horizontal stages](csm-playbook-templates.md#section_uyk_sp3_cxb)|Includes a horizontal stage picker that displays across the top of the UI and shows persistent information in the left panel.|
-|[Case playbook: vertical stages](csm-playbook-templates.md#section_ert_1vw_cxb)|Includes a vertical stage picker that displays in the left panel. This stage picker can track overall progress on the UI in a vertical view.|
+|[Case playbook: horizontal stages](csm-playbook-templates.md#case-playbook-horizontal-stages-page-template)|Includes a horizontal stage picker that displays across the top of the UI and shows persistent information in the left panel.|
+|[Case playbook: vertical stages](csm-playbook-templates.md#case-playbook-vertical-stages-page-template)|Includes a vertical stage picker that displays in the left panel. This stage picker can track overall progress on the UI in a vertical view.|
 
 Considerations for using these page templates include the number of stages that appear in the picker and the length of the stage names. For example, longer stage names in the horizontal playbook can be truncated.
 
@@ -26,13 +26,13 @@ Considerations for using these page templates include the number of stages that 
 
 ## Case playbook: horizontal stages page template
 
-The Case playbook: Horizontal stages page template includes a horizontal stage picker across the top of the page and an activity picker on the left side. For details about the components included in this template, see [Playbook template components](csm-playbook-templates.md#section_sjc_xxz_rbc).
+The Case playbook: Horizontal stages page template includes a horizontal stage picker across the top of the page and an activity picker on the left side. For details about the components included in this template, see [Playbook template components](csm-playbook-templates.md#playbook-page-template-components).
 
 ![Case playbook: horizontal stages page template with a stage picker that displays across the top of the user interface](../image/case-playbook-template-horizontal-stages.png "Case playbook: horizontal stages page template")
 
 ## Case playbook: vertical stages page template
 
-The Case playbook: Vertical stages page template includes a vertical stage picker on the left side of the page. For details about the components included in this template, see [Playbook template components](csm-playbook-templates.md#section_sjc_xxz_rbc).
+The Case playbook: Vertical stages page template includes a vertical stage picker on the left side of the page. For details about the components included in this template, see [Playbook template components](csm-playbook-templates.md#playbook-page-template-components).
 
 ![Case playbook: vertical stages page template with a stage picker that displays on the side of the user interface](../image/case-playbook-template-vertical-stages.png "Case playbook: vertical stages page template")
 

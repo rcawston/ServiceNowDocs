@@ -62,7 +62,7 @@ Use the SGC Central view in the Service Graph Workspace or CMDB Workspace to ins
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Wiz integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Wiz integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#using-the-cmdb-integrations-dashboard).
 
 ## Data mapping
 
@@ -96,9 +96,9 @@ SG-Wiz-Organization \[sn\_wiz\_integ\_sg\_wiz\_organization\]
 
 </td><td>
 
-[Cloud Organizations](sgc-cmdb-wiz-classes.md#section_zbf_zgg_fxb)[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[Cloud Organizations](sgc-cmdb-wiz-classes.md#cloud-organizations-cmdb-ci-cloud-org)[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
-[Google Organization Folder](sgc-cmdb-wiz-classes.md#section_tc1_gkk_bcc)
+[Google Organization Folder](sgc-cmdb-wiz-classes.md#google-organization-folder-cmdb-ci-gcp-folder)
 
 </td></tr><tr><td>
 
@@ -110,13 +110,13 @@ SG-Wiz-Subscription \[sn\_wiz\_integ\_sg\_wiz\_subscription\]
 
 </td><td>
 
-[Cloud Service Account](sgc-cmdb-wiz-classes.md#section_o3z_5gg_fxb)[Google Organization Project](sgc-cmdb-wiz-classes.md#section_zqg_ydk_bcc)
+[Cloud Service Account](sgc-cmdb-wiz-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)[Google Organization Project](sgc-cmdb-wiz-classes.md#google-organization-project-cmdb-ci-gcp-project)
 
-[VMware vCenter Datacenter](sgc-cmdb-wiz-classes.md#section_www_5wq_2hc)
+[VMware vCenter Datacenter](sgc-cmdb-wiz-classes.md#vmware-vcenter-datacenter-cmdb-ci-vcenter-datacenter)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
-[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -128,15 +128,15 @@ SG-Wiz-Datacenter \[sn\_wiz\_integ\_sg\_wiz\_datacenter\]
 
 </td><td>
 
-[AWS Datacenter](sgc-cmdb-wiz-classes.md#section_q2s_5hg_fxb)[Azure Datacenter](sgc-cmdb-wiz-classes.md#section_qhy_tp5_vxb)
+[AWS Datacenter](sgc-cmdb-wiz-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)[Azure Datacenter](sgc-cmdb-wiz-classes.md#azure-datacenter-cmdb-ci-azure-datacenter)
 
-[Google Datacenter](sgc-cmdb-wiz-classes.md#section_uts_ffk_bcc)
+[Google Datacenter](sgc-cmdb-wiz-classes.md#google-datacenter-cmdb-ci-google-datacenter)
 
-[Logical Datacenter](sgc-cmdb-wiz-classes.md#section_wyc_zyq_2hc)
+[Logical Datacenter](sgc-cmdb-wiz-classes.md#logical-datacenter-cmdb-ci-logical-datacenter)
 
-[OCI Datacenter](sgc-cmdb-wiz-classes.md#section_fky_bxq_2hc)
+[OCI Datacenter](sgc-cmdb-wiz-classes.md#oci-datacenter-cmdb-ci-oci-datacenter)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -148,9 +148,9 @@ SG-Wiz-Resource-Group \[sn\_wiz\_integ\_sg\_wiz\_resource\_group\]
 
 </td><td>
 
-[Resource Group](sgc-cmdb-wiz-classes.md#section_gdd_5lb_f1c)[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[Resource Group](sgc-cmdb-wiz-classes.md#resource-group-cmdb-ci-resource-group)[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
-[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -162,9 +162,9 @@ SG-Wiz-Network-Interface \[sn\_wiz\_integ\_sg\_wiz\_network\_interface\]
 
 </td><td>
 
-[Cloud Mgmt Network Interface](sgc-cmdb-wiz-classes.md#section_z4y_13g_fxb)[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[Cloud Mgmt Network Interface](sgc-cmdb-wiz-classes.md#cloud-mgmt-network-interface-cmdb-ci-nic)[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
-[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -176,9 +176,9 @@ SG-Wiz-Virtual-Network \[sn\_wiz\_integ\_sg\_wiz\_virtual\_network\]
 
 </td><td>
 
-[Cloud Network](sgc-cmdb-wiz-classes.md#section_w2n_n4n_21c)[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[Cloud Network](sgc-cmdb-wiz-classes.md#cloud-network-cmdb-ci-network)[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
-[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -190,7 +190,7 @@ SG-Wiz-Firewall \[sn\_wiz\_integ\_sg\_wiz\_firewall\]
 
 </td><td>
 
-[Compute Security Group](sgc-cmdb-wiz-classes.md#section_j4n_vhg_fxb)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Compute Security Group](sgc-cmdb-wiz-classes.md#compute-security-group-cmdb-ci-compute-security-group)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -202,11 +202,11 @@ SG-Wiz-Volume \[sn\_wiz\_integ\_sg\_wiz\_volume\]
 
 </td><td>
 
-[Storage Volume](sgc-cmdb-wiz-classes.md#section_ogm_nhg_fxb)[Cloud Disk Type](sgc-cmdb-wiz-classes.md#section_lmk_3rk_bcc)
+[Storage Volume](sgc-cmdb-wiz-classes.md#storage-volume-cmdb-ci-storage-volume)[Cloud Disk Type](sgc-cmdb-wiz-classes.md#cloud-disk-type-cmdb-ci-disk-type)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
-[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -218,21 +218,21 @@ SG-Wiz-Virtual-Machine \[sn\_wiz\_integ\_sg\_wiz\_virtual\_machine\]
 
 </td><td>
 
-[Virtual Machine Instance](sgc-cmdb-wiz-classes.md#section_fgm_hhg_fxb)
+[Virtual Machine Instance](sgc-cmdb-wiz-classes.md#virtual-machine-instance-cmdb-ci-vm-instance)
 
- [Hardware Type](sgc-cmdb-wiz-classes.md#section_wlb_1mk_bcc)
+ [Hardware Type](sgc-cmdb-wiz-classes.md#cloud-hardware-type-cmdb-ci-cloud-hardware-type)
 
- [Cloud Hardware Type](sgc-cmdb-wiz-classes.md#section_ks5_ybr_2hc)
+ [Cloud Hardware Type](sgc-cmdb-wiz-classes.md#cloud-hardware-type-cmdb-ci-cloud-hardware-type)
 
- [Linux Server](sgc-cmdb-wiz-classes.md#section_lzf_3p5_vxb)
+ [Linux Server](sgc-cmdb-wiz-classes.md#linux-server-cmdb-ci-linux-server)
 
- [Windows Server](sgc-cmdb-wiz-classes.md#section_rdg_xp5_vxb)
+ [Windows Server](sgc-cmdb-wiz-classes.md#windows-server-cmdb-ci-win-server)
 
- [Server](sgc-cmdb-wiz-classes.md#section_y5x_yhg_fxb)
+ [Server](sgc-cmdb-wiz-classes.md#linux-server-cmdb-ci-linux-server)
 
- [Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+ [Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
- [SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+ [SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -244,13 +244,13 @@ SG-Wiz-Virtual-Machine-Image \[sn\_wiz\_integ\_sg\_wiz\_virtual\_machine\_image\
 
 </td><td>
 
-[Image](sgc-cmdb-wiz-classes.md#section_c5r_cnb_f1c)
+[Image](sgc-cmdb-wiz-classes.md#image-cmdb-ci-os-template)
 
 **Note:** Data with no subscription IDs for images aren't imported. Also, if the subscription ID for an image is available, but the subscription-specific details are not available in Wiz, the data isn't imported by the connector.
 
- [Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+ [Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
- [SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+ [SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -262,9 +262,9 @@ SG-Wiz-Load Balancer \[sn\_wiz\_integ\_sg\_wiz\_load\_balancer\]
 
 </td><td>
 
-[Cloud Load Balancer](sgc-cmdb-wiz-classes.md#section_ddq_2mb_f1c)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Cloud Load Balancer](sgc-cmdb-wiz-classes.md#cloud-load-balancer-cmdb-ci-cloud-load-balancer)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -276,13 +276,13 @@ SG-Wiz-Database \[sn\_wiz\_integ\_sg\_wiz\_database\]
 
 </td><td>
 
-[Cloud DataBase](sgc-cmdb-wiz-classes.md#section_mt2_flb_f1c)[Cloud DataBase Cluster](sgc-cmdb-wiz-classes.md#section_tmj_tmb_f1c)
+[Cloud DataBase](sgc-cmdb-wiz-classes.md#cloud-database-cmdb-ci-cloud-database)[Cloud DataBase Cluster](sgc-cmdb-wiz-classes.md#cloud-database-cluster-cmdb-ci-cloud-db-cluster)
 
-[DynamoDB Table](sgc-cmdb-wiz-classes.md#section_tpv_skb_f1c)
+[DynamoDB Table](sgc-cmdb-wiz-classes.md#dynamodb-table-cmdb-ci-dynamodb-table)
 
-[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -294,9 +294,9 @@ SG-Wiz-Bucket \[sn\_wiz\_integ\_sg\_wiz\_bucket\]
 
 </td><td>
 
-[Cloud Object Storage](sgc-cmdb-wiz-classes.md#section_gzl_5nb_f1c)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Cloud Object Storage](sgc-cmdb-wiz-classes.md#cloud-object-storage-cmdb-ci-cloud-object-storage)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -308,9 +308,9 @@ SG-Wiz-Serverless \[sn\_wiz\_integ\_sg\_wiz\_serverless\]
 
 </td><td>
 
-[Cloud Function](sgc-cmdb-wiz-classes.md#section_o4k_qjb_f1c)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Cloud Function](sgc-cmdb-wiz-classes.md#cloud-function-cmdb-ci-cloud-function)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -322,9 +322,9 @@ SG-Wiz-Network-Address \[sn\_wiz\_integ\_sg\_wiz\_network\_address\]
 
 </td><td>
 
-[Cloud Public IP Address](sgc-cmdb-wiz-classes.md#section_crz_h3s_g1c)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Cloud Public IP Address](sgc-cmdb-wiz-classes.md#cloud-public-ip-address-cmdb-ci-cloud-public-ipaddress)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -336,9 +336,9 @@ SG-Wiz-Storage-Account \[sn\_wiz\_integ\_sg\_wiz\_storage\_account\]
 
 </td><td>
 
-[Cloud Storage Account](sgc-cmdb-wiz-classes.md#section_s1l_jgs_g1c)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Cloud Storage Account](sgc-cmdb-wiz-classes.md#cloud-storage-account-cmdb-ci-cloud-storage-account)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -350,9 +350,9 @@ SG-Wiz-API-Gateway \[sn\_wiz\_integ\_sg\_wiz\_api\_gateway\]
 
 </td><td>
 
-[Cloud Gateway](sgc-cmdb-wiz-classes.md#section_j2g_2s2_z1c)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Cloud Gateway](sgc-cmdb-wiz-classes.md#cloud-gateway-cmdb-ci-cloud-gateway)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -364,9 +364,9 @@ SG-Wiz-Snapshot \[sn\_wiz\_integ\_sg\_wiz\_snapshot\]
 
 </td><td>
 
-[Storage Volume Snapshot](sgc-cmdb-wiz-classes.md#section_zkh_wgg_fxb)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Storage Volume Snapshot](sgc-cmdb-wiz-classes.md#storage-volume-snapshot-cmdb-ci-storage-vol-snapshot)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -378,9 +378,9 @@ SG-Wiz Kubernetes Cluster \[sn\_wiz\_integ\_sg\_wiz\_k8s\_cluster\]
 
 </td><td>
 
-[Kubernetes Cluster](sgc-cmdb-wiz-classes.md#section_xzj_khg_fxb)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Kubernetes Cluster](sgc-cmdb-wiz-classes.md#kubernetes-cluster-cmdb-ci-kubernetes-cluster)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -392,9 +392,9 @@ SG-Wiz-K8s Namespace \[sn\_wiz\_integ\_sg\_wiz\_k8s\_namespace\]
 
 </td><td>
 
-[Kubernetes Namespace](sgc-cmdb-wiz-classes.md#section_gz4_lhg_fxb)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Kubernetes Namespace](sgc-cmdb-wiz-classes.md#kubernetes-namespace-cmdb-ci-kubernetes-namespace)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -406,9 +406,9 @@ SG-Wiz-Kubernetes Node \[sn\_wiz\_integ\_sg\_wiz\_kubernetes\_node\]
 
 </td><td>
 
-[Kubernetes Node](sgc-cmdb-wiz-classes.md#section_vf1_dhg_fxb)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Kubernetes Node](sgc-cmdb-wiz-classes.md#kubernetes-node-cmdb-ci-kubernetes-node)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -420,9 +420,9 @@ SG-Wiz-Kubernetes Deployment \[sn\_wiz\_integ\_sg\_wiz\_kubernetes\_deployment\]
 
 </td><td>
 
-[Kubernetes Deployment](sgc-cmdb-wiz-classes.md#section_hyk_1hg_fxb)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Kubernetes Deployment](sgc-cmdb-wiz-classes.md#kubernetes-deployment-cmdb-ci-kubernetes-deployment)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -434,9 +434,9 @@ SG-Wiz-Kubernetes Service \[sn\_wiz\_integ\_sg\_wiz\_kubernetes\_service\]
 
 </td><td>
 
-[Kubernetes Service](sgc-cmdb-wiz-classes.md#section_kgl_mhg_fxb)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Kubernetes Service](sgc-cmdb-wiz-classes.md#kubernetes-service-cmdb-ci-kubernetes-service)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -448,9 +448,9 @@ SG-Wiz-Kubernetes Pod \[sn\_wiz\_integ\_sg\_wiz\_kubernetes\_pod\]
 
 </td><td>
 
-[Kubernetes Pod](sgc-cmdb-wiz-classes.md#section_rkm_1kg_fxb)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Kubernetes Pod](sgc-cmdb-wiz-classes.md#kubernetes-pod-cmdb-ci-kubernetes-pod)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -462,9 +462,9 @@ SG-Wiz-Kubernetes Replica Set \[sn\_wiz\_integ\_sg\_wiz\_kubernetes\_replica\_se
 
 </td><td>
 
-[Kubernetes ReplicaSet](sgc-cmdb-wiz-classes.md#section_zdf_phg_fxb)[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Kubernetes ReplicaSet](sgc-cmdb-wiz-classes.md#kubernetes-replicaset-cmdb-ci-kubernetes-replicaset)[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -476,7 +476,7 @@ SG-Wiz Kubernetes Container \[sn\_wiz\_integ\_sg\_wiz\_kubernetes\_container\]
 
 </td><td>
 
-[Docker Container](sgc-cmdb-wiz-classes.md#section_vx1_thg_fxb)[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[Docker Container](sgc-cmdb-wiz-classes.md#docker-container-cmdb-ci-docker-container)[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
 </td></tr><tr><td>
 
@@ -488,9 +488,9 @@ SG-Wiz-Compute Instance Group \[sn\_wiz\_integ\_sg\_wiz\_compute\_instance\_grou
 
 </td><td>
 
-[Instance Scale Set](sgc-cmdb-wiz-classes.md#section_xzs_ffd_dfc)[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[Instance Scale Set](sgc-cmdb-wiz-classes.md#instance-scale-set-cmdb-ci-instance-scale-set)[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
-[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -502,11 +502,11 @@ SG-Wiz-Gateway \[sn\_wiz\_integ\_sg\_wiz\_gateway\]
 
 </td><td>
 
-[Internet Gateway](sgc-cmdb-wiz-classes.md#section_xvp_t1r_2hc)[AWS Datacenter](sgc-cmdb-wiz-classes.md#section_q2s_5hg_fxb)
+[Internet Gateway](sgc-cmdb-wiz-classes.md#internet-gateway-cmdb-ci-internet-gateway)[AWS Datacenter](sgc-cmdb-wiz-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
-[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#section_ldv_jds_zxb)
+[SG-Wiz Extension Attributes](sgc-cmdb-wiz-classes.md#sg-wiz-extension-attributes-sn-wiz-integ-extension-attributes)
 
-[Key Value](sgc-cmdb-wiz-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-wiz-classes.md#key-value-cmdb-key-value)
 
 </td></tr></tbody>
 </table>**Note:** All the labels or tags associated with a Wiz resource are added to the Key Value \[cmdb\_key\_value\] table and the project information about a Wiz resource is stored in the SG-Wiz Extension Attributes \[sn\_wiz\_integ\_extension\_attributes\] table.

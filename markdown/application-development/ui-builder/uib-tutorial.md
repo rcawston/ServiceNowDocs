@@ -82,7 +82,7 @@ Do the following
 12. Select **Continue**.
 13. On the next screen, select **Build responsive**.
 14. Select **Create**.
-15. After your page is created, the page editor screen appears. You can change advanced settings such as the **URL settings** and **Variant** settings. For this tutorial, you can skip these advanced options. For more information on changing advanced settings, see [Create a UI Builder page: Advanced settings](work-pages.md#create_page_advanced_settings).
+15. After your page is created, the page editor screen appears. You can change advanced settings such as the **URL settings** and **Variant** settings. For this tutorial, you can skip these advanced options. For more information on changing advanced settings, see [Create a UI Builder page: Advanced settings](work-pages.md#create-a-ui-builder-page-advanced-settings).
 
 
 </td></tr></tbody>

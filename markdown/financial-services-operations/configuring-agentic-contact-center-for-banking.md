@@ -44,7 +44,7 @@ Configure Agentic Contact Center for Banking by integrating your CCaaS provider,
 
     Enable agentic AI support in the Customer 360 and Interaction pages.
 
--   [Configure Knowledge Graph tags](now-assist-for-financial-services-operations-fso/agentic-contact-center-for-banking-agents-overview.md#section_rrc_ywv_n3c)
+-   [Configure Knowledge Graph tags](now-assist-for-financial-services-operations-fso/agentic-contact-center-for-banking-agents-overview.md#access-knowledge-graph-tags-configuration)
 
     Review and configure the knowledge graph tags for each customer type to define the data sources for your AI agents.
 

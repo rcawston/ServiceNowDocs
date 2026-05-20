@@ -27,7 +27,7 @@ If you need a UI or an activity that is reusable, [create an activity definition
 
 ## Asset types
 
-When [adding an activity](process-automation-designer-lanes-activities.md#adding-an-activity), select **Include all automation assets** in the activity picker to add [flows](flows.md), [subflows](subflows.md) and [actions](actions.md).
+When [adding an activity](process-automation-designer-lanes-activities.md#adding-an-activity-to-your-playbook), select **Include all automation assets** in the activity picker to add [flows](flows.md), [subflows](subflows.md) and [actions](actions.md).
 
 ![Activity picker with automation assets enabled](../images/automation-assets.png)
 

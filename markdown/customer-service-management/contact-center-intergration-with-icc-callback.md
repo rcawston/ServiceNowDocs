@@ -100,7 +100,7 @@ When agents are working from an unsupported workspace or they aren’t on the ca
 
 In addition to the ICC callback features, the following features are available in the callback interactions.
 
--   Callback context card: The callback context card on the Callback interaction page provides the details of the callback request. For more information on the callback context card, see [Callback context card](csm-native-voice-record-page.md#section-callback-context).
+-   Callback context card: The callback context card on the Callback interaction page provides the details of the callback request. For more information on the callback context card, see [Callback context card](csm-native-voice-record-page.md#callback-context-card).
 
     This feature uses the Interaction table, which includes a reference to the Callback \[sys\_cs\_callback\] table. The Callback table, in turn, references the Callback Context \[sys\_cs\_callback\_context\] table to store the information related to the callback request.
 

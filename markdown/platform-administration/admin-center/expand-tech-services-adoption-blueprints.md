@@ -136,7 +136,7 @@ Service Mapping discovers all application services in your organization and buil
 
 </td><td>
 
-[Roles installed with Service Mapping](../../it-operations-management/service-mapping/components-installed-with-service-mapping.md#section_wly_yyh_wdb)
+[Roles installed with Service Mapping](../../it-operations-management/service-mapping/components-installed-with-service-mapping.md#roles-installed)
 
 </td><td>
 
@@ -201,7 +201,7 @@ Knowledge Management \(KM\) enables the sharing of information in knowledge base
 
 </td><td>
 
-[Roles installed with Knowledge Management](../../servicenow-platform/knowledge-management/Installed-with-km-core.md#section_wly_yyh_wdb)
+[Roles installed with Knowledge Management](../../servicenow-platform/knowledge-management/Installed-with-km-core.md#roles-installed)
 
 </td><td>
 
@@ -262,7 +262,7 @@ Service Operations Workspace is a configurable workspace that provides a unified
 
 </td><td>
 
-[Roles installed with Service Operations Workspace for ITSM](../../it-service-management/service-operations-workspace/components-installed-with-sow.md#section_wly_yyh_wdb)
+[Roles installed with Service Operations Workspace for ITSM](../../it-service-management/service-operations-workspace/components-installed-with-sow.md#roles-installed)
 
 </td><td>
 
@@ -282,7 +282,7 @@ Certificate Inventory and Management discovers, takes inventory of, and proactiv
 
 </td><td>
 
-[Roles installed with Certificate Inventory and Management](../../it-operations-management/discovery/cert-inventory-mgmt-user-roles.md#section_i3j_qfd_mjb)
+[Roles installed with Certificate Inventory and Management](../../it-operations-management/discovery/cert-inventory-mgmt-user-roles.md#certificate-inventory-and-management-roles-and-responsibilities)
 
 </td><td>
 
@@ -302,7 +302,7 @@ Firewall Audits and Reporting discovers and takes inventory of your firewall sec
 
 </td><td>
 
-[Roles installed with Firewall Audits and Reporting](../../it-operations-management/discovery/firewall-audit-reporting-users-roles.md#section_e1j_1f1_plb)
+[Roles installed with Firewall Audits and Reporting](../../it-operations-management/discovery/firewall-audit-reporting-users-roles.md#firewall-audits-and-reporting-roles-and-responsibilities)
 
 </td><td>
 
@@ -343,7 +343,7 @@ Health Log Analytics helps prevent IT issues before your users are affected. It 
 
 </td><td>
 
-[Roles installed with Health Log Analytics](../../it-operations-management/health-log-analytics/hla-components.md#section_okx_gk3_2nb)
+[Roles installed with Health Log Analytics](../../it-operations-management/health-log-analytics/hla-components.md#components-installed-with-health-log-analytics)
 
 </td><td>
 

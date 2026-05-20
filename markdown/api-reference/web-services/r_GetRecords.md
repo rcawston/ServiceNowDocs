@@ -103,11 +103,11 @@ Sample SOAP response that contains more than 1 record
 
 For language-specific getRecords samples, refer to the following topics:
 
-[Perl SOAP::Lite](c_PerlWebServicesClientExamples.md#getRecords)
+[Perl SOAP::Lite](c_PerlWebServicesClientExamples.md#getrecords)
 
 [Java Apache Axis2](c_JAAWbSrvcsClntExUpdt.md)
 
-[Python](c_PythonWebServicesClientExamples.md#getRecords)
+[Python](c_PythonWebServicesClientExamples.md#getrecords)
 
 **Parent Topic:**[Data Retrieval API](r_DataRetrievalAPI.md)
 

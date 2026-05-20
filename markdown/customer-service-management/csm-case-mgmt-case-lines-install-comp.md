@@ -172,7 +172,7 @@ This is an existing role.The customer service agent role has read, write, and up
 
 </td><td>
 
-For more information, see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md#section_p5t_gcr_3mb).
+For more information, see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md#roles-installed-with-customer-service-management).
 
 </td></tr><tr><td>
 
@@ -184,7 +184,7 @@ This is an existing role.The customer contact has read and write permissions in 
 
 </td><td>
 
-For more information, see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md#section_p5t_gcr_3mb).
+For more information, see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md#roles-installed-with-customer-service-management).
 
 </td></tr></tbody>
 </table>## Properties

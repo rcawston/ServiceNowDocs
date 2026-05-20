@@ -25,7 +25,7 @@ To access the MFA Dashboard, navigate **All** &gt; **Multi-factor Authentication
 
 Following are the types of metrics displayed on the MFA Dashboard:
 
--   [User Metrics](mfa-dashboard.md#section_qkr_l2c_cfc)
+-   [User Metrics](mfa-dashboard.md#user-metrics)
 -   [Login Metrics](mfa-dashboard.md#section_byk_42c_cfc)
 
 ## User Metrics

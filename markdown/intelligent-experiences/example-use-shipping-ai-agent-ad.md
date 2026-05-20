@@ -101,7 +101,7 @@ The AI agent shows the steps as it executes them in the panel.The outcome of exe
 
 Once the plan is received, the AI agent starts executing the automation in the Execution workspace. **Note:** If any pop up is blocking the automation from running, step in to clear the pop up so that AI agent can proceed with the execution.
 
-The AI agent performs the tasks same as a human would. The Execution workspace shows the status of the execution. For more information, see [Execution statuses](agentic-desktop-excution-workspace.md#ad-execution-status).
+The AI agent performs the tasks same as a human would. The Execution workspace shows the status of the execution. For more information, see [Execution statuses](agentic-desktop-excution-workspace.md#execution-statuses).
 
 </td></tr></tbody>
 </table>5.  Interact with the automation when your inputs are required.

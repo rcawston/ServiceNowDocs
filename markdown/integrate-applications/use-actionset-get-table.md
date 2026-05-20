@@ -27,7 +27,7 @@ The ActionSet Get Table action captures an entire table from a location that you
 
 For the action to successfully capture table data, the target data must already be in table form. The action cannot convert ordinary text to table data.
 
-You can configure the properties for the Get Table action. For more information about these properties, see [ActionSet- Get Table properties](actionset-actions-properties.md#ActionSet-GetTable).
+You can configure the properties for the Get Table action. For more information about these properties, see [ActionSet- Get Table properties](actionset-actions-properties.md#get-table).
 
 ## Procedure
 

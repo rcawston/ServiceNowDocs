@@ -40,8 +40,8 @@ The pages appear together and are visible to agents for phone interactions when 
 The Interaction control page appears in the left panel and includes the following components:
 
 -   [Interaction Controls Component \(ICC\)](itsm-native-voice-record-page.md#section_f2q_wcb_ldc): Enables CCaaS providers to display native voice integrations.
--   [Customer History component](itsm-native-voice-record-page.md#section_imd_r1b_ldc): Displays customer, consumer, or account history information, depending on the customer information provided on the interaction record.
--   [Live call transcript](itsm-native-voice-record-page.md#section_c31_xwz_ydc): Displays the text of the call transcript when a conversation record is present for the interaction.
+-   [Customer History component](itsm-native-voice-record-page.md#customer-history-component): Displays customer, consumer, or account history information, depending on the customer information provided on the interaction record.
+-   [Live call transcript](itsm-native-voice-record-page.md#live-call-transcript): Displays the text of the call transcript when a conversation record is present for the interaction.
 
     **Note:** Live call transcript requires additional configuration.
 
@@ -49,8 +49,8 @@ The Interaction control page appears in the left panel and includes the followin
 The CSM voice interaction record page includes the following components:
 
 -   Interaction form
--   [Action bar](itsm-native-voice-record-page.md#section_mjh_fh1_ldc)
--   [contextual side panel component](itsm-native-voice-record-page.md#section_uyq_2l1_ldc)
+-   [Action bar](itsm-native-voice-record-page.md#action-bar-component)
+-   [contextual side panel component](itsm-native-voice-record-page.md#contextual-side-panel-component)
 
 ## Plugin
 
@@ -160,7 +160,7 @@ Agents can create multiple tags for a record and then use the tags to group and 
 
 </td></tr><tr><td>
 
-[Action bar](itsm-native-voice-record-page.md#section_mjh_fh1_ldc)
+[Action bar](itsm-native-voice-record-page.md#action-bar-component)
 
 </td><td>
 
@@ -176,11 +176,11 @@ The action bar contains the actions available to users while working on phone in
 
 </td><td>
 
-The Interaction Controls Component enables CCaaS providers to display native voice integrations. Agents can then use the component to manage customer calls directly from their inbox.For more information, see [CSM voice interaction record page](../../customer-service-management/csm-native-voice-record-page.md#section_vx4_fzz_kdc).
+The Interaction Controls Component enables CCaaS providers to display native voice integrations. Agents can then use the component to manage customer calls directly from their inbox.For more information, see [CSM voice interaction record page](../../customer-service-management/csm-native-voice-record-page.md#csm-voice-interaction-record-page).
 
 </td></tr><tr><td>
 
-[Customer History component](itsm-native-voice-record-page.md#section_imd_r1b_ldc)
+[Customer History component](itsm-native-voice-record-page.md#customer-history-component)
 
 </td><td>
 
@@ -198,7 +198,7 @@ The interaction details include information about the interaction including the 
 
 </td></tr><tr><td>
 
-[Contextual side panel component](itsm-native-voice-record-page.md#section_uyq_2l1_ldc)
+[Contextual side panel component](itsm-native-voice-record-page.md#contextual-side-panel-component)
 
 </td><td>
 

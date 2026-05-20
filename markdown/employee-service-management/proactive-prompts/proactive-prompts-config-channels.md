@@ -65,7 +65,7 @@ Portal action group
 
 </td><td>
 
-The action group applicable to the prompts displayed on the portal.Action groups include some frequently used actions for quick access to the end user. For more information, see [Action groups](proactive-prompts-actions.md#section_x25_dgg_vvb).
+The action group applicable to the prompts displayed on the portal.Action groups include some frequently used actions for quick access to the end user. For more information, see [Action groups](proactive-prompts-actions.md#action-groups).
 
 </td></tr><tr><td>
 

@@ -17,8 +17,8 @@ To secure voice agent environments, configure authentication factors that first 
 
 Configuration involves:
 
--   [User identification](configuring-authentication-factors-for-ai-voice-agents.md#section_ftb_gmy_mhc)
--   [User authentication](configuring-authentication-factors-for-ai-voice-agents.md#section_gtb_gmy_mhc)
+-   [User identification](configuring-authentication-factors-for-ai-voice-agents.md#user-identification)
+-   [User authentication](configuring-authentication-factors-for-ai-voice-agents.md#user-authentication)
 
 ## User identification
 

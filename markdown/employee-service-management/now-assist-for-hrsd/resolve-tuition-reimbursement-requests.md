@@ -26,10 +26,10 @@ To access the agentic workflow:
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Overview**.
 2.  Select **Agentic workflows** &gt; **Help resolve tuition reimbursement requests**.
 
-    The Define key requirements workflow is displayed. For more information, see [Help resolve tuition reimbursement requests AI agents](resolve-tuition-reimbursement-requests.md#section_kgq_whk_h2c).
+    The Define key requirements workflow is displayed. For more information, see [Help resolve tuition reimbursement requests AI agents](resolve-tuition-reimbursement-requests.md#help-resolve-tuition-reimbursement-requests-ai-agents).
 
-3.  The **Select a UI display** option enables the Now Assist panel. For more information, see [Select display](resolve-tuition-reimbursement-requests.md#section_bc5_ykn_x2c).
-4.  Enable the business rule that triggers the agentic workflow. For more information, see [Triggers for the Help resolve tuition reimbursement requests agentic workflow](resolve-tuition-reimbursement-requests.md#section_chn_zlf_j2c)
+3.  The **Select a UI display** option enables the Now Assist panel. For more information, see [Select display](resolve-tuition-reimbursement-requests.md#select-display).
+4.  Enable the business rule that triggers the agentic workflow. For more information, see [Triggers for the Help resolve tuition reimbursement requests agentic workflow](resolve-tuition-reimbursement-requests.md#triggers-for-the-help-resolve-tuition-reimbursement-requests-agentic-workflow)
 
 ## Help resolve tuition reimbursement requests AI agents
 

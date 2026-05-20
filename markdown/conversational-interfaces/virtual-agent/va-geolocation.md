@@ -55,7 +55,7 @@ No
 
 </td><td>
 
-The topic block does not retrieve user coordinates and displays a relevant error message for the topic author to resolve. The error is logged as an output parameter. For details, see [Geolocation topic block parameters](va-platform-topicblocks.md#geolocation-topic-block-properties).
+The topic block does not retrieve user coordinates and displays a relevant error message for the topic author to resolve. The error is logged as an output parameter. For details, see [Geolocation topic block parameters](va-platform-topicblocks.md#geolocation-topic-block).
 
 </td></tr></tbody>
 </table>## Modify the Geolocation topic block
@@ -76,5 +76,5 @@ All the variables are selected by default. Keep the default choices, or select t
 
 ![Geolocation topic block results read, "This is what I got back," followed by the latitude and longitude, an OK status, and no error.](../images/va-geolocation-results.png "Geolocation topic block results")
 
-For more information about the Geolocation topic block properties, see [Geolocation topic block parameters](va-platform-topicblocks.md#geolocation-topic-block-properties).
+For more information about the Geolocation topic block properties, see [Geolocation topic block parameters](va-platform-topicblocks.md#geolocation-topic-block).
 

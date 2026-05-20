@@ -21,7 +21,7 @@ Role required: atf\_test\_admin
 
 ## About this task
 
-Categories are used for filtering the step list in the Add Step dialog. For more information, see [Category field example](atf-step-config-xmpls.md#hbm_xwc_yw).
+Categories are used for filtering the step list in the Add Step dialog. For more information, see [Category field example](atf-step-config-xmpls.md#category-field-example).
 
 ## Procedure
 

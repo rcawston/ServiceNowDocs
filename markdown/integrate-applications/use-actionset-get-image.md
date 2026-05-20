@@ -23,7 +23,7 @@ Role required: none
 
 The ActionSet Get Image action captures an image from the area that you specify in the ActionSet Settings window. For example, you can use it to capture a product image or a user’s profile picture.
 
-You can configure the properties for the GetImage component. For more information about these properties, see [ActionSet- Get Image properties](actionset-actions-properties.md#ActionSet-getimage).
+You can configure the properties for the GetImage component. For more information about these properties, see [ActionSet- Get Image properties](actionset-actions-properties.md#get-image).
 
 ## Procedure
 

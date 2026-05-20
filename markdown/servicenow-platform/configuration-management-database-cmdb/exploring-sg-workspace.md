@@ -173,7 +173,7 @@ View CMDB 360 Data
 
 </td><td>
 
-[Enable and configure CMDB 360](multisource-cmdb.md#section_enable_multisource_CMDB)
+[Enable and configure CMDB 360](multisource-cmdb.md#enable-and-configure-cmdb-360)
 
 </td></tr><tr><td>
 

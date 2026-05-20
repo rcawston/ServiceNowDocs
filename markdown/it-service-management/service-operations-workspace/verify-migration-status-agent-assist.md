@@ -53,7 +53,7 @@ At the end of the migration process, a confirmation message specifies if the mig
 
     3.  Review the logs to determine which items failed during migration.
 
-    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](agent-assist-migration-itsm-aw-sow.md#section_knd_y5j_dcc).
+    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](agent-assist-migration-itsm-aw-sow.md#how-the-migration-works).
 
 
 **Parent Topic:**[Migration of Agent assist from ITSM Agent Workspace to Service Operations Workspace for ITSM](agent-assist-migration-itsm-aw-sow.md)

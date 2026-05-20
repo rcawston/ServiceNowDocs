@@ -74,7 +74,7 @@ Role required: admin
 
     2.  In the left navigation pane, select **Certificates and Secrets**.
 
-    3.  Select **Upload certificate** and upload the certificate created in step [3](configure-emergency-exposure-mgt.md#generate-cert).
+    3.  Select **Upload certificate** and upload the certificate created in step [3](configure-emergency-exposure-mgt.md#configure-microsoft-office-365-for-emergency-exposure-management).
 
 5.  Create a Java Key Store certificate in your ServiceNow instance.
 
@@ -82,11 +82,11 @@ Role required: admin
 
     2.  Click **New** and create a new certificate with a **Type** value of **Java Key Store**.
 
-    3.  Set the **Short Description** text to the alias used in [3](configure-emergency-exposure-mgt.md#generate-cert).
+    3.  Set the **Short Description** text to the alias used in [3](configure-emergency-exposure-mgt.md#configure-microsoft-office-365-for-emergency-exposure-management).
 
-    4.  Set the **Keystore Password** to the password used in step [3](configure-emergency-exposure-mgt.md#generate-cert).
+    4.  Set the **Keystore Password** to the password used in step [3](configure-emergency-exposure-mgt.md#configure-microsoft-office-365-for-emergency-exposure-management).
 
-    5.  Attach the `keystore.jks` certificate exported in step [3](configure-emergency-exposure-mgt.md#generate-cert).
+    5.  Attach the `keystore.jks` certificate exported in step [3](configure-emergency-exposure-mgt.md#configure-microsoft-office-365-for-emergency-exposure-management).
 
 6.  In your ServiceNow instance, set system properties for Emergency Exposure Management.
 
@@ -98,8 +98,8 @@ Role required: admin
 
         -   Client ID
         -   Tenant ID
-        -   Certificate – The sys\_id of the certificate created in Step [5](configure-emergency-exposure-mgt.md#keystore-cert).
-        -   Private key – Use the password used to generate the keystore in Step [3](configure-emergency-exposure-mgt.md#generate-cert).
+        -   Certificate – The sys\_id of the certificate created in Step [5](configure-emergency-exposure-mgt.md#configure-microsoft-office-365-for-emergency-exposure-management).
+        -   Private key – Use the password used to generate the keystore in Step [3](configure-emergency-exposure-mgt.md#configure-microsoft-office-365-for-emergency-exposure-management).
         -   \(Optional\) Location – Location accessible from tables, such as a floor or building.
     4.  Verify that the Microsoft URL for token generation is correct for your organization.
 

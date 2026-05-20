@@ -30,7 +30,7 @@ Docs can be created within a Space, and organized into folders. Within a Space, 
 -   Cross-references: Add references to other ServiceNow AI Platform tables to connect work across teams.
 -   Slash command \(**/**\) for more options:
     -   Insert tables quickly
-    -   Mention a record. See [Dynamic data linking](cwm-docs.md#section_exg_k2r_khc).
+    -   Mention a record. See [Dynamic data linking](cwm-docs.md#dynamic-data-linking-in-docs).
     -   Insert a list.
     -   Choose formatting options.
 -   Copy and paste within Docs: Transfer text, images, lists, and tables between Docs pages.

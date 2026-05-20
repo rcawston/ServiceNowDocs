@@ -251,7 +251,7 @@ The thin composer is located at the bottom of the activity stream with the Email
 
 Drafts are created when agents add or modify content in the composer. Minimized modeless dialogs appear in the [workspace dock](csm-config-ws-bottom-utility-bar.md).
 
-For more information about modeless dialogs, see [Thin compose modeless dialogs](csm-front-line-case-page-modeless-dialogs.md#section_nws_1rs_rfc).
+For more information about modeless dialogs, see [Thin compose modeless dialogs](csm-front-line-case-page-modeless-dialogs.md#thin-compose-modeless-dialogs).
 
 ## Contextual side panel component
 

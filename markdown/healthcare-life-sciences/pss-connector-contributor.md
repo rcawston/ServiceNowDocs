@@ -23,7 +23,7 @@ As a user with the admin role, you can create contributor and agent connector pr
 
 The sn\_patientservice.agent\_connector and sn\_patientservice.contributor roles installed with the Patient Support Services application provide the following user profiles:
 
--   [Agent connector](pss-connector-contributor.md#section_ers_kby_ztb)
+-   [Agent connector](pss-connector-contributor.md#agent-connector)
 -   [Contributor](pss-connector-contributor.md#section_wyb_lby_ztb)
 
 ## Agent connector

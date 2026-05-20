@@ -24,7 +24,7 @@ You can use or customize these default DevOps Config policies to validate that y
 
 <table id="table_gsp_4vm_nzb"><tbody><tr><td>
 
-[A](devops-config-os-policies.md#a) \| [B](devops-config-os-policies.md#b) \| [C](devops-config-os-policies.md#c) \| [H](devops-config-os-policies.md#h) \| [N](devops-config-os-policies.md#n) \| [R](devops-config-os-policies.md#r) \| [S](devops-config-os-policies.md#s) \| [T](devops-config-os-policies.md#t)
+[A](devops-config-os-policies.md#red-hat-openshift-policies-in-devops-config) \| [B](devops-config-os-policies.md#table_gsp_4vm_nzb) \| [C](devops-config-os-policies.md#red-hat-openshift-policies-in-devops-config) \| [H](devops-config-os-policies.md#red-hat-openshift-policies-in-devops-config) \| [N](devops-config-os-policies.md#red-hat-openshift-policies-in-devops-config) \| [R](devops-config-os-policies.md#red-hat-openshift-policies-in-devops-config) \| [S](devops-config-os-policies.md#red-hat-openshift-policies-in-devops-config) \| [T](devops-config-os-policies.md#red-hat-openshift-policies-in-devops-config)
 
 </td></tr></tbody>
 </table>## Audit Log Maximum Backup Is Set \(openshift\_audit\_log\_maxbackup\_is\_set\)

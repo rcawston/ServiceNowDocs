@@ -42,7 +42,7 @@ As an agent, you can compose and send an SMS to an ongoing interaction which is 
     -   If there is already a channel user profile associated with a consumer or contact, the phone number is pre-populated.
     1.  Choose **Other** and select a phone number in the drop-down list.
 
-    **Note:** All phone numbers must be in the E.164 format. For more information, about phone number and channel user profile validation, see [Phone number validation](agent-initiated-sms-store-app.md#phone_number_profile_validation).
+    **Note:** All phone numbers must be in the E.164 format. For more information, about phone number and channel user profile validation, see [Phone number validation](agent-initiated-sms-store-app.md#phone-number-validation).
 
     If there is already an ongoing SMS type of interaction with the same or different consumer, you can view the interaction card in the same screen. The interaction card for the consumer number you have selected contains interaction number, message type, last updated time, consumer, and assigned to information.
 
@@ -54,6 +54,6 @@ As an agent, you can compose and send an SMS to an ongoing interaction which is 
 
 6.  Click **Send**.
 
-    For more information, see [Agent initiated SMS conversations](agent-initiated-sms-store-app.md#section_ung_ccm_3mb).
+    For more information, see [Agent initiated SMS conversations](agent-initiated-sms-store-app.md#agent-initiated-sms-conversations).
 
 

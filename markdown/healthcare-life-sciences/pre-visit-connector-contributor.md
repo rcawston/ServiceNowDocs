@@ -23,7 +23,7 @@ As a user with the admin role, you can create contributor and agent connector pr
 
 The sn\_previsit.contributor and sn\_previsit.agent\_connector roles installed with the Pre-Visit Management application provide the following user profiles:
 
--   [Agent connector](pre-visit-connector-contributor.md#section_yhp_czw_ztb)
+-   [Agent connector](pre-visit-connector-contributor.md#agent-connector)
 -   [Contributor](pre-visit-connector-contributor.md#section_r5b_czw_ztb)
 
 ## Agent connector

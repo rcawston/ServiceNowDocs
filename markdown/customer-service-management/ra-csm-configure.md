@@ -25,18 +25,18 @@ For more information about recommended actions and AI search results, see [Recom
 
 The Recommended Actions for Service application provides context records for the Case and Interaction tables. A [context](ra-csm-contexts.md) enables agents to see recommendations for records from a specific table when certain rules are met.
 
--   [Case Context record](ra-csm-context-records.md#section_gvg_wy1_c2c)
--   [Interaction Context record](ra-csm-context-records.md#section_fff_bfb_c2c)
+-   [Case Context record](ra-csm-context-records.md#case-context-record)
+-   [Interaction Context record](ra-csm-context-records.md#interaction-context-record)
 
 ## Guidances
 
 The Recommended Actions for Service application includes custom guidances for the following tables:
 
--   [Knowledge](ra-csm-custom-guidances.md#section_ir1_cdb_c2c)
--   [Case](ra-csm-custom-guidances.md#section_qpy_tbb_c2c)
+-   [Knowledge](ra-csm-custom-guidances.md#knowledge-guidance)
+-   [Case](ra-csm-custom-guidances.md#case-guidance)
 -   [Incident](ra-csm-custom-guidances.md#section_ny1_ccb_c2c)
--   [Problem](ra-csm-custom-guidances.md#section_pcg_mcb_c2c)
--   [Change Request](ra-csm-custom-guidances.md#section_klf_vcb_c2c)
+-   [Problem](ra-csm-custom-guidances.md#problem-guidance)
+-   [Change Request](ra-csm-custom-guidances.md#change-request-guidance)
 
 These guidances enable search results from the corresponding search source tables for the Case Context record. Customer service agents can see these results in the Recommended Actions tab in the contextual side panel.
 

@@ -17,8 +17,8 @@ User Metrics displays the user MFA enrollment trends on ServiceNow.
 
 User Metrics on the MFA Dashboard are as follows:
 
--   [Users enrolled in Multi-factor Authentication \(MFA\)](user-metrics.md#section_oxp_4vx_w2c)
--   [Privileged admins without Multi-factor Authentication \(MFA\)](user-metrics.md#section_qgd_rvx_w2c)
+-   [Users enrolled in Multi-factor Authentication \(MFA\)](user-metrics.md#users-enrolled-in-multi-factor-authentication-mfa)
+-   [Privileged admins without Multi-factor Authentication \(MFA\)](user-metrics.md#privileged-admins-without-multi-factor-authentication-mfa)
 
 ## Users enrolled in Multi-factor Authentication \(MFA\)
 

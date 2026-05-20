@@ -90,7 +90,7 @@ class object
 
 </td><td>
 
-[Get Object](r_CIMProbe.md#GetObjectToken) Retrieves a single object of a specific class by specifying all of its unique keys \(as [key tokens](r_CIMProbe.md#KeyToken)\) and any optional [parameter tokens](r_CIMProbe.md#ParameterToken), separated by commas.
+[Get Object](r_CIMProbe.md#GetObjectToken) Retrieves a single object of a specific class by specifying all of its unique keys \(as [key tokens](r_CIMProbe.md#key-token)\) and any optional [parameter tokens](r_CIMProbe.md#parameter-token), separated by commas.
 
 </td><td>
 
@@ -102,7 +102,7 @@ class object
 
 </td><td>
 
-[Enumerate Objects](r_CIMProbe.md#EnumerateObjectsToken) Retrieves objects that match a set of [condition tokens](r_CIMProbe.md#ConditionToken) and [parameter tokens](r_CIMProbe.md#ParameterToken).
+[Enumerate Objects](r_CIMProbe.md#enumerate-objects-token) Retrieves objects that match a set of [condition tokens](r_CIMProbe.md#condition-token) and [parameter tokens](r_CIMProbe.md#parameter-token).
 
 </td><td>
 
@@ -114,7 +114,7 @@ class object
 
 </td><td>
 
-[Enumerate Associated Objects](r_CIMProbe.md#EnumerateAssociatedObjectsToken) Retrieves objects associated with each result from the preceding query.
+[Enumerate Associated Objects](r_CIMProbe.md#enumerate-associated-objects-token) Retrieves objects associated with each result from the preceding query.
 
 </td><td>
 
@@ -126,7 +126,7 @@ statement results
 
 </td><td>
 
-[Substitution](r_CIMProbe.md#SubstitutionToken) A no-op token that feeds the results of a previous named statement as input into the next query of its own statement.
+[Substitution](r_CIMProbe.md#substitution-token) A no-op token that feeds the results of a previous named statement as input into the next query of its own statement.
 
 </td><td>
 
@@ -137,7 +137,7 @@ Reference the results of a named statement
 
 &lt;classname&gt;\{&lt;key token&gt;,&lt;parameter token&gt;,...\}
 
--   Retrieves a single object of a specific class by specifying all of its unique keys \(as key tokens [key tokens](r_CIMProbe.md#KeyToken)\) and any optional [parameter tokens](r_CIMProbe.md#ParameterToken), separated by commas. This token is also known as the .
+-   Retrieves a single object of a specific class by specifying all of its unique keys \(as key tokens [key tokens](r_CIMProbe.md#key-token)\) and any optional [parameter tokens](r_CIMProbe.md#parameter-token), separated by commas. This token is also known as the .
 -   The &lt;classname&gt; is the case-sensitive CIM class name of the desired object. By default, objects of the specified class and of any extended classes are retrieved.
 -   The key and parameter tokens are enclosed by a single pair of curly brackets \{ ... \}.
 -   This token must only be used as the first query in a statement.
@@ -153,10 +153,10 @@ Reference the results of a named statement
 
 &lt;classname&gt;\{\{&lt;condition token&gt;,&lt;parameter token&gt;,...\}\}&lt;array index token&gt; OR &lt;classname&gt;&lt;array index token&gt;
 
--   Retrieves objects that match a set of [condition tokens](r_CIMProbe.md#ConditionToken) and [parameter tokens](r_CIMProbe.md#ParameterToken). This token is also known as the .
+-   Retrieves objects that match a set of [condition tokens](r_CIMProbe.md#condition-token) and [parameter tokens](r_CIMProbe.md#parameter-token). This token is also known as the .
 -   The condition tokens and parameter tokens are enclosed by two pairs of curly brackets \{\{ ... \}\}. The curly brackets are optional if there are no conditions or parameters necessary.
 -   The &lt;classname&gt; is the case-sensitive CIM class name of the desired objects. By default, objects of the specified class and of any extended classes are retrieved.
--   The [index token](r_CIMProbe.md#IndexToken) is optional.
+-   The [index token](r_CIMProbe.md#index-token) is optional.
 -   This token must only be used as the first query in a statement.
 -   Returns: class object
 -   Example:
@@ -171,10 +171,10 @@ Reference the results of a named statement
 &lt;association classname&gt;\{\{&lt;property filter token&gt;,&lt;parameter token&gt;,...\}\}&lt;array index token&gt; OR &lt;association classname&gt;&lt;array index token&gt;
 
 -   Retrieves objects associated with each result from the preceding query.
--   The [condition tokens](r_CIMProbe.md#ConditionToken) and [parameter tokens](r_CIMProbe.md#ParameterToken) are enclosed by two pairs of curly brackets \{\{ ... \}\}. The curly brackets are optional if there are no properties filters or parameters necessary.
+-   The [condition tokens](r_CIMProbe.md#condition-token) and [parameter tokens](r_CIMProbe.md#parameter-token) are enclosed by two pairs of curly brackets \{\{ ... \}\}. The curly brackets are optional if there are no properties filters or parameters necessary.
 -   The &lt;association classname&gt; is the name of the many-to-many or one-to-many class that associates two objects together. By default, objects of the specified class and of any extended classes are retrieved.
 -   The &lt;parameter token&gt;, ResultClass, may be specified to filter results based on the resulting object's classname.
--   The [index token](r_CIMProbe.md#IndexToken) is optional.
+-   The [index token](r_CIMProbe.md#index-token) is optional.
 -   This token must not be used as the first query in a statement.
 -   Returns: class object
 -   Example:
@@ -391,7 +391,7 @@ CIM\_ComputerSystem\{CreationClassName='Linux\_ComputerSystem',Name='runtime'\}.
 
 </td><td>
 
-Retrieves a single unique instance of CIM\_ComputerSystem and its descendants. All [key tokens](r_CIMProbe.md#KeyToken) must be specified within the \{ \} [identity token](r_CIMProbe.md#GetObjectToken).
+Retrieves a single unique instance of CIM\_ComputerSystem and its descendants. All [key tokens](r_CIMProbe.md#key-token) must be specified within the \{ \} [identity token](r_CIMProbe.md#GetObjectToken).
 
 </td></tr><tr><td>
 
@@ -437,7 +437,7 @@ Retrieves the [second result](r_CIMProbe.md#EnumerateAssociatedObjectsToken) of 
 
  The order of operations follows the query syntax.
 
-1.  [Query](r_CIMProbe.md#GetObjectToken) server for all CIM\_ComputerSystem and descendants.
+1.  [Query](r_CIMProbe.md#query-delimiter-token) server for all CIM\_ComputerSystem and descendants.
 2.  [Filter](r_CIMProbe.md#EnumerateObjectsToken) results based on Name property.
 3.  [Retrieve the second](r_CIMProbe.md#EnumerateAssociatedObjectsToken) instance that passed the filter.
 

@@ -17,7 +17,7 @@ Agents can create case line items for cases and create tasks for case line items
 
 To create a case line record:
 
--   CSM Configurable Workspace: Open a case and select **New** on the [Case Line list action bar](csm-case-mgmt-case-lines-create-case-line.md#section_h41_s1h_5cc) to open a new case line record in the Draft state.
+-   CSM Configurable Workspace: Open a case and select **New** on the [Case Line list action bar](csm-case-mgmt-case-lines-create-case-line.md#case-line-list-action-bar) to open a new case line record in the Draft state.
 -   Core UI: Open a case and select **New** on the Case Lines related list on the case record to open a new case line record in the Draft state.
 
 The information in the following fields is copied from the parent case:

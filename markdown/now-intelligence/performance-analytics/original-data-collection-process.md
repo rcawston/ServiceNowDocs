@@ -144,7 +144,7 @@ Iterate steps for each indicator source
 
 </td><td>
 
-See table [Steps iterated for each indicator source](original-data-collection-process.md#section_indicator-source).
+See table [Steps iterated for each indicator source](original-data-collection-process.md#table_indicator-source).
 
 </td></tr><tr><td>
 
@@ -203,7 +203,7 @@ Iterate steps for each collection period.
 
 </td><td>
 
-See table [Steps iterated for each collection period](original-data-collection-process.md#section_collection-period)
+See table [Steps iterated for each collection period](original-data-collection-process.md#table_collection-period)
 
 </td></tr><tr><td>
 
@@ -265,7 +265,7 @@ Run the map/reduce function to calculate indicator scores.
 
 </td><td>
 
-See the table [Steps of the map/reduce function](original-data-collection-process.md#section_map-reduce)
+See the table [Steps of the map/reduce function](original-data-collection-process.md#table_map-reduce)
 
 </td></tr><tr><td rowspan="2">
 

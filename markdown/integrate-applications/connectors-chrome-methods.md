@@ -15,11 +15,11 @@ The Chromium connector methods do different tasks on the applications, screens, 
 
 ## Chromium connector method levels
 
-[Application level methods](connectors-chrome-methods.md#chrome-screen-level-methods)
+[Application level methods](connectors-chrome-methods.md#application-level-methods)
 
-[Screen level methods](connectors-chrome-methods.md#chrome-screen-level-methods)
+[Screen level methods](connectors-chrome-methods.md#screen-level-methods)
 
-[Element level methods](connectors-chrome-methods.md#chrome-element-level-methods)
+[Element level methods](connectors-chrome-methods.md#element-level-methods)
 
 ## Application level methods
 

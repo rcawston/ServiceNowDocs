@@ -39,7 +39,7 @@ AWS OrganizationGCP Organization
 
 </td><td>
 
-[Cloud Organizations](sgc-cmdb-wiz-classes.md#section_zbf_zgg_fxb)
+[Cloud Organizations](sgc-cmdb-wiz-classes.md#cloud-organizations-cmdb-ci-cloud-org)
 
 </td></tr><tr><td>
 
@@ -47,7 +47,7 @@ GCP Folder
 
 </td><td>
 
-[Google Organization Folder](sgc-cmdb-wiz-classes.md#section_tc1_gkk_bcc)
+[Google Organization Folder](sgc-cmdb-wiz-classes.md#google-organization-folder-cmdb-ci-gcp-folder)
 
 </td></tr><tr><td rowspan="6">
 
@@ -59,7 +59,7 @@ AWS Account
 
 </td><td rowspan="2">
 
-[Cloud Service Account](sgc-cmdb-wiz-classes.md#section_o3z_5gg_fxb)
+[Cloud Service Account](sgc-cmdb-wiz-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
 </td></tr><tr><td>
 
@@ -71,9 +71,9 @@ GCP Project
 
 </td><td>
 
-[Cloud Service Account](sgc-cmdb-wiz-classes.md#section_o3z_5gg_fxb)
+[Cloud Service Account](sgc-cmdb-wiz-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
- [Google Organization Project](sgc-cmdb-wiz-classes.md#section_zqg_ydk_bcc)
+ [Google Organization Project](sgc-cmdb-wiz-classes.md#google-organization-project-cmdb-ci-gcp-project)
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ OCI Compartment​
 
 </td><td rowspan="3">
 
-[VMware vCenter Datacenter](sgc-cmdb-wiz-classes.md#section_www_5wq_2hc)
+[VMware vCenter Datacenter](sgc-cmdb-wiz-classes.md#vmware-vcenter-datacenter-cmdb-ci-vcenter-datacenter)
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ AWS Region
 
 </td><td>
 
-[AWS Datacenter](sgc-cmdb-wiz-classes.md#section_q2s_5hg_fxb)
+[AWS Datacenter](sgc-cmdb-wiz-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ Azure Location
 
 </td><td>
 
-[Azure Datacenter](sgc-cmdb-wiz-classes.md#section_qhy_tp5_vxb)
+[Azure Datacenter](sgc-cmdb-wiz-classes.md#azure-datacenter-cmdb-ci-azure-datacenter)
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ GCP Region
 
 </td><td>
 
-[Google Datacenter](sgc-cmdb-wiz-classes.md#section_uts_ffk_bcc)
+[Google Datacenter](sgc-cmdb-wiz-classes.md#google-datacenter-cmdb-ci-google-datacenter)
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ OCI Region​
 
 </td><td>
 
-[OCI Datacenter](sgc-cmdb-wiz-classes.md#section_fky_bxq_2hc)
+[OCI Datacenter](sgc-cmdb-wiz-classes.md#oci-datacenter-cmdb-ci-oci-datacenter)
 
 </td></tr><tr><td>
 
@@ -133,7 +133,7 @@ Alibaba Region
 
 </td><td>
 
-[Logical Datacenter](sgc-cmdb-wiz-classes.md#section_wyc_zyq_2hc)
+[Logical Datacenter](sgc-cmdb-wiz-classes.md#logical-datacenter-cmdb-ci-logical-datacenter)
 
 </td></tr><tr><td>
 
@@ -145,7 +145,7 @@ Azure Resource Group
 
 </td><td>
 
-[Resource Group](sgc-cmdb-wiz-classes.md#section_gdd_5lb_f1c)
+[Resource Group](sgc-cmdb-wiz-classes.md#resource-group-cmdb-ci-resource-group)
 
 </td></tr><tr><td rowspan="2">
 
@@ -157,7 +157,7 @@ AWS Auto Scaling Group​
 
 </td><td rowspan="2">
 
-[Instance Scale Set](sgc-cmdb-wiz-classes.md#section_xzs_ffd_dfc)
+[Instance Scale Set](sgc-cmdb-wiz-classes.md#instance-scale-set-cmdb-ci-instance-scale-set)
 
 </td></tr><tr><td>
 
@@ -173,7 +173,7 @@ AWS Network Interface
 
 </td><td rowspan="3">
 
-[Cloud Mgmt Network Interface](sgc-cmdb-wiz-classes.md#section_z4y_13g_fxb)
+[Cloud Mgmt Network Interface](sgc-cmdb-wiz-classes.md#cloud-mgmt-network-interface-cmdb-ci-nic)
 
 </td></tr><tr><td>
 
@@ -193,7 +193,7 @@ AWS VPC
 
 </td><td rowspan="2">
 
-[Cloud Network](sgc-cmdb-wiz-classes.md#section_w2n_n4n_21c)
+[Cloud Network](sgc-cmdb-wiz-classes.md#cloud-network-cmdb-ci-network)
 
 </td></tr><tr><td>
 
@@ -209,7 +209,7 @@ AWS EC2 Security Group
 
 </td><td rowspan="5">
 
-[Compute Security Group](sgc-cmdb-wiz-classes.md#section_j4n_vhg_fxb)
+[Compute Security Group](sgc-cmdb-wiz-classes.md#compute-security-group-cmdb-ci-compute-security-group)
 
 </td></tr><tr><td>
 
@@ -237,7 +237,7 @@ AWS EC2 Volume \(EBS\)
 
 </td><td rowspan="3">
 
-[Storage Volume](sgc-cmdb-wiz-classes.md#section_ogm_nhg_fxb)
+[Storage Volume](sgc-cmdb-wiz-classes.md#storage-volume-cmdb-ci-storage-volume)
 
 </td></tr><tr><td>
 
@@ -253,7 +253,7 @@ GCP Compute Disk
 
 </td><td>
 
-[Storage Volume](sgc-cmdb-wiz-classes.md#section_ogm_nhg_fxb), [Cloud Disk Type](sgc-cmdb-wiz-classes.md#section_lmk_3rk_bcc)
+[Storage Volume](sgc-cmdb-wiz-classes.md#storage-volume-cmdb-ci-storage-volume), [Cloud Disk Type](sgc-cmdb-wiz-classes.md#cloud-disk-type-cmdb-ci-disk-type)
 
 </td></tr><tr><td rowspan="8">
 
@@ -265,7 +265,7 @@ AWS EC2 Instance
 
 </td><td rowspan="8">
 
-[Virtual Machine Instance](sgc-cmdb-wiz-classes.md#section_fgm_hhg_fxb), [Server](sgc-cmdb-wiz-classes.md#section_y5x_yhg_fxb), [Hardware Type](sgc-cmdb-wiz-classes.md#section_wlb_1mk_bcc)
+[Virtual Machine Instance](sgc-cmdb-wiz-classes.md#virtual-machine-instance-cmdb-ci-vm-instance), [Server](sgc-cmdb-wiz-classes.md#linux-server-cmdb-ci-linux-server), [Hardware Type](sgc-cmdb-wiz-classes.md#cloud-hardware-type-cmdb-ci-cloud-hardware-type)
 
 </td></tr><tr><td>
 
@@ -305,7 +305,7 @@ AWS EBS Unencrypted Snapshot​
 
 </td><td rowspan="16">
 
-[Storage Volume Snapshot](sgc-cmdb-wiz-classes.md#section_zkh_wgg_fxb)
+[Storage Volume Snapshot](sgc-cmdb-wiz-classes.md#storage-volume-snapshot-cmdb-ci-storage-vol-snapshot)
 
 </td></tr><tr><td>
 
@@ -377,7 +377,7 @@ AWS Egress Only Internet Gateway​
 
 </td><td rowspan="2">
 
-[Internet Gateway](sgc-cmdb-wiz-classes.md#section_xvp_t1r_2hc)
+[Internet Gateway](sgc-cmdb-wiz-classes.md#internet-gateway-cmdb-ci-internet-gateway)
 
 </td></tr><tr><td>
 
@@ -393,7 +393,7 @@ AWS Machine Image \(AMI\)
 
 </td><td rowspan="4">
 
-[Image](sgc-cmdb-wiz-classes.md#section_c5r_cnb_f1c)
+[Image](sgc-cmdb-wiz-classes.md#image-cmdb-ci-os-template)
 
 </td></tr><tr><td>
 
@@ -417,7 +417,7 @@ AWS ELB v1
 
 </td><td rowspan="10">
 
-[Cloud Load Balancer](sgc-cmdb-wiz-classes.md#section_ddq_2mb_f1c)
+[Cloud Load Balancer](sgc-cmdb-wiz-classes.md#cloud-load-balancer-cmdb-ci-cloud-load-balancer)
 
 </td></tr><tr><td>
 
@@ -465,7 +465,7 @@ AWS S3 Bucket​
 
 </td><td rowspan="3">
 
-[Cloud Object Storage](sgc-cmdb-wiz-classes.md#section_gzl_5nb_f1c)
+[Cloud Object Storage](sgc-cmdb-wiz-classes.md#cloud-object-storage-cmdb-ci-cloud-object-storage)
 
 </td></tr><tr><td>
 
@@ -485,7 +485,7 @@ AWS Lambda Function​
 
 </td><td rowspan="3">
 
-[Cloud Function](sgc-cmdb-wiz-classes.md#section_o4k_qjb_f1c)
+[Cloud Function](sgc-cmdb-wiz-classes.md#cloud-function-cmdb-ci-cloud-function)
 
 </td></tr><tr><td>
 
@@ -505,7 +505,7 @@ AWS DynamoDB Table
 
 </td><td>
 
-[DynamoDB Table](sgc-cmdb-wiz-classes.md#section_tpv_skb_f1c)
+[DynamoDB Table](sgc-cmdb-wiz-classes.md#dynamodb-table-cmdb-ci-dynamodb-table)
 
 </td></tr><tr><td>
 
@@ -513,7 +513,7 @@ AWS ElastiCache for Memcached Cluster
 
 </td><td rowspan="14">
 
-[Cloud DataBase Cluster](sgc-cmdb-wiz-classes.md#section_tmj_tmb_f1c)
+[Cloud DataBase Cluster](sgc-cmdb-wiz-classes.md#cloud-database-cluster-cmdb-ci-cloud-db-cluster)
 
 </td></tr><tr><td>
 
@@ -573,7 +573,7 @@ Azure Cosmos DB SQL Database
 
 </td><td rowspan="16">
 
-[Cloud DataBase](sgc-cmdb-wiz-classes.md#section_mt2_flb_f1c)
+[Cloud DataBase](sgc-cmdb-wiz-classes.md#cloud-database-cmdb-ci-cloud-database)
 
 </td></tr><tr><td>
 
@@ -645,7 +645,7 @@ AWS S3 Bucket
 
 </td><td rowspan="3">
 
-[Cloud Object Storage](sgc-cmdb-wiz-classes.md#section_gzl_5nb_f1c)
+[Cloud Object Storage](sgc-cmdb-wiz-classes.md#cloud-object-storage-cmdb-ci-cloud-object-storage)
 
 </td></tr><tr><td>
 
@@ -665,7 +665,7 @@ AWS Lambda Function
 
 </td><td rowspan="3">
 
-[Cloud Function](sgc-cmdb-wiz-classes.md#section_o4k_qjb_f1c)
+[Cloud Function](sgc-cmdb-wiz-classes.md#cloud-function-cmdb-ci-cloud-function)
 
 </td></tr><tr><td>
 
@@ -685,7 +685,7 @@ AWS Elastic IP Address
 
 </td><td rowspan="5">
 
-[Cloud Public IP Address](sgc-cmdb-wiz-classes.md#section_crz_h3s_g1c)
+[Cloud Public IP Address](sgc-cmdb-wiz-classes.md#cloud-public-ip-address-cmdb-ci-cloud-public-ipaddress)
 
 </td></tr><tr><td>
 
@@ -713,7 +713,7 @@ Azure Storage Account
 
 </td><td>
 
-[Cloud Storage Account](sgc-cmdb-wiz-classes.md#section_s1l_jgs_g1c)
+[Cloud Storage Account](sgc-cmdb-wiz-classes.md#cloud-storage-account-cmdb-ci-cloud-storage-account)
 
 </td></tr><tr><td rowspan="3">
 
@@ -725,7 +725,7 @@ AWS API Gateway
 
 </td><td rowspan="3">
 
-[Cloud Gateway](sgc-cmdb-wiz-classes.md#section_j2g_2s2_z1c)
+[Cloud Gateway](sgc-cmdb-wiz-classes.md#cloud-gateway-cmdb-ci-cloud-gateway)
 
 </td></tr><tr><td>
 
@@ -745,7 +745,7 @@ AWS Elastic Kubernetes Service \(EKS\) Cluster
 
 </td><td rowspan="4">
 
-[Kubernetes Cluster](sgc-cmdb-wiz-classes.md#section_xzj_khg_fxb)
+[Kubernetes Cluster](sgc-cmdb-wiz-classes.md#kubernetes-cluster-cmdb-ci-kubernetes-cluster)
 
 </td></tr><tr><td>
 
@@ -769,7 +769,7 @@ Kubernetes Namespace
 
 </td><td>
 
-[Kubernetes Namespace](sgc-cmdb-wiz-classes.md#section_gz4_lhg_fxb)
+[Kubernetes Namespace](sgc-cmdb-wiz-classes.md#kubernetes-namespace-cmdb-ci-kubernetes-namespace)
 
 </td></tr><tr><td>
 
@@ -781,7 +781,7 @@ Kubernetes Node
 
 </td><td>
 
-[Kubernetes Node](sgc-cmdb-wiz-classes.md#section_vf1_dhg_fxb)
+[Kubernetes Node](sgc-cmdb-wiz-classes.md#kubernetes-node-cmdb-ci-kubernetes-node)
 
 </td></tr><tr><td>
 
@@ -793,7 +793,7 @@ Kubernetes Deployment
 
 </td><td>
 
-[Kubernetes Deployment](sgc-cmdb-wiz-classes.md#section_hyk_1hg_fxb)
+[Kubernetes Deployment](sgc-cmdb-wiz-classes.md#kubernetes-deployment-cmdb-ci-kubernetes-deployment)
 
 </td></tr><tr><td>
 
@@ -805,7 +805,7 @@ Kubernetes Service
 
 </td><td>
 
-[Kubernetes Service](sgc-cmdb-wiz-classes.md#section_kgl_mhg_fxb)
+[Kubernetes Service](sgc-cmdb-wiz-classes.md#kubernetes-service-cmdb-ci-kubernetes-service)
 
 </td></tr><tr><td>
 
@@ -817,7 +817,7 @@ Kubernetes Pod
 
 </td><td>
 
-[Kubernetes Pod](sgc-cmdb-wiz-classes.md#section_rkm_1kg_fxb)
+[Kubernetes Pod](sgc-cmdb-wiz-classes.md#kubernetes-pod-cmdb-ci-kubernetes-pod)
 
 </td></tr><tr><td>
 
@@ -829,7 +829,7 @@ Kubernetes Replica Set
 
 </td><td>
 
-[Kubernetes ReplicaSet](sgc-cmdb-wiz-classes.md#section_zdf_phg_fxb)
+[Kubernetes ReplicaSet](sgc-cmdb-wiz-classes.md#kubernetes-replicaset-cmdb-ci-kubernetes-replicaset)
 
 </td></tr><tr><td rowspan="4">
 
@@ -841,7 +841,7 @@ Kubernetes Container
 
 </td><td rowspan="4">
 
-[Docker Container](sgc-cmdb-wiz-classes.md#section_vx1_thg_fxb)
+[Docker Container](sgc-cmdb-wiz-classes.md#docker-container-cmdb-ci-docker-container)
 
 </td></tr><tr><td>
 

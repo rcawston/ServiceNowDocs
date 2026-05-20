@@ -84,7 +84,7 @@ In the Insurance claims application, you can use section tabs to add information
 |Section tab|Description|
 |-----------|-----------|
 |Playbook|Displays the responses to the FNOL intake playbook.|
-|Claim summary|Displays a summary of the claim. See [Reviewing claims in the claim summary](insurance-claims-flow-workspace.md#section_frq_rgt_ddc).|
+|Claim summary|Displays a summary of the claim. See [Reviewing claims in the claim summary](insurance-claims-flow-workspace.md#reviewing-claims-in-the-claim-summary).|
 |Details|Contains the details on the claim case record, such as the case number, consumer or account, insurance policy, case status, or case work notes.|
 |Customer information|Contains the workspace cards that show the customer record details, policy overview, claim overview, insurance policy details, case history, or recent phone and chat interactions.|
 |Task SLAs|Displays the associated task service level agreements \(SLAs\).|

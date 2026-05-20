@@ -149,7 +149,7 @@ Create a financial to capture a snapshot of the financial changes for your proje
 
 **Note:** Baselines created on the parent project include cost plans and expense lines from all of the child projects to calculate and give you a better breakdown of the financial performance of the projects and sub-projects.
 
-[Compare baselines](../scenario-planning-in-spw/create-compare-baselines.md#ol_lrh_3gk_2zb) to compare the difference in costs between latest status against a baseline or between any two baselines.
+[Compare baselines](../scenario-planning-in-spw/create-compare-baselines.md#create-and-compare-financial-baselines-for-your-planning-items) to compare the difference in costs between latest status against a baseline or between any two baselines.
 
 **Note:** Each baseline is tagged with a number based on the order that they’re created. The Current Financials baseline captures the financials details in real-time and is always represented with a flag icon \(![Flag icon to indicate current baseline.](../../spw-financials/images/fin-current-baseline-flag.png)\).
 

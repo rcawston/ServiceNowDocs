@@ -37,7 +37,7 @@ The GraphQL Explorer integrates the GraphiQL IDE into the ServiceNow AI Platform
 
 3.  In the editor, enter a query to the schema.
 
-    Include both the application and schema namespaces in the query. For information about directives you can apply, see [Directives and global functions](scripted-graph-ql.md#section_zdw_rnc_glb).
+    Include both the application and schema namespaces in the query. For information about directives you can apply, see [Directives and global functions](scripted-graph-ql.md#directives-and-global-functions).
 
     This example shows using both the application and schema namespaces:
 

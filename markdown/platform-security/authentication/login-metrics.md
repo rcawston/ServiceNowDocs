@@ -17,8 +17,8 @@ Log in Metrics displays the log in trends on the ServiceNow.
 
 Log in Metrics on the MFA Dashboard are as follows:
 
--   [Multi-factor Authentication \(MFA\) factors used](login-metrics.md#section_qwx_tvx_w2c)
--   [User-password logins without Multi-factor Authentication \(MFA\)](login-metrics.md#section_h1h_5vx_w2c)
+-   [Multi-factor Authentication \(MFA\) factors used](login-metrics.md#multi-factor-authentication-mfa-factors-used)
+-   [User-password logins without Multi-factor Authentication \(MFA\)](login-metrics.md#user-password-logins-without-multi-factor-authentication-mfa)
 
 ## Multi-factor Authentication \(MFA\) factors used
 

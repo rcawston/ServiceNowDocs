@@ -70,7 +70,7 @@ The Australia release introduces enhanced protections for read‑only fields acr
 
 -   **[Remediate duplicate related items in lookup tables](../../servicenow-platform/configuration-management-database-cmdb/id-detect-dup-ci.md)**
 
-    Configure IRE to create de-duplication tasks for duplicate related items in a lookup table, detected during a lookup-based identification. Sort which duplicates do or don't require remediation by configuring the system property **glide.identification\_engine.lookup\_match.create\_duplicate\_task\_ci.enabled**. For more information, see [Detecting duplicate CIs](../../servicenow-platform/configuration-management-database-cmdb/id-detect-dup-ci.md#section_unn_yjr_xgc).
+    Configure IRE to create de-duplication tasks for duplicate related items in a lookup table, detected during a lookup-based identification. Sort which duplicates do or don't require remediation by configuring the system property **glide.identification\_engine.lookup\_match.create\_duplicate\_task\_ci.enabled**. For more information, see [Detecting duplicate CIs](../../servicenow-platform/configuration-management-database-cmdb/id-detect-dup-ci.md#detecting-duplicate-cis).
 
 -   **[Domain separation for key CMDB tables](../../platform-security/c_DomainSeparationSetup.md)**
 

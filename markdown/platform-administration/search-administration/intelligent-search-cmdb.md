@@ -43,7 +43,7 @@ Use the Intelligent Search search field to construct a search string using every
 
 Use Intelligent Search:
 
--   **Search tips**: Shows details and tips about the usage, and examples for single and multi-table search, advanced filtering, and relationships in Intelligent Search. The Relationships tab contains a link to the [CMDB Implicit Relationships](intelligent-search-cmdb.md#section_CMDB_Implicit_Relationships) table.
+-   **Search tips**: Shows details and tips about the usage, and examples for single and multi-table search, advanced filtering, and relationships in Intelligent Search. The Relationships tab contains a link to the [CMDB Implicit Relationships](intelligent-search-cmdb.md#cmdb-implicit-relationships) table.
 -   **Search**: Depending on whether the search string is already fully converted into a valid CMDB query and whether the search is for a single or multiple tables.
 
     -   If the search string has no ambiguities with the table name or relationships, then the query runs and the results appear in a list view format.

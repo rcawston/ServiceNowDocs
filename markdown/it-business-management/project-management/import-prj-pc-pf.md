@@ -39,7 +39,7 @@ Role required: it\_project\_manager
 
         -   **Automatic**: Select this option to apply the scheduling engine while importing the project tasks. The supported constraint types are imported with the same constraints applied to them while other constraint types are converted to **Start on specific date**.
         -   **Manual**: Select this option to import all project tasks with the **Start on specific date** constraint type irrespective of their constraint type in Microsoft Project.
-        For more information about the supported constraint types, see [Project import from Microsoft Project](project-import-msp.md#ul_gsp_tlz_bq).
+        For more information about the supported constraint types, see [Project import from Microsoft Project](project-import-msp.md#project-import-from-microsoft-project).
 
 5.  Select **Import**.
 

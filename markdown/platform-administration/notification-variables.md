@@ -73,7 +73,7 @@ None
 Display a link to the current record.-   **URI**: The link text is the word `LINK`.
 -   **URI\_REF**: The link text is the display value of the record.
 
- **Note:** These variables don't apply to records in Workspace. To link to a record in Workspace, create a mail script that prints a URL to a notification. For more information, see [Linking to a record in Workspace](c_EnablingLinksToServiceNowRecords.md#link-to-workspace-record).
+ **Note:** These variables don't apply to records in Workspace. To link to a record in Workspace, create a mail script that prints a URL to a notification. For more information, see [Linking to a record in Workspace](c_EnablingLinksToServiceNowRecords.md#linking-to-a-record-in-workspace).
 
 </td><td>
 

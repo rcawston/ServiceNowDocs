@@ -35,7 +35,7 @@ Role required: sn\_nb\_action.next\_best\_action\_author, sn\_nb\_action.resourc
 
     For example, if you choose flow as the generator type, you must also select the specific flow to use. Selecting the lookup icon opens a pop-up window that you can use to select the required flow.
 
-    For more information, see [Resource generator types](ra-csm-resource-generators.md#section_xh5_4tw_15b).
+    For more information, see [Resource generator types](ra-csm-resource-generators.md#resource-generator-types).
 
 6.  If applicable, in the **Generator** field, select a generator.
 

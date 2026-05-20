@@ -312,7 +312,7 @@ The Order Operations Case Management application provides the following order ca
 For more information about service definitions and categories, see the following topics:
 
 -   [Service definitions](csm-service-definitions.md)
--   [Service definition categories](csm-service-definitions.md#section_e5p_mzw_jzb)
+-   [Service definition categories](csm-service-definitions.md#service-definition-categories)
 
 <table id="table_xwk_wkw_tcc"><thead><tr><th>
 

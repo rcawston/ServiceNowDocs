@@ -112,7 +112,7 @@ Style sheet
 
 </td><td>
 
-The style sheet you want to incorporate with this CSS include form. Select the style sheet you created in step [1](css-override-ais-theming-sp.md#create-style-sheet-record-step).
+The style sheet you want to incorporate with this CSS include form. Select the style sheet you created in step [1](css-override-ais-theming-sp.md#table_f1c_zmh_wqb).
 
 </td></tr><tr><td>
 

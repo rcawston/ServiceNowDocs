@@ -53,7 +53,7 @@ Base Test Suite Result
 
 </td><td>
 
-If this test suite is a child in a hierarchy of test suites, the base test suite result is the unique ID of the result record for the suite at the top-most level of the hierarchy. For more information, see [Example: Base test suite result](atf-rollup-xmpls.md#pfg_d1f_5w).
+If this test suite is a child in a hierarchy of test suites, the base test suite result is the unique ID of the result record for the suite at the top-most level of the hierarchy. For more information, see [Example: Base test suite result](atf-rollup-xmpls.md#example-base-test-suite-result).
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Parent
 
 </td><td>
 
-If this test suite has a parent, this is the test result record for the parent suite. For more information, see [Example: Parent test suite results](atf-rollup-xmpls.md#ulw_p1f_5w).
+If this test suite has a parent, this is the test result record for the parent suite. For more information, see [Example: Parent test suite results](atf-rollup-xmpls.md#example-parent-test-suite-results).
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Rolled up test success count
 
 </td><td>
 
-How many tests were successful. The tests counted as part of the roll up are all tests included in this suite, plus all others included in suites that are descendents of this one. For more information, see [Rolled up counts for test suites results](atf-rollup-xmpls.md#twp_tcf_5w).
+How many tests were successful. The tests counted as part of the roll up are all tests included in this suite, plus all others included in suites that are descendents of this one. For more information, see [Rolled up counts for test suites results](atf-rollup-xmpls.md#rolled-up-counts-for-test-suites-results).
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Rolled up test failure count
 
 </td><td>
 
-How many tests failed. The tests counted as part of the roll up are all tests included in this suite, plus all others included in suites that are descendents of this one. For more information, see [Rolled up counts for test suites results](atf-rollup-xmpls.md#twp_tcf_5w).
+How many tests failed. The tests counted as part of the roll up are all tests included in this suite, plus all others included in suites that are descendents of this one. For more information, see [Rolled up counts for test suites results](atf-rollup-xmpls.md#rolled-up-counts-for-test-suites-results).
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Rolled up test error count
 
 </td><td>
 
-How many tests resulted in an error. The tests counted as part of the roll up are all tests included in this suite, plus all others included in suites that are descendents of this one. For more information, see [Rolled up counts for test suites results](atf-rollup-xmpls.md#twp_tcf_5w).
+How many tests resulted in an error. The tests counted as part of the roll up are all tests included in this suite, plus all others included in suites that are descendents of this one. For more information, see [Rolled up counts for test suites results](atf-rollup-xmpls.md#rolled-up-counts-for-test-suites-results).
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Rolled up test skip account
 
 </td><td>
 
-How many tests were skipped. The tests counted as part of the roll up are all tests included in this suite, plus all others included in suites that are descendents of this one. For more information, see [Rolled up counts for test suites results](atf-rollup-xmpls.md#twp_tcf_5w).
+How many tests were skipped. The tests counted as part of the roll up are all tests included in this suite, plus all others included in suites that are descendents of this one. For more information, see [Rolled up counts for test suites results](atf-rollup-xmpls.md#rolled-up-counts-for-test-suites-results).
 
 </td></tr><tr><td>
 

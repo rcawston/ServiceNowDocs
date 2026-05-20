@@ -56,7 +56,7 @@ Name of the entity specified in the selected table.
 
     **Note:** You must create the custom subflow that transforms the raw payload.
 
-    See the [Transforming a raw test payload](dev-ops-test-tool-integration.md#section_evb_tzv_pnb) section for more details on configuring decision tables.
+    See the [Transforming a raw test payload](dev-ops-test-tool-integration.md#transforming-a-raw-test-payload) section for more details on configuring decision tables.
 
 5.  Run the test and view test results by navigating to **DevOps** &gt; **Test Results** \(Test Summaries and Performance Test Summaries\).
 

@@ -48,9 +48,9 @@ Role required: web\_service\_admin or admin
 **Related topics**  
 
 
-[SOAP web services security](c_SOAPWebService.md#SOAP-web-services-security)
+[SOAP web services security](c_SOAPWebService.md#soap-web-services-security)
 
-[WS-Security](c_SOAPWebService.md#WS-Security)
+[WS-Security](c_SOAPWebService.md#ws-security)
 
-[WS-Security profiles](c_SOAPWebService.md#WS-Security-profiles)
+[WS-Security profiles](c_SOAPWebService.md#ws-security-profiles)
 

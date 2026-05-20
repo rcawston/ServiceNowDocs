@@ -150,7 +150,7 @@ Command
 
 </td><td>
 
-Command that runs on the target directory. The command can also include MID Server scripts. See [Advanced SSH script options](ssh-step-action-designer.md#adv-ssh-section_l1v_jqk_phb) for more information.**Note:** Escape and validate data pills before the command field uses them by sanitizing arguments using a preprocessing [Script step](../../build-workflows/workflow-studio/javascript-step-action-designer.md). For more information, see [Sanitizing arguments using the escape class and function](jdbc-step.md#section_gqd_cy4_qhb).
+Command that runs on the target directory. The command can also include MID Server scripts. See [Advanced SSH script options](ssh-step-action-designer.md#advanced-ssh-script-options) for more information.**Note:** Escape and validate data pills before the command field uses them by sanitizing arguments using a preprocessing [Script step](../../build-workflows/workflow-studio/javascript-step-action-designer.md). For more information, see [Sanitizing arguments using the escape class and function](jdbc-step.md#section_gqd_cy4_qhb).
 
 </td></tr><tr><td>
 

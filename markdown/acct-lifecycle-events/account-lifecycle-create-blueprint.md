@@ -64,7 +64,7 @@ Role required: sn\_acct\_lc.customer\_success\_agent
     -   If you’re adding more than one objective, you must save the details for each objective before moving on to the next one.
 11. Select **Create** to create the success blueprint.
 
-    The newly created success blueprint now appears on the Success blueprint page. See [Success blueprint](account-lifecycle-view-engage.md#section_lyh_v43_qdc) for details.
+    The newly created success blueprint now appears on the Success blueprint page. See [Success blueprint](account-lifecycle-view-engage.md#success-blueprint) for details.
 
 12. Select the **View initiative roadmap** to view the success initiative roadmap with engagement details including the current health, stage, and the next renewal date for the engagement.
 

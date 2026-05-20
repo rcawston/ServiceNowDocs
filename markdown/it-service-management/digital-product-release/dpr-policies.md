@@ -20,7 +20,7 @@ You can use or customize these default DPR policies to validate that your config
 
 **Note:** You can’t modify the base system policies. However, you can create a copy of the policy and customize it.
 
-These policies are for both product and service releases. However, a few don't apply to service releases. For more information about those policies, see [Policies not applicable to service releases](dpr-policies.md#dpr-section_policy-not-service).
+These policies are for both product and service releases. However, a few don't apply to service releases. For more information about those policies, see [Policies not applicable to service releases](dpr-policies.md#policies-not-applicable-to-service-releases).
 
 ## All Completed Stories Have Associated Commits \(all\_completed\_stories\_have\_associated\_commits\)
 

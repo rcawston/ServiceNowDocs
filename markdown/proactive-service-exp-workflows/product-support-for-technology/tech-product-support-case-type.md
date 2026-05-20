@@ -79,7 +79,7 @@ Special handling notes bring important information to an agent's attention.
 
 </td></tr><tr><td>
 
-[Service definitions](tech-product-support-case-type.md#section_hjj_5jd_y1c)
+[Service definitions](tech-product-support-case-type.md#service-definitions)
 
 </td><td>
 
@@ -87,7 +87,7 @@ Service definitions enable customers to quickly discover and request the service
 
 </td></tr><tr><td>
 
-[Email notifications and email templates](tech-product-support-case-type.md#section_dwg_242_y1c)
+[Email notifications and email templates](tech-product-support-case-type.md#email-notifications-and-email-templates)
 
 </td><td>
 
@@ -95,7 +95,7 @@ Email notifications are sent to the contact and, in some cases, to users on the 
 
 </td></tr><tr><td>
 
-[Provider notifications](tech-product-support-case-type.md#section_ahk_lyj_y1c)
+[Provider notifications](tech-product-support-case-type.md#provider-notifications)
 
 </td><td>
 
@@ -103,7 +103,7 @@ Provider notifications for agents are sent following updates to technology produ
 
 </td></tr><tr><td>
 
-[Service level agreement \(SLA\) definitions](tech-product-support-case-type.md#section_vvh_sbl_y1c)
+[Service level agreement \(SLA\) definitions](tech-product-support-case-type.md#sla-definitions)
 
 </td><td>
 
@@ -127,7 +127,7 @@ The case action status feature enables agents to easily identify cases that need
 
 </td></tr><tr><td>
 
-[Field indicators and highlights](tech-product-support-case-type.md#section_xsn_gwd_y1c)
+[Field indicators and highlights](tech-product-support-case-type.md#field-indicators-and-highlights)
 
 </td><td>
 

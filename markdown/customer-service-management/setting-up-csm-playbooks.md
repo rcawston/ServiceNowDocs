@@ -28,7 +28,7 @@ Playbooks include:
 
 Playbooks are created in the [Workflow Studio](../build-workflows/workflow-studio/workflow-studio.md) application. Pages that display playbooks in a workspace are created in the [UI Builder](../application-development/ui-builder/ui-builder-overview.md) application. Agents use playbooks in [CSM Configurable Workspace](csm-workspaces-configure.md) to complete activities. End users can also use playbooks from service portals to create requests and provide information. For more information, see the following sections in this topic:
 
--   [Playbook users and tools](setting-up-csm-playbooks.md#section_lff_qpc_ybc)
+-   [Playbook users and tools](setting-up-csm-playbooks.md#playbook-users-and-tools)
 -   [Configuring and configuring playbooks](setting-up-csm-playbooks.md#section_mvs_sqc_ybc)
 
 ## Playbook users and tools
@@ -144,7 +144,7 @@ For more information, see [Using Playbooks for Customer Service Management](csm-
 
 ## Playbook applications
 
-Several applications are available that enable you to create and use playbooks with Customer Service Management. See [Playbook plugins](setting-up-csm-playbooks.md#section_qgq_ylk_llb) for detailed plugin and dependency information.
+Several applications are available that enable you to create and use playbooks with Customer Service Management. See [Playbook plugins](setting-up-csm-playbooks.md#playbook-plugins) for detailed plugin and dependency information.
 
 |Application|Description|
 |-----------|-----------|

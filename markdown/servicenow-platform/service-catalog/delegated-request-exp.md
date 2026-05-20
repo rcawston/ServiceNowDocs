@@ -17,7 +17,7 @@ You can request a catalog item on behalf of another user or multiple users using
 
 Delegated request experience comprises of the following entities:
 
--   Requested For variable for a catalog item. For information about this variable, see [Requested For](requested-for.md#RequestedFor).
+-   Requested For variable for a catalog item. For information about this variable, see [Requested For](requested-for.md#requested-for).
 -   Requested For field on a requested item \(RITM\)
 
     **Note:** The form views, list views, and email notifications are not updated to reflect the Requested For field on a RITM.

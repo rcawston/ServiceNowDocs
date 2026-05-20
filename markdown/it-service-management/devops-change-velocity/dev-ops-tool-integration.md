@@ -29,7 +29,7 @@ DevOps tool integration consists of these objects.
 
     When connecting, the subflow for the specific tool is called and the connection state is updated. The connection status message is shown on the form.
 
-    See [Connect capability subflow](creating-dev-ops-subflows.md#section_tkj_jzf_1kb) for more details.
+    See [Connect capability subflow](creating-dev-ops-subflows.md#connect-capability-subflow) for more details.
 
 -   **Discover** action:
 
@@ -37,7 +37,7 @@ DevOps tool integration consists of these objects.
 
     The transformed payload consists of an array of objects as a JSON string. Elements vary depending on the tool type.
 
-    See [Discover capability subflow](creating-dev-ops-subflows.md#section_sgn_lzf_1kb) for more details.
+    See [Discover capability subflow](creating-dev-ops-subflows.md#discover-capability-subflow) for more details.
 
 -   **Import** action:
 
@@ -51,13 +51,13 @@ DevOps tool integration consists of these objects.
 
     The source tool is configured manually \(by your integration developer\) to send raw data to the ServiceNow instance. The raw payload is then transformed into a standard JSON object using a subflow.
 
-    See the [Notification capability subflow](creating-dev-ops-subflows.md#section_ep4_txg_w3b) and the [DevOps - POST /devops/tool/\{capability\}](../../api-reference/rest-apis/devops-api.md) endpoint of the [DevOps API](../../api-reference/rest-apis/devops-api.md) for more details.
+    See the [Notification capability subflow](creating-dev-ops-subflows.md#notification-capability-subflow) and the [DevOps - POST /devops/tool/\{capability\}](../../api-reference/rest-apis/devops-api.md) endpoint of the [DevOps API](../../api-reference/rest-apis/devops-api.md) for more details.
 
     **Note:** If a subflow is not specified, default handling of notifications occurs \(`original payload` is automatically copied to `transformed payload`\).
 
     This behavior is useful when the transactional data of the tool is supported by ServiceNow DevOps as is.
 
-    See the expected standard payloads in the [Notification capability subflow](creating-dev-ops-subflows.md#section_ep4_txg_w3b) for more details.
+    See the expected standard payloads in the [Notification capability subflow](creating-dev-ops-subflows.md#notification-capability-subflow) for more details.
 
 
 ## DevOps integration configuration overview

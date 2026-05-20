@@ -21,5 +21,5 @@ For more information about this application, see [UI Builder](../../application-
 
 Access UI Builder to customize the Contract Workspace by navigating to **All** &gt; **UI Builder**, and then selecting **Contract Workspace**.
 
-For more information, see [Working in UI Builder](../../application-development/ui-builder/using-ui-builder.md) and [Configuring Configurable Workspace](../../platform-user-interface/c_set-up-configurable-workspace.md#section_xqc_p2z_cjb).
+For more information, see [Working in UI Builder](../../application-development/ui-builder/using-ui-builder.md) and [Configuring Configurable Workspace](../../platform-user-interface/c_set-up-configurable-workspace.md#configuring-configurable-workspace).
 

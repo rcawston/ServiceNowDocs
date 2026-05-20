@@ -53,7 +53,7 @@ To enable users to search tables created by update set transfers, you must manua
 
 4.  If you intend to use the table in multi-table searches or if you want to use the BM25 scoring algorithm on the table, upgrade its indexing format to V4.
 
-    1.  If the value in **Format** isn't grayed out, select **v4**, then select **Submit** and skip to step [5](configure-single-table-for-indexing.md#configure-indexing).
+    1.  If the value in **Format** isn't grayed out, select **v4**, then select **Submit** and skip to step [5](configure-single-table-for-indexing.md#configure-a-table-for-indexing-and-searching).
 
     2.  If the value in **Format** is grayed out, select **Submit**.
 

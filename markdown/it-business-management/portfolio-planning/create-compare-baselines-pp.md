@@ -60,7 +60,7 @@ Create financial baseline window appears with the Name field is auto-populated w
 
 1.  Select the **Baselines** \(![Baselines tab.](../../spw-financials/images/fin-baselines-tab.png)\) tab to view the list of existing baselines.
 2.  Select any two baselines and select the **Compare baselines** \(![Compare baselines button.](../../spw-financials/images/fin-compare-baselines-button.png)\) button.
- Comparison view of the selected baselines is displayed. For more details, see [Using baseline comparison view.](../scenario-planning-in-spw/using-financials-spw.md#section_bkp_g2l_2zb)
+ Comparison view of the selected baselines is displayed. For more details, see [Using baseline comparison view.](../scenario-planning-in-spw/using-financials-spw.md#baseline-view)
 
 </td></tr></tbody>
 </table>    **Tip:** You can migrate existing financials baselines of your projects or demands from Classic UI to Financials in Next Experience.

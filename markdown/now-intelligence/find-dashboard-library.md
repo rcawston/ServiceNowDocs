@@ -25,7 +25,7 @@ The configuration of the Dashboards page and the data access depends on the user
 
 For users without an admin role, the navigation pane provides a direct access only to the [Dashboards](find-dashboard-library.md), [Data Visualizations](explore-data-vis-library.md), and [Indicators](your-kpis.md) from the Platform Analytics library.
 
-For information on role-based access for the left navigation pane and Platform Analytics overview page, see [Roles applicable for Platform Analytics overview page](analytics-center.md#table_a12_23s_k3c).
+For information on role-based access for the left navigation pane and Platform Analytics overview page, see [Roles applicable for Platform Analytics overview page](analytics-center.md#platform-analytics-overview).
 
 The following example shows what a user can see in the Platform Analytics Dashboards library for users without an admin role.
 

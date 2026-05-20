@@ -38,7 +38,7 @@ Thin compose modeless dialogs are available on the following record pages:
 -   [CSM voice interaction record page](csm-native-voice-record-page.md)
 -   [Email interaction record page](csm-email-interaction-record-page.md)
 
-**Note:** The thin compose modeless dialog feature has the Rich Text Editor enabled, which can add HTML tags along with the text to the **Additional comments** and **Work notes** fields on the case record. To remove these tags, see [Updating the glide.ui.journal.use\_html property](csm-front-line-case-page-modeless-dialogs.md#section_jxd_1pl_1gc).
+**Note:** The thin compose modeless dialog feature has the Rich Text Editor enabled, which can add HTML tags along with the text to the **Additional comments** and **Work notes** fields on the case record. To remove these tags, see [Updating the glide.ui.journal.use\_html property](csm-front-line-case-page-modeless-dialogs.md#updating-the-glideuijournaluse-html-property).
 
 ## Creating comments and work notes
 

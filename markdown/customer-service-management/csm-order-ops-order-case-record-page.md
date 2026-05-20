@@ -140,7 +140,7 @@ Activity stream
 
 </td><td>
 
-The activity stream component displays a list of activities occurring on an order case record. This list can be collapsed to provide a quick view of case activities or expanded to provide more detail about individual activities.The Order case record page uses [modeless dialogs](csm-front-line-case-page-modeless-dialogs.md) for composing comments, work notes, and emails. For more information, see the [Composing emails, comments, and work notes](csm-order-ops-order-case-record-page.md#section_eqt_5h5_ncc) section below.
+The activity stream component displays a list of activities occurring on an order case record. This list can be collapsed to provide a quick view of case activities or expanded to provide more detail about individual activities.The Order case record page uses [modeless dialogs](csm-front-line-case-page-modeless-dialogs.md) for composing comments, work notes, and emails. For more information, see the [Composing emails, comments, and work notes](csm-order-ops-order-case-record-page.md#composing-emails-comments-and-work-notes) section below.
 
 </td></tr><tr><td>
 
@@ -158,7 +158,7 @@ The contextual side panel component includes different tools that agents can use
 -   Response Templates
 -   Form Templates
 
- For more information about related lists, see the [Order case record page related lists](csm-order-ops-order-case-record-page.md#section_ksh_pp3_lcc) section below.
+ For more information about related lists, see the [Order case record page related lists](csm-order-ops-order-case-record-page.md#order-case-record-page-related-lists) section below.
 
  **Note:** The Order Operations Case Management application does not include response templates. To configure a response template, see [Create or modify a response template](../servicenow-platform/create-modify-templated-snippet.md).
 

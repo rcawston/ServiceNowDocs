@@ -77,7 +77,7 @@ journal
 
 </td><td>
 
-Displays the history of approvals for the record. For more information, see [Tools for completing tasks](c_TaskTable.md#section_mzc_z4g_3cc).
+Displays the history of approvals for the record. For more information, see [Tools for completing tasks](c_TaskTable.md#tools-for-completing-tasks).
 
 </td></tr><tr><td>
 

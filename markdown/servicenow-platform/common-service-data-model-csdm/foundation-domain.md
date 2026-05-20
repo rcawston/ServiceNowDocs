@@ -27,11 +27,11 @@ In the Foundation stage of implementing the CSDM framework, admins prepare the r
 
 Individual Foundation domain tables are accessed as needed during each phase of the service life cycle. Each topic that describes the life-cycle phase of a domain identifies the foundation tables that are active during that phase. See the following diagrams:
 
--   [Tables used during the Ideation &amp; Strategy phase of the service life cycle](ideation-strategy-domain.md#section-idea-strat-active-tables)
--   [Tables used during the Design &amp; Planning phase of the service life cycle](design-domain.md#section-design-plan-active-tables)
--   [Tables used during the Build &amp; Integration phase of the service life cycle](build-domain.md#section-build-integr-active-tables)
--   [Tables used during the Service Delivery phase of the service life cycle](manage-tech-servs-domain.md#section-service-deliv-active-tables)
--   [Tables used during the Service Consumption phase of the service life cycle](sell-consume-domain.md#section-service-consume-active-tables)
+-   [Tables used during the Ideation &amp; Strategy phase of the service life cycle](ideation-strategy-domain.md#tables-used-during-the-ideation-strategy-phase-of-the-service-life-cycle)
+-   [Tables used during the Design &amp; Planning phase of the service life cycle](design-domain.md#tables-used-during-the-design-planning-phase-of-the-service-life-cycle)
+-   [Tables used during the Build &amp; Integration phase of the service life cycle](build-domain.md#tables-used-during-the-build-integration-phase-of-the-service-life-cycle)
+-   [Tables used during the Service Delivery phase of the service life cycle](manage-tech-servs-domain.md#tables-used-during-the-service-delivery-phase-of-the-service-life-cycle)
+-   [Tables used during the Service Consumption phase of the service life cycle](sell-consume-domain.md#tables-used-during-the-service-consumption-phase-of-the-service-life-cycle)
 
 ## Data managed by the chief strategist: Value stream
 

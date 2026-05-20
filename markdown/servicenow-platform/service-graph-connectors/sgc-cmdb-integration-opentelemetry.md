@@ -40,7 +40,7 @@ The guided setup for the Service Graph Connector for OpenTelemetry provides an o
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Cloud Observability integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Cloud Observability integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#using-the-cmdb-integrations-dashboard).
 
 ## Data mapping
 
@@ -88,31 +88,31 @@ OpenTelemetry Resources \[sn\_sg\_lightstep\_resources\]
 
 </td><td>
 
-[Calculated Application Service](sgc-cmdb-opentelemetry-classes.md#section_fr5_b3g_fxb)
+[Calculated Application Service](sgc-cmdb-opentelemetry-classes.md#calculated-application-service-cmdb-ci-service-calculated)
 
- [Kubernetes Cluster](sgc-cmdb-opentelemetry-classes.md#section_xzj_khg_fxb)
+ [Kubernetes Cluster](sgc-cmdb-opentelemetry-classes.md#kubernetes-cluster-cmdb-ci-kubernetes-cluster)
 
- [Kubernetes Deployment](sgc-cmdb-opentelemetry-classes.md#section_hyk_1hg_fxb)
+ [Kubernetes Deployment](sgc-cmdb-opentelemetry-classes.md#kubernetes-deployment-cmdb-ci-kubernetes-deployment)
 
- [Kubernetes Node](sgc-cmdb-opentelemetry-classes.md#section_vf1_dhg_fxb)
+ [Kubernetes Node](sgc-cmdb-opentelemetry-classes.md#kubernetes-node-cmdb-ci-kubernetes-node)
 
- [Kubernetes Pod](sgc-cmdb-opentelemetry-classes.md#section_rkm_1kg_fxb)
+ [Kubernetes Pod](sgc-cmdb-opentelemetry-classes.md#kubernetes-pod-cmdb-ci-kubernetes-pod)
 
- [Kubernetes StatefulSet](sgc-cmdb-opentelemetry-classes.md#section_hg4_fl5_qxb)
+ [Kubernetes StatefulSet](sgc-cmdb-opentelemetry-classes.md#kubernetes-statefulset-cmdb-ci-kubernetes-statefulset)
 
- [Kubernetes ReplicaSet](sgc-cmdb-opentelemetry-classes.md#section_zdf_phg_fxb)
+ [Kubernetes ReplicaSet](sgc-cmdb-opentelemetry-classes.md#kubernetes-replicaset-cmdb-ci-kubernetes-replicaset)
 
- [Kubernetes DaemonSet](sgc-cmdb-opentelemetry-classes.md#section_q2s_5hg_fxb)
+ [Kubernetes DaemonSet](sgc-cmdb-opentelemetry-classes.md#kubernetes-daemonset-cmdb-ci-kubernetes-daemonset)
 
- [Kubernetes Job](sgc-cmdb-opentelemetry-classes.md#section_u1r_gdb_rxb)
+ [Kubernetes Job](sgc-cmdb-opentelemetry-classes.md#kubernetes-job-cmdb-ci-kubernetes-job)
 
- [Kubernetes Cronjob](sgc-cmdb-opentelemetry-classes.md#section_jls_jcb_rxb)
+ [Kubernetes Cronjob](sgc-cmdb-opentelemetry-classes.md#kubernetes-cronjob-cmdb-ci-kubernetes-cronjob)
 
- [Kubernetes Namespace](sgc-cmdb-opentelemetry-classes.md#section_gz4_lhg_fxb)
+ [Kubernetes Namespace](sgc-cmdb-opentelemetry-classes.md#kubernetes-namespace-cmdb-ci-kubernetes-namespace)
 
- [Server](sgc-cmdb-opentelemetry-classes.md#section_y5x_yhg_fxb)
+ [Server](sgc-cmdb-opentelemetry-classes.md#server-cmdb-ci-server)
 
- [Key Value](sgc-cmdb-opentelemetry-classes.md#section_hbk_fhg_fxb)
+ [Key Value](sgc-cmdb-opentelemetry-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -132,9 +132,9 @@ OpenTelemetry K8s Pods \[sn\_sg\_lightstep\_pods\]
 
 </td><td>
 
-[Kubernetes Cluster](sgc-cmdb-opentelemetry-classes.md#section_xzj_khg_fxb)
+[Kubernetes Cluster](sgc-cmdb-opentelemetry-classes.md#kubernetes-cluster-cmdb-ci-kubernetes-cluster)
 
- [Kubernetes Pod](sgc-cmdb-opentelemetry-classes.md#section_rkm_1kg_fxb)
+ [Kubernetes Pod](sgc-cmdb-opentelemetry-classes.md#kubernetes-pod-cmdb-ci-kubernetes-pod)
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ OpenTelemetry docker containers \[sn\_sg\_lightstep\_containers\]
 
 </td><td>
 
-[Docker Container](sgc-cmdb-opentelemetry-classes.md#section_vx1_thg_fxb)
+[Docker Container](sgc-cmdb-opentelemetry-classes.md#docker-container-cmdb-ci-docker-container)
 
 </td></tr><tr><td>
 
@@ -174,7 +174,7 @@ Opentelemetry container images \[sn\_sg\_lightstep\_container\_images\]
 
 </td><td>
 
-[Docker Image](sgc-cmdb-opentelemetry-classes.md#section_vyl_d3g_fxb)
+[Docker Image](sgc-cmdb-opentelemetry-classes.md#docker-image-cmdb-ci-docker-image)
 
 </td></tr><tr><td>
 
@@ -194,7 +194,7 @@ OpenTelemetry K8s Services \[sn\_sg\_lightstep\_kubernetes\_services\]
 
 </td><td>
 
-[Kubernetes Service](sgc-cmdb-opentelemetry-classes.md#section_kgl_mhg_fxb)
+[Kubernetes Service](sgc-cmdb-opentelemetry-classes.md#kubernetes-service-cmdb-ci-kubernetes-service)
 
 </td></tr><tr><td>
 
@@ -204,7 +204,7 @@ OpenTelemetry Dependency Map
 
 Imports the dependency maps to get an aggregate view of the traced data.The data source also imports and loads any inferred services and their related services data in the Inferred service \[sn\_sg\_lightstep\_inferred\_service\] staging table.
 
-**Note:** You need to link the imported inferred services with a CI manually. See [Inferred service linking](sgc-cmdb-integration-opentelemetry.md#section_h12_fwb_sxb).
+**Note:** You need to link the imported inferred services with a CI manually. See [Inferred service linking](sgc-cmdb-integration-opentelemetry.md#inferred-service-linking).
 
 </td><td>
 
@@ -216,7 +216,7 @@ OpenTelemetry Dependency Map \[sn\_sg\_lightstep\_dependency\_map\]
 
 </td><td>
 
-[Calculated Application Service](sgc-cmdb-opentelemetry-classes.md#section_fr5_b3g_fxb)
+[Calculated Application Service](sgc-cmdb-opentelemetry-classes.md#calculated-application-service-cmdb-ci-service-calculated)
 
 </td></tr></tbody>
 </table>For more information on where data is saved when pulling data from Cloud Observability, see [CMDB classes targeted in Service Graph Connector for OpenTelemetry](sgc-cmdb-opentelemetry-classes.md).

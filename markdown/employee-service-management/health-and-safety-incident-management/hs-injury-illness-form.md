@@ -234,7 +234,7 @@ Recordable
 
 </td><td>
 
-Option that indicates that this injury or illness is recordable for any reporting purpose. Only a safety compliance manager can edit this field.Only records marked as recordable are included when you generate a report, such as an OSHA form. For example, see [Pre-requisites for generating OSHA forms](../health-and-safety/generating-osha-forms.md#reporting-prereq).
+Option that indicates that this injury or illness is recordable for any reporting purpose. Only a safety compliance manager can edit this field.Only records marked as recordable are included when you generate a report, such as an OSHA form. For example, see [Pre-requisites for generating OSHA forms](../health-and-safety/generating-osha-forms.md#pre-requisites-for-generating-osha-forms).
 
 </td></tr><tr><td>
 

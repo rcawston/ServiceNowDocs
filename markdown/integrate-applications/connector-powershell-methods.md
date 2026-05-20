@@ -40,7 +40,7 @@ Runs a script on local or remote computers and gets the output.
 
 -   **Input**
 
-    [Script](parameters-powershell-connectors.md#parameter-powershell-input-script)
+    [Script](parameters-powershell-connectors.md#input-parameter-values)
 
 -   **Output**
 
@@ -53,7 +53,7 @@ Accepts PowerShell objects from other methods or components and converts them to
 
 -   **Inputs**
 
-    [PSObject](parameters-powershell-connectors.md#parameter-powershell-input-psobject)
+    [PSObject](parameters-powershell-connectors.md#input-parameter-values)
 
 
 ## GetValuesByProperty
@@ -62,7 +62,7 @@ Accepts a PowerShell object and gets the values of the various properties.
 
 -   **Inputs**
 
-    [PSObject](parameters-powershell-connectors.md#parameter-powershell-input-psobject)
+    [PSObject](parameters-powershell-connectors.md#input-parameter-values)
 
 -   **Output**
 

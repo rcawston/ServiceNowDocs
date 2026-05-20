@@ -24,7 +24,7 @@ The ServiceNow Voice for CSM application provides the following Customer Service
 -   [An outbound contact flow to connect with consumers and customer contacts from the phone number field displayed in any of the ServiceNow application UIs](instld-with-ccc-csm.md).
 -   [Operation handlers to configure automated interactions for customer service cases](instld-with-ccc-csm.md).
 -   [A phone PIN setup option for consumers and customer contacts](ccc-csm-config-pin.md).
--   [Amazon Connect phone queues for the Workforce Optimization for Customer Service application](integrating-ccc-csm.md#section_sqf_z3t_2nb).
+-   [Amazon Connect phone queues for the Workforce Optimization for Customer Service application](integrating-ccc-csm.md#workforce-optimization-for-customer-service).
 
 To get started with the ServiceNow Voice for CSM application, see [Install ServiceNow Voice for CSM](install-ccc-csm.md).
 

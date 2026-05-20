@@ -71,11 +71,11 @@ SGA-AWS Managed API Rest \[sn\_aws\_api\_gw\_int\_api\_gateway\_managed\_api\_im
 
 </td><td>
 
-[AWS API Gateway](api-sgc-aws-gateway-tables.md#section_ecv_wtj_4bc)[DNS Alias](api-sgc-aws-gateway-tables.md#section_y24_451_lgc)
+[AWS API Gateway](api-sgc-aws-gateway-tables.md#target-tables-for-storing-api-service-graph-connector-for-aws-api-gateway-data)[DNS Alias](api-sgc-aws-gateway-tables.md#dns-alias-cmdb-ci-dns-alias)
 
-[Managed API](api-sgc-aws-gateway-tables.md#section_bfw_xtj_4bc)
+[Managed API](api-sgc-aws-gateway-tables.md#managed-api-cmdb-ci-managed-api)
 
-[Key Value](api-sgc-aws-gateway-tables.md#section_glk_m55_32c)
+[Key Value](api-sgc-aws-gateway-tables.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -87,11 +87,11 @@ SGA-AWS Managed API V2 \[sn\_aws\_api\_gw\_int\_sga\_aws\_managed\_api\_v2\]
 
 </td><td>
 
-[Managed API](api-sgc-aws-gateway-tables.md#section_bfw_xtj_4bc)[AWS API Gateway](api-sgc-aws-gateway-tables.md#section_ecv_wtj_4bc)
+[Managed API](api-sgc-aws-gateway-tables.md#managed-api-cmdb-ci-managed-api)[AWS API Gateway](api-sgc-aws-gateway-tables.md#target-tables-for-storing-api-service-graph-connector-for-aws-api-gateway-data)
 
-[DNS Alias](api-sgc-aws-gateway-tables.md#section_y24_451_lgc)
+[DNS Alias](api-sgc-aws-gateway-tables.md#dns-alias-cmdb-ci-dns-alias)
 
-[Key Value](api-sgc-aws-gateway-tables.md#section_glk_m55_32c)
+[Key Value](api-sgc-aws-gateway-tables.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ SGA-AWS Frontend-Backend REST \[sn\_aws\_api\_gw\_int\_sga\_aws\_frontend\_backe
 
 </td><td>
 
-[API Backend](api-sgc-aws-gateway-tables.md#section_kkr_xtj_4bc)[API Frontend](api-sgc-aws-gateway-tables.md#section_lrd_wtj_4bc)
+[API Backend](api-sgc-aws-gateway-tables.md#api-backend-cmdb-ci-api-backend)[API Frontend](api-sgc-aws-gateway-tables.md#api-frontend-cmdb-ci-api-frontend)
 
 </td></tr><tr><td>
 
@@ -115,7 +115,7 @@ SGA-AWS Backend V2 \[sn\_aws\_api\_gw\_int\_sga\_aws\_backend\_v2\]
 
 </td><td>
 
-[API Backend](api-sgc-aws-gateway-tables.md#section_kkr_xtj_4bc)
+[API Backend](api-sgc-aws-gateway-tables.md#api-backend-cmdb-ci-api-backend)
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ SGA-AWS Frontend V2 \[sn\_aws\_api\_gw\_int\_sga\_aws\_frontend\_v2\]
 
 </td><td>
 
-[API Frontend](api-sgc-aws-gateway-tables.md#section_lrd_wtj_4bc)
+[API Frontend](api-sgc-aws-gateway-tables.md#api-frontend-cmdb-ci-api-frontend)
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ SGA-AWS API Gateway Deployment Rest \[sn\_aws\_api\_gw\_int\_sga\_aws\_api\_gate
 
 </td><td>
 
-[API Deployment](api-sgc-aws-gateway-tables.md#section_hyq_ttj_4bc)
+[API Deployment](api-sgc-aws-gateway-tables.md#api-deployment-api-deployment)
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ SGA-AWS API Gateway Deployment V2 \[sn\_aws\_api\_gw\_int\_sga\_aws\_api\_gatewa
 
 </td><td>
 
-[API Deployment](api-sgc-aws-gateway-tables.md#section_hyq_ttj_4bc)
+[API Deployment](api-sgc-aws-gateway-tables.md#api-deployment-api-deployment)
 
 </td></tr><tr><td>
 
@@ -163,7 +163,7 @@ SGA-AWS Consumers \[sn\_aws\_api\_gw\_int\_sga\_aws\_consumers\]
 
 </td><td>
 
-[API Consumer](api-sgc-aws-gateway-tables.md#section_wyl_wtj_4bc)
+[API Consumer](api-sgc-aws-gateway-tables.md#api-consumer-api-consumer)
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ SGA-AWS API Gateway Policies \[sn\_aws\_api\_gw\_int\_sga\_aws\_api\_gateway\_po
 
 </td><td>
 
-[API Policy](api-sgc-aws-gateway-tables.md#section_f35_vtj_4bc)
+[API Policy](api-sgc-aws-gateway-tables.md#api-policy-api-policy)
 
 </td></tr><tr><td>
 
@@ -187,7 +187,7 @@ SGA-AWS-API-Consumer-Access \[sn\_aws\_api\_gw\_int\_sga\_aws\_api\_consumer\_ac
 
 </td><td>
 
-[API Consumer Access](api-sgc-aws-gateway-tables.md#section_mh5_cv5_32c)
+[API Consumer Access](api-sgc-aws-gateway-tables.md#api-consumer-access-api-consumer-access)
 
 </td></tr></tbody>
 </table>When you complete setting up the connection, you can configure the integration to periodically pull data from an AWS API Gateway service. For information on where data is saved when pulling data from an AWS API Gateway service, see [Target tables for storing API Service Graph Connector for AWS API Gateway data](api-sgc-aws-gateway-tables.md).

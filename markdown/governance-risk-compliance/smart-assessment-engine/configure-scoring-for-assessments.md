@@ -44,7 +44,7 @@ Configure scoring for assessment
 
     1.  On the **Assessment scoring** form, fill in the fields.
 
-        For a description of the field values, see [Assessment scoring form](scoring-forms.md#section_xfs_1bk_k3c).
+        For a description of the field values, see [Assessment scoring form](scoring-forms.md#assessment-scoring-form).
 
     2.  Select **Save**.
 
@@ -67,7 +67,7 @@ Configure scoring for assessment
 
     1.  On the **Subsection scoring** form, fill in the fields.
 
-        For a description of the field values, see [Assessment scoring form](scoring-forms.md#section_xfs_1bk_k3c)
+        For a description of the field values, see [Assessment scoring form](scoring-forms.md#assessment-scoring-form)
 
         **Note:** The subsection scores are calculated by grouping question scores based on the defined criteria.
 

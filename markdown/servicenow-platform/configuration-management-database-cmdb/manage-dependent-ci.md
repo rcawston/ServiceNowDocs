@@ -38,7 +38,7 @@ To enable dependent CIs management:
 -   Ensure that the **cmdb.dependent.ci.cascade.op.enabled** system property is set to **true** \(true by default\). This property enables cascade operations and doesn't exist in the base system. Therefore, to view or modify the property value, you must first [add it to the System Properties \[sys\_properties\]](../../platform-administration/r_AvailableSystemProperties.md) table.
 -   To enable cascade-retirement processes, ensure that the system property **cmdb.dependent.ci.cascade.retire.enabled**, which is used to manage cascade-retirement of CIs, is set to true \(false by default\). The business rule **After BR: Track “Retired” CIs**, that checks for downstream CI dependencies, runs only if this property is set to true. This property doesn't exist in the base system and to view or modify it, you must first [add it to the System Properties \[sys\_properties\]](../../platform-administration/r_AvailableSystemProperties.md) table.
 
-Cascade-cleanup operations apply only from when you enable the dependent CIs management feature. To apply cascade-cleanup to orphan dependent CIs that already existed in the CMDB before enabling the feature, see [Cascade-cleanup existing orphan dependent CIs](manage-dependent-ci.md#section_cascade-cleanup-existing-dependentCIs).
+Cascade-cleanup operations apply only from when you enable the dependent CIs management feature. To apply cascade-cleanup to orphan dependent CIs that already existed in the CMDB before enabling the feature, see [Cascade-cleanup existing orphan dependent CIs](manage-dependent-ci.md#cascade-cleanup-existing-orphan-dependent-cis).
 
 ## Use of CMDB Data Manager to perform cascade-cleanup operations
 
@@ -64,7 +64,7 @@ When a CI is set to retire, dependent CIs management data processes attempt to c
 
     For more information about dependent relationship rules, see [CMDB dependent relationship rules](c_ServiceRulesMetadata.md).
 
-4.  Scheduled Job **CMDB DependentCI Policy Processor** runs \(if the system property **cmdb.dependent.ci.cascade.retire.enabled** is true\) to process the CIs in the CMDB Dependent CI Ledger \[cmdb\_dependent\_ci\_ledger\] table. Those CIs are set as being ready to retire upon approval using the [CMDB Data Manager](manage-dependent-ci.md#section-cmdb-datamgr-apply-cascade-cleanup). A task is created in the CMDB Data Manager against the Dependent CI Retire policy to actually retire the CIs.
+4.  Scheduled Job **CMDB DependentCI Policy Processor** runs \(if the system property **cmdb.dependent.ci.cascade.retire.enabled** is true\) to process the CIs in the CMDB Dependent CI Ledger \[cmdb\_dependent\_ci\_ledger\] table. Those CIs are set as being ready to retire upon approval using the [CMDB Data Manager](manage-dependent-ci.md#use-of-cmdb-data-manager-to-perform-cascade-cleanup-operations). A task is created in the CMDB Data Manager against the Dependent CI Retire policy to actually retire the CIs.
 
 ## Cascade-archive dependent CIs
 
@@ -76,7 +76,7 @@ Orphan dependent CIs are not immediately archived. When a CI is archived, all th
 -   The CI has multiple parent CIs.
 -   The CI belongs to an excluded class. Excluded classes are stored in the CMDB Dependent CI Class Exclusion \[cmdb\_dependent\_ci\_class\_exclusion\] table. In the base system, that table is pre-populated with some classes such as **cmdb\_ci\_vm**, **cmdb\_ci\_vmware\_instance**, and other VMware-related classes. You can manage the set of classes that are exempt from management of orphan dependent CIs, by adding or removing records to that table.
 
-Eventually, only those CIs that these conditions do not apply to are added to the CMDB Dependent CI Ledger \[cmdb\_dependent\_ci\_ledger\] table. Those CIs are set as being ready for archival using the [CMDB Data Manager](manage-dependent-ci.md#section-cmdb-datamgr-apply-cascade-cleanup), upon approval.
+Eventually, only those CIs that these conditions do not apply to are added to the CMDB Dependent CI Ledger \[cmdb\_dependent\_ci\_ledger\] table. Those CIs are set as being ready for archival using the [CMDB Data Manager](manage-dependent-ci.md#use-of-cmdb-data-manager-to-perform-cascade-cleanup-operations), upon approval.
 
 ## Cascade-delete dependent CIs
 
@@ -97,7 +97,7 @@ Orphan dependent CIs aren't immediately deleted. Prior to deleting each of the C
 -   The CI has multiple parent CIs.
 -   The CI belongs to an excluded class. Excluded classes are stored in the CMDB Dependent CI Class Exclusion \[cmdb\_dependent\_ci\_class\_exclusion\] table. In the base system, that table is pre-populated with some classes such as **cmdb\_ci\_vm**, **cmdb\_ci\_vmware\_instance**, and other VMware-related classes. You can manage the set of classes that are exempt from management of orphan dependent CIs, by adding or removing records to that table.
 
-Eventually, only those CIs that these conditions don't apply to are added to the CMDB Dependent CI Ledger \[cmdb\_dependent\_ci\_ledger\] table. Those CIs are set as being ready for deletion using the [CMDB Data Manager](manage-dependent-ci.md#section-cmdb-datamgr-apply-cascade-cleanup), upon approval.
+Eventually, only those CIs that these conditions don't apply to are added to the CMDB Dependent CI Ledger \[cmdb\_dependent\_ci\_ledger\] table. Those CIs are set as being ready for deletion using the [CMDB Data Manager](manage-dependent-ci.md#use-of-cmdb-data-manager-to-perform-cascade-cleanup-operations), upon approval.
 
 ## Extraneous relationships
 
@@ -109,7 +109,7 @@ The **cmdb.dependent.ci.extra.rel.check** property doesn't exist in the base sys
 
 When enabling the dependent CIs management feature, the cascade-cleanup operations apply only from when the feature is enabled. However, it might be necessary to apply a similar cascade-cleanup operation to orphan dependent CIs that already existed in the CMDB before the feature was enabled.
 
-[Activate](../../employee-service-management/hr-service-delivery/activate-sj-mh.md) the Cleanup Orphan CIs scheduled job to perform a one-time cascade-cleanup of orphan dependent CIs across the CMDB. The Cleanup Orphan CIs scheduled job checks throughout the entire CMDB to identify any orphan dependent CIs. These CIs are then processed in the same manner that CIs that are cascade-deleted are processed. CIs that are ready to be deleted are added to the CMDB Dependent CI Ledger \[cmdb\_dependent\_ci\_ledger\] table. The CMDB Data Manager is then leveraged as described in the [Use of CMDB Data Manager to perform cascade-cleanup operations](manage-dependent-ci.md#section-cmdb-datamgr-apply-cascade-cleanup) section.
+[Activate](../../employee-service-management/hr-service-delivery/activate-sj-mh.md) the Cleanup Orphan CIs scheduled job to perform a one-time cascade-cleanup of orphan dependent CIs across the CMDB. The Cleanup Orphan CIs scheduled job checks throughout the entire CMDB to identify any orphan dependent CIs. These CIs are then processed in the same manner that CIs that are cascade-deleted are processed. CIs that are ready to be deleted are added to the CMDB Dependent CI Ledger \[cmdb\_dependent\_ci\_ledger\] table. The CMDB Data Manager is then leveraged as described in the [Use of CMDB Data Manager to perform cascade-cleanup operations](manage-dependent-ci.md#use-of-cmdb-data-manager-to-perform-cascade-cleanup-operations) section.
 
 The Cleanup Orphan CIs scheduled job is intended to run only once, after which the job deactivates itself. Depending on the size of the CMDB, it might take the Cleanup Orphan CIs scheduled job several days to complete.
 

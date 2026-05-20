@@ -32,10 +32,10 @@ To view this page, follow these steps:
 
 The Success report page contains the following tabs:
 
--   [Overview](#section_iz5_3nl_kfc): Provides an overview of the team health and engagement metrics.
--   [Risk](#section_wcb_g4l_kfc): Identifies potential issues that can impact engagement health.
--   [Adoption](#section_ds3_bcy_lfc): Provides details on customer progress on onboarding and product adoption.
--   [Renewal](#section_kby_w2y_lfc): Lists key metrics related to revenue growth opportunities and contract renewals.
+-   [Overview](#overview-success-report): Provides an overview of the team health and engagement metrics.
+-   [Risk](#risk): Identifies potential issues that can impact engagement health.
+-   [Adoption](#adoption): Provides details on customer progress on onboarding and product adoption.
+-   [Renewal](#renewal): Lists key metrics related to revenue growth opportunities and contract renewals.
 
 ![success report landing page.](../image/account-lifecycle-success-report.png)
 

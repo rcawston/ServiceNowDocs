@@ -26,7 +26,7 @@ The CMDB 360 dashboard provides aggregations and analysis of CMDB 360 data. CMDB
 Requirements:
 
 -   Role requirement: sn\_cmdb\_user \(CMDB user\) or any role containing sn\_cmdb\_user
--   Additional requirement: [Enable and configure CMDB 360](multisource-cmdb.md#section_enable_multisource_CMDB)
+-   Additional requirement: [Enable and configure CMDB 360](multisource-cmdb.md#enable-and-configure-cmdb-360)
 
 To access the CMDB 360 view in the CMDB Workspace, navigate to **Workspaces** &gt; **CMDB Workspace**. In the CMDB Workspace menu bar, select **CMDB 360**.
 

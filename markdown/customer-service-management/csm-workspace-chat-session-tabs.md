@@ -61,7 +61,7 @@ Virtual agent admins can configure a minimum of one and a maximum of three level
 
 </td></tr><tr><td>
 
-[Tab colors](csm-workspace-chat-session-tabs.md#section_rsb_4j2_fdc)
+[Tab colors](csm-workspace-chat-session-tabs.md#tab-colors)
 
 </td><td>
 
@@ -69,7 +69,7 @@ Tab colors indicate the status of a chat with one or more unread messages.Inacti
 
 </td></tr><tr><td>
 
-[Unread message counters](csm-workspace-chat-session-tabs.md#section_zq4_1k2_fdc)
+[Unread message counters](csm-workspace-chat-session-tabs.md#unread-message-counters)
 
 </td><td>
 

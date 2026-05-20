@@ -21,8 +21,8 @@ The Service Graph Connector for GCP uses OS Config Patch jobs on GCP projects to
 
 The following scheduled imports execute the OS Config Patch jobs, and then read and delete the output:
 
--   [SG-GCP Execute Patch Job](sgc-gcp-deep-discovery.md#section_kj4_kc3_cgc)
--   [SG-GCP Get Patch Job](sgc-gcp-deep-discovery.md#section_qh1_sc3_cgc)
+-   [SG-GCP Execute Patch Job](sgc-gcp-deep-discovery.md#sg-gcp-execute-patch-job)
+-   [SG-GCP Get Patch Job](sgc-gcp-deep-discovery.md#sg-gcp-get-patch-job)
 
 ## Deep discovery connection properties
 

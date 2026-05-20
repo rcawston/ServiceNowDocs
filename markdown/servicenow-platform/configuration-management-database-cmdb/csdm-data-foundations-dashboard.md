@@ -45,7 +45,7 @@ In this example, a report on the **Run** tab indicates that several business ser
 
 ## Managing performance of data collection
 
-For information on managing data collection for a metric that isn't needed or that affects performance of the dashboard, see [Manage performance](csdm-cmdb-foundations-dashboards.md#section-manage-performance).
+For information on managing data collection for a metric that isn't needed or that affects performance of the dashboard, see [Manage performance](csdm-cmdb-foundations-dashboards.md#manage-performance).
 
 **Parent Topic:**[Access CSDM features](../common-service-data-model-csdm/csdm-content-frame-using.md)
 

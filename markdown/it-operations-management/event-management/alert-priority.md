@@ -98,7 +98,7 @@ The priority score reflects the role of the alert. The priority score is higher 
 
 -   **Weighted value for each category**
 
-    Each category has its own placement in the alert priority score, according to its order and limit. You can configure the order and limit, as described in [Modify the alert priority score](alert-priority.md#section_modify), below. There are only positive numbers.
+    Each category has its own placement in the alert priority score, according to its order and limit. You can configure the order and limit, as described in [Modify the alert priority score](alert-priority.md#alert-priority), below. There are only positive numbers.
 
     All category values are mapped from the **em\_alert\_priority\_category\_mapping** table, except for the following:
 

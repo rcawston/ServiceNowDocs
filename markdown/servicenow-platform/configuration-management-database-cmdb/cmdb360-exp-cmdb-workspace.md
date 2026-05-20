@@ -24,7 +24,7 @@ Use the CMDB 360 view in [CMDB Workspace](cmdb-workspace.md)or the CMDB 360 insi
 Requirements:
 
 -   Role required: sn\_cmdb\_user \(CMDB user\) or any role containing sn\_cmdb\_user
--   Additional requirement: [Enable and configure CMDB 360](multisource-cmdb.md#section_enable_multisource_CMDB)
+-   Additional requirement: [Enable and configure CMDB 360](multisource-cmdb.md#enable-and-configure-cmdb-360)
 
 To access the CMDB 360 experience:
 

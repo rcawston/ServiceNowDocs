@@ -30,7 +30,7 @@ See [Code Signing](../../platform-security/code-signing-landing.md) for more inf
 
     Leverage support for multiple signatures for records across different certificates, thus ensuring that valid signatures from any trusted source are recognized. Allow multiple signatures to be added to a record and have the system determine validity by evaluating all existing signatures from newest to oldest.
 
--   **[Code Signing OOB Apps Signatures plugin](../../platform-security/explore-code-signing.md#cs-validation-jobs)**
+-   **[Code Signing OOB Apps Signatures plugin](../../platform-security/explore-code-signing.md#code-signing-validation-and-jobs)**
 
     Use this plugin \(com.glide.code\_signing.oob\_apps\_signatures\) to install build time signatures for all relevant records in trued-up ServiceNow® Store application versions.
 
@@ -60,7 +60,7 @@ Code Signing is a ServiceNow AI Platform feature that is available with activati
 
 ## Plugin information
 
--   **[New plugins](../../platform-security/explore-code-signing.md#cs-validation-jobs)**
+-   **[New plugins](../../platform-security/explore-code-signing.md#code-signing-validation-and-jobs)**
 
     The following plugin is new in Australia:
 

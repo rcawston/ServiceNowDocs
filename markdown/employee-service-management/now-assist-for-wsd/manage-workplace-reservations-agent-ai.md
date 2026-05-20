@@ -42,9 +42,9 @@ To access the Help manage workflow reservations:
 
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Overview** &gt; **Help manage workplace reservations.**.
 
-    The Describe and Connect workflow is displayed. For more information, see [AI agents used in the Help manage workplace reservations](manage-workplace-reservations-agent-ai.md#section_llt_xtb_1fc).
+    The Describe and Connect workflow is displayed. For more information, see [AI agents used in the Help manage workplace reservations](manage-workplace-reservations-agent-ai.md#ai-agents-used-in-the-help-manage-workplace-reservations).
 
-2.  Select **Define Trigger** to review the trigger factor \(Emergency Meeting rooms\) for this agentic workflow. For more information, see [Triggers for Help manage workplace reservations](manage-workplace-reservations-agent-ai.md#section_eq4_15b_1fc)
+2.  Select **Define Trigger** to review the trigger factor \(Emergency Meeting rooms\) for this agentic workflow. For more information, see [Triggers for Help manage workplace reservations](manage-workplace-reservations-agent-ai.md#triggers-for-help-manage-workplace-reservations)
 3.  The **Select Display** option enables the Now Assist panel. For more information, see [Select display](manage-workplace-reservations-agent-ai.md#section_bc5_ykn_x2c).
 
 ## AI agents used in the Help manage workplace reservations

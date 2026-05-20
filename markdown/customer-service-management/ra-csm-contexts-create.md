@@ -75,7 +75,7 @@ Asynchronous Evaluation
 
 </td><td>
 
-When selected, enables asynchronous mode of evaluating recommendations on the contextual side panel in the CSM Workspace. That is, this mode enables agents to work on the case or incident record while the recommendations load on the contextual side panel. For more information, see [Synchronous and asynchronous modes of evaluation for Recommended Actions](ra-csm-contexts.md#section-ra-async-eval).
+When selected, enables asynchronous mode of evaluating recommendations on the contextual side panel in the CSM Workspace. That is, this mode enables agents to work on the case or incident record while the recommendations load on the contextual side panel. For more information, see [Synchronous and asynchronous modes of evaluation for Recommended Actions](ra-csm-contexts.md#synchronous-and-asynchronous-modes-of-evaluation-for-recommended-actions).
 
 </td></tr><tr><td>
 

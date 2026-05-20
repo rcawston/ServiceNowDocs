@@ -63,7 +63,7 @@ Requires data backup
 
 </td><td>
 
-Option to indicate if the primary element requires a data backup. Technology assets require data backup as they pertain to important IT information stored in a system or database.See [View business impact analysis details](view-bia-details.md#primary-elem-flag).
+Option to indicate if the primary element requires a data backup. Technology assets require data backup as they pertain to important IT information stored in a system or database.See [View business impact analysis details](view-bia-details.md#view-business-impact-analysis-details).
 
 </td></tr></tbody>
 </table>4.  Click **Submit**.

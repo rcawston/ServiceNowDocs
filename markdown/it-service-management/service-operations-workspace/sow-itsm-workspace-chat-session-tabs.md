@@ -50,7 +50,7 @@ Tab colors
 This feature uses tab colors to indicate the status of a chat with one or more unread messages.-   Inactive tabs display a purple background color to indicate that a message has been received.
 -   Tab colors shift to yellow and then to red to highlight critical wait times.
 
-For more information, see [Tab colors](sow-itsm-workspace-chat-session-tabs.md#section_rsb_4j2_fdc).
+For more information, see [Tab colors](sow-itsm-workspace-chat-session-tabs.md#tab-colors).
 
 </td></tr><tr><td>
 

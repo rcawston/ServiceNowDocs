@@ -90,7 +90,7 @@ Identify potential gaps between IPAM data and what is scheduled to be discovered
 
 </td><td>
 
-[Find missing IPAM IP addresses in discovery](cmdb-coverage-scheduled-jobs.md#section_hyl_mpv_l3c)
+[Find missing IPAM IP addresses in discovery](cmdb-coverage-scheduled-jobs.md#find-missing-ipam-ips-in-discovery)
 
 </td></tr><tr><td>
 

@@ -247,7 +247,7 @@ A GlideRecord contains both records \(rows\) and fields \(columns\). The field n
 
 GlideRecordSecure is a class inherited from GlideRecord that performs the same functions as GlideRecord, and also enforces ACLs.
 
-By default, GlideRecordSecure doesn't enforce query ACLs. While it enforces standard read-write ACLs automatically, query ACLs require explicit opt-in by developers. For more information, see [Enforcing query ACLs](p_GlideServerAPIs.md#enforcing_query_ACLs).
+By default, GlideRecordSecure doesn't enforce query ACLs. While it enforces standard read-write ACLs automatically, query ACLs require explicit opt-in by developers. For more information, see [Enforcing query ACLs](p_GlideServerAPIs.md#enforcing-query-acls).
 
 ### Non-writable fields
 

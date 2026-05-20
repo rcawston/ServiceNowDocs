@@ -36,7 +36,7 @@ To access the Workplace Concierge workflow, follow these steps:
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
 2.  Select **Automate map updates**.
 3.  Select **Define trigger** to review the trigger factors for this agentic workflow.
-4.  The **Display** option enables the Now Assist panel. For more information, see [Select display](workplace-concierge-ai-agent.md#section_bc5_ykn_x2c).
+4.  The **Display** option enables the Now Assist panel. For more information, see [Select display](workplace-concierge-ai-agent.md#select-display).
 
 ## AI agents used in the Workplace Concierge workflow
 

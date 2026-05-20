@@ -19,7 +19,7 @@ Pages provide the base structure for how the system displays record information 
 
 A page template is a pre-defined page configuration. When you create a page in UI Builder, you can select a page template as a starting point. You can also create a page from scratch or by copying another page and then customizing the page to meet your needs.
 
-A page variant is a version of a page that includes unique settings such as the audience, conditions, and page order. For more information about templates, pages, and page variants, see [Creating pages and page variants](config-csm-ws-create-page-variant.md#section_bt3_stk_1bc).
+A page variant is a version of a page that includes unique settings such as the audience, conditions, and page order. For more information about templates, pages, and page variants, see [Creating pages and page variants](config-csm-ws-create-page-variant.md#creating-pages-and-page-variants).
 
 Pages and page variants can also include playbooks, which are created in Workflow Studio. A playbook provides step-by-step guidance for resolving a specific type of case. The workflows that are associated with a specific type of case and the activities that need to be completed to resolve cases of this type are detailed in the playbook.
 
@@ -38,7 +38,7 @@ Additional CSM playbook applications provide playbook pages that you can activat
 |Case Playbook for Onboarding v5.0|Onboarding case process page|This playbook page includes a horizontal stage picker at the top of the record that provides an end-to-end view of the onboarding process.|
 |Case Playbook for Product Support v4.0|Product Support process page|This playbook page includes a horizontal stage picker at the top of the record that provides an end-to-end view of the product support process.|
 
-For more information, see [Playbook plugins](setting-up-csm-playbooks.md#section_qgq_ylk_llb).
+For more information, see [Playbook plugins](setting-up-csm-playbooks.md#playbook-plugins).
 
 **Note:** By default, playbook pages are read-only. To use a playbook page, [activate the page](activate-process-based-page.md) and set the page order.
 

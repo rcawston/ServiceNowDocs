@@ -97,7 +97,7 @@ Leverage the Angular JS two-way binding to bind your controller variables to you
 
 Only make changes to HTML templates if you have advanced coding knowledge and a firm understanding of AngularJS and the platform API.
 
-The iFrame URL is the URL of the UI Builder page. To learn more about the HTML template field, see [Developing custom widgets](../../platform-user-interface/service-portal/widget-dev-guide.md#section_gpd_lkw_h1b).**Warning:** Make sure the iFrame URL of your cloned widget is different from the iFrame URL for the out-of-the-box widget.
+The iFrame URL is the URL of the UI Builder page. To learn more about the HTML template field, see [Developing custom widgets](../../platform-user-interface/service-portal/widget-dev-guide.md#developing-custom-widgets).**Warning:** Make sure the iFrame URL of your cloned widget is different from the iFrame URL for the out-of-the-box widget.
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ CSS
 
 </td><td>
 
-Configure the widget CSS. Configuring CSS in an actual widget affects all instances of that widget. To learn more about the CSS field, see [Developing custom widgets](../../platform-user-interface/service-portal/widget-dev-guide.md#section_gpd_lkw_h1b).
+Configure the widget CSS. Configuring CSS in an actual widget affects all instances of that widget. To learn more about the CSS field, see [Developing custom widgets](../../platform-user-interface/service-portal/widget-dev-guide.md#developing-custom-widgets).
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Script the server-side logic. This is helpful primarily with interacting with th
 
 A server script requires knowledge of the ServiceNow API to work with record data.
 
-To learn more about the Server script field, see [Developing custom widgets](../../platform-user-interface/service-portal/widget-dev-guide.md#section_gpd_lkw_h1b).
+To learn more about the Server script field, see [Developing custom widgets](../../platform-user-interface/service-portal/widget-dev-guide.md#developing-custom-widgets).
 
 </td></tr><tr><td>
 
@@ -147,7 +147,7 @@ Use a link function to directly manipulate the DOM.**Danger**
 
 The link function requires knowledge of AngularJS.
 
- To learn more about the Link field, see [Developing custom widgets](../../platform-user-interface/service-portal/widget-dev-guide.md#section_gpd_lkw_h1b).
+ To learn more about the Link field, see [Developing custom widgets](../../platform-user-interface/service-portal/widget-dev-guide.md#developing-custom-widgets).
 
 </td></tr><tr><td>
 

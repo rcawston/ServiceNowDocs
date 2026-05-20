@@ -19,11 +19,11 @@ Establishes a connection with the WMI. You must execute this method first before
 
 -   **Input**
 
-    [Hostname](connector-wmi-method-parameters.md#parameter-input-hostname)
+    [Hostname](connector-wmi-method-parameters.md#input-parameter-values)
 
-    [Username](connector-wmi-method-parameters.md#parameter-input-username)
+    [Username](connector-wmi-method-parameters.md#input-parameter-values)
 
-    [Password](connector-wmi-method-parameters.md#parameter-connect-input-password)
+    [Password](connector-wmi-method-parameters.md#input-parameter-values)
 
 
 ## GetDiskDetails
@@ -41,7 +41,7 @@ Returns the environment variable values in the local or remote computers.
 
 -   **Input**
 
-    [Var](connector-wmi-method-parameters.md#parameter-wmi-GetEnvironmentValue-input-var)
+    [Var](connector-wmi-method-parameters.md#input-parameter-values)
 
 -   **Output**
 
@@ -108,9 +108,9 @@ Queries a local or remote computer by specifying the class and filter.
 
 -   **Input**
 
-    [Class](connector-wmi-method-parameters.md#parameter-wmi-class-input-class)
+    [Class](connector-wmi-method-parameters.md#input-parameter-values)
 
-    [Filter](connector-wmi-method-parameters.md#parameter-wmi-query-input-filter)
+    [Filter](connector-wmi-method-parameters.md#input-parameter-values)
 
 -   **Output**
 

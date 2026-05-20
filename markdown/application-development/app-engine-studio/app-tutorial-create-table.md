@@ -108,7 +108,7 @@ Third video in the app creation tutorial series. Create and configure a data tab
     |Table label|Unique label to identify the table.|`Travel request`|
     |Table name|Database name for the table. Auto-populates based on the **Table label** that you provided.|No action needed|
     |Table name prefix|Database prefix for the table. Auto-populates based on the application that you created the table in.|No action needed|
-    |Make extensible|Option to enable other tables to share data from this table. For more information, see [Table extension](add-data.md#section_ebj_sdb_d5b).|No action needed|
+    |Make extensible|Option to enable other tables to share data from this table. For more information, see [Table extension](add-data.md#table-extension).|No action needed|
     |Auto-number|Option to track table records with a unique number.|Select the check mark|
     |Prefix|Abbreviated name of the table to append to the beginning of record numbers.|`TRA`|
     |Starting number|Number to identify the first record created for your table.|No action needed|

@@ -51,7 +51,7 @@ A catalog request is submitted and auto-approved. The following actions occur:
 -   Tasks and policies are created for each phase based on the release template.
 -   The phase management in the release differs based on the release's current state:
     -   **Pending**: The product is added directly and its release is created.
-    -   **In Progress**: The product is added and a release is created and started immediately. The system begins executing policies sequentially from the earliest phase to catch up to the main release's current phase. For more information, see [Phase management in a multi-product release](dpr-product-release.md#dpr-dl-multi-prod-phase-mgmt).
+    -   **In Progress**: The product is added and a release is created and started immediately. The system begins executing policies sequentially from the earliest phase to catch up to the main release's current phase. For more information, see [Phase management in a multi-product release](dpr-product-release.md#multi-product-release).
 
 ## Adding a product to an in-progress release
 

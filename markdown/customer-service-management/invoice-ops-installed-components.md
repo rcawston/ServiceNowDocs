@@ -241,7 +241,7 @@ This service definition belongs to the Invoice service definition category, whic
 For more information about service definitions and categories, see the following topics:
 
 -   [Service definitions](csm-service-definitions.md)
--   [Service definition categories](csm-service-definitions.md#section_e5p_mzw_jzb)
+-   [Service definition categories](csm-service-definitions.md#service-definition-categories)
 
 ## Service level agreements \(SLAs\)
 

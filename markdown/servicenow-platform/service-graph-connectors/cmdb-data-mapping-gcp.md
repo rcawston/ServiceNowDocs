@@ -47,7 +47,7 @@ SG-GCP Organization \[sn\_gcp\_integ\_sg\_gcp\_organization\]
 
 </td><td>
 
-[Cloud Organizations](sgc-cmdb-gcp-classes.md#section_zbf_zgg_fxb)
+[Cloud Organizations](sgc-cmdb-gcp-classes.md#cloud-organizations-cmdb-ci-cloud-org)
 
 </td><td>
 
@@ -63,7 +63,7 @@ SG-GCP Folder \[sn\_gcp\_integ\_sg\_gcp\_folder\]
 
 </td><td>
 
-[Google Organization Folder](sgc-cmdb-gcp-classes.md#section_hn3_djg_fxb)[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[Google Organization Folder](sgc-cmdb-gcp-classes.md#google-organization-folder-cmdb-ci-gcp-folder)[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -79,11 +79,11 @@ SG-GCP Project \[sn\_gcp\_integ\_sg\_gcp\_project\]
 
 </td><td>
 
-[Google Organization Project](sgc-cmdb-gcp-classes.md#section_z1v_dhg_fxb)[Cloud Service Account](sgc-cmdb-gcp-classes.md#section_o3z_5gg_fxb)
+[Google Organization Project](sgc-cmdb-gcp-classes.md#google-organization-project-cmdb-ci-gcp-project)[Cloud Service Account](sgc-cmdb-gcp-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -99,7 +99,7 @@ SG-GCP Network \[sn\_gcp\_integ\_sg\_gcp\_network\]
 
 </td><td>
 
-[Cloud Network](sgc-cmdb-gcp-classes.md#section_vvh_z3g_fxb)[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[Cloud Network](sgc-cmdb-gcp-classes.md#cloud-network-cmdb-ci-network)[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -115,9 +115,9 @@ SG-GCP Machine Image \[sn\_gcp\_integ\_sg\_gcp\_machine\_image\]
 
 </td><td>
 
-[Image](sgc-cmdb-gcp-classes.md#section_evc_xhg_fxb)[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Image](sgc-cmdb-gcp-classes.md#docker-image-cmdb-ci-docker-image)[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -133,11 +133,11 @@ SG-GCP Subnet \[sn\_gcp\_integ\_sg\_gcp\_subnet\]
 
 </td><td>
 
-[Cloud Subnet](sgc-cmdb-gcp-classes.md#section_f5n_jhg_fxb)[Google Datacenter](sgc-cmdb-gcp-classes.md#section_hbb_ygg_fxb)
+[Cloud Subnet](sgc-cmdb-gcp-classes.md#cloud-subnet-cmdb-ci-cloud-subnet)[Google Datacenter](sgc-cmdb-gcp-classes.md#google-datacenter-cmdb-ci-google-datacenter)
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -153,15 +153,15 @@ SG-GCP Storage Volume \[sn\_gcp\_integ\_sg\_gcp\_storage\_volume\]
 
 </td><td>
 
-[Storage Volume](sgc-cmdb-gcp-classes.md#section_zkh_wgg_fxb)[Google Datacenter](sgc-cmdb-gcp-classes.md#section_hbb_ygg_fxb)
+[Storage Volume](sgc-cmdb-gcp-classes.md#storage-volume-cmdb-ci-storage-volume)[Google Datacenter](sgc-cmdb-gcp-classes.md#google-datacenter-cmdb-ci-google-datacenter)
 
-[Cloud Disk Type](sgc-cmdb-gcp-classes.md#section_fr5_b3g_fxb)
+[Cloud Disk Type](sgc-cmdb-gcp-classes.md#cloud-disk-type-cmdb-ci-disk-type)
 
-[Availability Zone](sgc-cmdb-gcp-classes.md#section_q2s_5hg_fxb)
+[Availability Zone](sgc-cmdb-gcp-classes.md#availability-zone-cmdb-ci-availability-zone)
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -177,9 +177,9 @@ SG-GCP Storage Volume Snapshot \[sn\_gcp\_integ\_sg\_gcp\_storage\_vol\_snapshot
 
 </td><td>
 
-[Storage Volume Snapshot](sgc-cmdb-gcp-classes.md#section_zkh_wgg_fxb)[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Storage Volume Snapshot](sgc-cmdb-gcp-classes.md#storage-volume-snapshot-cmdb-ci-storage-vol-snapshot)[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -195,13 +195,13 @@ SG-GCP Security Group \[sn\_gcp\_integ\_sg\_gcp\_security\_group\]
 
 </td><td>
 
-[Compute Security Group](sgc-cmdb-gcp-classes.md#section_j4n_vhg_fxb)[Network ACL](sgc-cmdb-gcp-classes.md#section_ncn_ghg_fxb)
+[Compute Security Group](sgc-cmdb-gcp-classes.md#compute-security-group-cmdb-ci-compute-security-group)[Network ACL](sgc-cmdb-gcp-classes.md#network-acl-cmdb-ci-network-acl)
 
-[Network ACL Rule](sgc-cmdb-gcp-classes.md#section_ks2_23g_fxb)
+[Network ACL Rule](sgc-cmdb-gcp-classes.md#network-acl-rule-cmdb-ci-network-acl-rule)
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -219,11 +219,11 @@ SG-GCP Software Inventory \[sn\_gcp\_integ\_sg\_gcp\_software\_inventory\]
 
 When the Software Asset Management \(SAM\) application isn't installed:
 
- [Software](sgc-cmdb-gcp-classes.md#section_bfg_zlg_fxb)
+ [Software](sgc-cmdb-gcp-classes.md#software-cmdb-ci-spkg)
 
- [Software Instance](sgc-cmdb-gcp-classes.md#section_vkx_22s_zxb)
+ [Software Instance](sgc-cmdb-gcp-classes.md#software-instance-cmdb-software-instance)
 
- When the SAM application is installed: [Software Installation](sgc-cmdb-gcp-classes.md#section_eqb_zgs_zxb)
+ When the SAM application is installed: [Software Installation](sgc-cmdb-gcp-classes.md#software-installation-cmdb-sam-sw-install)
 
 </td><td>
 
@@ -239,29 +239,29 @@ SG-GCP VM Instance \[sn\_gcp\_integ\_sg\_gcp\_vm\_instance\]
 
 </td><td>
 
-[Virtual Machine Instance](sgc-cmdb-gcp-classes.md#section_fgm_hhg_fxb)[Google Datacenter](sgc-cmdb-gcp-classes.md#section_hbb_ygg_fxb)
+[Virtual Machine Instance](sgc-cmdb-gcp-classes.md#virtual-machine-instance-cmdb-ci-vm-instance)[Google Datacenter](sgc-cmdb-gcp-classes.md#google-datacenter-cmdb-ci-google-datacenter)
 
-[Hardware Type](sgc-cmdb-gcp-classes.md#section_rz2_shg_fxb)
+[Hardware Type](sgc-cmdb-gcp-classes.md#hardware-type-cmdb-ci-compute-template)
 
-[Availability Zone](sgc-cmdb-gcp-classes.md#section_q2s_5hg_fxb)
+[Availability Zone](sgc-cmdb-gcp-classes.md#availability-zone-cmdb-ci-availability-zone)
 
-[Cloud Mgmt Network Interface](sgc-cmdb-gcp-classes.md#section_z4y_13g_fxb)
+[Cloud Mgmt Network Interface](sgc-cmdb-gcp-classes.md#cloud-mgmt-network-interface-cmdb-ci-nic)
 
-[Server](sgc-cmdb-gcp-classes.md#section_y5x_yhg_fxb)
+[Server](sgc-cmdb-gcp-classes.md#server-cmdb-ci-server)
 
-[Storage Mapping](sgc-cmdb-gcp-classes.md#section_fnx_qhg_fxb)
+[Storage Mapping](sgc-cmdb-gcp-classes.md#storage-mapping-cmdb-ci-storage-mapping)
 
-[Storage Volume](sgc-cmdb-gcp-classes.md#section_zkh_wgg_fxb)
+[Storage Volume](sgc-cmdb-gcp-classes.md#storage-volume-cmdb-ci-storage-volume)
 
-[VNIC Endpoint](sgc-cmdb-gcp-classes.md#section_ewc_13g_fxb)
+[VNIC Endpoint](sgc-cmdb-gcp-classes.md#vnic-endpoint-cmdb-ci-endpoint-vnic)
 
-[Block Endpoint](sgc-cmdb-gcp-classes.md#section_gd1_g3g_fxb)
+[Block Endpoint](sgc-cmdb-gcp-classes.md#block-endpoint-cmdb-ci-endpoint-block)
 
-[IP Address](sgc-cmdb-gcp-classes.md#section_wdv_thg_fxb)
+[IP Address](sgc-cmdb-gcp-classes.md#ip-address-cmdb-ci-ip-address)
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -293,9 +293,9 @@ SG-GCP Hardware Type \[sn\_gcp\_integ\_sg\_gcp\_hardware\_type\]
 
 </td><td>
 
-[Hardware Type](sgc-cmdb-gcp-classes.md#section_rz2_shg_fxb)[Google Datacenter](sgc-cmdb-gcp-classes.md#section_hbb_ygg_fxb)
+[Hardware Type](sgc-cmdb-gcp-classes.md#hardware-type-cmdb-ci-compute-template)[Google Datacenter](sgc-cmdb-gcp-classes.md#google-datacenter-cmdb-ci-google-datacenter)
 
-[Availability Zone](sgc-cmdb-gcp-classes.md#section_q2s_5hg_fxb)
+[Availability Zone](sgc-cmdb-gcp-classes.md#availability-zone-cmdb-ci-availability-zone)
 
 </td><td>
 
@@ -311,7 +311,7 @@ SG-GCP VM Hw Consolidation \[sn\_gcp\_integ\_sg\_gcp\_vm\_hw\_consolidation\]
 
 </td><td>
 
-[Virtual Machine Instance](sgc-cmdb-gcp-classes.md#section_fgm_hhg_fxb)[Server](sgc-cmdb-gcp-classes.md#section_y5x_yhg_fxb)
+[Virtual Machine Instance](sgc-cmdb-gcp-classes.md#virtual-machine-instance-cmdb-ci-vm-instance)[Server](sgc-cmdb-gcp-classes.md#server-cmdb-ci-server)
 
 </td><td>
 
@@ -327,13 +327,13 @@ SG-GCP Load Balancer Pool \[sn\_gcp\_integ\_sg\_gcp\_load\_balancer\_pool\]
 
 </td><td>
 
-[Load Balancer Pool](sgc-cmdb-gcp-classes.md#section_jpz_2cs_zxb)[Google Datacenter](sgc-cmdb-gcp-classes.md#section_hbb_ygg_fxb)
+[Load Balancer Pool](sgc-cmdb-gcp-classes.md#load-balancer-pool-cmdb-ci-lb-pool)[Google Datacenter](sgc-cmdb-gcp-classes.md#google-datacenter-cmdb-ci-google-datacenter)
 
-[Cloud Service Account](sgc-cmdb-gcp-classes.md#section_o3z_5gg_fxb)
+[Cloud Service Account](sgc-cmdb-gcp-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -349,7 +349,7 @@ SG-GCP Load Balancer Pool Member \[sn\_gcp\_integ\_sg\_gcp\_load\_balancer\_pool
 
 </td><td>
 
-[Load Balancer Pool Member](sgc-cmdb-gcp-classes.md#section_ttl_f3s_zxb)[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[Load Balancer Pool Member](sgc-cmdb-gcp-classes.md#load-balancer-pool-member-cmdb-ci-lb-pool-member)[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -365,7 +365,7 @@ SG-GCP Load Balancer Health Service\[sn\_gcp\_integ\_sg\_gcp\_load\_balancer\_he
 
 </td><td>
 
-[Cloud Load Balancer Health Service](sgc-cmdb-gcp-classes.md#section_mvn_m2s_zxb)[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[Cloud Load Balancer Health Service](sgc-cmdb-gcp-classes.md#cloud-load-balancer-health-service-cmdb-ci-lb-health-service)[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -381,13 +381,13 @@ SG-GCP Load Balancer \[sn\_gcp\_integ\_sg\_gcp\_load\_balancer\]
 
 </td><td>
 
-[Cloud Load Balancer](sgc-cmdb-gcp-classes.md#section_jgh_p3s_zxb)[Google Datacenter](sgc-cmdb-gcp-classes.md#section_hbb_ygg_fxb)
+[Cloud Load Balancer](sgc-cmdb-gcp-classes.md#cloud-load-balancer-cmdb-ci-cloud-load-balancer)[Google Datacenter](sgc-cmdb-gcp-classes.md#google-datacenter-cmdb-ci-google-datacenter)
 
-[Cloud Service Account](sgc-cmdb-gcp-classes.md#section_o3z_5gg_fxb)
+[Cloud Service Account](sgc-cmdb-gcp-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -403,7 +403,7 @@ SG-GCP Load Balancer Service \[sn\_gcp\_integ\_sg\_gcp\_load\_balancer\_service\
 
 </td><td>
 
-[Load Balancer Service](sgc-cmdb-gcp-classes.md#section_zr3_ths_zxb)[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[Load Balancer Service](sgc-cmdb-gcp-classes.md#load-balancer-service-cmdb-ci-lb-service)[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -419,11 +419,11 @@ SG-GCP Cloud Database \[sn\_gcp\_integ\_sg\_gcp\_cloud\_database\]
 
 </td><td>
 
-[Cloud DataBase](sgc-cmdb-gcp-classes.md#section_ldv_jds_zxb)[Google Datacenter](sgc-cmdb-gcp-classes.md#section_hbb_ygg_fxb)
+[Cloud DataBase](sgc-cmdb-gcp-classes.md#cloud-database-cmdb-ci-cloud-database)[Google Datacenter](sgc-cmdb-gcp-classes.md#google-datacenter-cmdb-ci-google-datacenter)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -439,11 +439,11 @@ SG-GCP Cloud Function \[sn\_gcp\_integ\_sg\_gcp\_cloud\_function\]
 
 </td><td>
 
-[Cloud Function](sgc-cmdb-gcp-classes.md#section_trk_jhs_zxb)[Google Datacenter](sgc-cmdb-gcp-classes.md#section_hbb_ygg_fxb)
+[Cloud Function](sgc-cmdb-gcp-classes.md#cloud-function-cmdb-ci-cloud-function)[Google Datacenter](sgc-cmdb-gcp-classes.md#google-datacenter-cmdb-ci-google-datacenter)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -459,11 +459,11 @@ SG-GCP Cloud Object Storage \[sn\_gcp\_integ\_sg\_gcp\_cloud\_object\_storage\]
 
 </td><td>
 
-[Cloud Object Storage](sgc-cmdb-gcp-classes.md#section_xpl_jbs_zxb)[Google Datacenter](sgc-cmdb-gcp-classes.md#section_hbb_ygg_fxb)
+[Cloud Object Storage](sgc-cmdb-gcp-classes.md#cloud-object-storage-cmdb-ci-cloud-object-storage)[Google Datacenter](sgc-cmdb-gcp-classes.md#google-datacenter-cmdb-ci-google-datacenter)
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -479,9 +479,9 @@ SG-GCP Kubernetes Cluster \[sn\_gcp\_integ\_sg\_gcp\_kubernetes\_cluster\]
 
 </td><td>
 
-[Kubernetes Cluster](sgc-cmdb-gcp-classes.md#section_xzj_khg_fxb)[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Kubernetes Cluster](sgc-cmdb-gcp-classes.md#kubernetes-cluster-cmdb-ci-kubernetes-cluster)[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -497,7 +497,7 @@ SG-GCP Kubernetes Node \[sn\_gcp\_integ\_sg\_gcp\_kubernetes\_node\]
 
 </td><td>
 
-[Kubernetes Node](sgc-cmdb-gcp-classes.md#section_vf1_dhg_fxb)[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[Kubernetes Node](sgc-cmdb-gcp-classes.md#kubernetes-node-cmdb-ci-kubernetes-node)[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -513,15 +513,15 @@ SG-GCP Kubernetes Pod \[sn\_gcp\_integ\_sg\_gcp\_kubernetes\_pod\]
 
 </td><td>
 
-[Kubernetes Pod](sgc-cmdb-gcp-classes.md#section_rkm_1kg_fxb)[Kubernetes Volume](sgc-cmdb-gcp-classes.md#section_zyv_qbx_prb)
+[Kubernetes Pod](sgc-cmdb-gcp-classes.md#kubernetes-pod-cmdb-ci-kubernetes-pod)[Kubernetes Volume](sgc-cmdb-gcp-classes.md#kubernetes-volume-cmdb-ci-kubernetes-volume)
 
-[Docker Image](sgc-cmdb-gcp-classes.md#section_vyl_d3g_fxb)
+[Docker Image](sgc-cmdb-gcp-classes.md#docker-image-cmdb-ci-docker-image)
 
-[Docker Container](sgc-cmdb-gcp-classes.md#section_vx1_thg_fxb)
+[Docker Container](sgc-cmdb-gcp-classes.md#docker-container-cmdb-ci-docker-container)
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -537,9 +537,9 @@ SG-GCP Kubernetes Service \[sn\_gcp\_integ\_sg\_gcp\_kubernetes\_service\]
 
 </td><td>
 
-[Kubernetes Service](sgc-cmdb-gcp-classes.md#section_kgl_mhg_fxb)[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Kubernetes Service](sgc-cmdb-gcp-classes.md#kubernetes-service-cmdb-ci-kubernetes-service)[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -555,11 +555,11 @@ SG-GCP Kubernetes Namespace \[sn\_gcp\_integ\_sg\_gcp\_kubernetes\_namespace\]
 
 </td><td>
 
-[Kubernetes Namespace](sgc-cmdb-gcp-classes.md#section_gz4_lhg_fxb)[Cloud Service Account](sgc-cmdb-gcp-classes.md#section_o3z_5gg_fxb)
+[Kubernetes Namespace](sgc-cmdb-gcp-classes.md#kubernetes-namespace-cmdb-ci-kubernetes-namespace)[Cloud Service Account](sgc-cmdb-gcp-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -575,9 +575,9 @@ SG-GCP Kubernetes Deployment \[sn\_gcp\_integ\_sg\_gcp\_kubernetes\_deployment\]
 
 </td><td>
 
-[Kubernetes Deployment](sgc-cmdb-gcp-classes.md#section_hyk_1hg_fxb)[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Kubernetes Deployment](sgc-cmdb-gcp-classes.md#kubernetes-deployment-cmdb-ci-kubernetes-deployment)[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -593,9 +593,9 @@ SG-GCP Kubernetes Replicaset \[sn\_gcp\_integ\_sg\_gcp\_kubernetes\_replicaset\]
 
 </td><td>
 
-[Kubernetes ReplicaSet](sgc-cmdb-gcp-classes.md#section_zdf_phg_fxb)[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Kubernetes ReplicaSet](sgc-cmdb-gcp-classes.md#kubernetes-replicaset-cmdb-ci-kubernetes-replicaset)[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -611,9 +611,9 @@ SG-GCP Kubernetes Cluster Roles \[sn\_gcp\_integ\_sg\_gcp\_kubernetes\_cluster\_
 
 </td><td>
 
-[Kubernetes Cluster Role](sgc-cmdb-gcp-classes.md#section_l1b_5bd_b1c)[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Kubernetes Cluster Role](sgc-cmdb-gcp-classes.md#kubernetes-cluster-role-cmdb-ci-kubernetes-cluster-role)[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -629,9 +629,9 @@ SG-GCP Kubernetes Cluster Role Binding \[sn\_gcp\_integ\_sg\_gcp\_kubernetes\_cl
 
 </td><td>
 
-[Kubernetes Cluster Role Binding](sgc-cmdb-gcp-classes.md#section_wk4_44d_b1c)[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Kubernetes Cluster Role Binding](sgc-cmdb-gcp-classes.md#kubernetes-cluster-role-binding-cmdb-ci-kubernetes-cluster-role-binding)[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -647,9 +647,9 @@ SG-GCP Kubernetes Node Pool \[sn\_gcp\_integ\_sg\_gcp\_kubernetes\_node\_pool\]
 
 </td><td>
 
-[Kubernetes Node Pool](sgc-cmdb-gcp-classes.md#section_ng2_mbd_b1c)[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Kubernetes Node Pool](sgc-cmdb-gcp-classes.md#kubernetes-node-pool-cmdb-ci-kubernetes-node-pool)[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
-[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#section_evq_d1d_b1c)
+[SG-GCP Extension Attributes](sgc-cmdb-gcp-classes.md#sg-gcp-extension-attributes-sn-gcp-integ-extension-attributes)
 
 </td><td>
 
@@ -665,7 +665,7 @@ SG-GCP Generic Resource \[sn\_gcp\_integ\_sg\_gcp\_generic\_resource\]**Note:** 
 
 </td><td>
 
-[Cloud Resource](sgc-cmdb-gcp-classes.md#section_pr4_sq2_bzb)
+[Cloud Resource](sgc-cmdb-gcp-classes.md#cloud-resource-cmdb-ci-cmp-resource)
 
 </td><td>
 
@@ -681,7 +681,7 @@ SG-GCP Annotation \[sn\_gcp\_integ\_sg\_gcp\_annotation\]
 
 </td><td>
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -713,7 +713,7 @@ SG-GCP Generic Resource Annotation \[sn\_gcp\_integ\_sg\_gcp\_generic\_resource\
 
 </td><td>
 
-[Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb)
+[Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -726,8 +726,8 @@ You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHu
 
 Additional information about GCP data sources:
 
--   The SG-GCP Annotation data source populates all labels and tags associated with GCP supported resources to the [Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb) table.
--   The SG-GCP Generic Resource Annotation data source populates the tags and labels for Generic resources to the [Key Value](sgc-cmdb-gcp-classes.md#section_hbk_fhg_fxb) table from Service Graph Connector for GCP version 1.10.0.
+-   The SG-GCP Annotation data source populates all labels and tags associated with GCP supported resources to the [Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value) table.
+-   The SG-GCP Generic Resource Annotation data source populates the tags and labels for Generic resources to the [Key Value](sgc-cmdb-gcp-classes.md#key-value-cmdb-key-value) table from Service Graph Connector for GCP version 1.10.0.
 -   The basic information about a GCP resource is stored in the SG-GCP Extension Attributes \[sn\_gcp\_integ\_extension\_attributes\] table.
 -   After all the data sources are executed, the Server \[cmdb\_ci\_server\] class is updated with the class entry, and then based on the Windows or Linux class, the records are created in the Windows Server \[cmdb\_ci\_win\_server\] and Linux Server \[cmdb\_ci\_linux\_server\] classes, respectively.
 -   The SG-GCP Generic Resource data source imports data for resources that are categorized as `Generic` in the Service Graph Resource Inclusion Whitelist \[sn\_cmdb\_int\_util\_service\_graph\_resource\_inclusion\_whitelist\] table.

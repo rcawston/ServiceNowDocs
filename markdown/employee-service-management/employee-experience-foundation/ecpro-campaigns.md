@@ -69,8 +69,8 @@ Each campaign stage includes content that will be visible on the employee portal
 
 Set up a campaign using one of the following methods:
 
--   [Content Experience Builder](ecpro-campaigns.md#section-campaign-builder)
--   [Legacy \(records and forms\)](ecpro-campaigns.md#section-lists-forms)
+-   [Content Experience Builder](ecpro-campaigns.md#content-experience-builder)
+-   [Legacy \(records and forms\)](ecpro-campaigns.md#legacy-records-and-forms)
 
 ## Content Experience Builder
 

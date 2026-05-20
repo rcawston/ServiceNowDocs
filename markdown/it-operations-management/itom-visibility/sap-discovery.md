@@ -385,7 +385,7 @@ MID Server cannot access this URL configured in the entry point of the service i
     2.  Open a browser.
     3.  Paste the URL into the browser address bar and press Enter.
     4.  If the page does not open, it means that there is a network issue, for example, there is a firewall that prevents the MID Server from accessing this URL.
-5.  Resolve the network issue and verify that the MID Server can access the URL as described in step [4](sap-discovery.md#VerifyingCredentials-networkIssues).
+5.  Resolve the network issue and verify that the MID Server can access the URL as described in step [4](sap-discovery.md#cause-4).
 
 ### Cause 5
 
@@ -406,7 +406,7 @@ MID Server cannot access this URL configured in the entry point of the service i
         The page does not open, it means that the configured applicative credentials are incorrect.
 
 5.  Find out the right credentials.
-6.  Verify the new credentials as described in step [4](sap-discovery.md#CredetialVerif-IncorrectCredtials).
+6.  Verify the new credentials as described in step [4](sap-discovery.md#cause-4).
 7.  If the page opens after you use the new credentials, configure these credentials as applicative credentials on the ServiceNow AI Platform.
 
 ### Cause 6

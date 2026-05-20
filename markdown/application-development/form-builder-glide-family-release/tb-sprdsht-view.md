@@ -53,7 +53,7 @@ Role required: personalize\_dictionary or AES user role and delegated developer 
 
 4.  Select **Save**.
 
-    See [Saving data records in Spreadsheet view](tb-sprdsht-view.md#section_bgw_pjc_dxb)for details on troubleshooting errors.
+    See [Saving data records in Spreadsheet view](tb-sprdsht-view.md#saving-data-records-in-spreadsheet-view)for details on troubleshooting errors.
 
 
 ## Edit individual data records
@@ -78,7 +78,7 @@ Role required: personalize\_dictionary or AES user role and delegated developer 
 
 4.  Select **Save**.
 
-    See [Saving data records in Spreadsheet view](tb-sprdsht-view.md#section_bgw_pjc_dxb)for details on troubleshooting errors.
+    See [Saving data records in Spreadsheet view](tb-sprdsht-view.md#saving-data-records-in-spreadsheet-view)for details on troubleshooting errors.
 
 
 ## Sort your data records

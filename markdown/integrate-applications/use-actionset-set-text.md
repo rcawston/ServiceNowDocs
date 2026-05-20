@@ -23,7 +23,7 @@ Role required: none
 
 The ActionSet Set Text action enters text in a field that you specify in the ActionSet Settings window. You can use it to enter any text data such as a user name, an address, a survey response, or in any situation where text entry is accepted.
 
-You can configure the properties for the GetText component. For more information about these properties, see [ActionSet-Get Text properties](actionset-actions-properties.md#ActionSet-GetText).
+You can configure the properties for the GetText component. For more information about these properties, see [ActionSet-Get Text properties](actionset-actions-properties.md#get-text).
 
 ## Procedure
 

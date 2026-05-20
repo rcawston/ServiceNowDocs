@@ -80,7 +80,7 @@ Attribute
 
 </td><td>
 
-[Attribute](attribute-mapping-references.md#section_sbw_3jm_htb) for which the mapping must be defined. For example, **userName**.
+[Attribute](attribute-mapping-references.md#attribute) for which the mapping must be defined. For example, **userName**.
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ Sub-Attribute
 
 </td><td>
 
-[Sub-Attribute](attribute-mapping-references.md#section_o4h_cmm_htb) \(if any\) for which the mapping must be defined.
+[Sub-Attribute](attribute-mapping-references.md#sub-attribute) \(if any\) for which the mapping must be defined.
 
  For example, if there is a complex type attribute like **name.familyName**, then the attribute is **name** and the sub-attribute is **familyName**.
 
@@ -120,7 +120,7 @@ Filter Condition
 
 </td><td>
 
-Some multi-valued attributes can have additional information that can be specified by using a [Filter Condition](attribute-mapping-references.md#section_gfm_ymm_htb). The choices of filter condition are populated using the schemas defined by the SCIM Provider.
+Some multi-valued attributes can have additional information that can be specified by using a [Filter Condition](attribute-mapping-references.md#filter-condition). The choices of filter condition are populated using the schemas defined by the SCIM Provider.
 
  For example, the **phoneNumbers** attribute has multiple types like work, mobile, home, and so on
 
@@ -148,7 +148,7 @@ Database Field Name
 
 </td><td>
 
-The[Database Field Name](attribute-mapping-references.md#section_a1t_4sm_htb) field maps the SCIM attribute to the ServiceNow field name to be mapped with the SCIM Attribute. If you choose direct attribute mapping, you must define this field.
+The[Database Field Name](attribute-mapping-references.md#database-field-name) field maps the SCIM attribute to the ServiceNow field name to be mapped with the SCIM Attribute. If you choose direct attribute mapping, you must define this field.
 
  For example, the **username** SCIM Attribute can be mapped to the **User ID** field in the **Database Field Name** field.
 
@@ -158,7 +158,7 @@ Default Value
 
 </td><td>
 
-Details about the [default value](attribute-mapping-references.md#section_e2t_zvm_htb) that is passed to the SCIM Provider.
+Details about the [default value](attribute-mapping-references.md#default-value) that is passed to the SCIM Provider.
 
  Can be used if the direct attribute mapping of the field returns null, or if the default can be used to return a hard-coded value.
 
@@ -180,7 +180,7 @@ Option to fetch the value of the attribute via script.
 
 </td></tr><tr><td>
 
-[Script](attribute-mapping-references.md#section_hpd_1wm_htb)
+[Script](attribute-mapping-references.md#script)
 
 </td><td>
 

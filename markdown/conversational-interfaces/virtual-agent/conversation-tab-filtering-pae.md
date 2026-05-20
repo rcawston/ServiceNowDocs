@@ -24,7 +24,7 @@ To filter the conversations, select filter icon and select **Advanced view** but
 
 The filter editor consists of the following:
 
--   Field: A list based on relevant tables. For more information about the field options, see [Field options in the Filter Editor](conversation-tab-filtering-pae.md#section_zpm_12c_xpb).
+-   Field: A list based on relevant tables. For more information about the field options, see [Field options in the Filter Editor](conversation-tab-filtering-pae.md#field-options-in-the-filter-editor).
 -   Operator: A list of operators that is contextually generated based on the selected field.
 -   Value: A text entry field or a list that is contextually generated based on the selected field.
 

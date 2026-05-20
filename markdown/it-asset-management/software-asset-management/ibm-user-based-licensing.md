@@ -147,7 +147,7 @@ With EUVU licensing, the number of users who require access to an IBM software p
 |500,001 to 1,000,000|9|0.360|
 |1,000,001 to 100,000,000|10|0.320|
 
-You can determine the number of rights that are required for an EUVU license by using a step function based on these EUVU tiers. First, divide the total number of users into tiers based on the [EUVU tiers and factors table](ibm-user-based-licensing.md#table_gsg_z53_ftb). Then, multiply the number of users within each tier by the corresponding factor values. Finally, add the resulting numbers together to determine the total number of rights that are required for the EUVU license.
+You can determine the number of rights that are required for an EUVU license by using a step function based on these EUVU tiers. First, divide the total number of users into tiers based on the [EUVU tiers and factors table](ibm-user-based-licensing.md#table_hsg_z53_ftb). Then, multiply the number of users within each tier by the corresponding factor values. Finally, add the resulting numbers together to determine the total number of rights that are required for the EUVU license.
 
 **Important:** If you do not have enough rights to license all users, none of the users are licensed and the product is marked as Not Compliant.
 
@@ -269,7 +269,7 @@ With XUVU licensing, the number of users who require access to an IBM software p
 |250,000,001 to 500,000,000|9|0.05000|
 |500,000,001 to 100,000,000,000|10|0.05000|
 
-You can determine the number of rights that are required for an XUVU license by using a step function based on these XUVU tiers. First, divide the total number of users into tiers based on the [XUVU tiers and factors table](ibm-user-based-licensing.md#table_ily_vw3_ftb). Then, multiply the number of users within each tier by the corresponding factor values. Finally, add the resulting numbers together to determine the total number of rights that are required for the XUVU license.
+You can determine the number of rights that are required for an XUVU license by using a step function based on these XUVU tiers. First, divide the total number of users into tiers based on the [XUVU tiers and factors table](ibm-user-based-licensing.md#table_jly_vw3_ftb). Then, multiply the number of users within each tier by the corresponding factor values. Finally, add the resulting numbers together to determine the total number of rights that are required for the XUVU license.
 
 **Important:** If you do not have enough rights to license all users, none of the users are licensed and the product is marked as Not Compliant.
 

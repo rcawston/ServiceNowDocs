@@ -48,7 +48,7 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts, to provide access to global tables to the SGC-Admin user, and to configure advanced data sources. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts, to provide access to global tables to the SGC-Admin user, and to configure advanced data sources. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#service-graph-connector-user-roles).
 
 ## About this task
 
@@ -150,7 +150,7 @@ OAuth Client ID
 
 </td><td>
 
-Client ID of the Microsoft Intune application as noted in the [Before you begin](sgcc-configure-intune-integ.md#prereq) section.
+Client ID of the Microsoft Intune application as noted in the [Before you begin](sgcc-configure-intune-integ.md#before-you-begin) section.
 
 </td></tr><tr><td>
 
@@ -158,7 +158,7 @@ OAuth Client Secret
 
 </td><td>
 
-Client secret of the Microsoft Intune application as noted in the [Before you begin](sgcc-configure-intune-integ.md#prereq) section.
+Client secret of the Microsoft Intune application as noted in the [Before you begin](sgcc-configure-intune-integ.md#before-you-begin) section.
 
 </td></tr><tr><td>
 

@@ -24,7 +24,7 @@ You can use or customize these default DevOps Config policies to validate that y
 
 <table id="table_gsp_4vm_nzb"><tbody><tr><td>
 
-[A](devops-config-gen-policies.md#a) \| [C](devops-config-gen-policies.md#c) \| [D](devops-config-gen-policies.md#d) \| [F](devops-config-gen-policies.md#f) \| [G](devops-config-gen-policies.md#g) \| [K](devops-config-gen-policies.md#k) \| [L](devops-config-gen-policies.md#l) \| [M](devops-config-gen-policies.md#m) \| [N](devops-config-gen-policies.md#n) \| [S](devops-config-gen-policies.md#s) \| [U](devops-config-gen-policies.md#u)
+[A](devops-config-gen-policies.md#table_gsp_4vm_nzb) \| [C](devops-config-gen-policies.md#generic-policies-in-devops-config) \| [D](devops-config-gen-policies.md#generic-policies-in-devops-config) \| [F](devops-config-gen-policies.md#generic-policies-in-devops-config) \| [G](devops-config-gen-policies.md#generic-policies-in-devops-config) \| [K](devops-config-gen-policies.md#authorized-key-value-combinations-authorisedkvcombinations) \| [L](devops-config-gen-policies.md#generic-policies-in-devops-config) \| [M](devops-config-gen-policies.md#table_gsp_4vm_nzb) \| [N](devops-config-gen-policies.md#generic-policies-in-devops-config) \| [S](devops-config-gen-policies.md#generic-policies-in-devops-config) \| [U](devops-config-gen-policies.md#authorized-email-domains-authorizedemaildomains)
 
 </td></tr></tbody>
 </table>## All Key-Value Comparator \(allKeysValuesComparator\)
@@ -248,7 +248,7 @@ Checks whether the key value is different across all components when a key exist
 
 Results into a non-compliant status when a key has the same value in multiple components.
 
-**Note:** If a key has multiple occurrences inside the same component, use the [Unique Key Value \(uniqueKeyValue\)](devops-config-gen-policies.md#u) policy.
+**Note:** If a key has multiple occurrences inside the same component, use the [Unique Key Value \(uniqueKeyValue\)](devops-config-gen-policies.md#unique-key-value-uniquekeyvalue) policy.
 
 -   **Input argument**
 

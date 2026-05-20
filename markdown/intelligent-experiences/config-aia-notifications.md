@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-There are different email notifications that can be configured: one for Assist usage spikes, one for failed AI agent executions, and two for latency errors. The properties for configuring the thresholds for sending these notifications can be found in the [Now Assist AI Agents Reference](na-aia-reference.md#agent-properties-table-properties).
+There are different email notifications that can be configured: one for Assist usage spikes, one for failed AI agent executions, and two for latency errors. The properties for configuring the thresholds for sending these notifications can be found in the [Now Assist AI Agents Reference](na-aia-reference.md#now-assist-ai-agents-reference).
 
 ## Procedure
 

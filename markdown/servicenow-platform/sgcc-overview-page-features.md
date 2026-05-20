@@ -51,12 +51,12 @@ Use the Overview page to monitor and troubleshoot your Service Graph Connectors 
 
 |Feature|Description|
 |-------|-----------|
-|[Connections overview](sgcc-overview-page-features.md#section_z3r_t3f_kcc)|Displays the current state of your configured Service Graph Connector connections, including status, execution results, and error summaries.|
+|[Connections overview](sgcc-overview-page-features.md#connections-overview)|Displays the current state of your configured Service Graph Connector connections, including status, execution results, and error summaries.|
 |[Ingested and processed data](sgcc-overview-page-features.md#section_sb4_f5w_x2c)|Displays key metrics related to the data imported and processed from third-party applications.|
 |[Data processing performance](sgcc-overview-page-features.md#section_hg2_l5w_x2c)|Displays how many configuration items \(CIs\) were added or updated over time, in addition to the number of processing errors.|
 |[Filters](sgcc-overview-page-features.md#section_uxp_34r_wbc)|Enables narrowing the data shown in graphs and metrics based on connector type, connection, data source, or date range.|
-|[Indicators](sgcc-overview-page-features.md#section_pxp_34r_wbc)|Enables viewing of high-level metrics that reflect the volume and quality of imported data and help identify issues such as incomplete or failed import set processing.|
-|[Reports](sgcc-overview-page-features.md#section_sxp_34r_wbc)|Enables real-time visualizations that provide insights into data ingestion, processing trends, and error categorization across your Service Graph Connector connections.|
+|[Indicators](sgcc-overview-page-features.md#indicators)|Enables viewing of high-level metrics that reflect the volume and quality of imported data and help identify issues such as incomplete or failed import set processing.|
+|[Reports](sgcc-overview-page-features.md#reports)|Enables real-time visualizations that provide insights into data ingestion, processing trends, and error categorization across your Service Graph Connector connections.|
 
 ## Connections overview
 

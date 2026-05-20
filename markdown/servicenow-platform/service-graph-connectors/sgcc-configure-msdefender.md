@@ -32,7 +32,7 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#service-graph-connector-user-roles).
 
 ## About this task
 
@@ -84,7 +84,7 @@ OAuth Client ID
 
 </td><td>
 
-Application \(client\) ID of your Microsoft Defender for Endpoint as described in the [Before you begin](sgcc-configure-msdefender.md#prereq_bbj_rbg_ndc) section.
+Application \(client\) ID of your Microsoft Defender for Endpoint as described in the [Before you begin](sgcc-configure-msdefender.md#before-you-begin) section.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ OAuth Client Secret
 
 </td><td>
 
-Client Secret of your Microsoft Defender for Endpoint as described in the [Before you begin](sgcc-configure-msdefender.md#prereq_bbj_rbg_ndc) section.
+Client Secret of your Microsoft Defender for Endpoint as described in the [Before you begin](sgcc-configure-msdefender.md#before-you-begin) section.
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Token URL of your Microsoft Defender for Endpoint.Enter the token URL in the fol
 https://login.microsoftonline.com/*&lt;tenantid&gt;*/oauth2/v2.0/token
 ```
 
-Where *&lt;tenantid&gt;* is the tenant ID of your Microsoft Defender for Endpoint as described in the [Before you begin](sgcc-configure-msdefender.md#prereq_bbj_rbg_ndc) section.
+Where *&lt;tenantid&gt;* is the tenant ID of your Microsoft Defender for Endpoint as described in the [Before you begin](sgcc-configure-msdefender.md#before-you-begin) section.
 
 </td></tr><tr><td>
 

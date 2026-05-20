@@ -25,8 +25,8 @@ The system includes predefined configurations for the Self-Service Analytics fra
 
 Self-service analytics is based on the activity pattern associated with a deflection outcome. It consists of the following main components:
 
--   Activity pattern \(see [Activity pattern components](ssa-concepts.md#section_a22_kcl_rlb)\)
--   Deflection outcome \(see [Deflection outcome components](ssa-concepts.md#section_k4v_l52_tlb)\)
+-   Activity pattern \(see [Activity pattern components](ssa-concepts.md#activity-pattern-components)\)
+-   Deflection outcome \(see [Deflection outcome components](ssa-concepts.md#deflection-outcome-components)\)
 
 ## Activity pattern components
 
@@ -38,7 +38,7 @@ Self-service analytics is based on the activity pattern associated with a deflec
 
 -   **Deflection outcome**
 
-    An activity pattern can lead to a deflection outcome. See [Deflection outcome components](ssa-concepts.md#section_k4v_l52_tlb).
+    An activity pattern can lead to a deflection outcome. See [Deflection outcome components](ssa-concepts.md#deflection-outcome-components).
 
 -   **Primary activity**
 
@@ -48,7 +48,7 @@ Self-service analytics is based on the activity pattern associated with a deflec
 
 -   **Pattern element group**
 
-    A logical combination of two pattern elements, pattern element group, or both and how many times the combination occurs. For more information, see [Pattern element group components](ssa-concepts.md#section_wkt_bq2_tlb).
+    A logical combination of two pattern elements, pattern element group, or both and how many times the combination occurs. For more information, see [Pattern element group components](ssa-concepts.md#pattern-element-group-components).
 
 
 The following figure illustrates the components of the activity pattern Contacts: Case: Confirmed Deflection.

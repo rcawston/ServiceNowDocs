@@ -169,7 +169,7 @@ true
 
 </td><td>
 
-No user has contribute access to the knowledge base except [users with special knowledge privileges](user-access-knowledge.md#section_uvc_rqf_sjb).
+No user has contribute access to the knowledge base except [users with special knowledge privileges](user-access-knowledge.md#users-with-special-knowledge-privileges).
 
 </td></tr><tr><td>
 
@@ -211,7 +211,7 @@ true
 
 </td><td>
 
-No user has read access except [users with special knowledge privileges](user-access-knowledge.md#section_uvc_rqf_sjb) and users who have contribute access to the knowledge base.
+No user has read access except [users with special knowledge privileges](user-access-knowledge.md#users-with-special-knowledge-privileges) and users who have contribute access to the knowledge base.
 
 </td></tr><tr><td>
 

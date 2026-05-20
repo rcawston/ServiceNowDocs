@@ -35,7 +35,7 @@ The interaction wrap up configuration includes the following information:
 -   Whether a countdown timer that displays the wrap up duration is shown to agents in CSM Configurable Workspace.
 -   AI interaction wrap up settings.
 
-The interaction wrap up configuration adds the Wrap Up state to the **State** field on the Interaction record. For more information about the wrap up state, see [Interaction states](interaction-states.md#section_o4v_j4r_vdb).
+The interaction wrap up configuration adds the Wrap Up state to the **State** field on the Interaction record. For more information about the wrap up state, see [Interaction states](interaction-states.md#interaction-states).
 
 ## Starting wrap up
 

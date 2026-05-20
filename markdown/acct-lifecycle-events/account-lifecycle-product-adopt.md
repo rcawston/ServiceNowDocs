@@ -35,7 +35,7 @@ You can configure how the product adoption and capability scores are derived and
 **Related topics**  
 
 
-[Product adoption](account-lifecycle-view-engage.md#section_qyq_ddq_vfc)
+[Product adoption](account-lifecycle-view-engage.md#product-adoption)
 
 [View product usage and capability data](account-lifecycle-prod-cap-usage.md)
 

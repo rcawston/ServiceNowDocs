@@ -179,7 +179,7 @@ The source record used to resolve the **Group by** fields. This field is automat
     **Note:** You can define multiple context tables for a single data source.
 
 7.  Enable the **Active** check box and select **Submit** to create the data source. You can associate the data source with one or more context tables.
-8.  Define color bands as necessary. See the [Set up the color banding table](account-lifecycle-setup-color-banding.md) for details. The color banding is applied to the health metric data displayed in the [Health](account-lifecycle-view-engage.md#section_p2r_t43_qdc) tab on the Engagement home page.
+8.  Define color bands as necessary. See the [Set up the color banding table](account-lifecycle-setup-color-banding.md) for details. The color banding is applied to the health metric data displayed in the [Health](account-lifecycle-view-engage.md#health) tab on the Engagement home page.
 
 After setting up the data source and the context, the next step is to configure the context engine mapper. See the [Configure the Context Engine Mapper](account-lifecycle-define-context-engine-mapper.md) for details.
 

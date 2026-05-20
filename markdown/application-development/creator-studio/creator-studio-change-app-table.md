@@ -61,7 +61,7 @@ To ensure that forms and automations work, a general guideline is to change the 
 
 5.  Enter the name of the table you want the app to write to in the **Request table** field.
 
-    The table should extend the Request Task table and have the **request\_type** field. For more details on what table you can use, see [Requirements for changing the table for an app](creator-studio-admin-app-table-about.md#crs-requirements-change-table).
+    The table should extend the Request Task table and have the **request\_type** field. For more details on what table you can use, see [Requirements for changing the table for an app](creator-studio-admin-app-table-about.md#requirements-for-changing-the-table-for-an-app).
 
     ![Request App Config form with Color field showing dropdown list of table options.](../image/crs-change-app-table2.png "List of apps to configure")
 

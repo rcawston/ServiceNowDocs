@@ -366,7 +366,7 @@ tcp\_port
 Obtained from the `tnsnames.ora` file, or `lsnrctl` status command. If no valid information is retrieved, the default port 1521 is assigned.
 
 </td></tr></tbody>
-</table>**Note:** See [Oracle options](c_OracleDatabaseDiscovery.md#section_lvy_czw_xz) for pattern extensions and additional information collected.
+</table>**Note:** See [Oracle options](c_OracleDatabaseDiscovery.md#oracle-options) for pattern extensions and additional information collected.
 
 <table id="table_tc2_qbw_jz"><thead><tr><th>
 
@@ -455,7 +455,7 @@ edition
  
 
 </td></tr></tbody>
-</table>**Note:** See [Oracle options](c_OracleDatabaseDiscovery.md#section_lvy_czw_xz) for pattern extensions and additional information collected.
+</table>**Note:** See [Oracle options](c_OracleDatabaseDiscovery.md#oracle-options) for pattern extensions and additional information collected.
 
 ## Oracle options
 

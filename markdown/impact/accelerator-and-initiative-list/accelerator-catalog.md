@@ -56,7 +56,7 @@ Accelerators that offer USPS specific versions are indicated in the specific sub
 
 [Architecture Accelerators](architecture-accelerators.md) provide a foundational understanding of business outcome maturity with targeted recommendations on what to tackle next to unlock further value from the platform.
 
-Accelerators that offer USPS specific versions are indicated as such in the sub-catalog. See the [Accelerator catalog](accelerator-catalog.md#restricted) for additional information.
+Accelerators that offer USPS specific versions are indicated as such in the sub-catalog. See the [Accelerator catalog](accelerator-catalog.md#accelerator-catalog) for additional information.
 
 |Accelerator|Guided package|Guided +Platform Governance|Advanced package|Total package|Restricted and protected environments|
 |:----------|:------------:|:-------------------------:|:--------------:|:-----------:|:-----------------------------------:|
@@ -83,7 +83,7 @@ Accelerators that offer USPS specific versions are indicated as such in the sub-
 
 Use [Strategy Accelerators](strategy-accelerators.md) to go deeper on organizational and governance best practices with the ServiceNow platform and upskill your team to maintain business performance and drive success.
 
-Accelerators that offer USPS specific versions are indicated as such in the sub-catalog. See the [Accelerator catalog](accelerator-catalog.md#restricted) for additional information.
+Accelerators that offer USPS specific versions are indicated as such in the sub-catalog. See the [Accelerator catalog](accelerator-catalog.md#accelerator-catalog) for additional information.
 
 |Accelerator|Guided package|Guided +Strategic Value|Advanced package|Total package|Restricted and protected environments|
 |:---------:|:------------:|:---------------------:|:--------------:|:-----------:|:-----------------------------------:|
@@ -119,7 +119,7 @@ Accelerators that offer USPS specific versions are indicated as such in the sub-
 
 [Technical Accelerators](technical-accelerators.md) accelerate usage and adoption of specific platform and product capabilities via applied demonstrations, personalized coaching, and best practices. The Accelerators are delivered by the Impact Squad and technical consultants, as necessary.
 
-Accelerators that offer USPS or SPP-AU specific versions are indicated as such in the sub-catalog. See the [Accelerator catalog](accelerator-catalog.md#restricted) for additional information.
+Accelerators that offer USPS or SPP-AU specific versions are indicated as such in the sub-catalog. See the [Accelerator catalog](accelerator-catalog.md#accelerator-catalog) for additional information.
 
 |Accelerator|Guided package|Guided+Strategic Value|Guided+Platform Governance|Advanced package|Total package|Restricted and protected environments|
 |:---------:|:------------:|:--------------------:|:------------------------:|:--------------:|:-----------:|:-----------------------------------:|

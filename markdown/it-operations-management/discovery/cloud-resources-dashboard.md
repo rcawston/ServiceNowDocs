@@ -24,7 +24,7 @@ For examples of how someone in your organization could use this dashboard, see t
 |User|Dashboard use|
 |----|-------------|
 |Cloud user|Discovery customers have an enormous number of CIs obtained from Cloud Discovery which can be viewed in one place.|
-|Cloud user with sn\_disco\_cd.admin role|Use the analytics tables that are available to build custom dashboards. These tables are specific baseline database views with resource tags. See [Customize the Cloud Resources dashboard](cloud-resources-dashboard.md#section_zcf_lvc_3nb) for more information.|
+|Cloud user with sn\_disco\_cd.admin role|Use the analytics tables that are available to build custom dashboards. These tables are specific baseline database views with resource tags. See [Customize the Cloud Resources dashboard](cloud-resources-dashboard.md#customize-the-cloud-resources-dashboard) for more information.|
 
 ## Data visualizations
 

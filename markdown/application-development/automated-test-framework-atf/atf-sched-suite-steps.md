@@ -67,7 +67,7 @@ For more information about the capabilities of and requirements for scheduled te
 
 9.  If your suite includes any test steps that work with a form – or any other element on the client side, open a browser window for running the client portion of the scheduled tests.
 
-    1.  Review [Browser recommendations and requirements](atf-test-runners.md#kvv_h25_gx) for all tests and suites, as well as those that apply only to scheduled suite runs.
+    1.  Review [Browser recommendations and requirements](atf-test-runners.md#browser-recommendations-for-all-tests-and-suites) for all tests and suites, as well as those that apply only to scheduled suite runs.
 
     2.  In the **Navigator**, right-click **Scheduled Client Test Runner**, and then click the option to open in a separate tab or window, as you prefer.
 

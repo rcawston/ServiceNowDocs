@@ -51,7 +51,7 @@ Certificate Inventory and Management discovers, takes inventory of, and proactiv
 
 </td><td>
 
-[Roles installed with Certificate Inventory and Management](../../it-operations-management/discovery/cert-inventory-mgmt-user-roles.md#section_i3j_qfd_mjb)
+[Roles installed with Certificate Inventory and Management](../../it-operations-management/discovery/cert-inventory-mgmt-user-roles.md#certificate-inventory-and-management-roles-and-responsibilities)
 
 </td><td>
 
@@ -91,7 +91,7 @@ Firewall Audits and Reporting discovers and takes inventory of your firewall sec
 
 </td><td>
 
-[Roles installed with Firewall Audits and Reporting](../../it-operations-management/discovery/firewall-audit-reporting-users-roles.md#section_e1j_1f1_plb)
+[Roles installed with Firewall Audits and Reporting](../../it-operations-management/discovery/firewall-audit-reporting-users-roles.md#firewall-audits-and-reporting-roles-and-responsibilities)
 
 </td><td>
 

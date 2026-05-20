@@ -76,7 +76,7 @@ Complete these steps from your Azure portal. See the [Microsoft identity platfor
 
 10. Click **Add a permission** to add the required permissions to access the APIs.
 
-    For information about permissions needed to perform the required actions, see the Spoke actions section here: [Spoke actions](ms-entra-ent-mgmt-spk.md#section_d3k_1vt_33c).
+    For information about permissions needed to perform the required actions, see the Spoke actions section here: [Spoke actions](ms-entra-ent-mgmt-spk.md#spoke-actions).
 
     ![Add API permissions.](../../integrationhub/images/ms-azure-ad-api-perm.png)
 

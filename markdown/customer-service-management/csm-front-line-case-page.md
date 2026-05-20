@@ -104,7 +104,7 @@ Form header
 
 </td><td>
 
-The form header displays the case short description. Agents can quickly glance at the form header to see what the case is about.Agents can edit the short description of a record directly from the record header field. For more information, see [Editable record headers](csm-workspace-agent-actions.md#section_hhb_1tj_23c).
+The form header displays the case short description. Agents can quickly glance at the form header to see what the case is about.Agents can edit the short description of a record directly from the record header field. For more information, see [Editable record headers](csm-workspace-agent-actions.md#editable-record-headers).
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Tags enable agents to assign categories to records. Agents can create multiple t
 
 </td></tr><tr><td>
 
-[Action bar](csm-config-workspace-components.md#section_bl4_wnr_2hc)
+[Action bar](csm-config-workspace-components.md#action-bar)
 
 </td><td>
 
@@ -137,7 +137,7 @@ The contact lookup component enables agents to search for contacts and link them
 -   Select an email address on a lookup card to open a draft email in the email composer in a sub-tab.
 -   Select a phone number on a lookup card to make a call.
 
-The contact lookup component displays information in record cards. These cards display contact information and provide quick access to details such name, email, and phone.For more information, see the [Contact and consumer lookup components](csm-front-line-case-page.md#section_dnl_3f4_s1c) section below.
+The contact lookup component displays information in record cards. These cards display contact information and provide quick access to details such name, email, and phone.For more information, see the [Contact and consumer lookup components](csm-front-line-case-page.md#contact-and-consumer-lookup-components) section below.
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ Agents can use the consumer lookup component to do the following:-   Search for 
 
 The consumer lookup component displays information in record cards. These cards display consumer information and provide quick access to details such name, email, and phone.
 
-For more information, see the [Contact and consumer lookup components](csm-front-line-case-page.md#section_dnl_3f4_s1c) section below.
+For more information, see the [Contact and consumer lookup components](csm-front-line-case-page.md#contact-and-consumer-lookup-components) section below.
 
 </td></tr><tr><td>
 
@@ -181,7 +181,7 @@ The case summarization component appears above the activity stream. When an agen
 -   Post the summary to the activity stream.
 -   Refresh the summary.
 
-The case summarization component requires the Now Assist for Customer Service Management \(CSM\) application to be activated and configured. For more information, see the [Case summarization component](csm-front-line-case-page.md#section_ots_wnh_s1c) section below.
+The case summarization component requires the Now Assist for Customer Service Management \(CSM\) application to be activated and configured. For more information, see the [Case summarization component](csm-front-line-case-page.md#case-summarization-component) section below.
 
 </td></tr><tr><td>
 
@@ -189,7 +189,7 @@ Activity stream
 
 </td><td>
 
-The activity stream component displays a list of activities occurring on a case record. This list can be collapsed to provide a quick view of case activities or expanded to provide more detail about individual activities.For more information, see the [Activity stream component](csm-front-line-case-page.md#section_ntx_lnh_s1c) section below.
+The activity stream component displays a list of activities occurring on a case record. This list can be collapsed to provide a quick view of case activities or expanded to provide more detail about individual activities.For more information, see the [Activity stream component](csm-front-line-case-page.md#activity-stream-component) section below.
 
 **Note:** The Front-line case page uses [modeless dialogs](csm-front-line-case-page-modeless-dialogs.md) for composing comments, work notes, and emails.
 
@@ -210,7 +210,7 @@ The contextual side panel component includes different tools that agents can use
 
 For more information, see the following sections:
 
--   [Contextual side panel component](csm-front-line-case-page.md#section_trg_ypr_m1c)
+-   [Contextual side panel component](csm-front-line-case-page.md#contextual-side-panel-component)
 -   [Related lists component](csm-front-line-case-page.md#section_urr_nrh_s1c)
 
 </td></tr></tbody>
@@ -459,7 +459,7 @@ The items in an expanded list are displayed as cards. An expanded list shows one
 
 ## Customer History component
 
-The Customer History component displays customer, consumer, or account history information, depending on the field selections on the interaction record. This component displays the information previously displayed in the Customer Activity tab. For more information, see [Customer History component](customer-central.md#section_i2b_kpt_ydc) in the Customer Central documentation.
+The Customer History component displays customer, consumer, or account history information, depending on the field selections on the interaction record. This component displays the information previously displayed in the Customer Activity tab. For more information, see [Customer History component](customer-central.md#customer-history-component) in the Customer Central documentation.
 
 ## Record presence feature
 

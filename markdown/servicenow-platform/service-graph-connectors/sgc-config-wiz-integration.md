@@ -102,7 +102,7 @@ Client ID
 
 </td><td>
 
-Client ID of your Wiz application as described in [Before you begin](sgc-config-wiz-integration.md#prereq).
+Client ID of your Wiz application as described in [Before you begin](sgc-config-wiz-integration.md#before-you-begin).
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Client Secret
 
 </td><td>
 
-Client secret of your Wiz application as described in [Before you begin](sgc-config-wiz-integration.md#prereq).
+Client secret of your Wiz application as described in [Before you begin](sgc-config-wiz-integration.md#before-you-begin).
 
 </td></tr><tr><td>
 

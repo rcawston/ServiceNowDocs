@@ -15,11 +15,11 @@ The Windows methods in RPA Desktop Design Studio interact with the Windows appli
 
 ## Windows connector method levels
 
-[Connector level methods](connectors-windows-methods.md#connector-level-windows)
+[Connector level methods](connectors-windows-methods.md#connector-level-methods)
 
-[Window level methods](connectors-windows-methods.md#windows-screen-level-methods)
+[Window level methods](connectors-windows-methods.md#window-level-methods)
 
-[Element level methods](connectors-windows-methods.md#windows-element-level-methods)
+[Element level methods](connectors-windows-methods.md#element-level-methods)
 
 ## Connector level methods
 

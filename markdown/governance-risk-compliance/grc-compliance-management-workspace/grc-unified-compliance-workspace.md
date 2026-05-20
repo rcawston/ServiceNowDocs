@@ -58,7 +58,7 @@ The highlights of the Compliance Workspace are:
     List view of all compliance-related records, providing the summary of the record in a single view that helps in your analyses and take an informed decision.
 
 
-**Note:** The **Control tests** widget, **Regulatory changes** widget, and **Domain compliance status** section appear with the installation of audit, regulatory change management, and privacy management plugins, respectively. For more information, see [Other GRC plugins for an overall view](compliance-manager-compliance-ws.md#grc-plugins-overall-view).
+**Note:** The **Control tests** widget, **Regulatory changes** widget, and **Domain compliance status** section appear with the installation of audit, regulatory change management, and privacy management plugins, respectively. For more information, see [Other GRC plugins for an overall view](compliance-manager-compliance-ws.md#other-grc-plugins-for-an-overall-view).
 
 ## Roles in the Compliance Workspace
 

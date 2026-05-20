@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-Configure the properties for the ActionSet SendKeys action. For more information about these properties, see [ActionSet Send Keys properties](actionset-actions-properties.md#actionset-sendkeys).
+Configure the properties for the ActionSet SendKeys action. For more information about these properties, see [ActionSet Send Keys properties](actionset-actions-properties.md#send-keys).
 
 ## Procedure
 

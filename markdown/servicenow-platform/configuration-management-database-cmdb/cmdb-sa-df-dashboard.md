@@ -63,14 +63,14 @@ CMDB administrator
 
 The dashboard provides clear, consolidated insights into principal CI class data quality and completeness. Use the dashboard to identify and resolve data quality issues within the CMDB through dedicated sections, filters, indicators, and visual reports. Gain valuable insights into CMDB performance related to Data Foundations. Targeted CMDB metrics focus remediation efforts. Regularly monitor these metrics and follow suggested remediation actions to systematically improve CMDB data quality over time.
 
-**Important:** The dashboard data is filtered based on the Selected principal classes and Date range filters. See [Filters](cmdb-sa-df-dashboard.md#section_xsj_x4l_k3c).
+**Important:** The dashboard data is filtered based on the Selected principal classes and Date range filters. See [Filters](cmdb-sa-df-dashboard.md#filters).
 
 |Feature|Description|
 |-------|-----------|
 |CIs by principal class|Displays the breakdown of operational CIs by principal CI class to highlight CI distribution in the CMDB.|
 |CIs by data integration source|Displays the breakdown of operational CIs by data integration source to highlight their contribution to CMDB population.|
 |[CIs missing key attributes](cmdb-sa-df-dashboard.md#section_opb_gpl_k3c)|Displays completeness metrics per principal CI class, identifying classes below the defined threshold.|
-|[CI data quality issues](cmdb-sa-df-dashboard.md#section_wx1_lpl_k3c)|Displays key metrics related to CIs that have not been updated or may have duplicate records, leading to outdated information and inconsistencies in the CMDB.|
+|[CI data quality issues](cmdb-sa-df-dashboard.md#ci-data-quality-issues)|Displays key metrics related to CIs that have not been updated or may have duplicate records, leading to outdated information and inconsistencies in the CMDB.|
 
 ## Filters
 
@@ -169,7 +169,7 @@ Principal class CIs not updated within the expected maintenance window, causing 
 
 [DF CIs not updated in last 90 days](cmdb-sa-df-indicators.md#df-ci-not-updated-90)
 
-**Note:** The CIs not updated card data is additionally filtered based on the Stale CI filter. See [Filters](cmdb-sa-df-dashboard.md#section_xsj_x4l_k3c).
+**Note:** The CIs not updated card data is additionally filtered based on the Stale CI filter. See [Filters](cmdb-sa-df-dashboard.md#filters).
 
 </td></tr><tr><td>
 

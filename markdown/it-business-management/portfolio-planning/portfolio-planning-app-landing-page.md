@@ -50,7 +50,7 @@ Portfolio Planning is available for users with a Strategic Portfolio Management 
 
 </td><td>
 
-[Compare ![](../../../reuse/icons/brand-icons/bus-community.svg) Compare capabilities of Portfolio Planning with Strategic Planning](exploring-portfolio-planning.md#comparing_with_strategic_planning)
+[Compare ![](../../../reuse/icons/brand-icons/bus-community.svg) Compare capabilities of Portfolio Planning with Strategic Planning](exploring-portfolio-planning.md#comparing-portfolio-planning-workspace-with-strategic-planning-workspace)
 
 </td></tr><tr><td>
 

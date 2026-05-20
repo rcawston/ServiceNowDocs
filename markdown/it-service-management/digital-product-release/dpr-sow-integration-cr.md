@@ -50,7 +50,7 @@ If a change is associated with a release, the card displays the following key de
 
 To open the release execution page, select the release name link.
 
-For more information, see [Create a change request in Service Operations Workspace](../service-operations-workspace/create-change-sow.md#step-create-CR-link-release).
+For more information, see [Create a change request in Service Operations Workspace](../service-operations-workspace/create-change-sow.md#create-a-change-request-in-service-operations-workspace).
 
 ## Affected CIs import
 
@@ -58,7 +58,7 @@ You can import affected configuration items \(CIs\) from release phases directly
 
 For large CI sets, the import process runs asynchronously. Manually refresh the list if the imported CIs don’t appear immediately.
 
-For more information, see [Create a change request in Service Operations Workspace](../service-operations-workspace/create-change-sow.md#step-create-CR-add-cis-rls).
+For more information, see [Create a change request in Service Operations Workspace](../service-operations-workspace/create-change-sow.md#create-a-change-request-in-service-operations-workspace).
 
 **Parent Topic:**[Exploring Digital Product Release](dpr-exploring-digital-product-release.md)
 

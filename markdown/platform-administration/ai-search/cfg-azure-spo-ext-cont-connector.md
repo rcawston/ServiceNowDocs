@@ -186,7 +186,7 @@ If you granted Sites.Selected permission instead of Sites.FullControl.All permis
 
 Provide the following items to your connector admin:
 
--   The OAuth 2.0 application's tenant ID and client ID that you recorded in step [2](cfg-azure-spo-ext-cont-connector.md#client-tenant-ids-step).
+-   The OAuth 2.0 application's tenant ID and client ID that you recorded in step [2](cfg-azure-spo-ext-cont-connector.md#table_wls_w2k_cjc).
 -   The DER-encoded binary X.509 format public key certificate's SHA1 thumbprint hash in hexadecimal format that you recorded in step [5.e](cfg-azure-spo-ext-cont-connector.md#certificate-thumbprint-step).
 
 Your connector admin needs these items to configure a Microsoft SharePoint Online external content connector to retrieve searchable content and security principals from your Microsoft SharePoint Online instance.

@@ -529,7 +529,7 @@ Additional methods for system-level access that bypass query ACL checks:
 -   [GlideQueryCondition - addSystemCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
 -   [GlideQueryCondition - addSystemOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
 
-For information on using this method with GlideRecordSecure, see [Enforcing query ACLs](../scripts/p_GlideServerAPIs.md#enforcing_query_ACLs).
+For information on using this method with GlideRecordSecure, see [Enforcing query ACLs](../scripts/p_GlideServerAPIs.md#enforcing-query-acls).
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 
@@ -837,7 +837,7 @@ Additional methods for enforcing query ACL checks:
 -   [GlideQueryCondition - addUserCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
 -   [GlideQueryCondition - addUserOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
 
-For information on using this method with GlideRecordSecure, see [Enforcing query ACLs](../scripts/p_GlideServerAPIs.md#enforcing_query_ACLs).
+For information on using this method with GlideRecordSecure, see [Enforcing query ACLs](../scripts/p_GlideServerAPIs.md#enforcing-query-acls).
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 

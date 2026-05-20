@@ -60,7 +60,7 @@ The Additional actions list \(vertical ellipsis\) on the **Forms** tab provides 
 -   Duplicate the selected form view
 -   Configure a related list
 -   Configure a UI action
--   Navigate to a filterable, sortable list of all form views by selecting **All form views**. See [All form views list](form-view-configuration.md#section_y1f_vxh_1vb).
+-   Navigate to a filterable, sortable list of all form views by selecting **All form views**. See [All form views list](form-view-configuration.md#all-form-views-list).
 
 Changes to the form made in the editor are committed to the selected view.**Note:** The more options button ![Ellipses](../../decision-table/image/ellipses.png) is visible only when forms are accessed through ServiceNow Studio or App Engine Studio and not through ServiceNow AI Platform.
 

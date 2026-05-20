@@ -71,7 +71,7 @@ State
 
 </td><td>
 
-The current state of the interaction. For more information, see [Interaction states](interaction-states.md#section_o4v_j4r_vdb).
+The current state of the interaction. For more information, see [Interaction states](interaction-states.md#interaction-states).
 
 </td></tr><tr><td>
 

@@ -60,7 +60,7 @@ For language-specific getKeys samples, refer to the following topics:
 
 [Java Apache Axis2](c_JAAWbSrvcsClntExUpdt.md)
 
-[Python](c_PythonWebServicesClientExamples.md#getKeys)
+[Python](c_PythonWebServicesClientExamples.md#getkeys)
 
 **Parent Topic:**[Data Retrieval API](r_DataRetrievalAPI.md)
 

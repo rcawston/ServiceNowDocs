@@ -27,7 +27,7 @@ A good example of an industry that benefits from multiple case types is the bank
 
     System administrators configure the case types feature by creating a table for the new case type that extends the Case table and then setting up a number of different processes and components for the case type.
 
-    -   The [Case Types Guided Setup](customer-service-case-types.md#section_ls3_dcp_bjb) section below provides an overview of these setup steps.
+    -   The [Case Types Guided Setup](customer-service-case-types.md#case-types-guided-setup) section below provides an overview of these setup steps.
     -   For details about the case type guided setup tasks, see [Configure customer service case types](configure-csm-case-types.md).
 -   **Managing case types**
 
@@ -35,7 +35,7 @@ A good example of an industry that benefits from multiple case types is the bank
 
 -   **Using case types**
 
-    Agents can use the case types feature when creating cases for customers by selecting from a list of configured case types. For more information, see the [Using case types to create cases](customer-service-case-types.md#section_s41_wtg_f4b) section below.
+    Agents can use the case types feature when creating cases for customers by selecting from a list of configured case types. For more information, see the [Using case types to create cases](customer-service-case-types.md#using-case-types-to-create-cases) section below.
 
 
 ## Customer service case types plugin

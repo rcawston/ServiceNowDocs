@@ -22,7 +22,7 @@ To set up Microsoft Azure Government cloud on Cloud Provisioning and Governance,
 -   Set up a Microsoft Azure Service Principal on the Azure Government Portal and register the service account on the Cloud Provisioning and Governance application.
 -   Configure a MID Server with the required properties to enable Microsoft Azure Government and the ServiceNow instance to communicate correctly.
 -   Use the Microsoft Azure Service Principal credentials to discover associated service accounts and cloud resources.
--   In the base system Terraform template, set the *environment* variable to `usgovernment`. For information on where to find the template to modify, see [Discover the Infrastructure as Code \(IaC\) templates](exploring-cpg-terraform-connector.md#section_xhl_fjt_xfc).
+-   In the base system Terraform template, set the *environment* variable to `usgovernment`. For information on where to find the template to modify, see [Discover the Infrastructure as Code \(IaC\) templates](exploring-cpg-terraform-connector.md#discover-the-infrastructure-as-code-iac-templates).
 
     ```
     provider "azurerm" {

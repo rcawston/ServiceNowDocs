@@ -64,7 +64,7 @@ System-generated unique identification number for the dependency.
 **Related topics**  
 
 
-[Planning item dependencies](roadmap-planning-overview.md#section_spl_34r_1tb)
+[Planning item dependencies](roadmap-planning-overview.md#planning-item-dependencies)
 
 [Add dependencies for roadmap items](create-planning-item-dependencies-in-a-roadmap.md)
 

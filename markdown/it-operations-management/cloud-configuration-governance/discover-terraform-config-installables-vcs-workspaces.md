@@ -75,7 +75,7 @@ Depending on the configuration provider, Cloud Services Catalog Terraform Connec
 
     4.  From the Related Links, select **Find Branches and Repositories**.
 
-    5.  Repeat step [5.b](discover-terraform-config-installables-vcs-workspaces.md#cpg-tf-connector-select-vcs-record) to [5.d](discover-terraform-config-installables-vcs-workspaces.md#cpg-tf-connector-find-vcs-repo-branches) for all VCS accounts that contain the Terraform templates you want to use for Cloud Provisioning and Governance catalog item creation.
+    5.  Repeat step [5.b](discover-terraform-config-installables-vcs-workspaces.md#table_wqs_cv5_p5b) to [5.d](discover-terraform-config-installables-vcs-workspaces.md#cpg-tf-connector-find-vcs-repo-branches) for all VCS accounts that contain the Terraform templates you want to use for Cloud Provisioning and Governance catalog item creation.
 
 6.  Create an Infrastructure as Code \(Iac\) discovery schedule.
 

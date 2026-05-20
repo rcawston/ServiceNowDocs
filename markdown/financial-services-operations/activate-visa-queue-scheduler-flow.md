@@ -29,7 +29,7 @@ Role required: admin
 
 4.  Select **Activate**.
 
-    **Note:** When using Financial Services Operations Integration with Visa for the first time, you must activate the Visa Queue Scheduler Flow and set the desired frequency. For more information, see [Batch queue APIs processing and scheduling](components-installed-with-the-financial-services-operations-integration-with-visa.md#section_hfv_ms5_n2c).
+    **Note:** When using Financial Services Operations Integration with Visa for the first time, you must activate the Visa Queue Scheduler Flow and set the desired frequency. For more information, see [Batch queue APIs processing and scheduling](components-installed-with-the-financial-services-operations-integration-with-visa.md#batch-queue-apis-processing-and-scheduling).
 
 
 **Parent Topic:**[Configuring Financial Services Operations Integration with Visa](configuring-financial-services-operations-integration-with-visa.md)

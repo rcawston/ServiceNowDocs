@@ -38,6 +38,6 @@ Role required: admin
 
 If you need a planning item type other than those available, use one of the five pre-defined custom planning item tables or you can create your own.
 
--   [Enable pre-defined custom planning item tables.](planning-items-for-lenses-and-portfolio-plans.md#section_predefined_plan_item)
+-   [Enable pre-defined custom planning item tables.](planning-items-for-lenses-and-portfolio-plans.md#pre-defined-custom-planning-items)
 -   [Define a new planning item type in Strategic Planning](create-planning-organization-and-planning-item-type.md)
 

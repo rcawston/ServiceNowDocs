@@ -42,7 +42,7 @@ The left panel includes two tabs: Customer and Interaction.The **Customer** tab 
 -   Contact or consumer [lookup component](csm-record-page-lookup-component.md):
     -   Includes the contact or consumer lookup card which agents can use to search for, select, and verify a customer.
     -   When a customer has been selected and linked to an interaction, a card with customer information is displayed at the top of the Customer tab.
--   Customer history: Includes the [Customer History component](csm-native-voice-record-page.md#section_imd_r1b_ldc), which displays customer, consumer, or account history information, depending on the customer information provided on the interaction record.
+-   Customer history: Includes the [Customer History component](csm-native-voice-record-page.md#customer-history-component), which displays customer, consumer, or account history information, depending on the customer information provided on the interaction record.
 
 The **Interaction** tab includes the Interaction record form fields.
 
@@ -60,7 +60,7 @@ Right panel
 
 </td><td>
 
-The right panel contains the [contextual side panel component](csm-native-voice-record-page.md#section_uyq_2l1_ldc), which includes the following tabs:-   Recommended Actions search
+The right panel contains the [contextual side panel component](csm-native-voice-record-page.md#contextual-side-panel-component), which includes the following tabs:-   Recommended Actions search
 -   Related Items
 -   Attachments
 -   Templates
@@ -166,7 +166,7 @@ Agents can create multiple tags for a record and then use the tags to group and 
 
 </td></tr><tr><td>
 
-[Action bar](csm-centered-chat-interaction-page.md#section_mjh_fh1_ldc)
+[Action bar](csm-centered-chat-interaction-page.md#action-bar-component)
 
 </td><td>
 
@@ -210,7 +210,7 @@ The interaction details include information about the interaction including the 
 
 </td></tr><tr><td>
 
-[Contextual side panel component](csm-centered-chat-interaction-page.md#section_uyq_2l1_ldc)
+[Contextual side panel component](csm-centered-chat-interaction-page.md#contextual-side-panel-component)
 
 </td><td>
 
@@ -222,7 +222,7 @@ The contextual side panel component includes different tools that agents can use
 
 </td></tr><tr><td>
 
-[Thin compose modeless dialogs](csm-front-line-case-page-modeless-dialogs.md#section_nws_1rs_rfc)
+[Thin compose modeless dialogs](csm-front-line-case-page-modeless-dialogs.md#thin-compose-modeless-dialogs)
 
 </td><td>
 

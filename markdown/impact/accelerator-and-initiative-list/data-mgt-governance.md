@@ -32,7 +32,7 @@ The Data Management and Governance Accelerator provides Impact Customers with a 
         -   Data Governance
     -   Set expectations on process and depth of deliverable
     -   Communicate expectation for participation
-    -   Request the completion of an intake questionnaire, self-assessment, and any other necessary inputs \(See the [Requested Information Access](data-mgt-governance.md#requested-info) section for details.\)
+    -   Request the completion of an intake questionnaire, self-assessment, and any other necessary inputs \(See the [Requested Information Access](data-mgt-governance.md#requested-information-access) section for details.\)
 -   **Customer Current State Working Session \(up to 120 minutes\)**
     -   Review the customer intake questionnaire and self-assessment
     -   Discuss the current state of the data management and data governance practices organized around the five pillars for data management

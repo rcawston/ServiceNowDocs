@@ -61,7 +61,7 @@ At the end of the migration process, a confirmation message specifies if the mig
 
     3.  Review the logs to determine which items failed during migration.
 
-    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](ui-actions-layouts-migration-itsm-aw-sow.md#section_emh_j23_ccc) section.
+    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](ui-actions-layouts-migration-itsm-aw-sow.md#how-the-migration-works) section.
 
 
 **Parent Topic:**[Migration of UI actions and layouts from ITSM Agent Workspace to Service Operations Workspace for ITSM](ui-actions-layouts-migration-itsm-aw-sow.md)

@@ -30,8 +30,8 @@ To access the **Conversations** tab, you must have the Chat Analytics Viewer \(c
 The **Conversations** tab enables you to do the following:
 
 -   Filter the list of conversations based on specific conditions using the filter editor. For more information, see [Use filters in the Conversation tab](conversation-tab-filtering-pae.md)
--   Learn more about each conversation by viewing conversation details. For more information, see [Get conversation details](conversation-tab-pae.md#section_i4l_jlt_j4b).
--   Export the list of conversations to a file. For more information, see [Export the conversations list](conversation-tab-pae.md#section_y5z_md2_tpb).
+-   Learn more about each conversation by viewing conversation details. For more information, see [Get conversation details](conversation-tab-pae.md#get-conversation-details).
+-   Export the list of conversations to a file. For more information, see [Export the conversations list](conversation-tab-pae.md#export-the-conversations-list).
 -   Download the conversation transcript to troubleshoot individual conversations. For more information, see [Download the conversation transcript](conversation-tab-pae.md#section_mdz_4f3_stb).
 
 ## Get conversation details

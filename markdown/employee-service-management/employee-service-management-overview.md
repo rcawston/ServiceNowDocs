@@ -107,7 +107,7 @@ The ServiceNow® Now Assist for HR Service Delivery \(HRSD\) application summari
 
 </td></tr><tr><td>
 
-[HR Service Delivery integration with third-party systems](hr-service-delivery/integrate-third-party-systems.md#ul_fdg_3h1_w5b)
+[HR Service Delivery integration with third-party systems](hr-service-delivery/integrate-third-party-systems.md#integration-of-hr-service-delivery-with-third-party-systems)
 
 </td><td>
 

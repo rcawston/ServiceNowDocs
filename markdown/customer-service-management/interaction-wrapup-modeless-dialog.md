@@ -21,10 +21,10 @@ While in the Wrap Up state, an agent’s capacity is not reduced until the state
 
 Interaction wrap up includes several configurable features:
 
--   [Wrap-up codes](interaction-wrapup-modeless-dialog.md#section_z1t_m4m_rdc): Agents can select from a list of codes that provide information about how the interaction was resolved.
--   [Wrap-up notes](interaction-wrapup-modeless-dialog.md#section_iyj_j33_zdc): Agents can provide additional information about the interaction resolution.
--   [Wrap-up timer](interaction-wrapup-modeless-dialog.md#section_ycd_24m_rdc): Displays the duration of the wrap-up period. When the end of the duration is reached, the system automatically ends the wrap-up period and saves the wrap-up data with the default code and notes field blank.
--   [Wrap-up modeless dialog](interaction-wrapup-modeless-dialog.md#section_jfj_14m_rdc): Displays when the agent ends an interaction. Includes the wrap-up timer and fields for the wrap-up code and notes.
+-   [Wrap-up codes](interaction-wrapup-modeless-dialog.md#wrap-up-codes): Agents can select from a list of codes that provide information about how the interaction was resolved.
+-   [Wrap-up notes](interaction-wrapup-modeless-dialog.md#wrap-up-notes): Agents can provide additional information about the interaction resolution.
+-   [Wrap-up timer](interaction-wrapup-modeless-dialog.md#wrap-up-timer): Displays the duration of the wrap-up period. When the end of the duration is reached, the system automatically ends the wrap-up period and saves the wrap-up data with the default code and notes field blank.
+-   [Wrap-up modeless dialog](interaction-wrapup-modeless-dialog.md#wrap-up-modeless-dialog): Displays when the agent ends an interaction. Includes the wrap-up timer and fields for the wrap-up code and notes.
 
 Interaction wrap up also includes [wrap-up segments](interaction-wrapup-modeless-dialog.md#section_p2w_wj3_zdc), which store interaction wrap-up data. Wrap up segments enable multiple wrap ups per interaction. For example, when one agent transfers an interaction to another agent and each agent completes a wrap up for the same record.
 

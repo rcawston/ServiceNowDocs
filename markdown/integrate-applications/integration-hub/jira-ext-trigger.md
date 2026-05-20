@@ -85,7 +85,7 @@ Role required: admin
 
 6.  Select the supported events as per your requirement.
 
-    For the list of the supported events, see the [Spoke triggers](jira-spoke-v3-0-2.md#section_cpg_rpm_ccc) section.
+    For the list of the supported events, see the [Spoke triggers](jira-spoke-v3-0-2.md#spoke-triggers) section.
 
     ![Select the required events.](../image/jira-spk-events.png)
 

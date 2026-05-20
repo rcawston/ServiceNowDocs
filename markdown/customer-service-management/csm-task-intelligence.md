@@ -127,8 +127,8 @@ The Task Intelligence for Customer Service application \(com.snc.csm\_ml\_task\)
 
 After installing the Task Intelligence for Customer Service application, you can configure the different features and use the Task Intelligence Admin Console to create models. For more information, see:
 
--   [Install and configure Task Intelligence features](configure-task-intelligence.md#section_ojj_m5f_5vb)
--   [Set up and deploy Task Intelligence models](configure-task-intelligence.md#section_swl_45f_5vb)
+-   [Install and configure Task Intelligence features](configure-task-intelligence.md#install-and-configure-task-intelligence-features)
+-   [Set up and deploy Task Intelligence models](configure-task-intelligence.md#set-up-and-deploy-task-intelligence-models)
 
 ## Using Task Intelligence for Customer Service
 

@@ -75,13 +75,13 @@ SGA Azure API Management \[sn\_azure\_api\_gw\_sga\_azure\_api\_management\]
 
 </td><td>
 
-[Azure API Management](api-sgc-azure-mgmt-tables.md#section_f35_vtj_4bc)[Azure Subscription](api-sgc-azure-mgmt-tables.md#section_gl3_dbk_h2c)
+[Azure API Management](api-sgc-azure-mgmt-tables.md#target-tables-for-storing-api-service-graph-connector-for-azure-api-management-data)[Azure Subscription](api-sgc-azure-mgmt-tables.md#azure-subscription-cmdb-ci-azure-subscription)
 
-[Cloud Service Account](api-sgc-azure-mgmt-tables.md#section_fbj_tbk_h2c)
+[Cloud Service Account](api-sgc-azure-mgmt-tables.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
-[Resource Group](api-sgc-azure-mgmt-tables.md#section_t1n_yzj_h2c)
+[Resource Group](api-sgc-azure-mgmt-tables.md#resource-group-cmdb-ci-resource-group)
 
-[DNS Alias](api-sgc-azure-mgmt-tables.md#section_egg_qhb_1fc)
+[DNS Alias](api-sgc-azure-mgmt-tables.md#dns-alias-cmdb-ci-dns-alias)
 
 </td></tr><tr><td>
 
@@ -93,7 +93,7 @@ SGA Azure Managed API \[sn\_azure\_api\_gw\_sga\_azure\_managed\_api\]
 
 </td><td>
 
-[Managed API](api-sgc-azure-mgmt-tables.md#section_bfw_xtj_4bc)
+[Managed API](api-sgc-azure-mgmt-tables.md#managed-api-cmdb-ci-managed-api)
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ SGA Azure API Frontend Backend \[sn\_azure\_api\_gw\_sga\_azure\_api\_frontend\_
 
 </td><td>
 
-[API Frontend](api-sgc-azure-mgmt-tables.md#section_lrd_wtj_4bc)[API Backend](api-sgc-azure-mgmt-tables.md#section_kkr_xtj_4bc)
+[API Frontend](api-sgc-azure-mgmt-tables.md#section_lrd_wtj_4bc)[API Backend](api-sgc-azure-mgmt-tables.md#api-backend-cmdb-ci-api-backend)
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ SGA Azure API GraphQL Frontend Backend \[sn\_azure\_api\_gw\_sga\_azure\_api\_gr
 
 </td><td>
 
-[API Frontend](api-sgc-azure-mgmt-tables.md#section_lrd_wtj_4bc)[API Backend](api-sgc-azure-mgmt-tables.md#section_kkr_xtj_4bc)
+[API Frontend](api-sgc-azure-mgmt-tables.md#section_lrd_wtj_4bc)[API Backend](api-sgc-azure-mgmt-tables.md#api-backend-cmdb-ci-api-backend)
 
 </td></tr><tr><td>
 
@@ -129,7 +129,7 @@ SGA Azure API Consumer \[sn\_azure\_api\_gw\_sga\_azure\_api\_consumer\]
 
 </td><td>
 
-[API Consumer](api-sgc-azure-mgmt-tables.md#section_wyl_wtj_4bc)
+[API Consumer](api-sgc-azure-mgmt-tables.md#api-consumer-subscription-cmdb-ci-api-consumer-subscription)
 
 </td></tr><tr><td>
 
@@ -141,7 +141,7 @@ SGA Azure API Product \[sn\_azure\_api\_gw\_sga\_azure\_api\_product\]
 
 </td><td>
 
-[API Product Bundle](api-sgc-azure-mgmt-tables.md#section_yqh_rzj_h2c)
+[API Product Bundle](api-sgc-azure-mgmt-tables.md#api-product-bundle-cmdb-ci-api-product-bundle)
 
 </td></tr><tr><td>
 
@@ -153,7 +153,7 @@ SGA Azure API Consumer Subscription \[sn\_azure\_api\_gw\_sga\_azure\_api\_subsc
 
 </td><td>
 
-[API Consumer Subscription](api-sgc-azure-mgmt-tables.md#section_xxg_pbk_h2c)
+[API Consumer Subscription](api-sgc-azure-mgmt-tables.md#api-consumer-subscription-cmdb-ci-api-consumer-subscription)
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ API Tag \[sn\_azure\_api\_gw\_api\_tag\]
 
 </td><td>
 
-[Key Value](api-sgc-azure-mgmt-tables.md#section_yzv_j3b_1fc)
+[Key Value](api-sgc-azure-mgmt-tables.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -177,7 +177,7 @@ SGA Azure API Consumer Access \[sn\_azure\_api\_gw\_sga\_azure\_managed\_api\]
 
 </td><td>
 
-[API Consumer Access](api-sgc-azure-mgmt-tables.md#section_d3b_1ck_h2c)
+[API Consumer Access](api-sgc-azure-mgmt-tables.md#api-consumer-access-api-consumer-access)
 
 </td></tr></tbody>
 </table>For more information on where data is saved when pulling data from an Azure API Management application, see [Target tables for storing API Service Graph Connector for Azure API Management data](api-sgc-azure-mgmt-tables.md).

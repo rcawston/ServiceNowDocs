@@ -43,9 +43,9 @@ SG Azure Subscriptions \[sn\_sg\_azure\_integ\_subscriptions\]
 
 </td><td>
 
-[Cloud Service Account](cmdb-azure-classes.md#section_vnq_lp5_vxb)
+[Cloud Service Account](cmdb-azure-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -57,7 +57,7 @@ SG-Azure Datacenter Updation \[sn\_sg\_azure\_integ\_datacenter\_updation\]
 
 </td><td>
 
-[Azure Datacenter](cmdb-azure-classes.md#section_qhy_tp5_vxb)
+[Azure Datacenter](cmdb-azure-classes.md#azure-datacenter-cmdb-ci-azure-datacenter)
 
 </td></tr><tr><td>
 
@@ -69,9 +69,9 @@ SG-Azure Resource Group \[sn\_sg\_azure\_integ\_resource\_groups\]
 
 </td><td>
 
-[Resource Group](cmdb-azure-classes.md#section_izj_vp5_vxb)
+[Resource Group](cmdb-azure-classes.md#resource-group-cmdb-ci-resource-group)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -83,9 +83,9 @@ SG-Azure Availability Sets \[sn\_sg\_azure\_integ\_availability\_sets\]
 
 </td><td>
 
-[Availability Zone](cmdb-azure-classes.md#id_yms_cvk_gvb)
+[Availability Zone](cmdb-azure-classes.md#availability-zone-cmdb-ci-availability-zone)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -97,9 +97,9 @@ SG-Azure Storage Volume \[sn\_sg\_azure\_integ\_storage\_volume\]
 
 </td><td>
 
-[Storage Volume](cmdb-azure-classes.md#section_a2s_1q5_vxb)
+[Storage Volume](cmdb-azure-classes.md#storage-volume-cmdb-ci-storage-volume)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -111,11 +111,11 @@ SG-Azure Load Balancers \[sn\_sg\_azure\_integ\_load\_balancers\]
 
 </td><td>
 
-[Cloud Load Balancer](cmdb-azure-classes.md#section_prq_dp5_vxb)
+[Cloud Load Balancer](cmdb-azure-classes.md#cloud-load-balancer-cmdb-ci-cloud-load-balancer)
 
- [Cloud LB IPAddress](cmdb-azure-classes.md#section_whh_cp5_vxb)
+ [Cloud LB IPAddress](cmdb-azure-classes.md#cloud-lb-ipaddress-cmdb-ci-cloud-lb-ipaddress)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -127,13 +127,13 @@ SG-Azure Network \[sn\_sg\_azure\_integ\_network\]
 
 </td><td>
 
-[Cloud Network](cmdb-azure-classes.md#section_lg3_hp5_vxb)
+[Cloud Network](cmdb-azure-classes.md#cloud-network-cmdb-ci-network)
 
- [Cloud Service Account](cmdb-azure-classes.md#section_vnq_lp5_vxb)
+ [Cloud Service Account](cmdb-azure-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
- [Cloud Subnet](cmdb-azure-classes.md#section_fh2_4p5_vxb)
+ [Cloud Subnet](cmdb-azure-classes.md#cloud-subnet-cmdb-ci-cloud-subnet)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -145,15 +145,15 @@ SG-Azure Public IP Address \[sn\_sg\_azure\_integ\_public\_ip\_address\]
 
 </td><td>
 
-[Cloud Public IP Address](cmdb-azure-classes.md#section_myn_kp5_vxb)
+[Cloud Public IP Address](cmdb-azure-classes.md#cloud-public-ip-address-cmdb-ci-cloud-public-ipaddress)
 
- [Cloud Mgmt Network Interface](cmdb-azure-classes.md#section_tc2_gp5_vxb)
+ [Cloud Mgmt Network Interface](cmdb-azure-classes.md#cloud-mgmt-network-interface-cmdb-ci-nic)
 
- [Cloud Load Balancer](cmdb-azure-classes.md#section_prq_dp5_vxb)
+ [Cloud Load Balancer](cmdb-azure-classes.md#cloud-load-balancer-cmdb-ci-cloud-load-balancer)
 
- [Cloud LB IPAddress](cmdb-azure-classes.md#section_whh_cp5_vxb)
+ [Cloud LB IPAddress](cmdb-azure-classes.md#cloud-lb-ipaddress-cmdb-ci-cloud-lb-ipaddress)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -165,9 +165,9 @@ SG-Azure Security Group \[sn\_sg\_azure\_integ\_security\_group\]
 
 </td><td>
 
-[Compute Security Group](cmdb-azure-classes.md#section_ycn_pp5_vxb)
+[Compute Security Group](cmdb-azure-classes.md#compute-security-group-cmdb-ci-compute-security-group)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -179,9 +179,9 @@ SG-Azure Storage Accounts \[sn\_sg\_azure\_integ\_storage\_accounts\]
 
 </td><td>
 
-[Cloud Storage Account](cmdb-azure-classes.md#section_ltf_np5_vxb)
+[Cloud Storage Account](cmdb-azure-classes.md#cloud-storage-account-cmdb-ci-cloud-storage-account)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -193,19 +193,19 @@ SG-Azure Virtual Machine \[sn\_sg\_azure\_integ\_virtual\_machine\]
 
 </td><td>
 
-[Virtual Machine Instance](cmdb-azure-classes.md#section_ml4_bq5_vxb)
+[Virtual Machine Instance](cmdb-azure-classes.md#virtual-machine-instance-cmdb-ci-vm-instance)
 
- [Image](cmdb-azure-classes.md#section_zfx_rp5_vxb)
+ [Image](cmdb-azure-classes.md#image-cmdb-ci-os-template)
 
- [Computer](cmdb-azure-classes.md#section_o1l_zrn_dfc)
+ [Computer](cmdb-azure-classes.md#computer-cmdb-ci-computer)
 
- [Linux Server](cmdb-azure-classes.md#section_lzf_3p5_vxb)
+ [Linux Server](cmdb-azure-classes.md#linux-server-cmdb-ci-linux-server)
 
- [Server](cmdb-azure-classes.md#section_w3d_yp5_vxb)
+ [Server](cmdb-azure-classes.md#linux-server-cmdb-ci-linux-server)
 
- [Windows Server](cmdb-azure-classes.md#section_rdg_xp5_vxb)
+ [Windows Server](cmdb-azure-classes.md#windows-server-cmdb-ci-win-server)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -217,13 +217,13 @@ SG-Azure Network Interface \[sn\_sg\_azure\_integ\_network\_interface\]
 
 </td><td>
 
-[Cloud Mgmt Network Interface](cmdb-azure-classes.md#section_tc2_gp5_vxb)
+[Cloud Mgmt Network Interface](cmdb-azure-classes.md#cloud-mgmt-network-interface-cmdb-ci-nic)
 
- [IP Address](cmdb-azure-classes.md#section_bmr_bp5_zyb)
+ [IP Address](cmdb-azure-classes.md#cloud-public-ip-address-cmdb-ci-cloud-public-ipaddress)
 
- [Virtual Machine Instance](cmdb-azure-classes.md#section_ml4_bq5_vxb)
+ [Virtual Machine Instance](cmdb-azure-classes.md#virtual-machine-instance-cmdb-ci-vm-instance)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -235,9 +235,9 @@ SG-Azure SQL \[sn\_sg\_azure\_integ\_sql\]
 
 </td><td>
 
-[Cloud DataBase](cmdb-azure-classes.md#section_n41_kq5_vxb)
+[Cloud DataBase](cmdb-azure-classes.md#cloud-database-cmdb-ci-cloud-database)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -249,7 +249,7 @@ SG-Azure Functions \[sn\_sg\_azure\_integ\_functions\]
 
 </td><td>
 
-[Cloud Function](cmdb-azure-classes.md#section_dhq_hq5_zyb)
+[Cloud Function](cmdb-azure-classes.md#cloud-function-cmdb-ci-cloud-function)
 
 </td></tr><tr><td>
 
@@ -261,9 +261,9 @@ SG-Azure Generic Resources \[sn\_sg\_azure\_integ\_generic\_resources\]**Note:**
 
 </td><td>
 
-[Cloud Resource](cmdb-azure-classes.md#section_fmk_bl2_b1c)
+[Cloud Resource](cmdb-azure-classes.md#cloud-resource-cmdb-ci-cmp-resource)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -275,7 +275,7 @@ SG-Azure Scale Sets \[sn\_sg\_azure\_integ\_scale\_sets\]
 
 </td><td>
 
-[Instance Scale Set](cmdb-azure-classes.md#section_oxm_sh2_b1c)
+[Instance Scale Set](cmdb-azure-classes.md#instance-scale-set-cmdb-ci-instance-scale-set)
 
 </td></tr><tr><td>
 
@@ -287,25 +287,25 @@ SG-Azure Scale Sets VMs \[sn\_sg\_azure\_integ\_scale\_sets\_vms\]
 
 </td><td>
 
-[Virtual Machine Instance](cmdb-azure-classes.md#section_ml4_bq5_vxb)
+[Virtual Machine Instance](cmdb-azure-classes.md#virtual-machine-instance-cmdb-ci-vm-instance)
 
- [Storage Volume](cmdb-azure-classes.md#section_a2s_1q5_vxb)
+ [Storage Volume](cmdb-azure-classes.md#storage-volume-cmdb-ci-storage-volume)
 
- [Image](cmdb-azure-classes.md#section_zfx_rp5_vxb)
+ [Image](cmdb-azure-classes.md#image-cmdb-ci-os-template)
 
- [Cloud Mgmt Network Interface](cmdb-azure-classes.md#section_tc2_gp5_vxb)
+ [Cloud Mgmt Network Interface](cmdb-azure-classes.md#cloud-mgmt-network-interface-cmdb-ci-nic)
 
- [Hardware Type](cmdb-azure-classes.md#section_nkn_qp5_vxb)
+ [Hardware Type](cmdb-azure-classes.md#hardware-type-cmdb-ci-compute-template)
 
- [Azure Datacenter](cmdb-azure-classes.md#section_qhy_tp5_vxb)
+ [Azure Datacenter](cmdb-azure-classes.md#azure-datacenter-cmdb-ci-azure-datacenter)
 
- [Linux Server](cmdb-azure-classes.md#section_lzf_3p5_vxb)
+ [Linux Server](cmdb-azure-classes.md#linux-server-cmdb-ci-linux-server)
 
- [Server](cmdb-azure-classes.md#section_w3d_yp5_vxb)
+ [Server](cmdb-azure-classes.md#linux-server-cmdb-ci-linux-server)
 
- [Windows Server](cmdb-azure-classes.md#section_rdg_xp5_vxb)
+ [Windows Server](cmdb-azure-classes.md#windows-server-cmdb-ci-win-server)
 
- [Key Value](cmdb-azure-classes.md#section_spn_dp5_vxb)
+ [Key Value](cmdb-azure-classes.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -321,13 +321,13 @@ The SG-Azure Software import is set to inactive by default.
 
 When the Software Asset Management \(SAM\) application isn't installed:
 
- [Software](cmdb-azure-classes.md#section_aqz_yp5_vxb)
+ [Software](cmdb-azure-classes.md#software-cmdb-ci-spkg)
 
- [Software Instance](cmdb-azure-classes.md#section_s5y_zp5_vxb)
+ [Software Instance](cmdb-azure-classes.md#software-instance-cmdb-software-instance)
 
  When the SAM application is installed:
 
- [Software Installation](cmdb-azure-classes.md#section_bfy_sp5_vxb)
+ [Software Installation](cmdb-azure-classes.md#software-installation-cmdb-sam-sw-install)
 
 </td></tr><tr><td>
 
@@ -341,13 +341,13 @@ SG-Azure Software Remove \[sn\_sg\_azure\_integ\_software\_remove\]The SG-Azure 
 
 When the SAM application isn't installed:
 
- [Software](cmdb-azure-classes.md#section_aqz_yp5_vxb)
+ [Software](cmdb-azure-classes.md#software-cmdb-ci-spkg)
 
- [Software Instance](cmdb-azure-classes.md#section_s5y_zp5_vxb)
+ [Software Instance](cmdb-azure-classes.md#software-instance-cmdb-software-instance)
 
  When the SAM application is installed:
 
- [Software Installation](cmdb-azure-classes.md#section_bfy_sp5_vxb)
+ [Software Installation](cmdb-azure-classes.md#software-installation-cmdb-sam-sw-install)
 
 </td></tr><tr><td>
 
@@ -373,7 +373,7 @@ Hardware templates \[sn\_sg\_azure\_integ\_hardware\_templates\]
 
 </td><td>
 
-[Hardware Type](cmdb-azure-classes.md#section_nkn_qp5_vxb)
+[Hardware Type](cmdb-azure-classes.md#hardware-type-cmdb-ci-compute-template)
 
 </td></tr><tr><td>
 
@@ -385,9 +385,9 @@ SG-Azure HW Consolidation \[sn\_sg\_azure\_integ\_hw\_consolidation\]
 
 </td><td>
 
-[Virtual Machine Instance](cmdb-azure-classes.md#section_ml4_bq5_vxb)
+[Virtual Machine Instance](cmdb-azure-classes.md#virtual-machine-instance-cmdb-ci-vm-instance)
 
- [Computer](cmdb-azure-classes.md#section_o1l_zrn_dfc)
+ [Computer](cmdb-azure-classes.md#computer-cmdb-ci-computer)
 
 </td></tr><tr><td>
 
@@ -411,7 +411,7 @@ SG-Azure Get Run Command \[sn\_sg\_azure\_integ\_get\_run\_command\]
 
 </td><td>
 
-[Application](cmdb-azure-classes.md#section_mtg_rdb_hdc)
+[Application](cmdb-azure-classes.md#application-cmdb-ci-appl)
 
  TCP Connection
 
@@ -427,7 +427,7 @@ SG-Azure Kubernetes Cluster \[sn\_sg\_azure\_integ\_kubernetes\_cluster\]
 
 </td><td>
 
-[Kubernetes Cluster](cmdb-azure-classes.md#section_scm_2ws_1gc)
+[Kubernetes Cluster](cmdb-azure-classes.md#kubernetes-cluster-cmdb-ci-kubernetes-cluster)
 
 </td></tr></tbody>
 </table>For more information on where data is saved when pulling data from Azure, see [CMDB classes targeted in Service Graph Connector for Microsoft Azure](cmdb-azure-classes.md) and [Supported Microsoft Azure resource types](cmdb-sgc-azure-resource-types.md).

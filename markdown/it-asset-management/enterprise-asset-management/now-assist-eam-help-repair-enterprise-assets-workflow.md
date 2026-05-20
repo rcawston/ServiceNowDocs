@@ -105,7 +105,7 @@ Repair asset task validation
 
 </td><td>
 
-The asset next best action AI agent validates the repair asset task.**Note:** For the complete list of validation criteria, refer to [Validating repair asset tasks](now-assist-eam-help-repair-enterprise-assets-workflow.md#section_ex2_2pf_rhc).
+The asset next best action AI agent validates the repair asset task.**Note:** For the complete list of validation criteria, refer to [Validating repair asset tasks](now-assist-eam-help-repair-enterprise-assets-workflow.md#validating-repair-asset-tasks).
 
 -   If the validation is successful, the workflow can proceed with helping the user troubleshoot the asset.
 -   If the validation is unsuccessful, the task must be updated and then re-validated.
@@ -145,7 +145,7 @@ Repair asset task validation
 
 </td><td id="repair">
 
-If the user confirmed that the asset is repairable, the asset next best action AI agent validates the corresponding repair-based repair asset task that was automatically generated.**Note:** For the complete list of validation criteria, refer to [Validating repair asset tasks](now-assist-eam-help-repair-enterprise-assets-workflow.md#section_ex2_2pf_rhc).
+If the user confirmed that the asset is repairable, the asset next best action AI agent validates the corresponding repair-based repair asset task that was automatically generated.**Note:** For the complete list of validation criteria, refer to [Validating repair asset tasks](now-assist-eam-help-repair-enterprise-assets-workflow.md#validating-repair-asset-tasks).
 
 -   If the validation is successful, the workflow can proceed with helping the user repair the asset.
 -   If the validation is unsuccessful, the task must be updated and then re-validated.
@@ -164,8 +164,8 @@ After the repair asset task is successfully validated, the workflow helps the us
 3.  The user who is assigned to the repair asset task must perform the repair steps.
 4.  In the Now Assist panel, the AI agent asks the user to confirm if the repair steps helped with resolving the asset issue.
 5.  Depending on if the repair steps helped the user, the workflow proceeds as follows:
-    -   If the repair steps helped, the AI agent asks the user to confirm whether the asset was repaired, unrepairable, or redeployable. The workflow then proceeds to [step 6](now-assist-eam-help-repair-enterprise-assets-workflow.md#close-repair-task).
-    -   If the repair steps did not help, the AI agent refines its web search. The workflow then returns to [step 2](now-assist-eam-help-repair-enterprise-assets-workflow.md#web-search-repair).
+    -   If the repair steps helped, the AI agent asks the user to confirm whether the asset was repaired, unrepairable, or redeployable. The workflow then proceeds to [step 6](now-assist-eam-help-repair-enterprise-assets-workflow.md#repair).
+    -   If the repair steps did not help, the AI agent refines its web search. The workflow then returns to [step 2](now-assist-eam-help-repair-enterprise-assets-workflow.md#repair).
 6.  The repair asset task is closed.
 
 **Note:** You can view details about the completed repair steps in the work notes of the repair asset task.

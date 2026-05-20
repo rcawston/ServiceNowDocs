@@ -119,7 +119,7 @@ In this UI Builder quick start, you perform the following tasks to build your fi
 
         ![Content tree with customized column layout.](../image/qs-content-tree-custom-label.png)
 
-        For more information on component IDs, see [Component ID](work-components.md#component_id).
+        For more information on component IDs, see [Component ID](work-components.md#component-id).
 
     You’ve successfully added your first column layout to your page.
 
@@ -157,7 +157,7 @@ In this UI Builder quick start, you perform the following tasks to build your fi
 
     4.  The Style changes the size of the heading text.
 
-        For example, if you select **Header-secondary**, the text is smaller. Different headings sizes are useful if you have two headings and want the second heading smaller that the primary heading. For more information on configuring components, see [Configure components in UI Builder](work-components.md#config_components).
+        For example, if you select **Header-secondary**, the text is smaller. Different headings sizes are useful if you have two headings and want the second heading smaller that the primary heading. For more information on configuring components, see [Configure components in UI Builder](work-components.md#configure-components-in-ui-builder).
 
     5.  Leave the **Level** as **1**.
 

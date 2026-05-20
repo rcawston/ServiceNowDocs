@@ -35,7 +35,7 @@ The **Re-run failed tests** button re-runs all non-passing tests, which includes
 
 3.  In the dialog box, choose among any currently running test clients or start a new runner.
 
-    If the re-run tests include only server test steps, the system executes the tests without displaying the Pick a Browser dialog. For more information, review [Browser recommendations for all tests and suites](atf-test-runners.md#kvv_h25_gx) and [Server test steps](server-test-steps.md).
+    If the re-run tests include only server test steps, the system executes the tests without displaying the Pick a Browser dialog. For more information, review [Browser recommendations for all tests and suites](atf-test-runners.md#browser-recommendations-for-all-tests-and-suites) and [Server test steps](server-test-steps.md).
 
 
 ## Result

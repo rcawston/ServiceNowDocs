@@ -21,7 +21,7 @@ Role required: virtual\_agent\_admin
 
 Enable the [chat session tabs](csm-workspace-chat-session-tabs.md) feature and select the workspace that the feature applies to.
 
-You can configure a minimum of one and a maximum of three chat SLA threshold timers for a workspace. These timers alert agents to unread messages by changing the [tab colors](csm-workspace-chat-session-tabs.md#section_rsb_4j2_fdc) of the inactive chats.
+You can configure a minimum of one and a maximum of three chat SLA threshold timers for a workspace. These timers alert agents to unread messages by changing the [tab colors](csm-workspace-chat-session-tabs.md#tab-colors) of the inactive chats.
 
 ## Procedure
 

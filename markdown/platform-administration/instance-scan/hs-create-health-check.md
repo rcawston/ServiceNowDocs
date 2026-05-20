@@ -29,7 +29,7 @@ Role required: scan\_admin
 
 3.  Select one of the available types of checks.
 
-    See [Check types](hs-intro-health-check.md#hs-health-check-types) for more information.
+    See [Check types](hs-intro-health-check.md#check-types) for more information.
 
     **Note:** If you want to update an existing check, the **Version** field increments itself. The new version provides you a change history. You can also know which particular version of the check ran with a given scan.
 

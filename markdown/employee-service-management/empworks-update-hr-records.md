@@ -25,7 +25,7 @@ Role required: Employee
 
 ## About this task
 
-The AI assistant uses the reasoning engine to identify the records that must change. It collects the inputs in the conversation and confirms before it updates the system of record. For background, see [AI assistant reasoning engine](empworks-moveworks-capabilities.md#section-reasoning-engine).
+The AI assistant uses the reasoning engine to identify the records that must change. It collects the inputs in the conversation and confirms before it updates the system of record. For background, see [AI assistant reasoning engine](empworks-moveworks-capabilities.md#ai-assistant-reasoning-engine).
 
 ## Procedure
 

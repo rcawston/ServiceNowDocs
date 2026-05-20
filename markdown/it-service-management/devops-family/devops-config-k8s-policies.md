@@ -24,7 +24,7 @@ You can use or customize these default DevOps Config policies to validate that y
 
 <table id="table_gsp_4vm_nzb"><tbody><tr><td>
 
-[A](devops-config-k8s-policies.md#a) \| [B](devops-config-k8s-policies.md#b) \| [C](devops-config-k8s-policies.md#c) \| [D](devops-config-k8s-policies.md#d) \| [I](devops-config-k8s-policies.md#i) \| [K](devops-config-k8s-policies.md#k) \| [M](devops-config-k8s-policies.md#m) \| [N](devops-config-k8s-policies.md#n) \| [P](devops-config-k8s-policies.md#p) \| [R](devops-config-k8s-policies.md#r) \| [S](devops-config-k8s-policies.md#s) \| [T](devops-config-k8s-policies.md#t)
+[A](devops-config-k8s-policies.md#table_gsp_4vm_nzb) \| [B](devops-config-k8s-policies.md#kubernetes-policies-in-devops-config) \| [C](devops-config-k8s-policies.md#kubernetes-policies-in-devops-config) \| [D](devops-config-k8s-policies.md#kubernetes-policies-in-devops-config) \| [I](devops-config-k8s-policies.md#kubernetes-policies-in-devops-config) \| [K](devops-config-k8s-policies.md#kubernetes-policies-in-devops-config) \| [M](devops-config-k8s-policies.md#table_gsp_4vm_nzb) \| [N](devops-config-k8s-policies.md#kubernetes-policies-in-devops-config) \| [P](devops-config-k8s-policies.md#kubernetes-policies-in-devops-config) \| [R](devops-config-k8s-policies.md#kubernetes-policies-in-devops-config) \| [S](devops-config-k8s-policies.md#kubernetes-policies-in-devops-config) \| [T](devops-config-k8s-policies.md#kubernetes-policies-in-devops-config)
 
 </td></tr></tbody>
 </table>## Always Pull Images Admission Control Plugin Is Enabled \(container\_always\_pull\_images\_plugin\_is\_enabled\)

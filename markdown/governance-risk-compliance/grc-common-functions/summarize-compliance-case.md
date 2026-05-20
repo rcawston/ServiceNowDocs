@@ -48,7 +48,7 @@ If the **Summarize** option isn’t visible, the skill has to be activated by an
 
 6.  Select **Summarize**.
 
-    The summary is displayed. For a description of each section included in the summary, see [Components of a compliance case summary](compliance-case-summarization-skill.md#section_yyd_glz_k3c).
+    The summary is displayed. For a description of each section included in the summary, see [Components of a compliance case summary](compliance-case-summarization-skill.md#components-of-a-compliance-case-summary).
 
 7.  Review the summary and complete any of the following options.
 

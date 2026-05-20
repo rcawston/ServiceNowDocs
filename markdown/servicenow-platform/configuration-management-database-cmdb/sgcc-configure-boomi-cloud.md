@@ -33,7 +33,7 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](cmdb-sgc-intro.md#service-graph-connector-user-roles).
 
 ## About this task
 
@@ -93,7 +93,7 @@ OAuth client ID
 
 </td><td>
 
-Client ID of your Boomi Cloud API Management application as noted in the [Before you begin](sgcc-configure-boomi-cloud.md#prereq) section.
+Client ID of your Boomi Cloud API Management application as noted in the [Before you begin](sgcc-configure-boomi-cloud.md#before-you-begin) section.
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ OAuth Client secret
 
 </td><td>
 
-Client secret of the Boomi Cloud API Management application as noted in the [Before you begin](sgcc-configure-boomi-cloud.md#prereq) section.
+Client secret of the Boomi Cloud API Management application as noted in the [Before you begin](sgcc-configure-boomi-cloud.md#before-you-begin) section.
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ Area ID
 
 </td><td>
 
-Boomi area identifier from which data is imported as noted in the [Before you begin](sgcc-configure-boomi-cloud.md#prereq) section.
+Boomi area identifier from which data is imported as noted in the [Before you begin](sgcc-configure-boomi-cloud.md#before-you-begin) section.
 
 </td></tr></tbody>
 </table>    3.  Select **Create and test connection**.
@@ -120,7 +120,7 @@ Boomi area identifier from which data is imported as noted in the [Before you be
 
     1.  In the **Setup** stage of the playbook, select the **Set configuration properties** activity.
 
-    2.  In the **Area Name** field, enter the area name for your **Boomi** instance as noted in the [Before you begin](sgcc-configure-boomi-cloud.md#prereq) section.
+    2.  In the **Area Name** field, enter the area name for your **Boomi** instance as noted in the [Before you begin](sgcc-configure-boomi-cloud.md#before-you-begin) section.
 
     3.  Select **Continue**.
 

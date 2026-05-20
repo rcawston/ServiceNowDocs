@@ -47,7 +47,7 @@ Service Mapping evaluates only active connection rules and only for connection s
 5.  Every time Service Mapping rediscovers application services of the manual or discovered type, it validates automatically added traffic-based connections against the active connection rules. That way the system ensures that application services contain only relevant connections based on the current and active connection rules.
 6.  If a rule is no longer valid, Service Mapping changes the decision attribute for its corresponding connection suggestion to Undecided. Service Mapping also removes the association between the connection rule and the connection suggestion. Unless Service Mapping can apply a different connection rule to CI connections that became irrelevant, Service Mapping removes them from the application services.
 
-If necessary, you can modify the number of the local or global connection rules that the system uses in the algorithm, as described in [Properties installed with Service Mapping](components-installed-with-service-mapping.md#section_g5w_lcn_c2b).
+If necessary, you can modify the number of the local or global connection rules that the system uses in the algorithm, as described in [Properties installed with Service Mapping](components-installed-with-service-mapping.md#components-installed-with-service-mapping).
 
 ## Enabling discovery based on Predictive Intelligence
 

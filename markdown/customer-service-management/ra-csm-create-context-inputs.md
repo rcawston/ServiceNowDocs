@@ -19,7 +19,7 @@ Role required: sn\_nb\_action.next\_best\_action\_author, or admin
 
 ## About this task
 
-After creating context inputs, you must configure the RA UIB component to pass the context input values. For more information, see [Configuring Recommended Actions UIB component for context inputs](ra-csm-dynamic-context-inputs.md#section-config-ra-ci).
+After creating context inputs, you must configure the RA UIB component to pass the context input values. For more information, see [Configuring Recommended Actions UIB component for context inputs](ra-csm-dynamic-context-inputs.md#configuring-recommended-actions-uib-component-for-context-inputs).
 
 **Note:**
 
@@ -33,7 +33,7 @@ Creating context inputs is not mandatory. You can create context inputs for a co
 
 3.  On the Context inputs related list, select **New**.
 
-    **Note:** The Context inputs related list appears only when a parent context is not mapped to the context. For more information on the context input configuration limitations, see [Context Input configuration limitations](ra-csm-dynamic-context-inputs.md#section-ci-config-limits).
+    **Note:** The Context inputs related list appears only when a parent context is not mapped to the context. For more information on the context input configuration limitations, see [Context Input configuration limitations](ra-csm-dynamic-context-inputs.md#context-input-configuration-limitations).
 
 4.  In the form, fill in the fields.
 

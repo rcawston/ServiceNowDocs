@@ -21,7 +21,7 @@ An attribute pack is a collection of attributes that you can associate with a su
 
 You create an attribute pack table and configure the mapping between a pack table and CI. When you create or update the CI record, you can add the pack table and provide the additional information about the inventory object.
 
-By using an attribute pack, you can manage a CI and its attributes more granularly. For example, if you consider a server as a CI, an attribute pack for a server could include such attributes as a hostname or IP address. These attributes provide additional information about the server that helps you to manage and track it throughout its life cycle. To learn more about how to use an attribute pack in the inventory form, see [Using an attribute pack in an inventory form](telecommunication-network-inventory-pack.md#section_ybf_dg3_gxb) section.
+By using an attribute pack, you can manage a CI and its attributes more granularly. For example, if you consider a server as a CI, an attribute pack for a server could include such attributes as a hostname or IP address. These attributes provide additional information about the server that helps you to manage and track it throughout its life cycle. To learn more about how to use an attribute pack in the inventory form, see [Using an attribute pack in an inventory form](telecommunication-network-inventory-pack.md#using-an-attribute-pack-in-an-inventory-form) section.
 
 Use an attribute pack to customize the attributes according to the requirements of your organization or a subset of CIs. This customization enables your organizations to scale your present and future inventory management needs.
 

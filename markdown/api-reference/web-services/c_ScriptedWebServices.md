@@ -19,7 +19,7 @@ You can define input and output parameters for the SOAP web service and use Java
 
 ## Security
 
-Scripted SOAP web services have the same base security options as all SOAP web services. For details on SOAP web services security, see [SOAP web services security](c_SOAPWebService.md#SOAP-web-services-security).
+Scripted SOAP web services have the same base security options as all SOAP web services. For details on SOAP web services security, see [SOAP web services security](c_SOAPWebService.md#soap-web-services-security).
 
 When [strict security](c_SOAPWebService.md) is enforced on a system, the HTTP authenticated user must have the [soap\_script](c_SOAPWebService.md) role to execute the scripted web service.
 

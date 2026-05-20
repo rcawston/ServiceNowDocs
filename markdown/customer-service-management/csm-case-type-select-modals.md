@@ -21,7 +21,7 @@ The case type selector is a component that provides agents with the ability to s
 -   Select a product from a list of products owned by the customer and create a case for that product.
 -   Select a service and create a case for that specific service.
 
-The selections that an agent can make is determined by the case type selector configuration. The system administrator can configure [different versions of the case type selector](csm-case-type-select-modals.md#section_h24_lf1_yxb) by setting [properties](csm-case-type-select-modals.md#section_p3t_k3f_svb). The different versions include:
+The selections that an agent can make is determined by the case type selector configuration. The system administrator can configure [different versions of the case type selector](csm-case-type-select-modals.md#case-type-selector) by setting [properties](csm-case-type-select-modals.md#section_p3t_k3f_svb). The different versions include:
 
 -   Multi-select \(default\)
 -   single-select
@@ -93,7 +93,7 @@ With the multi-select version, the agent selects a case type and optionally sele
 
  The multi-select version of the case type selector is the default functionality.
 
- For more information, see [Select a category and subtype for a case type](manage-csm-case-types.md#section_l3d_jr3_3kb).
+ For more information, see [Select a category and subtype for a case type](manage-csm-case-types.md#select-a-category-and-subtype-for-a-case-type).
 
 </td></tr><tr><td>
 

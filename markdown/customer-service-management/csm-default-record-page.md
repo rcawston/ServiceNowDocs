@@ -21,7 +21,7 @@ The CSM default record page is included with the CSM/FSM Configurable Workspace 
 
 ## Activity stream component
 
-The activity stream component on the CSM default record page displays a list of activities occurring on a case record. This list can be collapsed to provide a quick view of case activities or expanded to provide more detail about individual activities. For more information about this component, see [Activity stream component](csm-front-line-case-page.md#section_ntx_lnh_s1c).
+The activity stream component on the CSM default record page displays a list of activities occurring on a case record. This list can be collapsed to provide a quick view of case activities or expanded to provide more detail about individual activities. For more information about this component, see [Activity stream component](csm-front-line-case-page.md#activity-stream-component).
 
 ## Action bar component
 
@@ -44,7 +44,7 @@ When the **Follow** action is selected, the button toggles to **Unfollow**. To s
 
 ## Thin compose modeless dialogs
 
-The CSM default record page uses the thin compose modeless dialog feature, which incorporates modeless dialogs into the activity stream. This feature enables agents to initiate a comment, work note, or email in the activity stream and then open the text in a modeless dialog. For more information, see [Thin compose modeless dialogs](csm-front-line-case-page-modeless-dialogs.md#section_nws_1rs_rfc).
+The CSM default record page uses the thin compose modeless dialog feature, which incorporates modeless dialogs into the activity stream. This feature enables agents to initiate a comment, work note, or email in the activity stream and then open the text in a modeless dialog. For more information, see [Thin compose modeless dialogs](csm-front-line-case-page-modeless-dialogs.md#thin-compose-modeless-dialogs).
 
 ## Record presence feature
 
@@ -187,7 +187,7 @@ Requests
 
 ## Editable record header field
 
-Agents can edit the short description of a record directly from the record header field. For more information, see [Editable record headers](csm-workspace-agent-actions.md#section_hhb_1tj_23c).
+Agents can edit the short description of a record directly from the record header field. For more information, see [Editable record headers](csm-workspace-agent-actions.md#editable-record-headers).
 
 ## Collaborate component
 

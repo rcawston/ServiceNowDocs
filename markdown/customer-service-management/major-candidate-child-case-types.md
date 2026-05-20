@@ -19,7 +19,7 @@ A major case contains information about a specific issue that impacts multiple c
 
 The recipients list associated with the major case identifies customers impacted by the issue. Select a list in the **Affected Customers** field in the Major Case Information form section of the Major Case form. After adding the list, you can automatically create child cases for all customers on the list. These cases are added to the **Child Cases** related list on the Major Case form.
 
-With [synchronization](major-candidate-child-case-types.md#section_lx3_1tv_ndb) enabled, updates to the parent major case are automatically synchronized to the associated child cases. When the major case is closed, the associated child cases in the following states are also closed: New, Open, Awaiting Customer Info.
+With [synchronization](major-candidate-child-case-types.md#synchronization-between-major-cases-and-associated-child-cases) enabled, updates to the parent major case are automatically synchronized to the associated child cases. When the major case is closed, the associated child cases in the following states are also closed: New, Open, Awaiting Customer Info.
 
 When the `enable_case_type_for_major_case` property is set to true, the system uses the `sys_class_name` of the candidate case to determine the case type of the resulting major case and its child cases, rather than defaulting to the base Case table.
 

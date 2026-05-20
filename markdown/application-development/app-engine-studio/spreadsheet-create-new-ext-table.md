@@ -71,7 +71,7 @@ Make extensible
 
 </td><td>
 
-Option to allow other tables to share data from this table. For more information on table extension, see [Table extension](add-data.md#section_ebj_sdb_d5b).
+Option to allow other tables to share data from this table. For more information on table extension, see [Table extension](add-data.md#table-extension).
 
 </td></tr><tr><td>
 

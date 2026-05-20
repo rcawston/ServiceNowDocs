@@ -33,7 +33,7 @@ See [CSM Configurable Workspace](../../customer-service-management/csm-workspace
 
     Save time and promote consistency by creating conditional templates, setting field-level conditions, and automatically populating email body text. Populate these fields using dynamic values from the Case table and related tables. Preview template changes before applying them to a record.
 
--   **[Workspace record page interoperability](../../customer-service-management/csm-config-ws-pages-templates.md#section_q4z_fm3_23c)**
+-   **[Workspace record page interoperability](../../customer-service-management/csm-config-ws-pages-templates.md#workspace-record-page-interoperability)**
 
     Enable agents to use record pages between CSM Configurable Workspace and ITSM Service Operations Workspace. The following ITSM pages are interoperable across CSM:
 
@@ -62,7 +62,7 @@ See [CSM Configurable Workspace](../../customer-service-management/csm-workspace
 
 ## Changed in this release
 
--   **[Editable record headers](../../customer-service-management/csm-workspace-agent-actions.md#section_hhb_1tj_23c)**
+-   **[Editable record headers](../../customer-service-management/csm-workspace-agent-actions.md#editable-record-headers)**
 
     Enables agents to edit the short description of a record directly from the header field. This feature is available on the following record pages:
 
@@ -89,7 +89,7 @@ See [CSM Configurable Workspace](../../customer-service-management/csm-workspace
 
     Create different types of records by using the **Create** button on the Front-line case page. Selecting an action from the Create button, such as creating an incident or a knowledge gap, opens the form in a modeless dialogue.
 
--   **[View attachments in modeless dialogs](../../customer-service-management/csm-front-line-case-page-modeless-dialogs.md#section_sk4_drr_23c)**
+-   **[View attachments in modeless dialogs](../../customer-service-management/csm-front-line-case-page-modeless-dialogs.md#modeless-dialogs)**
 
     Enable agents to access and review attachments in modeless dialogs instead of workspace tabs. Agents can easily view attachments while also viewing case information and drafts of emails, comments, or work notes.
 

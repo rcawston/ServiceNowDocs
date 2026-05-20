@@ -56,7 +56,7 @@ Use the SGC Central view in the Service Graph Workspace or CMDB Workspace to ins
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Tanium integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Tanium integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#using-the-cmdb-integrations-dashboard).
 
 ## Data mapping
 
@@ -90,7 +90,7 @@ SG-Tanium Applications \[sn\_tanium\_integ\_sg\_tanium\_applications\]
 
 </td><td>
 
-[Application](cmdb-tanium-classes.md#section_h4r_vpz_lbc)
+[Application](cmdb-tanium-classes.md#application-cmdb-ci-appl)
 
  Running Process
 
@@ -110,23 +110,23 @@ SG Tanium Import \[sn\_tanium\_integ\_sg\_tanium\_import\]
 
 </td><td>
 
-[Computer](cmdb-tanium-classes.md#section_fsp_4f3_k5b)
+[Computer](cmdb-tanium-classes.md#computer-cmdb-ci-computer)
 
- [File System](cmdb-tanium-classes.md#section_xck_rpz_lbc)
+ [File System](cmdb-tanium-classes.md#file-system-cmdb-ci-file-system)
 
- [Disk](cmdb-tanium-classes.md#section_y5n_qpz_lbc)
+ [Disk](cmdb-tanium-classes.md#disk-cmdb-ci-disk)
 
- [IP Address](cmdb-tanium-classes.md#section_xc2_spz_lbc)
+ [IP Address](cmdb-tanium-classes.md#ip-address-cmdb-ci-ip-address)
 
  When the Software Asset Management \(SAM\) application isn't installed:
 
- [Software](cmdb-tanium-classes.md#section_shg_5pz_lbc)
+ [Software](cmdb-tanium-classes.md#software-cmdb-ci-spkg)
 
- [Software Instance](cmdb-tanium-classes.md#section_fvw_5pz_lbc)
+ [Software Instance](cmdb-tanium-classes.md#software-instance-cmdb-software-instance)
 
  When the SAM application is installed:
 
- [Software Installation](cmdb-tanium-classes.md#section_jpl_1q1_mbc)
+ [Software Installation](cmdb-tanium-classes.md#software-installation-cmdb-sam-sw-install)
 
 </td><td>
 

@@ -180,7 +180,7 @@ Displayed
 
 In chat channels, the default idle conversation timeout period for Virtual Agent and Live Agent conversations is two hours \(7200 seconds\). However, for Live Agent conversations in messaging channels, certain messaging actions are automatically applied, which affects how idle conversations are handled. In messaging channels, when a requester hasn't responded to an agent message within two days, the conversation state changes to Closed Abandoned and the message is closed. For more information on messaging actions, see [Configure messaging actions](advanced-work-assignment/configure-messaging-actions.md).
 
-As admins, you can override the conversation idle timeout period per channel by setting the value in the **Conversation Idle Timeout** field in the Messaging Channels \[sys\_cs\_channel\] table. For details, see [Override the conversation timeout period by channel](virtual-agent/va-open-conversations.md#section_yd3_fgp_14b).
+As admins, you can override the conversation idle timeout period per channel by setting the value in the **Conversation Idle Timeout** field in the Messaging Channels \[sys\_cs\_channel\] table. For details, see [Override the conversation timeout period by channel](virtual-agent/va-open-conversations.md#override-the-conversation-timeout-period-by-channel).
 
 ## Proactive messaging
 

@@ -32,7 +32,7 @@ Dependencies and requirements:
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#service-graph-connector-user-roles).
 
 ## Procedure
 
@@ -156,7 +156,7 @@ Connection and Credential Alias
 
 </td><td>
 
-Select the connection alias that you created in step [4](sgc-config-new-relic-integration.md#new-relic-alias).
+Select the connection alias that you created in step [4](sgc-config-new-relic-integration.md#table_vyj_kgv_y4b).
 
 </td></tr></tbody>
 </table>        5.  Select **Submit**.

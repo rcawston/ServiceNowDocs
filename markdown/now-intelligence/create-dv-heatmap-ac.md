@@ -181,7 +181,7 @@ Specify the text color of the title. The default title color is black, but you c
 
         **Note:**
 
-        You might have a multiple select \(is one of\) or dynamic \(is \(dynamic\)\) operator on the breakdown element filter. These operators require the indicator and breakdown to support them. For more information about the configurations that support these operators, see ["Is one of" and "Is \(Dynamic\)" operators on breakdown conditions in data visualizations](performance-analytics/condition-operators-ind-bkdowns.md#section_breakdown-operators).
+        You might have a multiple select \(is one of\) or dynamic \(is \(dynamic\)\) operator on the breakdown element filter. These operators require the indicator and breakdown to support them. For more information about the configurations that support these operators, see ["Is one of" and "Is \(Dynamic\)" operators on breakdown conditions in data visualizations](performance-analytics/condition-operators-ind-bkdowns.md#is-one-of-and-is-dynamic-operators-on-breakdown-conditions-in-data-visualizations).
 
 6.  Select the options for your data source.
 

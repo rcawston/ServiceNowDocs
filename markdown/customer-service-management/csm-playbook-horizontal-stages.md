@@ -13,9 +13,9 @@ breadcrumb: [Playbook pages, Playbooks in Customer Service Management, Agent too
 
 The Case playbook: horizontal stages page is a record page that you can use in CSM Configurable Workspace. This page includes a playbook with a horizontal stage picker that displays across the top of the user interface and persistent information in the left panel.
 
-The Case playbook: horizontal stages record page is created from the [Case playbook: horizontal stages template](csm-playbook-templates.md#section_uyk_sp3_cxb).
+The Case playbook: horizontal stages record page is created from the [Case playbook: horizontal stages template](csm-playbook-templates.md#case-playbook-horizontal-stages-page-template).
 
-The Case playbook: horizontal stages record page is available with the Playbooks for Customer Service Management v6.0 store application. For more information, see [Playbook plugins](setting-up-csm-playbooks.md#section_qgq_ylk_llb).
+The Case playbook: horizontal stages record page is available with the Playbooks for Customer Service Management v6.0 store application. For more information, see [Playbook plugins](setting-up-csm-playbooks.md#playbook-plugins).
 
 ## Case playbook: horizontal stages page variant
 

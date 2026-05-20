@@ -71,7 +71,7 @@ Vulnerabilities
 
 Total number of security vulnerabilities for the selected build.This data comes from the **Vulnerabilities** category in the Software Quality Scan Details.
 
-Use the **VulnerabilitiesTypeMapping** system property to normalize each type of vulnerability, mapping the custom values with the standard values. For more information, see [Digital Product Release properties](digital-product-release-properties.md#prop_vulnerabilities).
+Use the **VulnerabilitiesTypeMapping** system property to normalize each type of vulnerability, mapping the custom values with the standard values. For more information, see [Digital Product Release properties](digital-product-release-properties.md#digital-product-release-properties).
 
 </td></tr><tr><td>
 

@@ -71,7 +71,7 @@ Health Log Analytics helps prevent IT issues before your users are affected. It 
 
 </td><td>
 
-[Roles installed with Health Log Analytics](../../it-operations-management/health-log-analytics/hla-components.md#section_okx_gk3_2nb)
+[Roles installed with Health Log Analytics](../../it-operations-management/health-log-analytics/hla-components.md#components-installed-with-health-log-analytics)
 
 </td><td>
 
@@ -112,7 +112,7 @@ Service Mapping discovers all application services in your organization and buil
 
 </td><td>
 
-[Roles installed with Service Mapping](../../it-operations-management/service-mapping/components-installed-with-service-mapping.md#section_wly_yyh_wdb)
+[Roles installed with Service Mapping](../../it-operations-management/service-mapping/components-installed-with-service-mapping.md#roles-installed)
 
 </td><td>
 

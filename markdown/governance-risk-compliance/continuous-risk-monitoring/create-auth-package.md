@@ -35,7 +35,7 @@ Role required: sn\_irm\_cont\_auth.system\_owner or sn\_irm\_cont\_auth.admin
 
 3.  Select the **Roles and Responsibilities** tab and specify the responsibilities of various stakeholders during the review and approval process.
 
-    The settings are described in [Roles and Responsibilities](cam-form-authorization-package.md#section_xml_sf4_qfc).
+    The settings are described in [Roles and Responsibilities](cam-form-authorization-package.md#roles-and-responsibilities).
 
 4.  Select the **PTA/PIA** tab and perform the Privacy Threshold Analysis by answering the questions.
 

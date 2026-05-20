@@ -36,7 +36,7 @@ Update the library to the newest version available, or at least the highest vers
 
 1.  Download the Linux Docker recipe ZIP file from the MID Server download page and verify its signature.
 
-    For more information about the MID Server download page and signature verification, see [Download MID Server files](t_DownloadMIDServerFiles.md#postreq_znq_nzd_mgb).
+    For more information about the MID Server download page and signature verification, see [Download MID Server files](t_DownloadMIDServerFiles.md#download-the-mid-server-files).
 
 2.  Unzip the ZIP file to a folder.
 

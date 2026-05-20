@@ -106,7 +106,7 @@ SAP SuccessFactors Role required: admin
 
         The dialog box closes and you return to the Permission Role Detail form.
 
-    11. Under the **Grant this role to...** tab, select **Add...** to search for and select the permission groups that you created in step [4](integrate-with-successfactors.md#create-group).
+    11. Under the **Grant this role to...** tab, select **Add...** to search for and select the permission groups that you created in step [4](integrate-with-successfactors.md#before-you-begin-4).
 
         Adding this permission group allows the associated users and user groups to access the APIs that are enabled in this permission role.
 

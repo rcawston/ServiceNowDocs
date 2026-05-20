@@ -77,7 +77,7 @@ SGA Apigee X Apigee Organization \[sn\_apigee\_x\_apigee\_organization\]
 
 </td><td>
 
-[Google Organization Project](api-sgc-apigee-x-tables.md#section_tkk_p4d_3cc)[Apigee API Gateway](api-sgc-apigee-x-tables.md#section_zws_54d_3cc)
+[Google Organization Project](api-sgc-apigee-x-tables.md#google-organization-project-cmdb-ci-gcp-project)[Apigee API Gateway](api-sgc-apigee-x-tables.md#apigee-api-gateway-cmdb-ci-apigee-api-gateway)
 
 </td></tr><tr><td>
 
@@ -89,9 +89,9 @@ SGA Apigee X Managed API \[sn\_apigee\_x\_sga\_apigee\_x\_managed\_api\]
 
 </td><td>
 
-[Managed API](api-sgc-apigee-x-tables.md#section_bfw_xtj_4bc)[API Deployment](api-sgc-apigee-x-tables.md#section_f35_vtj_4bc)
+[Managed API](api-sgc-apigee-x-tables.md#managed-api-cmdb-ci-managed-api)[API Deployment](api-sgc-apigee-x-tables.md#api-deployment-api-deployment)
 
-[Apigee API Gateway](api-sgc-apigee-x-tables.md#section_zws_54d_3cc)
+[Apigee API Gateway](api-sgc-apigee-x-tables.md#apigee-api-gateway-cmdb-ci-apigee-api-gateway)
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ SGA Apigee X API Consumer \[sn\_apigee\_x\_sga\_apigee\_x\_api\_consumer\]
 
 </td><td>
 
-[API Consumer](api-sgc-apigee-x-tables.md#section_wyl_wtj_4bc)
+[API Consumer](api-sgc-apigee-x-tables.md#api-consumer-api-consumer)
 
 </td></tr><tr><td>
 
@@ -115,7 +115,7 @@ SGA Apigee X Frontend Backend \[sn\_apigee\_x\_sga\_apigee\_x\_frontend\_backend
 
 </td><td>
 
-[API Frontend](api-sgc-apigee-x-tables.md#section_lrd_wtj_4bc)[API Backend](api-sgc-apigee-x-tables.md#section_kkr_xtj_4bc)
+[API Frontend](api-sgc-apigee-x-tables.md#api-frontend-cmdb-ci-api-frontend)[API Backend](api-sgc-apigee-x-tables.md#api-backend-cmdb-ci-api-backend)
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ SGA Apigee X API Product \[sn\_apigee\_x\_sga\_apigee\_x\_api\_product\]
 
 </td><td>
 
-[API Product Bundle](api-sgc-apigee-x-tables.md#section_blq_jn3_h2c)[Key Value](api-sgc-apigee-x-tables.md#section_ddb_rn3_h2c)
+[API Product Bundle](api-sgc-apigee-x-tables.md#api-product-bundle-cmdb-ci-api-product-bundle)[Key Value](api-sgc-apigee-x-tables.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ SGA Apigee X API Consumer Subscription \[sn\_apigee\_x\_sga\_apigee\_x\_api\_con
 
 </td><td>
 
-[API Consumer Subscription](api-sgc-apigee-x-tables.md#section_mfm_n43_h2c)[Key Value](api-sgc-apigee-x-tables.md#section_ddb_rn3_h2c)
+[API Consumer Subscription](api-sgc-apigee-x-tables.md#api-consumer-subscription-cmdb-ci-api-consumer-subscription)[Key Value](api-sgc-apigee-x-tables.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ SGA Apigee X API Consumer Access \[sn\_apigee\_x\_sga\_apigee\_x\_api\_consumer\
 
 </td><td>
 
-[API Consumer Access](api-sgc-apigee-x-tables.md#section_jll_ym3_h2c)
+[API Consumer Access](api-sgc-apigee-x-tables.md#api-consumer-access-api-consumer-access)
 
 </td></tr><tr><td>
 
@@ -163,7 +163,7 @@ SGA Apigee X Organization \[sn\_apigee\_x\_sga\_apigee\_x\_organization\]
 
 </td><td>
 
-[Cloud Organizations](api-sgc-apigee-x-tables.md#section_ecv_wtj_4bc)
+[Cloud Organizations](api-sgc-apigee-x-tables.md#cloud-organizations-cmdb-ci-cloud-org)
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ SGA Apigee X Folder \[sn\_apigee\_x\_sga\_apigee\_x\_folder\]
 
 </td><td>
 
-[Google Organization Folder](api-sgc-apigee-x-tables.md#section_fyl_ymd_3cc)
+[Google Organization Folder](api-sgc-apigee-x-tables.md#google-organization-folder-cmdb-ci-gcp-folder)
 
 </td></tr><tr><td>
 
@@ -187,7 +187,7 @@ SGA Apigee X Project \[sn\_apigee\_x\_sga\_apigee\_x\_project\]
 
 </td><td>
 
-[Google Organization Project](api-sgc-apigee-x-tables.md#section_tkk_p4d_3cc)
+[Google Organization Project](api-sgc-apigee-x-tables.md#google-organization-project-cmdb-ci-gcp-project)
 
 </td></tr></tbody>
 </table>For more information on where data is saved when pulling data from an Apigee X application, see [Target tables for storing API Service Graph Connector for Apigee X data](api-sgc-apigee-x-tables.md).

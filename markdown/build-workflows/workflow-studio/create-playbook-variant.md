@@ -74,7 +74,7 @@ Add more conditions for this variant to run, as needed.
 
     Activities that are the same as in a parent playbook are grayed out. If you change or add an activity, it is shown in full color.
 
-    **Note:** For more general guidelines, see [General Guidelines](playbook-variants.md#general-guidelines-playbook-variants).
+    **Note:** For more general guidelines, see [General Guidelines](playbook-variants.md#general-guidelines).
 
 8.  Add a child variant to a variant.
 

@@ -29,7 +29,7 @@ You must first configure the method before executing it. To configure, do the fo
 
     [Status](parameters-xmlTemplate-methods.md#parameter-input-clasify-status)
 
-    [Template](parameters-xmlTemplate-methods.md#parameter-input-clasify-template)
+    [Template](parameters-xmlTemplate-methods.md#parameters-of-the-xmltemplate-connector-methods)
 
 
 ## GetFields

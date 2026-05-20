@@ -58,7 +58,7 @@ If [Now Assist for Financial Services Operations \(FSO\)](../now-assist-for-fina
 **Related topics**  
 
 
-[Dispute Reason Codes](components-installed-with-dispute-rules-content-pack-for-nacha.md#section_upm_p2c_xgc)
+[Dispute Reason Codes](components-installed-with-dispute-rules-content-pack-for-nacha.md#dispute-reason-codes)
 
 [Using agentic workflows in Now Assist for Financial Services Operations \(FSO\)](../now-assist-for-financial-services-operations-fso/using-ai-agent-use-cases-in-now-assist-for-fso.md)
 

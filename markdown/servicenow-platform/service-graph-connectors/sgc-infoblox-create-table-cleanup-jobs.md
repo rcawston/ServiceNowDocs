@@ -86,7 +86,7 @@ Set the value to either `0` or `86400` \(24 hours\).-   `0`: All records updated
 
     The job runs automatically in the next available maintenance window.
 
-7.  Repeat step [4](sgc-infoblox-create-table-cleanup-jobs.md#step_kts_bvb_m3c) to step [6](sgc-infoblox-create-table-cleanup-jobs.md#step_lhc_dvb_m3c) for the remaining IPAM tables.
+7.  Repeat step [4](sgc-infoblox-create-table-cleanup-jobs.md#table_bc4_ntb_m3c) to step [6](sgc-infoblox-create-table-cleanup-jobs.md#step_lhc_dvb_m3c) for the remaining IPAM tables.
 
 8.  Configure a table cleanup job for the Detailed Network \[sn\_infoblox\_integ\_sg\_infoblox\_detailed\_subnetwork\] table.
 

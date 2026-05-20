@@ -33,7 +33,7 @@ Pipeline steps can be configured to enable change receipts, which do not pause t
 
 If you want to stop the automatic transition of the change request states even when change receipt is turned on, you must disable the sn\_devops.enable\_change\_receipt\_state\_transition property. For more information, see [DevOps Change Velocity properties](dev-ops-administration.md).
 
-Once approved, either automatically or manually, change requests move to Implement state and the job is run. Once the job is run, the change request is moved to the closed state with Close code as successful on a successful job run or Unsuccessful on error in the job run. For information on customizing your change request states, see [Custom change request process](dev-ops-change-acceleration.md#section_www_tzz_jjb).
+Once approved, either automatically or manually, change requests move to Implement state and the job is run. Once the job is run, the change request is moved to the closed state with Close code as successful on a successful job run or Unsuccessful on error in the job run. For information on customizing your change request states, see [Custom change request process](dev-ops-change-acceleration.md#custom-change-request-process).
 
 If a change request is not approved and moved to the canceled or closed state, the associated Jenkins, GitHub, or ADO job is marked as failed and a console message is shown:
 
@@ -218,7 +218,7 @@ For a change request automatically created by DevOps, the **Category** field is 
 
     List of test summaries for a pipeline execution associated with an artifact, package, or task execution before the change request.
 
-    See [Test Results](dev-ops-change-acceleration.md#section_ccp_nbb_dlb) for more details.
+    See [Test Results](dev-ops-change-acceleration.md#test-results-related-list) for more details.
 
 -   **Software Quality Summary**
 

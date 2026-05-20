@@ -45,5 +45,5 @@ When WS-Security is enabled, authentication is required for all SOAP requests in
 
 [Enable WS-Security verification](t_EnableWS-SecurityVerification.md)
 
-[WS-Security](c_SOAPWebService.md#WS-Security)
+[WS-Security](c_SOAPWebService.md#ws-security)
 

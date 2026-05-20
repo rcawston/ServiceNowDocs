@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the OCR ClickText action. For more information about these properties, see [OCR Click Text](actionset-actions-properties.md#section_lff_znr_h5b).
+You can configure the properties for the OCR ClickText action. For more information about these properties, see [OCR Click Text](actionset-actions-properties.md#ocr-click-text).
 
 ## Procedure
 

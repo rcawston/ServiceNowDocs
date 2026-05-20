@@ -43,7 +43,7 @@ Role required: admin
 
     **Important:**
 
-    -   You must ensure that the contents of your sitemap meet the [Sitemap requirements](sitemap-generator.md#section_w52_vbq_ytb).
+    -   You must ensure that the contents of your sitemap meet the [Sitemap requirements](sitemap-generator.md#sitemap-requirements).
     -   You don’t need to add the header and footer of the sitemap XML. These are added automatically when the sitemap is generated.
 6.  In the **Type** field of the UX Sitemap Definition form, select one of the following options to define the contents of the sitemap either with a script or by specifying static URL elements.
 
@@ -90,7 +90,7 @@ The approximate frequency at which the page is updated.
 </td></tr></tbody>
 </table>7.  Select **Active** and then select **Submit**.
 
-8.  Repeat steps [5](generate-xml-sitemaps-seo-indexing.md#new-sitemap-def) through [7](generate-xml-sitemaps-seo-indexing.md#save-definition-type) to define additional content to include in the sitemap.
+8.  Repeat steps [5](generate-xml-sitemaps-seo-indexing.md#d126519e211) through [7](generate-xml-sitemaps-seo-indexing.md#save-definition-type) to define additional content to include in the sitemap.
 
     You can create multiple sitemap definitions with any combination of types that combine to create the sitemap. For example, you could include both static XML and dynamic content from a script or you could include content from multiple scripts.
 

@@ -75,7 +75,7 @@ SG-Kong Gateway \[sn\_kong\_integ\_sg\_kong\_gateway\]
 
 </td><td>
 
-[Kong Gateway](api-sgc-kong-gateway-tables.md#section_ecv_wtj_4bc)
+[Kong Gateway](api-sgc-kong-gateway-tables.md#target-tables-for-storing-api-service-graph-connector-for-kong-gateway-data)
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ SG-Kong Workspaces \[sn\_kong\_integ\_sg\_kong\_workspaces\]
 
 </td><td>
 
-[Kong Workspace](api-sgc-kong-gateway-tables.md#section_zws_54d_3cc)
+[Kong Workspace](api-sgc-kong-gateway-tables.md#kong-workspace-kong-workspace)
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ SG-Kong Load Balancers \[sn\_kong\_integ\_sg\_kong\_lbs\]
 
 </td><td>
 
-[Kong Load Balancer](api-sgc-kong-gateway-tables.md#section_fyl_ymd_3cc)
+[Kong Load Balancer](api-sgc-kong-gateway-tables.md#kong-load-balancer-cmdb-ci-kong-lb)
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ SG-Kong Targets \[sn\_kong\_integ\_sg\_kong\_targets\]
 
 </td><td>
 
-[Kong Target](api-sgc-kong-gateway-tables.md#section_tkk_p4d_3cc)[Key Value](api-sgc-kong-gateway-tables.md#section_vjj_ks5_s2c)
+[Kong Target](api-sgc-kong-gateway-tables.md#kong-target-cmdb-ci-kong-target)[Key Value](api-sgc-kong-gateway-tables.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -123,9 +123,9 @@ SG-Kong Services \[sn\_kong\_integ\_sg\_kong\_services\]
 
 </td><td>
 
-[Managed API](api-sgc-kong-gateway-tables.md#section_bfw_xtj_4bc)[API Backend](api-sgc-kong-gateway-tables.md#section_kkr_xtj_4bc)
+[Managed API](api-sgc-kong-gateway-tables.md#managed-api-cmdb-ci-managed-api)[API Backend](api-sgc-kong-gateway-tables.md#api-backend-cmdb-ci-api-backend)
 
-[Key Value](api-sgc-kong-gateway-tables.md#section_vjj_ks5_s2c)
+[Key Value](api-sgc-kong-gateway-tables.md#key-value-cmdb-key-value)
 
 </td></tr><tr><td>
 
@@ -137,7 +137,7 @@ SG-Kong Routes \[sn\_kong\_integ\_sg\_kong\_routes\]
 
 </td><td>
 
-[API Frontend](api-sgc-kong-gateway-tables.md#section_lrd_wtj_4bc)
+[API Frontend](api-sgc-kong-gateway-tables.md#api-frontend-cmdb-ci-api-frontend)
 
 </td></tr><tr><td>
 
@@ -149,7 +149,7 @@ SG-Kong Consumers \[sn\_kong\_integ\_sg\_kong\_consumers\]
 
 </td><td>
 
-[API Consumer](api-sgc-kong-gateway-tables.md#section_wyl_wtj_4bc)
+[API Consumer](api-sgc-kong-gateway-tables.md#api-consumer-api-consumer)
 
 </td></tr><tr><td>
 
@@ -161,7 +161,7 @@ SG-Kong Plugins \[sn\_kong\_integ\_sg\_kong\_plugins\]
 
 </td><td>
 
-[API Policy](api-sgc-kong-gateway-tables.md#section_f35_vtj_4bc)
+[API Policy](api-sgc-kong-gateway-tables.md#api-policy-api-policy)
 
 </td></tr></tbody>
 </table>For more information on where data is saved when pulling data from a Kong Gateway application, see [Target tables for storing API Service Graph Connector for Kong Gateway data](api-sgc-kong-gateway-tables.md).

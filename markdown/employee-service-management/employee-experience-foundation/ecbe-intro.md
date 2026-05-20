@@ -55,11 +55,11 @@ Access your configured Employee Center content with the omnibox search functiona
 
 You can also conduct a context search by selecting a portion of the website content where the extension is enabled. It gives you the search results for the selected section both within the Browser Extension and in the Employee Center portal.
 
-Additionally, you can receive your Employee Center notifications on your Mac or Windows system, as long as you have the Browser Extension open in any one of your tabs. It enables you to track work updates efficiently. For more information, see [Notifications in the Browser Extension for Employee Center](notifications-ec.md#section_notfications_ecbe).
+Additionally, you can receive your Employee Center notifications on your Mac or Windows system, as long as you have the Browser Extension open in any one of your tabs. It enables you to track work updates efficiently. For more information, see [Notifications in the Browser Extension for Employee Center](notifications-ec.md#notifications-in-the-browser-extension-for-employee-center).
 
 ## Feedback in Browser Extension
 
-Provide your experience with the Browser Extension for Employee Center with the default feedback configuration and feedback definition available with the Browser Extension for Employee Center plugin \(sn\_ex\_brw\_ext\) version 1.0. For more information on the experience feedback functionality in the Browser Extension for Employee Center, see [Experience feedback for browser extension](ex-fdback-ovrvw.md#section_ex_feedback_ecbe)
+Provide your experience with the Browser Extension for Employee Center with the default feedback configuration and feedback definition available with the Browser Extension for Employee Center plugin \(sn\_ex\_brw\_ext\) version 1.0. For more information on the experience feedback functionality in the Browser Extension for Employee Center, see [Experience feedback for browser extension](ex-fdback-ovrvw.md#experience-feedback-for-browser-extension)
 
 ## Browser Extension interface
 

@@ -42,7 +42,7 @@ Role required: personalize\_form or AES user role and delegated developer permis
     -   Add a new view to customize by clicking **Add new form view** from the view list or by selecting an option from the Additional actions \( ![Additional actions menu.](../image/ellipsisIcon.png)\) menu.
     -   Duplicate an existing view to customize by selecting a view and then choosing **Duplicate this form view** from the Additional actions \( ![Additional actions menu.](../image/ellipsisIcon.png) menu.
     -   Configure a related list for the selected form view by selecting this option from the Additional actions \( ![Additional actions menu.](../image/ellipsisIcon.png)\) menu.
-    **Note:** You can also choose a view from the Additional actions list to the right of the **Forms** tab or navigate to the **All form views** list to filter and sort a large list of form views. See [All form views list](form-view-configuration.md#section_y1f_vxh_1vb).
+    **Note:** You can also choose a view from the Additional actions list to the right of the **Forms** tab or navigate to the **All form views** list to filter and sort a large list of form views. See [All form views list](form-view-configuration.md#all-form-views-list).
 
 3.  With the view selected, you can modify the form view in the following ways:
 

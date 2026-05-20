@@ -29,7 +29,7 @@ Library pages like this one include a navigation pane that provides access to th
 
 The following example shows the Dashboards library that includes all the common and additional elements that are visible to the users with sys\_admin and dashboard\_admin roles only. See [Dashboard elements for users with admin roles](dashboards-for-admin-users.md#table_h44_pqg_5fc) table for descriptions.
 
-For information on role-based access for the left navigation pane and Platform Analytics overview page, see [Roles applicable for Platform Analytics overview page](analytics-center.md#table_a12_23s_k3c).
+For information on role-based access for the left navigation pane and Platform Analytics overview page, see [Roles applicable for Platform Analytics overview page](analytics-center.md#platform-analytics-overview).
 
 ![Platform Analytics Dashboards library for analytics admins.](../../par-for-workspace/image/analytics-center-db-tab.png "Platform Analytics Dashboards library for analytics admins")
 

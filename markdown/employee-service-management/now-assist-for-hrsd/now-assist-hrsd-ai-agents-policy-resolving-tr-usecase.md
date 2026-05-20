@@ -27,10 +27,10 @@ To access the agentic workflow:
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Overview**.
 2.  Select **Agentic workflows** &gt; **Help resolve tuition requests**.
 
-    The Define key requirements workflow is displayed. For more information, see [Help resolve tuition requests AI agents](now-assist-hrsd-ai-agents-policy-resolving-tr-usecase.md#section_kgq_whk_h2c).
+    The Define key requirements workflow is displayed. For more information, see [Help resolve tuition requests AI agents](now-assist-hrsd-ai-agents-policy-resolving-tr-usecase.md#help-resolve-tuition-requests-ai-agents).
 
-3.  Select **Add a preferred trigger** to review the trigger factors for this agentic workflow. For more information, see [Triggers for the Help resolve tuition requests agentic workflow](now-assist-hrsd-ai-agents-policy-resolving-tr-usecase.md#section_chn_zlf_j2c).
-4.  The **Select a UI display** option enables the Now Assist panel. For more information, see [Select display](now-assist-hrsd-ai-agents-policy-resolving-tr-usecase.md#section_bc5_ykn_x2c).
+3.  Select **Add a preferred trigger** to review the trigger factors for this agentic workflow. For more information, see [Triggers for the Help resolve tuition requests agentic workflow](now-assist-hrsd-ai-agents-policy-resolving-tr-usecase.md#triggers-for-the-help-resolve-tuition-requests-agentic-workflow).
+4.  The **Select a UI display** option enables the Now Assist panel. For more information, see [Select display](now-assist-hrsd-ai-agents-policy-resolving-tr-usecase.md#select-display).
 
 ## Help resolve tuition requests AI agents
 

@@ -25,7 +25,7 @@ Role required: sn\_acct\_lc.customer\_success\_application\_admin
 
 3.  Open the touchpoint for which you want to create a virtual meeting.
 
-4.  Follow the steps described in the [Meetings](account-lifecycle-touchpoint-home.md#section_u4k_m1h_rdc) section to schedule a Zoom meeting.
+4.  Follow the steps described in the [Meetings](account-lifecycle-touchpoint-home.md#meetings) section to schedule a Zoom meeting.
 
     The meeting summary can be generated only if the meeting State is set to **Scheduled**.
 

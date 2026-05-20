@@ -34,7 +34,7 @@ Use standard ServiceNow AI Platform application development capabilities to crea
 
 Flows should be short, modular, reusable collections of work. If they take more than an hour to execute, they’re probably too long and can be more efficient.
 
-Any general guidelines that apply to flows also apply to [subflows](design-considerations-consolidated.md#subflows-design-considerations).
+Any general guidelines that apply to flows also apply to [subflows](design-considerations-consolidated.md#subflows).
 
 -   **Prevent conflicting or duplicate business logic**
 
@@ -44,7 +44,7 @@ Any general guidelines that apply to flows also apply to [subflows](design-consi
 
 -   **Determine whether your flow needs a trigger or variable input**
 
-    Flows always run when their trigger conditions are met, and triggers always provide the same data as input for flows. If you need variable input to initiate a flow instead, create a [subflow](design-considerations-consolidated.md#subflows-design-considerations).
+    Flows always run when their trigger conditions are met, and triggers always provide the same data as input for flows. If you need variable input to initiate a flow instead, create a [subflow](design-considerations-consolidated.md#general-guidelines-for-workflow-studio-flows-subflows-and-actions).
 
 -   **Reuse business logic**
 
@@ -170,7 +170,7 @@ Follow these general guidelines when creating record triggers.
 
 -   **Determine whether your flow needs a trigger or variable input**
 
-    Flows always run when their trigger conditions are met. Triggers always provide the same data as input for flows. If you need variable input to initiate a flow instead, create a [subflow](design-considerations-consolidated.md#subflows-design-considerations).
+    Flows always run when their trigger conditions are met. Triggers always provide the same data as input for flows. If you need variable input to initiate a flow instead, create a [subflow](design-considerations-consolidated.md#general-guidelines-for-workflow-studio-flows-subflows-and-actions).
 
 -   **Add conditions to specify what record values start your flow**
 

@@ -19,7 +19,7 @@ You can find all the dashboards that you have permission to access, dashboards t
 
 Library pages like this one include a navigation pane that provides access to the other libraries and the Usage Insights page. Use it to navigate between the libraries without interrupting your workflow.
 
-For information on role-based access for the filter navigation pane and Platform Analytics overview page, see [Roles applicable for Platform Analytics overview page](analytics-center.md#table_a12_23s_k3c).
+For information on role-based access for the filter navigation pane and Platform Analytics overview page, see [Roles applicable for Platform Analytics overview page](analytics-center.md#platform-analytics-overview).
 
 For more information on Dashboards library, see [Dashboards in the library](find-dashboard-library.md).
 

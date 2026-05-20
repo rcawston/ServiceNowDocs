@@ -80,7 +80,7 @@ To configure public/private key authentication for the connector, you need to cr
         openssl pkcs8 -topk8 -in private_key.pem -out encrypted_key.pem -v2 aes-256-cbc -v2prf hmacWithSHA256 -iter 10000 -saltlen 32
         ```
 
-    2.  When prompted, enter the secure password you generated in step [2](create-key-pair-box-external-content-connector.md#generate-secure-password-step).
+    2.  When prompted, enter the secure password you generated in step [2](create-key-pair-box-external-content-connector.md#table_i22_yvt_rfc).
 
     3.  Store the generated `encrypted_key.pem` file in a secure location.
 
@@ -94,7 +94,7 @@ To configure public/private key authentication for the connector, you need to cr
         openssl pkey -in private_key.pem -pubout -out public_key.pem
         ```
 
-    2.  View or edit the content of the `public_key.pem` file that you generated in step [2](create-key-pair-box-external-content-connector.md#generate-secure-password-step).
+    2.  View or edit the content of the `public_key.pem` file that you generated in step [2](create-key-pair-box-external-content-connector.md#table_i22_yvt_rfc).
 
     3.  Copy the PEM-encoded X.509 public key certificate text and store it in a secure location.
 

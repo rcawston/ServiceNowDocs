@@ -104,7 +104,7 @@ Use caution if you decide to reduce the time interval between each cycle of the 
 
 Review the Workflow contexts table to confirm whether there are any records associated with a Lifecycle Events workflow that have been canceled. The **State** field in the corresponding Workflow context record is set to **Canceled** for workflows that have been canceled.
 
-**Tip:** Use the [Condition with Event BR \(Demo\) activity set](le-evaluation-interval1.md#section_gd5_1wz_nsb) in lieu of modifying the evaluation interval. See [Lifecycle Events evaluation interval](le-evaluation-interval1.md) for more information about the evaluation interval and the Condition with Event BR \(Demo\) activity set.
+**Tip:** Use the [Condition with Event BR \(Demo\) activity set](le-evaluation-interval1.md#condition-with-event-br-demo-activity-set) in lieu of modifying the evaluation interval. See [Lifecycle Events evaluation interval](le-evaluation-interval1.md) for more information about the evaluation interval and the Condition with Event BR \(Demo\) activity set.
 
 </td></tr><tr><td>
 

@@ -19,8 +19,8 @@ Complete the prerequisites before you execute the AWS scripts.
 
 Decide the following details to be used later during the execution of the AWS scripts:
 
--   [ServiceNow IAM role](sgc-cmdb-aws-scripts-prereq.md#section_mxv_3l3_pzb)
--   [ServiceNow IAM username](sgc-cmdb-aws-scripts-prereq.md#section_sf3_rl3_pzb)
+-   [ServiceNow IAM role](sgc-cmdb-aws-scripts-prereq.md#determine-the-servicenow-iam-role)
+-   [ServiceNow IAM username](sgc-cmdb-aws-scripts-prereq.md#determine-the-servicenow-iam-username)
 -   [S3 bucket for the ServiceNow IAM role](sgc-cmdb-aws-scripts-prereq.md#)
 
     **Note:** Define an S3 bucket only when you are using [deep discovery scripts](sgc-cmdb-aws-script-op.md#section_ahc_jwf_4zb).

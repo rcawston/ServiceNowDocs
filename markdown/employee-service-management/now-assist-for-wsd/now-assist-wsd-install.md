@@ -33,7 +33,7 @@ Role required: admin
 
 1.  Navigate to **System Definition** &gt; **Plugins**.
 
-    -   For information about the plugin dependencies and plugin activation order, see [Application information](../now-assist-for-legal-service-delivery/now-assist-lsd-support-info.md#lsd-application-info).
+    -   For information about the plugin dependencies and plugin activation order, see [Application information](../now-assist-for-legal-service-delivery/now-assist-lsd-support-info.md#application-information).
     -   For information about the installation process, see [Install Now Assist plugins](../../intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Select **Sync now** to synchronize the plugins page with your freshly entitled store application.
 

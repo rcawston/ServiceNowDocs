@@ -184,7 +184,7 @@ Make extensible
 
 </td><td>
 
-Option to allow other tables to share data from this table. For more information on table extension, see [Table extension](add-data.md#section_ebj_sdb_d5b).
+Option to allow other tables to share data from this table. For more information on table extension, see [Table extension](add-data.md#table-extension).
 
 </td></tr><tr><td>
 
@@ -242,7 +242,7 @@ Role required: admin, sn\_app\_eng\_studio.user, or delegated\_developer
 
 2.  Review the PDF.
 
-    Use any of the navigational controls in the PDF pane to navigate to where you'd like to begin adding fields. See [General navigation](pdf-extractor.md#section_wkf_twk_gvb).
+    Use any of the navigational controls in the PDF pane to navigate to where you'd like to begin adding fields. See [General navigation](pdf-extractor.md#general-navigation).
 
 3.  Click **Select** to enter text selection mode.
 
@@ -381,7 +381,7 @@ You can add a reference field, and then create the corresponding reference data 
     |----------------------|-----------|
     |Table label|Unique label for the reference table.|
     |Table name|Database name for the reference table.|
-    |Make extensible|Option to allow other tables to share data from this table. For more information on table extension, see [Table extension](add-data.md#section_ebj_sdb_d5b).|
+    |Make extensible|Option to allow other tables to share data from this table. For more information on table extension, see [Table extension](add-data.md#table-extension).|
     |Auto number|Option to track table records with a unique number. If you select this option, define the **Prefix**, **Starting number**, and **Number of digits**.|
 
     Next, you will add a reference field to the original table you are editing. This creates the connection between the tables \(e.g., "Seller info"\).
@@ -461,7 +461,7 @@ Open table within Table Builder
 Select **Open data table and form** to open the selected table within Table Builder.
 
 </td></tr></tbody>
-</table>    See [General navigation](pdf-extractor.md#section_wkf_twk_gvb) for more information on additional navigational controls in the table pane.
+</table>    See [General navigation](pdf-extractor.md#general-navigation) for more information on additional navigational controls in the table pane.
 
 9.  Select **Save**.
 

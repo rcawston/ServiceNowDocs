@@ -210,7 +210,7 @@ The agent updates the following fields:
 
  The agent can also enable the **Add resolution notes to comments** check box to add the resolution information to the case activity stream.
 
-**Note:** If the Now Assist for Customer Service Management \(CSM\) application is installed and the resolution notes generation skill has been configured, the **Resolution notes** field is automatically populated. For more information, see [Using Now Assist for CSM to generate resolution notes for a case](tech-product-support-playbook.md#section_nsx_b4n_3bc).
+**Note:** If the Now Assist for Customer Service Management \(CSM\) application is installed and the resolution notes generation skill has been configured, the **Resolution notes** field is automatically populated. For more information, see [Using Now Assist for CSM to generate resolution notes for a case](tech-product-support-playbook.md#using-now-assist-for-csm-to-generate-resolution-notes-for-a-case).
 
  -   **Propose resolution**: Completes the activity and moves to the Close stage. The case state changes to Solution Proposed.
 -   **Save**: Saves the information in the activity.

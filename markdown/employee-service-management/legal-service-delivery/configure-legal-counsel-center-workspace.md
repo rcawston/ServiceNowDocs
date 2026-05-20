@@ -21,7 +21,7 @@ To configure and customize Legal Counsel Center Workspace along with the Home pa
 
 To work on the UI Builder, navigate to **UI Builder** from **All**. Then search and select **Legal Counsel Center** to configure. To configure the home page, select **Landing page default**. For more information on how to configure the list and analytics center pages, see [Working in UI Builder](../../application-development/ui-builder/using-ui-builder.md).
 
-You must also understand additional Configurable Workspace components to configure Legal Counsel Center. For more information, see [Configuring Configurable Workspace](../../platform-user-interface/c_set-up-configurable-workspace.md#section_xqc_p2z_cjb).
+You must also understand additional Configurable Workspace components to configure Legal Counsel Center. For more information, see [Configuring Configurable Workspace](../../platform-user-interface/c_set-up-configurable-workspace.md#configuring-configurable-workspace).
 
 -   **[Install Legal Counsel Center Workspace](install-legal-counsel-center-workspace.md)**  
 You can install the Legal Counsel Center application \(sn\_lg\_cf\_workspace\) if you have the admin role. The application installs ServiceNow® Store applications and plugins if they are not already installed.

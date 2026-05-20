@@ -45,7 +45,7 @@ New rules can only be created from context records.
 
 8.  Enable the **Apply to tables extended from the context table** check box, so that the rule and its recommendations are applied to tables that are extended from the context table.
 
-    For more information, see [Apply rules to tables extended from the context table](ra-csm-rules.md#section_rules-apply-extended-tables).
+    For more information, see [Apply rules to tables extended from the context table](ra-csm-rules.md#apply-rules-to-tables-extended-from-the-context-table).
 
 9.  In the **Field affecting this rule** field, select Short description from the slush bucket.
 

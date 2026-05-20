@@ -29,7 +29,7 @@ Dependencies and requirements:
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#service-graph-connector-user-roles).
 
 When using client credentials for authentication, obtain the OAuth credentials from your VMware Workspace ONE UEM administrator. Make a note of the following details:
 
@@ -134,7 +134,7 @@ Client ID
 
 </td><td>
 
-Application \(client\) ID of your VMware Workspace ONE UEM client application as noted in the [Before you begin](configure-workspace-one-integration.md#prereq_np3_cv3_kqb) section.
+Application \(client\) ID of your VMware Workspace ONE UEM client application as noted in the [Before you begin](configure-workspace-one-integration.md#before-you-begin) section.
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ Client Secret
 
 </td><td>
 
-Client secret of your VMware Workspace ONE UEM client application as noted in the [Before you begin](configure-workspace-one-integration.md#prereq_np3_cv3_kqb) section.
+Client secret of your VMware Workspace ONE UEM client application as noted in the [Before you begin](configure-workspace-one-integration.md#before-you-begin) section.
 
 </td></tr></tbody>
 </table>        3.  Select **Update**, and navigate back to the guided setup page.
@@ -324,8 +324,8 @@ Connection URL of your VMware Workspace ONE UEM controller.Use the format `https
 
                 |Field|Description|
                 |-----|-----------|
-                |OAuth Client ID|Application \(client\) ID of your VMware Workspace ONE UEM client application as noted in the [Before you begin](configure-workspace-one-integration.md#prereq_np3_cv3_kqb) section.|
-                |OAuth Client Secret|Client secret of your VMware Workspace ONE UEM client application as noted in the [Before you begin](configure-workspace-one-integration.md#prereq_np3_cv3_kqb) section.|
+                |OAuth Client ID|Application \(client\) ID of your VMware Workspace ONE UEM client application as noted in the [Before you begin](configure-workspace-one-integration.md#before-you-begin) section.|
+                |OAuth Client Secret|Client secret of your VMware Workspace ONE UEM client application as noted in the [Before you begin](configure-workspace-one-integration.md#before-you-begin) section.|
 
                 For information about how to get OAuth credentials, see the [VMware documentation site](https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/UEM_ConsoleBasics/GUID-BF20C949-5065-4DCF-889D-1E0151016B5A.html).
 

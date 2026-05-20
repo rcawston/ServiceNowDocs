@@ -61,7 +61,7 @@ SG-AWS-Organization \[sn\_aws\_integ\_sg\_aws\_organization\]
 
 </td><td>
 
-[Cloud Organizations](cmdb-aws-classes.md#section_evj_klg_fxb)
+[Cloud Organizations](cmdb-aws-classes.md#cloud-organizations-cmdb-ci-cloud-org)
 
 </td><td>
 
@@ -85,7 +85,7 @@ SG-AWS-Org-Units \[sn\_aws\_integ\_sg\_aws\_org\_units\]
 
 </td><td>
 
-[AWS Organizational Unit](cmdb-aws-classes.md#section_zpv_dgs_zzb)
+[AWS Organizational Unit](cmdb-aws-classes.md#aws-organizational-unit-cmdb-ci-aws-org-unit)
 
 </td><td>
 
@@ -109,11 +109,11 @@ SG-AWS-Service-Account \[sn\_aws\_integ\_sg\_aws\_service\_account\]
 
 </td><td>
 
-[Cloud Service Account](cmdb-aws-classes.md#section_kdl_klg_fxb)
+[Cloud Service Account](cmdb-aws-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
- [Cloud Organizations](cmdb-aws-classes.md#section_evj_klg_fxb)
+ [Cloud Organizations](cmdb-aws-classes.md#cloud-organizations-cmdb-ci-cloud-org)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -137,9 +137,9 @@ SG-AWS-Service-Account-Tags \[sn\_aws\_integ\_sg\_aws\_service\_account\_tags\]
 
 </td><td>
 
-[Cloud Service Account](cmdb-aws-classes.md#section_kdl_klg_fxb)
+[Cloud Service Account](cmdb-aws-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -165,7 +165,7 @@ SG-AWS-Org-Unit-Accounts \[sn\_aws\_integ\_sg\_aws\_org\_unit\_accounts\]
 
 </td><td>
 
-[Cloud Service Account](cmdb-aws-classes.md#section_kdl_klg_fxb)
+[Cloud Service Account](cmdb-aws-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
 </td><td>
 
@@ -191,9 +191,9 @@ SG-AWS-Datacenters \[sn\_aws\_integ\_sg\_aws\_datacenters\]
 
 </td><td>
 
-[Cloud Service Account](cmdb-aws-classes.md#section_kdl_klg_fxb)
+[Cloud Service Account](cmdb-aws-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
- [AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+ [AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
 </td><td>
 
@@ -219,13 +219,13 @@ SG-AWS-VPC \[sn\_aws\_integ\_sg\_aws\_vpc\]
 
 </td><td>
 
-[Cloud Service Account](cmdb-aws-classes.md#section_kdl_klg_fxb)
+[Cloud Service Account](cmdb-aws-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
- [Cloud Network](cmdb-aws-classes.md#section_y2h_klg_fxb)
+ [Cloud Network](cmdb-aws-classes.md#cloud-network-cmdb-ci-network)
 
- [AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+ [AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
  SG-AWS Extension Attributes
 
@@ -255,15 +255,15 @@ SG-AWS-Subnets \[sn\_aws\_integ\_sg\_aws\_subnets\]
 
 </td><td>
 
-[Availability Zone](cmdb-aws-classes.md#section_ykt_jlg_fxb)
+[Availability Zone](cmdb-aws-classes.md#availability-zone-cmdb-ci-availability-zone)
 
- [Cloud Network](cmdb-aws-classes.md#section_y2h_klg_fxb)
+ [Cloud Network](cmdb-aws-classes.md#cloud-network-cmdb-ci-network)
 
- [Cloud Subnet](cmdb-aws-classes.md#section_knm_klg_fxb)
+ [Cloud Subnet](cmdb-aws-classes.md#cloud-subnet-cmdb-ci-cloud-subnet)
 
- [AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+ [AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
  SG-AWS Extension Attributes
 
@@ -295,15 +295,15 @@ SG-AWS-Network-Interface \[sn\_aws\_integ\_sg\_aws\_network\_interface\]
 
 </td><td>
 
-[Cloud Network](cmdb-aws-classes.md#section_y2h_klg_fxb)
+[Cloud Network](cmdb-aws-classes.md#cloud-network-cmdb-ci-network)
 
- [Cloud Subnet](cmdb-aws-classes.md#section_knm_klg_fxb)
+ [Cloud Subnet](cmdb-aws-classes.md#cloud-subnet-cmdb-ci-cloud-subnet)
 
- [Cloud Mgmt Network Interface](cmdb-aws-classes.md#section_wwf_klg_fxb)
+ [Cloud Mgmt Network Interface](cmdb-aws-classes.md#cloud-mgmt-network-interface-cmdb-ci-nic)
 
- [AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+ [AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
  SG-AWS Extension Attributes
 
@@ -335,13 +335,13 @@ SG-AWS-Security-Group \[sn\_aws\_integ\_sg\_aws\_security\_group\]
 
 </td><td>
 
-[Cloud Network](cmdb-aws-classes.md#section_y2h_klg_fxb)
+[Cloud Network](cmdb-aws-classes.md#cloud-network-cmdb-ci-network)
 
- [Compute Security Group](cmdb-aws-classes.md#section_zvn_klg_fxb)
+ [Compute Security Group](cmdb-aws-classes.md#compute-security-group-cmdb-ci-compute-security-group)
 
- [AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+ [AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
  SG-AWS Extension Attributes
 
@@ -373,11 +373,11 @@ SG-AWS-Storage-Volume \[sn\_aws\_integ\_sg\_aws\_storage\_volume\]
 
 </td><td>
 
-[Storage Volume](cmdb-aws-classes.md#section_cv3_cmg_fxb)[Storage Volume Snapshot](cmdb-aws-classes.md#section_r35_3mg_fxb)
+[Storage Volume](cmdb-aws-classes.md#storage-volume-cmdb-ci-storage-volume)[Storage Volume Snapshot](cmdb-aws-classes.md#storage-volume-snapshot-cmdb-ci-storage-vol-snapshot)
 
-[AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+[AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
-[Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+[Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
 SG-AWS Extension Attributes
 
@@ -409,7 +409,7 @@ SG-AWS-Image \[sn\_aws\_integ\_sg\_aws\_image\]
 
 </td><td>
 
-[Image](cmdb-aws-classes.md#section_rtl_vlg_fxb)
+[Image](cmdb-aws-classes.md#cloud-image-cmdb-ci-cloud-os-image)
 
 </td><td>
 
@@ -439,7 +439,7 @@ SG-AWS-Image-Id \[sn\_aws\_integ\_sg\_aws\_image\_id\]
 
 </td><td>
 
-[Image](cmdb-aws-classes.md#section_rtl_vlg_fxb)
+[Image](cmdb-aws-classes.md#cloud-image-cmdb-ci-cloud-os-image)
 
 </td><td>
 
@@ -469,9 +469,9 @@ SG-AWS-Hardware-Type \[sn\_aws\_integ\_sg\_aws\_hardware\_type\]
 
 </td><td>
 
-[Hardware Type](cmdb-aws-classes.md#section_llk_vlg_fxb)
+[Hardware Type](cmdb-aws-classes.md#cloud-hardware-type-cmdb-ci-cloud-hardware-type)
 
- [AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+ [AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
 </td><td>
 
@@ -501,21 +501,21 @@ SG-AWS-EC2 \[sn\_aws\_integ\_sg\_aws\_ec2\]
 
 </td><td>
 
-[Virtual Machine Instance](cmdb-aws-classes.md#section_ssv_3mg_fxb)
+[Virtual Machine Instance](cmdb-aws-classes.md#virtual-machine-instance-cmdb-ci-vm-instance)
 
-The following CIs are populated when populating the Virtual Machine Instance CI:[Server](cmdb-aws-classes.md#section_tv2_zlg_fxb)
+The following CIs are populated when populating the Virtual Machine Instance CI:[Server](cmdb-aws-classes.md#server-cmdb-ci-server)
 
-[VNIC Endpoint](cmdb-aws-classes.md#section_fxj_nnh_k5b)
+[VNIC Endpoint](cmdb-aws-classes.md#vnic-endpoint-cmdb-ci-endpoint-vnic)
 
-[Storage Mapping](cmdb-aws-classes.md#section_hmh_cmg_fxb)
+[Storage Mapping](cmdb-aws-classes.md#storage-mapping-cmdb-ci-storage-mapping)
 
-[Block Endpoint](cmdb-aws-classes.md#section_zny_jlg_fxb)
+[Block Endpoint](cmdb-aws-classes.md#block-endpoint-cmdb-ci-endpoint-block)
 
-[IP Address](cmdb-aws-classes.md#section_q2p_klg_fxb)
+[IP Address](cmdb-aws-classes.md#ip-address-cmdb-ci-ip-address)
 
-[Network Adapter](cmdb-aws-classes.md#section_mmd_zlg_fxb)
+[Network Adapter](cmdb-aws-classes.md#network-adapter-cmdb-ci-network-adapter)
 
-[Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+[Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -559,15 +559,15 @@ SG-AWS-ELB-V1 \[sn\_aws\_integ\_sg\_aws\_elb\_v1\]
 
 </td><td>
 
-[Cloud Load Balancer](cmdb-aws-classes.md#section_km2_klg_fxb)
+[Cloud Load Balancer](cmdb-aws-classes.md#cloud-load-balancer-cmdb-ci-cloud-load-balancer)
 
- [Compute Security Group](cmdb-aws-classes.md#section_zvn_klg_fxb)
+ [Compute Security Group](cmdb-aws-classes.md#compute-security-group-cmdb-ci-compute-security-group)
 
- [Availability Zone](cmdb-aws-classes.md#section_ykt_jlg_fxb)
+ [Availability Zone](cmdb-aws-classes.md#availability-zone-cmdb-ci-availability-zone)
 
- [AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+ [AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
  SG-AWS Extension Attributes
 
@@ -597,15 +597,15 @@ SG-AWS-ELB-V2 \[sn\_aws\_integ\_sg\_aws\_elb\_v2\]
 
 </td><td>
 
-[Cloud Load Balancer](cmdb-aws-classes.md#section_km2_klg_fxb)
+[Cloud Load Balancer](cmdb-aws-classes.md#cloud-load-balancer-cmdb-ci-cloud-load-balancer)
 
- [Compute Security Group](cmdb-aws-classes.md#section_zvn_klg_fxb)
+ [Compute Security Group](cmdb-aws-classes.md#compute-security-group-cmdb-ci-compute-security-group)
 
- [Availability Zone](cmdb-aws-classes.md#section_ykt_jlg_fxb)
+ [Availability Zone](cmdb-aws-classes.md#availability-zone-cmdb-ci-availability-zone)
 
- [AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+ [AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
  SG-AWS Extension Attributes
 
@@ -635,11 +635,11 @@ SG-AWS-RDS \[sn\_aws\_integ\_sg\_aws\_rds\]
 
 </td><td>
 
-[Cloud DataBase](cmdb-aws-classes.md#section_zn1_klg_fxb)
+[Cloud DataBase](cmdb-aws-classes.md#cloud-database-cmdb-ci-cloud-database)
 
- [AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+ [AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
  SG-AWS Extension Attributes
 
@@ -669,11 +669,11 @@ SG-AWS-API-Gateway \[sn\_aws\_integ\_sg\_aws\_api\_gateway\]
 
 </td><td>
 
-[Cloud Gateway \[cmdb\_ci\_cloud\_gateway\]](cmdb-aws-classes.md#section_p2d_klg_fxb)
+[Cloud Gateway \[cmdb\_ci\_cloud\_gateway\]](cmdb-aws-classes.md#cloud-gateway-cmdb-ci-cloud-gateway)
 
- [AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+ [AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
  SG-AWS Extension Attributes
 
@@ -703,7 +703,7 @@ SG-AWS-Lambda \[sn\_aws\_integ\_sg\_aws\_lambda\]
 
 </td><td>
 
-[Cloud Function](cmdb-aws-classes.md#section_pwb_klg_fxb)
+[Cloud Function](cmdb-aws-classes.md#cloud-function-cmdb-ci-cloud-function)
 
 </td><td>
 
@@ -731,7 +731,7 @@ SG-AWS-S3 \[sn\_aws\_integ\_sg\_aws\_s3\]
 
 </td><td>
 
-[Cloud Object Storage](cmdb-aws-classes.md#section_dn3_klg_fxb)
+[Cloud Object Storage](cmdb-aws-classes.md#cloud-object-storage-cmdb-ci-cloud-object-storage)
 
 </td><td>
 
@@ -759,11 +759,11 @@ SG-AWS-DynamoDb \[sn\_aws\_integ\_sg\_aws\_dynamodb\]
 
 </td><td>
 
-[DynamoDB Table](cmdb-aws-classes.md#section_ncj_vlg_fxb)
+[DynamoDB Table](cmdb-aws-classes.md#dynamodb-table-cmdb-ci-dynamodb-table)
 
- [AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+ [AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
  SG-AWS Extension Attributes
 
@@ -797,15 +797,15 @@ When the Software Asset Management \(SAM\) application isn't installed:
 
  [Software Packages](cmdb-aws-classes.md#section_bfg_zlg_fxb)
 
- [Software Instance](cmdb-aws-classes.md#section_szj_3mg_fxb)
+ [Software Instance](cmdb-aws-classes.md#software-instance-cmdb-software-instance)
 
- [Server](cmdb-aws-classes.md#section_tv2_zlg_fxb)
+ [Server](cmdb-aws-classes.md#server-cmdb-ci-server)
 
  When the SAM application is installed:
 
- [Software Installation](cmdb-aws-classes.md#section_b52_cmg_fxb)
+ [Software Installation](cmdb-aws-classes.md#software-installation-cmdb-sam-sw-install)
 
- [Server](cmdb-aws-classes.md#section_tv2_zlg_fxb)
+ [Server](cmdb-aws-classes.md#server-cmdb-ci-server)
 
 </td><td>
 
@@ -899,7 +899,7 @@ SG-AWS-SSM-SendCommand \[sn\_aws\_integ\_sg\_aws\_ssm\_sendcommand\]
 
 </td><td>
 
-[Application](cmdb-aws-classes.md#section_mtg_rdb_hdc)
+[Application](cmdb-aws-classes.md#application-cmdb-ci-appl)
 
  Running Process \[cmdb\_running\_process\]
 
@@ -947,13 +947,13 @@ SG-AWS-Tags \[sn\_aws\_integ\_sg\_aws\_tags\]
 
 </td><td>
 
-[DynamoDB Table](cmdb-aws-classes.md#section_ncj_vlg_fxb)
+[DynamoDB Table](cmdb-aws-classes.md#dynamodb-table-cmdb-ci-dynamodb-table)
 
- [Cloud Load Balancer](cmdb-aws-classes.md#section_km2_klg_fxb)
+ [Cloud Load Balancer](cmdb-aws-classes.md#cloud-load-balancer-cmdb-ci-cloud-load-balancer)
 
- [Cloud Function](cmdb-aws-classes.md#section_pwb_klg_fxb)
+ [Cloud Function](cmdb-aws-classes.md#cloud-function-cmdb-ci-cloud-function)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -989,9 +989,9 @@ SG-AWS-VM-Hw-Consolidation \[sn\_aws\_integ\_sg\_aws\_vm\_hw\_consolidation\]
 
 </td><td>
 
-[Virtual Machine Instance](cmdb-aws-classes.md#section_ssv_3mg_fxb)
+[Virtual Machine Instance](cmdb-aws-classes.md#virtual-machine-instance-cmdb-ci-vm-instance)
 
- [Server](cmdb-aws-classes.md#section_tv2_zlg_fxb)
+ [Server](cmdb-aws-classes.md#server-cmdb-ci-server)
 
 </td><td>
 
@@ -1037,11 +1037,11 @@ SG-AWS-EKS-Cluster \[sn\_aws\_integ\_sg\_aws\_eks\_cluster\]
 
 </td><td>
 
-[Kubernetes Cluster](cmdb-aws-classes.md#section_tpz_53v_1yb)
+[Kubernetes Cluster](cmdb-aws-classes.md#kubernetes-cluster-cmdb-ci-kubernetes-cluster)
 
- [AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+ [AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
  SG-AWS Extension Attributes
 
@@ -1091,11 +1091,11 @@ SG-AWS-EKS-Cluster-2 \[sn\_aws\_integ\_sg\_aws\_eks\_cluster\_2\]
 
 </td><td>
 
-[Kubernetes Cluster](cmdb-aws-classes.md#section_tpz_53v_1yb)
+[Kubernetes Cluster](cmdb-aws-classes.md#kubernetes-cluster-cmdb-ci-kubernetes-cluster)
 
- [AWS Datacenter](cmdb-aws-classes.md#section_vcc_zlg_fxb)
+ [AWS Datacenter](cmdb-aws-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
  SG-AWS Extension Attributes
 
@@ -1147,29 +1147,29 @@ SG-AWS-EKS-FULL \[sn\_aws\_integ\_sg\_aws\_eks\_full\]
 
 </td><td>
 
-[Kubernetes Cluster](cmdb-aws-classes.md#section_tpz_53v_1yb)
+[Kubernetes Cluster](cmdb-aws-classes.md#kubernetes-cluster-cmdb-ci-kubernetes-cluster)
 
- [Server](cmdb-aws-classes.md#section_tv2_zlg_fxb)
+ [Server](cmdb-aws-classes.md#server-cmdb-ci-server)
 
- [Kubernetes Namespace](cmdb-aws-classes.md#section_wj2_mkv_1yb)
+ [Kubernetes Namespace](cmdb-aws-classes.md#kubernetes-namespace-cmdb-ci-kubernetes-namespace)
 
- [Kubernetes Node](cmdb-aws-classes.md#section_igc_pkv_1yb)
+ [Kubernetes Node](cmdb-aws-classes.md#kubernetes-node-cmdb-ci-kubernetes-node)
 
- [Kubernetes Service](cmdb-aws-classes.md#section_umk_4lv_1yb)
+ [Kubernetes Service](cmdb-aws-classes.md#kubernetes-service-cmdb-ci-kubernetes-service)
 
- [Kubernetes Pod](cmdb-aws-classes.md#section_c4l_hlv_1yb)
+ [Kubernetes Pod](cmdb-aws-classes.md#kubernetes-pod-cmdb-ci-kubernetes-pod)
 
- [Docker Container](cmdb-aws-classes.md#section_qmn_j3v_1yb)
+ [Docker Container](cmdb-aws-classes.md#docker-container-cmdb-ci-docker-container)
 
- [Docker Image](cmdb-aws-classes.md#section_i3v_q3v_1yb)
+ [Docker Image](cmdb-aws-classes.md#docker-image-cmdb-ci-docker-image)
 
- [Kubernetes Volume](cmdb-aws-classes.md#section_fcf_rlv_1yb)
+ [Kubernetes Volume](cmdb-aws-classes.md#kubernetes-volume-cmdb-ci-kubernetes-volume)
 
- [Kubernetes Deployment](cmdb-aws-classes.md#section_dph_gkv_1yb)
+ [Kubernetes Deployment](cmdb-aws-classes.md#kubernetes-deployment-cmdb-ci-kubernetes-deployment)
 
- [Kubernetes DaemonSet](cmdb-aws-classes.md#section_byy_yjv_1yb)
+ [Kubernetes DaemonSet](cmdb-aws-classes.md#kubernetes-daemonset-cmdb-ci-kubernetes-daemonset)
 
- [Kubernetes ReplicaSet](cmdb-aws-classes.md#section_ikk_gqb_dbc)
+ [Kubernetes ReplicaSet](cmdb-aws-classes.md#kubernetes-replicaset-cmdb-ci-kubernetes-replicaset)
 
 </td><td>
 
@@ -1221,7 +1221,7 @@ SG-AWS-Generic-Resources \[sn\_aws\_integ\_sg\_aws\_generic\_resources\]
 
 </td><td>
 
-[Cloud Resource](cmdb-aws-classes.md#section_xk3_s2c_bzb)
+[Cloud Resource](cmdb-aws-classes.md#cloud-resource-cmdb-ci-cmp-resource)
 
  SG-AWS Extension Attributes
 
@@ -1247,7 +1247,7 @@ SG-AWS-Redshift-Cluster \[sn\_aws\_integ\_sg\_aws\_redshift\_cluster\]
 
 </td><td>
 
-[Amazon Redshift](cmdb-aws-classes.md#section_x44_zyp_bgc)
+[Amazon Redshift](cmdb-aws-classes.md#amazon-redshift-cmdb-ci-aws-redshift)
 
 </td><td>
 
@@ -1275,7 +1275,7 @@ SG-AWS-Get-Inventory \[sn\_aws\_integ\_sg\_aws\_get\_inventory\]
 
 </td><td>
 
-[Server](cmdb-aws-classes.md#section_tv2_zlg_fxb)
+[Server](cmdb-aws-classes.md#server-cmdb-ci-server)
 
 </td><td>
 
@@ -1303,9 +1303,9 @@ SG-AWS-GenericTags \[sn\_aws\_integ\_sg\_aws\_generictags\]
 
 </td><td>
 
-[Cloud Resource](cmdb-aws-classes.md#section_xk3_s2c_bzb)
+[Cloud Resource](cmdb-aws-classes.md#cloud-resource-cmdb-ci-cmp-resource)
 
- [Key Value](cmdb-aws-classes.md#section_bnq_klg_fxb)
+ [Key Value](cmdb-aws-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -1375,7 +1375,7 @@ SG-AWS-SSM-GetS3Object \[sn\_aws\_integ\_sg\_aws\_ssm\_gets3object\]
 
 </td><td>
 
-[Server](cmdb-aws-classes.md#section_tv2_zlg_fxb)
+[Server](cmdb-aws-classes.md#server-cmdb-ci-server)
 
  Running Process \[cmdb\_running\_process\]
 

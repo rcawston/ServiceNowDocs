@@ -67,7 +67,7 @@ You can configure a connection for the connector by using the SGC Central view i
 
 ## CMDB integration dashboards
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Intune integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Intune integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#using-the-cmdb-integrations-dashboard).
 
 ## Data mapping
 
@@ -105,21 +105,21 @@ SG-Intune Computer \[sn\_intune\_integrat\_computer\]
 
 </td><td>
 
-[Computer](cmdb-intune-classes.md#section_z3h_sr3_k5b)
+[Computer](cmdb-intune-classes.md#computer-cmdb-ci-computer)
 
- [SG-Intune Computer Related](cmdb-intune-classes.md#section_fbc_hdv_lbc)
+ [SG-Intune Computer Related](cmdb-intune-classes.md#sg-intune-computer-related-sn-intune-integrat-computer-related)
 
- [IP Address](cmdb-intune-classes.md#section_it4_fdv_lbc)
+ [IP Address](cmdb-intune-classes.md#ip-address-cmdb-ci-ip-address)
 
- [Serial Number](cmdb-intune-classes.md#section_uyh_gdv_lbc)
+ [Serial Number](cmdb-intune-classes.md#serial-number-cmdb-serial-number)
 
  When the Software Asset Management \(SAM\) application isn't installed:
 
- [Software](cmdb-intune-classes.md#section_fw5_3dv_lbc)
+ [Software](cmdb-intune-classes.md#software-installation-cmdb-sam-sw-install)
 
- [Software Instance](cmdb-intune-classes.md#section_l4k_jdv_lbc)
+ [Software Instance](cmdb-intune-classes.md#software-instance-cmdb-software-instance)
 
- When the SAM application is installed: [Software Installation](cmdb-intune-classes.md#section_cgz_ddv_lbc)
+ When the SAM application is installed: [Software Installation](cmdb-intune-classes.md#software-installation-cmdb-sam-sw-install)
 
 </td><td>
 
@@ -139,23 +139,23 @@ SG-Intune Devices \[sn\_intune\_integrat\_devices\]
 
 </td><td>
 
-[Handheld Computing Device](cmdb-intune-classes.md#section_wsz_cdv_lbc)
+[Handheld Computing Device](cmdb-intune-classes.md#handheld-computing-device-cmdb-ci-handheld-computing)
 
- [Serial Number](cmdb-intune-classes.md#section_uyh_gdv_lbc)
+ [Serial Number](cmdb-intune-classes.md#serial-number-cmdb-serial-number)
 
  [Network Adapter](cmdb-intune-classes.md#section_abw_2dv_lbc)
 
- [SG-Intune Device Related](cmdb-intune-classes.md#section_pwb_3dv_lbc)
+ [SG-Intune Device Related](cmdb-intune-classes.md#sg-intune-device-related-sn-intune-integrat-device-related)
 
- [IP Address](cmdb-intune-classes.md#section_it4_fdv_lbc)
+ [IP Address](cmdb-intune-classes.md#ip-address-cmdb-ci-ip-address)
 
  When the Software Asset Management \(SAM\) application isn't installed:
 
- [Software](cmdb-intune-classes.md#section_fw5_3dv_lbc)
+ [Software](cmdb-intune-classes.md#software-installation-cmdb-sam-sw-install)
 
- [Software Instance](cmdb-intune-classes.md#section_l4k_jdv_lbc)
+ [Software Instance](cmdb-intune-classes.md#software-instance-cmdb-software-instance)
 
- When the SAM application is installed: [Software Installation](cmdb-intune-classes.md#section_cgz_ddv_lbc)
+ When the SAM application is installed: [Software Installation](cmdb-intune-classes.md#software-installation-cmdb-sam-sw-install)
 
 </td><td>
 
@@ -175,7 +175,7 @@ SG-Intune Software \[sn\_intune\_integrat\_software\]
 
 </td><td>
 
-[Software](cmdb-intune-classes.md#section_fw5_3dv_lbc)
+[Software](cmdb-intune-classes.md#software-installation-cmdb-sam-sw-install)
 
 </td><td>
 
@@ -195,27 +195,27 @@ SG-Intune Device Reports \[sn\_intune\_integrat\_device\_reports\]
 
 </td><td>
 
-[Computer](cmdb-intune-classes.md#section_z3h_sr3_k5b) or [Handheld Computing Device](cmdb-intune-classes.md#section_wsz_cdv_lbc)
+[Computer](cmdb-intune-classes.md#computer-cmdb-ci-computer) or [Handheld Computing Device](cmdb-intune-classes.md#handheld-computing-device-cmdb-ci-handheld-computing)
 
- [Serial Number](cmdb-intune-classes.md#section_uyh_gdv_lbc)
+ [Serial Number](cmdb-intune-classes.md#serial-number-cmdb-serial-number)
 
  [Network adapter](cmdb-intune-classes.md#section_abw_2dv_lbc)
 
- [SG-Intune Computer Related](cmdb-intune-classes.md#section_fbc_hdv_lbc)
+ [SG-Intune Computer Related](cmdb-intune-classes.md#sg-intune-computer-related-sn-intune-integrat-computer-related)
 
- [SG-Intune Device Related](cmdb-intune-classes.md#section_pwb_3dv_lbc)
+ [SG-Intune Device Related](cmdb-intune-classes.md#sg-intune-device-related-sn-intune-integrat-device-related)
 
- [IP Address](cmdb-intune-classes.md#section_it4_fdv_lbc)
+ [IP Address](cmdb-intune-classes.md#ip-address-cmdb-ci-ip-address)
 
 **Note:** Imports Wireless \(Wi-Fi\) IPv4 Address of a device only.
 
  When the Software Asset Management \(SAM\) application isn't installed:
 
- [Software](cmdb-intune-classes.md#section_fw5_3dv_lbc)
+ [Software](cmdb-intune-classes.md#software-installation-cmdb-sam-sw-install)
 
- [Software Instance](cmdb-intune-classes.md#section_l4k_jdv_lbc)
+ [Software Instance](cmdb-intune-classes.md#software-instance-cmdb-software-instance)
 
- When the SAM application is installed: [Software Installation](cmdb-intune-classes.md#section_cgz_ddv_lbc)
+ When the SAM application is installed: [Software Installation](cmdb-intune-classes.md#software-installation-cmdb-sam-sw-install)
 
 </td><td>
 
@@ -237,11 +237,11 @@ SG-Intune Software Reports \[sn\_intune\_integrat\_software\_reports\]
 
 When the Software Asset Management \(SAM\) application isn't installed:
 
- [Software](cmdb-intune-classes.md#section_fw5_3dv_lbc)
+ [Software](cmdb-intune-classes.md#software-installation-cmdb-sam-sw-install)
 
- [Software Instance](cmdb-intune-classes.md#section_l4k_jdv_lbc)
+ [Software Instance](cmdb-intune-classes.md#software-instance-cmdb-software-instance)
 
- When the SAM application is installed: [Software Installation](cmdb-intune-classes.md#section_cgz_ddv_lbc)
+ When the SAM application is installed: [Software Installation](cmdb-intune-classes.md#software-installation-cmdb-sam-sw-install)
 
 </td><td>
 

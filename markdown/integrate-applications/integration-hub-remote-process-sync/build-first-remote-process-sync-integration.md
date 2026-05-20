@@ -709,5 +709,5 @@ Then, when a user resolves the correlated Incident record in Instance B:
 
 ## What to do next
 
-Test out your Remote Process Sync integration by creating an Incident record in Instance A with the Hardware assignment group. Then, resolve the correlated Incident record in Instance B. If your correlated records don't sync as expected, check your Inbound API User's credentials and Process Sync Definition configuration in each Instance. If you continue to experience issues with your example integration, refer to [Monitoring and troubleshooting your integration](getting-started-with-remote-process-sync.md#monitoring-troubleshooting-rps).
+Test out your Remote Process Sync integration by creating an Incident record in Instance A with the Hardware assignment group. Then, resolve the correlated Incident record in Instance B. If your correlated records don't sync as expected, check your Inbound API User's credentials and Process Sync Definition configuration in each Instance. If you continue to experience issues with your example integration, refer to [Monitoring and troubleshooting your integration](getting-started-with-remote-process-sync.md#monitoring-and-troubleshooting-your-integration).
 

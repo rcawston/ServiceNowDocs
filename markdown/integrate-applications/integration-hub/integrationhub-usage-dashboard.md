@@ -27,17 +27,17 @@ Integration Hub Usage Dashboard v3.0.0 is the latest version.
 
 The dashboard has these sections:
 
--   [Overview](use-the-integration-hub-usage-dashboard.md#section_jwh_yvn_y5b): View the usage data on the transactions from various perspectives and, if needed, drill down to view more details. For example, you could view the monthly transactions in the last year.
--   [Spokes](use-the-integration-hub-usage-dashboard.md#fig_stt_djw_z5b): View the data on the transactions that were performed by the spokes and, if needed, drill down to view more details. For example, you can view the information on which spoke performed the highest number of transactions in the last year.
--   [Protocols and Features](use-the-integration-hub-usage-dashboard.md#section_kf3_5sw_z5b): View the usage data on the various protocols and features that were used to and, if needed, drill down to view more details. For example, you can view the number of transactions that were performed with the REST protocol in the last year.
+-   [Overview](use-the-integration-hub-usage-dashboard.md#overview-section-reports): View the usage data on the transactions from various perspectives and, if needed, drill down to view more details. For example, you could view the monthly transactions in the last year.
+-   [Spokes](use-the-integration-hub-usage-dashboard.md#spokes-section-reports): View the data on the transactions that were performed by the spokes and, if needed, drill down to view more details. For example, you can view the information on which spoke performed the highest number of transactions in the last year.
+-   [Protocols and Features](use-the-integration-hub-usage-dashboard.md#protocols-and-features-reports): View the usage data on the various protocols and features that were used to and, if needed, drill down to view more details. For example, you can view the number of transactions that were performed with the REST protocol in the last year.
 
 ## Sections in the Data Egress tab of the Integration Hub Usage Dashboard
 
 The dashboard has these sections. All sections have three common reports: Data Egress, Data Egress by source \(API protocols or exports\), and Data Egress Trends.
 
--   [Overview section](ihub-dashboard-api-egress.md#section_y3v_2tq_zbc): Gives an overview of the total data egress volume, data egress by REST and SOAP protocols, JSON, Export set, and URI from the ServiceNow instance, and the data egress across time periods.
--   [API section](ihub-dashboard-api-egress.md#section_epn_pxq_zbc): Gives an overview of the total data egress volume by all sources, data egress by REST or SOAP protocols or JSON data from the ServiceNow instance, and the data egress across time periods.
--   [Export section](ihub-dashboard-api-egress.md#section_kyn_byq_zbc): Gives an overview of the total data egress volume by all data export formats, data egress by export formats from the ServiceNow instance, and the data egress across time periods.
+-   [Overview section](ihub-dashboard-api-egress.md#overview-section-reports): Gives an overview of the total data egress volume, data egress by REST and SOAP protocols, JSON, Export set, and URI from the ServiceNow instance, and the data egress across time periods.
+-   [API section](ihub-dashboard-api-egress.md#api-section-reports): Gives an overview of the total data egress volume by all sources, data egress by REST or SOAP protocols or JSON data from the ServiceNow instance, and the data egress across time periods.
+-   [Export section](ihub-dashboard-api-egress.md#export-section-reports): Gives an overview of the total data egress volume by all data export formats, data egress by export formats from the ServiceNow instance, and the data egress across time periods.
 
 **Note:**
 

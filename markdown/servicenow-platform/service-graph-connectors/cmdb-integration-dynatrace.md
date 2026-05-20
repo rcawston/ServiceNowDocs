@@ -42,7 +42,7 @@ You can configure a connection for the connector by using the SGC Central view i
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Dynatrace integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Dynatrace integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#using-the-cmdb-integrations-dashboard).
 
 ## Data mapping
 
@@ -84,17 +84,17 @@ SGO-Dynatrace Hosts \[sn\_dynatrace\_integ\_sg\_dynatrace\_hosts\]
 
 </td><td>
 
-[Computer](cmdb-dynatrace-classes.md#section_adv_nwg_jzb)[IP Address \[cmdb\_ci\_ip\_address\]](cmdb-dynatrace-classes.md#section_z34_5wg_jzb)
+[Computer](cmdb-dynatrace-classes.md#computer-cmdb-ci-computer)[IP Address \[cmdb\_ci\_ip\_address\]](cmdb-dynatrace-classes.md#ip-address-cmdb-ci-ip-address)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 When the Software Asset Management \(SAM\) application isn't installed:
 
-[Software](cmdb-dynatrace-classes.md#section_ubs_zwg_jzb)
+[Software](cmdb-dynatrace-classes.md#software-cmdb-ci-spkg)
 
-[Software Instance](cmdb-dynatrace-classes.md#section_cbx_dxg_jzb)
+[Software Instance](cmdb-dynatrace-classes.md#software-instance-cmdb-software-instance)
 
-When the SAM application is installed: [Software Installation](cmdb-dynatrace-classes.md#section_o3b_cxg_jzb)
+When the SAM application is installed: [Software Installation](cmdb-dynatrace-classes.md#software-installation-cmdb-sam-sw-install)
 
 **Note:** Only the operating system data is stored in the Software Packages, Software Instance, and Software Installation CI classes.
 
@@ -138,7 +138,7 @@ SGO-Dynatrace Process Groups \[sn\_dynatrace\_integ\_sg\_dynatrace\_process\_gro
 
 </td><td>
 
-[Group](cmdb-dynatrace-classes.md#section_cx4_5wg_jzb)
+[Group](cmdb-dynatrace-classes.md#group-cmdb-ci-group)
 
 </td><td>
 
@@ -160,15 +160,15 @@ SGO-Dynatrace Services \[sn\_dynatrace\_integ\_sg\_dynatrace\_services\]
 
 </td><td>
 
-[Calculated Application Service](cmdb-dynatrace-classes.md#section_mlj_jwg_jzb)[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Calculated Application Service](cmdb-dynatrace-classes.md#calculated-application-service-cmdb-ci-service-calculated)[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
-[Application](cmdb-dynatrace-classes.md#id_i4z_125_tqb)
+[Application](cmdb-dynatrace-classes.md#application-cmdb-ci-appl)
 
-[Group](cmdb-dynatrace-classes.md#section_cx4_5wg_jzb)
+[Group](cmdb-dynatrace-classes.md#group-cmdb-ci-group)
 
-[Computer](cmdb-dynatrace-classes.md#section_adv_nwg_jzb)
+[Computer](cmdb-dynatrace-classes.md#computer-cmdb-ci-computer)
 
-[Cloud Load Balancer](cmdb-dynatrace-classes.md#section_u1h_gwh_ldc)
+[Cloud Load Balancer](cmdb-dynatrace-classes.md#cloud-load-balancer-cmdb-ci-cloud-load-balancer)
 
 </td><td>
 
@@ -190,7 +190,7 @@ SGO-Dynatrace Applications \[sn\_dynatrace\_integ\_sg\_dynatrace\_applications\]
 
 </td><td>
 
-[Calculated Application Service](cmdb-dynatrace-classes.md#section_mlj_jwg_jzb)[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Calculated Application Service](cmdb-dynatrace-classes.md#calculated-application-service-cmdb-ci-service-calculated)[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -212,7 +212,7 @@ SGO-Dynatrace Application Relationships \[sn\_dynatrace\_integ\_sg\_dynatrace\_a
 
 </td><td>
 
-[Calculated Application Service](cmdb-dynatrace-classes.md#section_mlj_jwg_jzb)
+[Calculated Application Service](cmdb-dynatrace-classes.md#calculated-application-service-cmdb-ci-service-calculated)
 
 </td><td>
 
@@ -232,7 +232,7 @@ SGO-Dynatrace AWS Application Network LB \[sn\_dynatrace\_integ\_sgo\_dynatrace\
 
 </td><td>
 
-[Cloud Load Balancer](cmdb-dynatrace-classes.md#section_u1h_gwh_ldc)[Key Value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Cloud Load Balancer](cmdb-dynatrace-classes.md#cloud-load-balancer-cmdb-ci-cloud-load-balancer)[Key Value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -252,7 +252,7 @@ SGO-Dynatrace AWS Availability Zone \[sn\_dynatrace\_integ\_sgo\_dynatrace\_aws\
 
 </td><td>
 
-[AWS Datacenter](cmdb-dynatrace-classes.md#section_gpj_gwh_ldc)[Availability Zone](cmdb-dynatrace-classes.md#section_ry4_kwh_ldc)
+[AWS Datacenter](cmdb-dynatrace-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)[Availability Zone](cmdb-dynatrace-classes.md#availability-zone-cmdb-ci-availability-zone)
 
 </td><td>
 
@@ -272,15 +272,15 @@ SGO-Dynatrace AWS EC2 Instance \[sn\_dynatrace\_integ\_sg\_dynatrace\_aws\_ec2\_
 
 </td><td>
 
-[Virtual Machine Instance](cmdb-dynatrace-classes.md#section_vmt_kwh_ldc)[Server](cmdb-dynatrace-classes.md#section_fjn_kwh_ldc)
+[Virtual Machine Instance](cmdb-dynatrace-classes.md#virtual-machine-instance-cmdb-ci-vm-instance)[Server](cmdb-dynatrace-classes.md#server-cmdb-ci-server)
 
-[Cloud Hardware Type](cmdb-dynatrace-classes.md#section_mtl_kwh_ldc)
+[Cloud Hardware Type](cmdb-dynatrace-classes.md#cloud-hardware-type-cmdb-ci-cloud-hardware-type)
 
-[Hardware Type](cmdb-dynatrace-classes.md#section_nhh_kwh_ldc)
+[Hardware Type](cmdb-dynatrace-classes.md#cloud-hardware-type-cmdb-ci-cloud-hardware-type)
 
-[Image](cmdb-dynatrace-classes.md#section_x2f_gwh_ldc)
+[Image](cmdb-dynatrace-classes.md#docker-image-cmdb-ci-docker-image)
 
-[Key Value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key Value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -300,7 +300,7 @@ SGO-Dynatrace AWS Elastic Loadbalancer \[sn\_dynatrace\_integ\_sgo\_dynatrace\_a
 
 </td><td>
 
-[Cloud Load Balancer](cmdb-dynatrace-classes.md#section_u1h_gwh_ldc)[Key Value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Cloud Load Balancer](cmdb-dynatrace-classes.md#cloud-load-balancer-cmdb-ci-cloud-load-balancer)[Key Value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -320,7 +320,7 @@ SGO-Dynatrace AWS Service Account \[sn\_dynatrace\_integ\_sgo\_dynatrace\_aws\_s
 
 </td><td>
 
-[Cloud Service Account](cmdb-dynatrace-classes.md#section_ld3_gwh_ldc)
+[Cloud Service Account](cmdb-dynatrace-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
 </td><td>
 
@@ -340,9 +340,9 @@ SGO-Dynatrace Azure Load Balancer \[sn\_dynatrace\_integ\_sgo\_dynatrace\_azure\
 
 </td><td>
 
-[Cloud Load Balancer](cmdb-dynatrace-classes.md#section_u1h_gwh_ldc)[Cloud LB IPAddress](cmdb-dynatrace-classes.md#section_exj_kwh_ldc)
+[Cloud Load Balancer](cmdb-dynatrace-classes.md#cloud-load-balancer-cmdb-ci-cloud-load-balancer)[Cloud LB IPAddress](cmdb-dynatrace-classes.md#cloud-lb-ipaddress-cmdb-ci-cloud-lb-ipaddress)
 
-[Key Value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key Value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -362,7 +362,7 @@ SGO-Dynatrace Azure Region \[sn\_dynatrace\_integ\_sgo\_dynatrace\_azure\_region
 
 </td><td>
 
-[Azure Datacenter](cmdb-dynatrace-classes.md#section_igl_gwh_ldc)
+[Azure Datacenter](cmdb-dynatrace-classes.md#azure-datacenter-cmdb-ci-azure-datacenter)
 
 </td><td>
 
@@ -382,7 +382,7 @@ SGO-Dynatrace Azure Storage Accounts \[sn\_dynatrace\_integ\_sgo\_dynatrace\_azu
 
 </td><td>
 
-[Cloud Storage Account](cmdb-dynatrace-classes.md#section_skk_gwh_ldc)
+[Cloud Storage Account](cmdb-dynatrace-classes.md#cloud-storage-account-cmdb-ci-cloud-storage-account)
 
 </td><td>
 
@@ -402,7 +402,7 @@ SGO-Dynatrace Azure Storage Accounts v2 \[sn\_dynatrace\_integ\_sgo\_dynatrace\_
 
 </td><td>
 
-[Cloud Storage Account](cmdb-dynatrace-classes.md#section_skk_gwh_ldc)
+[Cloud Storage Account](cmdb-dynatrace-classes.md#cloud-storage-account-cmdb-ci-cloud-storage-account)
 
 </td><td>
 
@@ -422,7 +422,7 @@ SGO-Dynatrace Azure Subscriptions \[sn\_dynatrace\_integ\_sg\_dynatrace\_azure\_
 
 </td><td>
 
-[Cloud Service Account](cmdb-dynatrace-classes.md#section_ld3_gwh_ldc)
+[Cloud Service Account](cmdb-dynatrace-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
 </td><td>
 
@@ -442,7 +442,7 @@ SGO-Dynatrace Azure VM \[sn\_dynatrace\_integ\_sgo\_dynatrace\_azure\_vm\]
 
 </td><td>
 
-[Virtual Machine Instance](cmdb-dynatrace-classes.md#section_vmt_kwh_ldc)[Server](cmdb-dynatrace-classes.md#section_fjn_kwh_ldc)
+[Virtual Machine Instance](cmdb-dynatrace-classes.md#virtual-machine-instance-cmdb-ci-vm-instance)[Server](cmdb-dynatrace-classes.md#server-cmdb-ci-server)
 
 </td><td>
 
@@ -462,11 +462,11 @@ SGO-Dynatrace Docker Container \[sn\_dynatrace\_integ\_sgo\_dynatrace\_docker\_c
 
 </td><td>
 
-[Docker Container](cmdb-dynatrace-classes.md#section_l4q_kwh_ldc)[Application](cmdb-dynatrace-classes.md#id_i4z_125_tqb)
+[Docker Container](cmdb-dynatrace-classes.md#docker-container-cmdb-ci-docker-container)[Application](cmdb-dynatrace-classes.md#application-cmdb-ci-appl)
 
-[Docker Image](cmdb-dynatrace-classes.md#section_xf5_bbp_bgc)
+[Docker Image](cmdb-dynatrace-classes.md#docker-image-cmdb-ci-docker-image)
 
-[Computer \[cmdb\_ci\_computer\]](cmdb-dynatrace-classes.md#section_adv_nwg_jzb)
+[Computer \[cmdb\_ci\_computer\]](cmdb-dynatrace-classes.md#computer-cmdb-ci-computer)
 
 </td><td>
 
@@ -486,7 +486,7 @@ SGO-Dynatrace Kubernetes Cluster \[sn\_dynatrace\_integ\_sgo\_dynatrace\_kuberne
 
 </td><td>
 
-[Kubernetes Cluster](cmdb-dynatrace-classes.md#section_qw3_gwh_ldc)[Key Value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Kubernetes Cluster](cmdb-dynatrace-classes.md#kubernetes-cluster-cmdb-ci-kubernetes-cluster)[Key Value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -506,7 +506,7 @@ SGO-Dynatrace Kubernetes Namespace \[sn\_dynatrace\_integ\_sgo\_dynatrace\_kuber
 
 </td><td>
 
-[Kubernetes Namespace](cmdb-dynatrace-classes.md#section_k1m_gwh_ldc)[Key Value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Kubernetes Namespace](cmdb-dynatrace-classes.md#kubernetes-namespace-cmdb-ci-kubernetes-namespace)[Key Value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -526,7 +526,7 @@ SGO-Dynatrace Kubernetes Node \[sn\_dynatrace\_integ\_sgo\_dynatrace\_kubernetes
 
 </td><td>
 
-[Kubernetes Node](cmdb-dynatrace-classes.md#section_npq_nwh_ldc)[Key Value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Kubernetes Node](cmdb-dynatrace-classes.md#kubernetes-node-cmdb-ci-kubernetes-node)[Key Value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -546,7 +546,7 @@ SGO-Dynatrace Kubernetes Pod \[sn\_dynatrace\_integ\_sgo\_dynatrace\_kubernetes\
 
 </td><td>
 
-[Kubernetes Pod](cmdb-dynatrace-classes.md#section_sfv_kwh_ldc)[Key Value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Kubernetes Pod](cmdb-dynatrace-classes.md#kubernetes-pod-cmdb-ci-kubernetes-pod)[Key Value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -566,7 +566,7 @@ SGO-Dynatrace Kubernetes Service \[sn\_dynatrace\_integ\_sgo\_dynatrace\_kuberne
 
 </td><td>
 
-[Kubernetes Service](cmdb-dynatrace-classes.md#section_tbs_kwh_ldc)[Key Value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Kubernetes Service](cmdb-dynatrace-classes.md#kubernetes-service-cmdb-ci-kubernetes-service)[Key Value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -586,11 +586,11 @@ SGO-Dynatrace Azure Cosmos DB v1 \[sn\_dynatrace\_integ\_sgo\_dynatrace\_azure\_
 
 </td><td>
 
-[Cloud DataBase](cmdb-dynatrace-classes.md#section_ylw_rp4_cfc)[Azure Datacenter](cmdb-dynatrace-classes.md#section_igl_gwh_ldc)
+[Cloud DataBase](cmdb-dynatrace-classes.md#cloud-database-cmdb-ci-cloud-database)[Azure Datacenter](cmdb-dynatrace-classes.md#azure-datacenter-cmdb-ci-azure-datacenter)
 
-[Cloud Service Account](cmdb-dynatrace-classes.md#section_ld3_gwh_ldc)
+[Cloud Service Account](cmdb-dynatrace-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -610,11 +610,11 @@ SGO-Dynatrace Azure Cosmos DB V2 \[sn\_dynatrace\_integ\_sgo\_dynatrace\_azure\_
 
 </td><td>
 
-[Cloud DataBase](cmdb-dynatrace-classes.md#section_ylw_rp4_cfc)[Azure Datacenter](cmdb-dynatrace-classes.md#section_igl_gwh_ldc)
+[Cloud DataBase](cmdb-dynatrace-classes.md#cloud-database-cmdb-ci-cloud-database)[Azure Datacenter](cmdb-dynatrace-classes.md#azure-datacenter-cmdb-ci-azure-datacenter)
 
-[Cloud Service Account](cmdb-dynatrace-classes.md#section_ld3_gwh_ldc)
+[Cloud Service Account](cmdb-dynatrace-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -634,9 +634,9 @@ SGO-Dynatrace Azure SQL Server V2 \[sn\_dynatrace\_integ\_sgo\_dynatrace\_azure\
 
 </td><td>
 
-[Cloud DataBase](cmdb-dynatrace-classes.md#section_ylw_rp4_cfc)[Azure Datacenter](cmdb-dynatrace-classes.md#section_igl_gwh_ldc)
+[Cloud DataBase](cmdb-dynatrace-classes.md#cloud-database-cmdb-ci-cloud-database)[Azure Datacenter](cmdb-dynatrace-classes.md#azure-datacenter-cmdb-ci-azure-datacenter)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -658,11 +658,11 @@ SGO-Dynatrace Azure Function App \[sn\_dynatrace\_integ\_sgo\_dynatrace\_azure\_
 
 </td><td>
 
-[Cloud Function](cmdb-dynatrace-classes.md#section_ttj_gq4_cfc)[Azure Datacenter](cmdb-dynatrace-classes.md#section_igl_gwh_ldc)
+[Cloud Function](cmdb-dynatrace-classes.md#cloud-function-cmdb-ci-cloud-function)[Azure Datacenter](cmdb-dynatrace-classes.md#azure-datacenter-cmdb-ci-azure-datacenter)
 
-[Cloud Service Account](cmdb-dynatrace-classes.md#section_ld3_gwh_ldc)
+[Cloud Service Account](cmdb-dynatrace-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -682,11 +682,11 @@ SGO-Dynatrace Azure Scale Sets VM \[sn\_dynatrace\_integ\_sgo\_dynatrace\_azure\
 
 </td><td>
 
-[Instance Scale Set](cmdb-dynatrace-classes.md#section_nsh_zn4_cfc)[Azure Datacenter](cmdb-dynatrace-classes.md#section_igl_gwh_ldc)
+[Instance Scale Set](cmdb-dynatrace-classes.md#instance-scale-set-cmdb-ci-instance-scale-set)[Azure Datacenter](cmdb-dynatrace-classes.md#azure-datacenter-cmdb-ci-azure-datacenter)
 
-[Cloud Service Account](cmdb-dynatrace-classes.md#section_ld3_gwh_ldc)
+[Cloud Service Account](cmdb-dynatrace-classes.md#cloud-service-account-cmdb-ci-cloud-service-account)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -706,9 +706,9 @@ SGO-Dynatrace AWS RDS V1 \[sn\_dynatrace\_integ\_sgo\_dynatrace\_aws\_rds\_v1\]
 
 </td><td>
 
-[Cloud DataBase](cmdb-dynatrace-classes.md#section_ylw_rp4_cfc)[AWS Datacenter](cmdb-dynatrace-classes.md#section_gpj_gwh_ldc)
+[Cloud DataBase](cmdb-dynatrace-classes.md#cloud-database-cmdb-ci-cloud-database)[AWS Datacenter](cmdb-dynatrace-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -728,9 +728,9 @@ SGO-Dynatrace AWS RDS V2 \[sn\_dynatrace\_integ\_sgo\_dynatrace\_aws\_rds\_v2\]
 
 </td><td>
 
-[Cloud DataBase](cmdb-dynatrace-classes.md#section_ylw_rp4_cfc)[AWS Datacenter](cmdb-dynatrace-classes.md#section_gpj_gwh_ldc)
+[Cloud DataBase](cmdb-dynatrace-classes.md#cloud-database-cmdb-ci-cloud-database)[AWS Datacenter](cmdb-dynatrace-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -750,9 +750,9 @@ SGO-Dynatrace AWS Dynamo DB v1 \[sn\_dynatrace\_integ\_sgo\_dynatrace\_aws\_dyna
 
 </td><td>
 
-[DynamoDB Table](cmdb-dynatrace-classes.md#section_lsd_yj4_cfc)[AWS Datacenter](cmdb-dynatrace-classes.md#section_gpj_gwh_ldc)
+[DynamoDB Table](cmdb-dynatrace-classes.md#dynamodb-table-cmdb-ci-dynamodb-table)[AWS Datacenter](cmdb-dynatrace-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -772,9 +772,9 @@ SGO-Dynatrace AWS Dynamo DB v2 \[sn\_dynatrace\_integ\_sgo\_dynatrace\_aws\_dyna
 
 </td><td>
 
-[DynamoDB Table](cmdb-dynatrace-classes.md#section_lsd_yj4_cfc)[AWS Datacenter](cmdb-dynatrace-classes.md#section_gpj_gwh_ldc)
+[DynamoDB Table](cmdb-dynatrace-classes.md#dynamodb-table-cmdb-ci-dynamodb-table)[AWS Datacenter](cmdb-dynatrace-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -794,9 +794,9 @@ SGO-Dynatrace AWS Lambda Func V1 \[sn\_dynatrace\_integ\_sgo\_dynatrace\_aws\_la
 
 </td><td>
 
-[Cloud Function](cmdb-dynatrace-classes.md#section_ttj_gq4_cfc)[Azure Datacenter](cmdb-dynatrace-classes.md#section_igl_gwh_ldc)
+[Cloud Function](cmdb-dynatrace-classes.md#cloud-function-cmdb-ci-cloud-function)[Azure Datacenter](cmdb-dynatrace-classes.md#azure-datacenter-cmdb-ci-azure-datacenter)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -816,9 +816,9 @@ SGO-Dynatrace AWS Lambda Func V2 \[sn\_dynatrace\_integ\_sgo\_dynatrace\_aws\_la
 
 </td><td>
 
-[Cloud Function](cmdb-dynatrace-classes.md#section_ttj_gq4_cfc)[Azure Datacenter](cmdb-dynatrace-classes.md#section_igl_gwh_ldc)
+[Cloud Function](cmdb-dynatrace-classes.md#cloud-function-cmdb-ci-cloud-function)[Azure Datacenter](cmdb-dynatrace-classes.md#azure-datacenter-cmdb-ci-azure-datacenter)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -838,9 +838,9 @@ SGO-Dynatrace AWS S3 Bucket V2 \[sn\_dynatrace\_integ\_sgo\_dynatrace\_aws\_s3\_
 
 </td><td>
 
-[Cloud Object Storage](cmdb-dynatrace-classes.md#section_smj_hm4_cfc)[AWS Datacenter](cmdb-dynatrace-classes.md#section_gpj_gwh_ldc)
+[Cloud Object Storage](cmdb-dynatrace-classes.md#cloud-object-storage-cmdb-ci-cloud-object-storage)[AWS Datacenter](cmdb-dynatrace-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -860,9 +860,9 @@ SGO-Dynatrace Custom Applications \[sn\_dynatrace\_integ\_sgo\_dynatrace\_custom
 
 </td><td>
 
-[Calculated Application Service](cmdb-dynatrace-classes.md#section_mlj_jwg_jzb)Configuration Item \[cmdb\_ci\]
+[Calculated Application Service](cmdb-dynatrace-classes.md#calculated-application-service-cmdb-ci-service-calculated)Configuration Item \[cmdb\_ci\]
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 
@@ -882,9 +882,9 @@ SGO-Dynatrace AWS Auto Scaling Group V1 \[sn\_dynatrace\_integ\_sgo\_dynatrace\_
 
 </td><td>
 
-[Cloud Resource](cmdb-dynatrace-classes.md#section_bkm_11p_bgc)[AWS Datacenter](cmdb-dynatrace-classes.md#section_gpj_gwh_ldc)
+[Cloud Resource](cmdb-dynatrace-classes.md#cloud-resource-cmdb-ci-cmp-resource)[AWS Datacenter](cmdb-dynatrace-classes.md#aws-datacenter-cmdb-ci-aws-datacenter)
 
-[Key value](cmdb-dynatrace-classes.md#section_o2r_ywg_jzb)
+[Key value](cmdb-dynatrace-classes.md#key-value-cmdb-key-value)
 
 </td><td>
 

@@ -42,11 +42,11 @@ The team of AI agents block a room for emergency maintenance and move any existi
 
 To access the Maintenance Meeting rooms workflow:
 
-1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Overview** &gt; **Manage Temporary space closures**. For more information, see [AI agents used in the Manage temporary space closures workflow](maintenance-meeting-room-agent-ai.md#section_ifc_bby_w2c).
+1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Overview** &gt; **Manage Temporary space closures**. For more information, see [AI agents used in the Manage temporary space closures workflow](maintenance-meeting-room-agent-ai.md#ai-agents-used-in-the-manage-temporary-space-closures-workflow).
 
     The Manage temporary space closure Describe and Connect workflow opens.
 
-2.  Select **Define Trigger** to review the trigger factor \(Emergency Meeting rooms\) for this agentic workflow. For more information, see [Triggers for the Manage temporary space closures](maintenance-meeting-room-agent-ai.md#section_df4_y1y_w2c).
+2.  Select **Define Trigger** to review the trigger factor \(Emergency Meeting rooms\) for this agentic workflow. For more information, see [Triggers for the Manage temporary space closures](maintenance-meeting-room-agent-ai.md#manage-temporary-space-closures-workflow).
 3.  The **Select Display** option enables the Now Assist panel. For more information, see [Select display](maintenance-meeting-room-agent-ai.md#section_bc5_ykn_x2c).
 
 ## AI agents used in the Manage temporary space closures workflow

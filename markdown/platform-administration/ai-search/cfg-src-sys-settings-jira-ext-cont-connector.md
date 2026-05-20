@@ -178,7 +178,7 @@ Provide the following items to your connector admin:
 
 -   The OAuth 2.0 integration's Client ID and Secret values that you recorded in step [1.j](cfg-src-sys-settings-jira-ext-cont-connector.md#record-client-id-and-secret-step).
 -   The API key's value that you recorded in step [2.g](cfg-src-sys-settings-jira-ext-cont-connector.md#record-api-key).
--   The credentials for the Atlassian Jira Cloud user that you created in step [3](cfg-src-sys-settings-jira-ext-cont-connector.md#configure-technical-user-step).
+-   The credentials for the Atlassian Jira Cloud user that you created in step [3](cfg-src-sys-settings-jira-ext-cont-connector.md#table_wr3_s1q_xdc).
 
 Your connector admin needs these items to configure an Atlassian Jira Cloud external content connector to retrieve projects and security principals from your Atlassian Jira Cloud instance.
 

@@ -63,7 +63,7 @@ You must manually create a software model if a publisher part number isn’t ava
 
 11. Associate your software model with a vendor by selecting [Vendor Catalog Items](../../it-service-management/product-catalog/t_CreateAVendorCatalogItem.md) and complete the form.
 
-12. Specify the number of devices or users that are accessing the software by selecting [Client Access](software-model-fields.md#section_yhc_y3q_l3b) and complete the form.
+12. Specify the number of devices or users that are accessing the software by selecting [Client Access](software-model-fields.md#client-access-tab) and complete the form.
 
 13. To create a new record for the software downgrade rights, select [Downgrade Rights](software-model-fields.md#section_x5s_j4z_4hb) and complete the form.
 

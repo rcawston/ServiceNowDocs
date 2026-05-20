@@ -53,7 +53,7 @@ If you installed the Citrix publisher pack, see [Record software rights for Citr
 
     The **Device Allocations** section is not visible for the IBM Resource Value Unit \(RVU\) license metric. The Resource Value Unit \(RVU\) license metric is licensed at the product level and so rights are not used by individual devices. When you upgrade from a prior release, that had device allocations, to the Australia release, the existing device relocations are removed.
 
-6.  To track your software downgrade rights, select the [Downgrade Rights related list](software-entitlement-fields.md#section_lc4_mcm_43b) and specify the version.
+6.  To track your software downgrade rights, select the [Downgrade Rights related list](software-entitlement-fields.md#downgrade-rights-related-list) and specify the version.
 
     Creating a new record allows you to set an entitlement to previous versions of software. For example, the purchase of Microsoft Office Professional Plus 2016 rights entitles you to Microsoft Office Professional Plus 2013 too\).
 
@@ -61,7 +61,7 @@ If you installed the Citrix publisher pack, see [Record software rights for Citr
 
 7.  To track the cost of your software over its lifecycle, configure [expense lines](../../it-service-management/expense-line/c_ExpenseLine.md).
 
-8.  To manage license keys, select the [License Keys related list](software-entitlement-fields.md#section_iqv_dcm_43b) and specify which licenses keys are allocated to entitlements.
+8.  To manage license keys, select the [License Keys related list](software-entitlement-fields.md#license-key-related-list) and specify which licenses keys are allocated to entitlements.
 
 9.  To view the history of all maintenance entitlements that you have purchased, select the Entitlement History related list.
 

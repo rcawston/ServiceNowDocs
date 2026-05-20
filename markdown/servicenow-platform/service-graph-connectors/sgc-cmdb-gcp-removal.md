@@ -17,8 +17,8 @@ The Service Graph Connector for GCP uses soft deletion and hard deletion to mana
 
 Record removal is the process of handling data that is no longer needed. For any discovered resources that are deleted later after pulling data, the Service Graph Connector for GCP automatically updates the **Install Status** field of the associated CMDB CI classes to indicate any retired or deleted records.
 
--   [Soft deletion](sgc-cmdb-gcp-removal.md#section_dgn_plz_ncc)
--   [Hard deletion](sgc-cmdb-gcp-removal.md#section_lyp_bxh_cgc)
+-   [Soft deletion](sgc-cmdb-gcp-removal.md#soft-deletion)
+-   [Hard deletion](sgc-cmdb-gcp-removal.md#hard-deletion)
 
 ## Soft deletion
 
@@ -61,7 +61,7 @@ Soft deletion is enabled for the following data sources in Service Graph Connect
 -   SG-GCP Kubernetes Cluster Role Binding
 -   SG-GCP Kubernetes Node Pool
 
-From Service Graph Connector for GCP version 1.10.0, the SG-GCP Generic Resource data source uses the post-script method for soft deletion, which relies on the Source \[sys\_object\_source\] table. For more information about the post-script method, see [Post-script method](../cmdb-integration-commons/cmdb-integ-record-removal.md#section_tkt_5cb_mbc).
+From Service Graph Connector for GCP version 1.10.0, the SG-GCP Generic Resource data source uses the post-script method for soft deletion, which relies on the Source \[sys\_object\_source\] table. For more information about the post-script method, see [Post-script method](../cmdb-integration-commons/cmdb-integ-record-removal.md#post-script-method).
 
 ## Hard deletion
 

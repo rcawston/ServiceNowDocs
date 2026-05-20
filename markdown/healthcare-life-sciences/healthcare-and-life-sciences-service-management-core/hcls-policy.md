@@ -60,7 +60,7 @@ Reference
 
 Document template to generate standard letters or documents associated with the policy.
 
- This field is used only when the [Policy type](#policy_type) field is set to **Document template**.
+ This field is used only when the [Policy type](#hcls-policy-type) field is set to **Document template**.
 
  **Note:** You can associate only one active policy with a document template.
 

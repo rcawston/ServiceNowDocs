@@ -52,7 +52,7 @@ For more information, see [CSM Configurable Workspace overview](csm-config-works
 
 The CSM Configurable Workspace application \(com.snc.uib.csm\_agent\_workspace\) is activated with the Customer Service plugin \(com.sn\_customerservice\).
 
-**Note:** Starting with the Yokohama release, CSM Configurable Workspace has a dependency on the Customer Central plugin. For more information, see [Customer Central plugin](customer-central.md#section_jmt_bnt_ydc).
+**Note:** Starting with the Yokohama release, CSM Configurable Workspace has a dependency on the Customer Central plugin. For more information, see [Customer Central plugin](customer-central.md#customer-central-plugin).
 
 The CSM Configurable Workspace application is available from the ServiceNow Store.
 

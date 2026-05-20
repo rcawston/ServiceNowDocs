@@ -19,7 +19,7 @@ Generate a playbook outline and get recommendations for placeholder activities
 
 ## Before you begin
 
-Learn how to write prompts to generate better playbooks. For more information, see [Writing prompts and reviewing playbook outlines](playbook-assist.md#writing-playbook-prompts).
+Learn how to write prompts to generate better playbooks. For more information, see [Writing prompts and reviewing playbook outlines](playbook-assist.md#writing-prompts-and-reviewing-playbook-outlines).
 
 Role required:
 
@@ -85,7 +85,7 @@ Application scope that you want your playbook to run in. Selecting **Global** le
 
 6.  Review the preview of the playbook for accuracy.
 
-7.  If the playbook outline doesn’t meet your requirements, try rephrasing your prompt according to [Writing prompts and reviewing playbook outlines](playbook-assist.md#writing-playbook-prompts), and select **Regenerate preview**.
+7.  If the playbook outline doesn’t meet your requirements, try rephrasing your prompt according to [Writing prompts and reviewing playbook outlines](playbook-assist.md#writing-prompts-and-reviewing-playbook-outlines), and select **Regenerate preview**.
 
 8.  If you're ready to generate your playbook outline, select **Save and edit playbook**.
 

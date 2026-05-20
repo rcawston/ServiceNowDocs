@@ -194,7 +194,7 @@ Range of dates to search. Default dates are as follows:-   The date and time tha
 
 ### Result
 
-A Sightings Search record is created. After the workflow execution has completed, you can view the aggregated information of observables that are seen across all the events \(global\) and categorized by their internal or external sightings. Aggregate and associated sightings data are displayed in the security incident under the [Sightings](sightings-searches-in-misp.md#fig_m3s_lgk_kqb), [Sightings Search Results](view-sightings-search-results.md), and [Sightings Search Details](view-sightings-search-details.md) related lists.
+A Sightings Search record is created. After the workflow execution has completed, you can view the aggregated information of observables that are seen across all the events \(global\) and categorized by their internal or external sightings. Aggregate and associated sightings data are displayed in the security incident under the [Sightings](sightings-searches-in-misp.md#sightings-in-misp), [Sightings Search Results](view-sightings-search-results.md), and [Sightings Search Details](view-sightings-search-details.md) related lists.
 
 ## Report sightings to MISP
 

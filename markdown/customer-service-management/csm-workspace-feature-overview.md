@@ -23,7 +23,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Multi-tab interface](csm-config-workspace-interface.md#section_qdq_jnw_mxb)
+[Multi-tab interface](csm-config-workspace-interface.md#multi-tab-interface)
 
 </td><td>
 
@@ -31,7 +31,7 @@ Displays information using tabs and sub-tabs which enable agents to work on mult
 
 </td></tr><tr><td>
 
-[Contextual display](csm-config-workspace-interface.md#section_ewy_nby_chc)
+[Contextual display](csm-config-workspace-interface.md#contextual-display)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Displays information that provides agents with a complete view of a customer's h
 
 </td></tr><tr><td>
 
-[Agent inbox](csm-config-workspace-interface.md#section_u3k_nly_chc)
+[Agent inbox](csm-config-workspace-interface.md#agent-inbox)
 
 </td><td>
 
@@ -63,7 +63,7 @@ Provide filtered lists of cases, interactions, and other records such as account
 
 </td></tr><tr><td>
 
-[Record details](csm-config-workspace-interface.md#section_ehb_gxy_chc)
+[Record details](csm-config-workspace-interface.md#record-details)
 
 </td><td>
 

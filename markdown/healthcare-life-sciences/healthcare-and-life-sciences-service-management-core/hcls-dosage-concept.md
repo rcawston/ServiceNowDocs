@@ -17,11 +17,11 @@ You can increase the efficiency of healthcare representatives and reduce manual 
 
 A dosage comprises the following key components:
 
--   [Dosage specifications](hcls-dosage-concept.md#section_xwz_z3x_htb)
--   [Dosage characteristics](hcls-dosage-concept.md#section_ur1_bjx_htb)
--   [Dosage characteristic groups](hcls-dosage-concept.md#section_cl5_qjx_htb)
+-   [Dosage specifications](hcls-dosage-concept.md#dosage-specifications)
+-   [Dosage characteristics](hcls-dosage-concept.md#dosage-characteristics)
+-   [Dosage characteristic groups](hcls-dosage-concept.md#characteristic-groups-for-a-dosage)
 
-To learn about how dosage components are linked to each other, see [Dosage characteristics mapping](hcls-dosage-concept.md#section_fwn_cjx_htb).
+To learn about how dosage components are linked to each other, see [Dosage characteristics mapping](hcls-dosage-concept.md#dosage-characteristics-mapping).
 
 ## Dosage specifications
 

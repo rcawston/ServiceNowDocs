@@ -47,7 +47,7 @@ The value specified for the **Schedule** field on a user profile overrides the s
 
 **Note:** The **Time zone** field of a schedule is recommended to be set to **Floating**.
 
-If necessary, the administrator can create a hierarchy of schedules. This is useful if you want users to have a primary schedule such as Monday-Friday 8:00-17:00 and a secondary schedule such as Saturday-Sunday 12:00-16:00. See [Custom schedule hierarchy](c_UsingResourceSchedules.md#section_hks_2lv_nsb).
+If necessary, the administrator can create a hierarchy of schedules. This is useful if you want users to have a primary schedule such as Monday-Friday 8:00-17:00 and a secondary schedule such as Saturday-Sunday 12:00-16:00. See [Custom schedule hierarchy](c_UsingResourceSchedules.md#custom-schedule-hierarchy).
 
 ### Custom schedule hierarchy
 

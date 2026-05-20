@@ -48,7 +48,7 @@ The next activity in the playbook involves gathering onboarding related informat
     -   Full: The entire onboarding process for this customer is by this Customer Success Management onboarding case.
 -   Specify the Go live date and select **Mark complete** to proceed with the next activity.
 
-**Note:** The State field is set to **New** for a new record. If this field is updated, the Stage field is automatically updated based on the predefined mapping. This mapping is also available for account onboarding case tasks between the Progress and State fields. See [Field mapping for account onboarding cases and case tasks](#section_sm3_qlk_1cc) for details.
+**Note:** The State field is set to **New** for a new record. If this field is updated, the Stage field is automatically updated based on the predefined mapping. This mapping is also available for account onboarding case tasks between the Progress and State fields. See [Field mapping for account onboarding cases and case tasks](#field-mapping-for-account-onboarding-cases-and-case-tasks) for details.
 
 </td></tr><tr><td>
 

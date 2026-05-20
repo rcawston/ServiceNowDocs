@@ -19,7 +19,7 @@ You define an inventory model in the Telecommunications Network Inventory applic
 
 A network inventory model contains the assets, services, and the relationships that define the infrastructure of your telecommunications networks. An inventory model contains the metadata for the name, number, dimensions, compatible interface cards, and configurations from the manufacturer. When you instantiate an inventory record by using the design and assign function, your inventory record contains this standard manufacturer information. To learn more about how to create an inventory model record, see [Create inventory models](creating-your-inventory-models.md).
 
-After you create the inventory models, you can then define the relationships between the various network model entities. You can also define the compatibility between these entities. To learn more about model relationships, see [Network model relationships](using-inventory-models-tni.md#section_yps_kn2_cyb).
+After you create the inventory models, you can then define the relationships between the various network model entities. You can also define the compatibility between these entities. To learn more about model relationships, see [Network model relationships](using-inventory-models-tni.md#network-model-relationships).
 
 ## Types of inventory models
 

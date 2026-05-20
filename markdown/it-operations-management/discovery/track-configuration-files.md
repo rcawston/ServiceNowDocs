@@ -42,7 +42,7 @@ The system tracks configuration files for CI types with process classifiers that
 
 3.  Click the **Tracked Files** tab.
 
-    One or more tracked file definitions appear by default for Discovery [patterns that support configuration file tracking](tracked-config-files.md#patterns-for-file-tracking).
+    One or more tracked file definitions appear by default for Discovery [patterns that support configuration file tracking](tracked-config-files.md#discovery-patterns-that-support-configuration-file-tracking-by-default).
 
     If you do not see the Tracked Files tab, verify that the pattern is specified process classier. See [Add the Horizontal Pattern probe to a classifier](c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 

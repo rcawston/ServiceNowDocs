@@ -42,18 +42,18 @@ Learn about features of the ServiceNow IDE user interface.
 
 ![Identify features in the ServiceNow IDE.](../image/servicenow-ide-user-interface.png "ServiceNow IDE user interface")
 
-1.  [ServiceNow IDE home page](servicenow-ide-user-interface.md#section_sqf_j5j_1cc): Get started creating workspaces and applications and view existing workspaces. Switch between development environments using the experience switcher.
+1.  [ServiceNow IDE home page](servicenow-ide-user-interface.md#servicenow-ide-home-page): Get started creating workspaces and applications and view existing workspaces. Switch between development environments using the experience switcher.
 2.  Activity Bar
-    -   [File Explorer view](servicenow-ide-user-interface.md#section_vl3_bj2_dbc): Navigate through applications in your workspace and their code.
-    -   [Search view](servicenow-ide-user-interface.md#section_oq5_fj2_dbc): Find content within files.
-    -   [Source Control view](servicenow-ide-user-interface.md#section_zys_hzd_dbc): Integrate with a Git repository for version control of your code.
-    -   [File Categories view](servicenow-ide-user-interface.md#section_xdm_dzd_dbc): Create, update, and view application metadata.
-    -   [Now SDK view](servicenow-ide-user-interface.md#section_oqm_xtp_ldc): Synchronize changes to application metadata or build and install applications.
-    -   [Manage menu](servicenow-ide-user-interface.md#section_x2f_2rc_qfc): Access and configure various aspects of the user interface.
-3.  [Editor](servicenow-ide-user-interface.md#section_agx_c42_dbc): Write source code and view application metadata through embedded ServiceNow AI Platform user interfaces.
-4.  [Status bar](servicenow-ide-user-interface.md#section_qnf_d42_dbc): View status information about your applications and files and build applications.
+    -   [File Explorer view](servicenow-ide-user-interface.md#file-explorer-view): Navigate through applications in your workspace and their code.
+    -   [Search view](servicenow-ide-user-interface.md#search-view): Find content within files.
+    -   [Source Control view](servicenow-ide-user-interface.md#source-control-view): Integrate with a Git repository for version control of your code.
+    -   [File Categories view](servicenow-ide-user-interface.md#file-categories-view): Create, update, and view application metadata.
+    -   [Now SDK view](servicenow-ide-user-interface.md#now-sdk-view): Synchronize changes to application metadata or build and install applications.
+    -   [Manage menu](servicenow-ide-user-interface.md#manage-menu): Access and configure various aspects of the user interface.
+3.  [Editor](servicenow-ide-user-interface.md#editor): Write source code and view application metadata through embedded ServiceNow AI Platform user interfaces.
+4.  [Status bar](servicenow-ide-user-interface.md#status-bar): View status information about your applications and files and build applications.
 
-In addition to these features, you can open the command palette to run a variety of commands to develop applications, manage files, use source control, and more. For more information, see [Command palette](servicenow-ide-user-interface.md#section_ftq_gzd_dbc).
+In addition to these features, you can open the command palette to run a variety of commands to develop applications, manage files, use source control, and more. For more information, see [Command palette](servicenow-ide-user-interface.md#command-palette).
 
 ### ServiceNow IDE home page
 

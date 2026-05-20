@@ -92,7 +92,7 @@ A Multiple select filter lets users select multiple values of a field or breakdo
 
     **Note:** You can only set **Other filters to follow** when you're configuring filters on a dashboard, not from the filter designer.
 
-    When you set the filter to follow another filter, the choices available in the following filter are limited by the choices made in the followed filter. For more information, see the example [Cascading filters for Manager and Assignment Group](create-select-filter-workspace.md#example_pnj_s4m_4xb).
+    When you set the filter to follow another filter, the choices available in the following filter are limited by the choices made in the followed filter. For more information, see the example [Cascading filters for Manager and Assignment Group](create-select-filter-workspace.md#cascading-filters-for-manager-and-assignment-group).
 
     Conditions:
 

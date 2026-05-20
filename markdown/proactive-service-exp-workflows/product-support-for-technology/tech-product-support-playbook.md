@@ -124,11 +124,11 @@ SLA component
 
 </td><td>
 
-A service level agreement \(SLA\) defines a set amount of time for a task to reach a certain condition. This ensures that tasks resolved according to the expectations set for customers.For more information, see [SLA definitions](tech-product-support-case-type.md#section_vvh_sbl_y1c).
+A service level agreement \(SLA\) defines a set amount of time for a task to reach a certain condition. This ensures that tasks resolved according to the expectations set for customers.For more information, see [SLA definitions](tech-product-support-case-type.md#sla-definitions).
 
 </td></tr><tr><td>
 
-[Account and contact lookup components](tech-product-support-playbook.md#section_dnl_3f4_s1c)
+[Account and contact lookup components](tech-product-support-playbook.md#account-and-contact-lookup-components)
 
 </td><td>
 
@@ -152,7 +152,7 @@ The case highlights component displays important details about the case includin
 
 </td></tr><tr><td>
 
-[Case summarization component](tech-product-support-playbook.md#section_ots_wnh_s1c)
+[Case summarization component](tech-product-support-playbook.md#case-summarization-component)
 
 </td><td>
 
@@ -182,7 +182,7 @@ For more information about the playbook, see [Technology Product Support Case pl
 
 </td></tr><tr><td>
 
-[Contextual side panel](tech-product-support-playbook.md#section_c53_csn_n1c)
+[Contextual side panel](tech-product-support-playbook.md#contextual-side-panel-component)
 
 </td><td>
 
@@ -198,12 +198,12 @@ The contextual side panel component includes different tools that agents can use
 For more information, see the following sections:
 
 -   [Activity stream component](tech-product-support-playbook.md#section_edk_v3t_bbc)
--   [Recommended Actions / Search component](tech-product-support-playbook.md#section_is4_r3t_bbc)
--   [Related Items component](tech-product-support-playbook.md#section_b1b_dfh_z1c)
+-   [Recommended Actions / Search component](tech-product-support-playbook.md#recommended-actions-search-component)
+-   [Related Items component](tech-product-support-playbook.md#related-items-component)
 
 </td></tr><tr><td>
 
-[Modeless dialogs](tech-product-support-playbook.md#section_lpp_5ys_y1c)
+[Modeless dialogs](tech-product-support-playbook.md#modeless-dialogs)
 
 </td><td>
 
@@ -308,7 +308,7 @@ The activity stream component displays a list of the activities occurring on a c
 
 </td></tr><tr><td>
 
-[Recommended Actions search](tech-product-support-playbook.md#section_is4_r3t_bbc)
+[Recommended Actions search](tech-product-support-playbook.md#recommended-actions-search-component)
 
 </td><td>
 
@@ -332,7 +332,7 @@ For more information, see [Use AI search in Recommended Actions to resolve cases
 
 </td></tr><tr><td>
 
-[Related Items](tech-product-support-playbook.md#section_b1b_dfh_z1c)
+[Related Items](tech-product-support-playbook.md#related-items-component)
 
 </td><td>
 
@@ -418,7 +418,7 @@ When expanded, each activity also includes:
 -   For attachments, a small preview of the attached file.
 -   For chats, a sidebar chat card.
 
-The activity stream uses [modeless dialogs](tech-product-support-record-page.md#section_lpp_5ys_y1c) for composing comments, work notes, and emails. Use the **Compose** button in the action bar to create these items.
+The activity stream uses [modeless dialogs](tech-product-support-record-page.md#modeless-dialogs) for composing comments, work notes, and emails. Use the **Compose** button in the action bar to create these items.
 
 -   **Compose &gt; Comment**: opens the Compose a comment modeless dialog.
 -   **Compose &gt; Work note**: opens the Compose a work note modeless dialog.

@@ -49,7 +49,7 @@ Description
 
 </td><td>
 
-Select this button to accept the callback interaction request.The voice interaction page opens with the Callback Actions component on the top-left corner of the page. For more details on the callback actions component, see [Callback actions component](csm-native-voice-record-page.md#section-ccaas-callback-actions).
+Select this button to accept the callback interaction request.The voice interaction page opens with the Callback Actions component on the top-left corner of the page. For more details on the callback actions component, see [Callback actions component](csm-native-voice-record-page.md#callback-actions-component).
 
 </td></tr><tr><td id="d158711e144">
 
@@ -62,7 +62,7 @@ Select this button to reject the callback interaction request.The callback inter
 </td></tr></tbody>
 </table>3.  View the Callback context card for the details of the callback who requested a callback.
 
-    For more information on the Callback context card, see [Callback context card](csm-native-voice-record-page.md#section-callback-context).
+    For more information on the Callback context card, see [Callback context card](csm-native-voice-record-page.md#callback-context-card).
 
 4.  Select the GVC icon on the unified navigation bar to perform call-related actions when you are on other pages.
 

@@ -19,7 +19,7 @@ After a content request is submitted, Content Governance enables the content req
 
 After submitting a content request, the employee can track the status of the request by navigating to **My requests** and opening the content request. They can add a comment for the content manager, attach files, and review the details they submitted.![The content requester can track the request status from the My Request tab](../images/content-gov-request-view.png)
 
-The state field of a content request provides a quick status update to the requester and content team, as well as triggers system actions. For more information, see [Understanding content request states](ec-content-gov-track.md#understanding-request-states).
+The state field of a content request provides a quick status update to the requester and content team, as well as triggers system actions. For more information, see [Understanding content request states](ec-content-gov-track.md#understanding-content-request-states).
 
 ## Tracking as a content manager or content admin
 

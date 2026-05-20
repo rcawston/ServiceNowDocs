@@ -209,7 +209,7 @@ The following tables include elements and their available methods. For the descr
 
 |Element|Methods|
 |-------|-------|
-|GuiCheckBox|[Check](sap-element-methods.md#dlentry_bfc_yrb_s1c)|
+|GuiCheckBox|[Check](sap-element-methods.md#guicheckbox-methods)|
 |[Highlight](sap-element-methods.md#dlentry_ks3_jlk_q1c)|
 |[IsChecked](sap-element-methods.md#dlentry_nhz_grc_s1c)|
 |[IsCreated](sap-element-methods.md#dlentry_l11_llk_q1c)|
@@ -359,7 +359,7 @@ The following tables include elements and their available methods. For the descr
 
 |Element|Methods|
 |-------|-------|
-|GuiTree|[Check](sap-element-methods.md#dlentry_yqk_2rw_12c)|
+|GuiTree|[Check](sap-element-methods.md#guicheckbox-methods)|
 |[ClickNodeItem](sap-element-methods.md#dlentry_hdq_bqw_12c)|
 |[CollapseNodeItem](sap-element-methods.md#dlentry_epf_4mf_b2c)|
 |[DoubleClickNode](sap-element-methods.md#dlentry_nhq_prw_12c)|

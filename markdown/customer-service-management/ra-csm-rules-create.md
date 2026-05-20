@@ -45,7 +45,7 @@ New rules can be created from the context records only.
 
 9.  Enable the **Apply to tables extended from the context table** check box, so that the rule and its recommendations are applied to tables that are extended from the context table.
 
-    For more information, see [Apply rules to tables extended from the context table](ra-csm-rules.md#section_rules-apply-extended-tables).
+    For more information, see [Apply rules to tables extended from the context table](ra-csm-rules.md#apply-rules-to-tables-extended-from-the-context-table).
 
 10. In the **Fields affecting this rule** field, add fields from the context table that must be monitored for changes.
 
@@ -53,7 +53,7 @@ New rules can be created from the context records only.
 
 11. Fill in the remaining fields on the form, as needed.
 
-    For more information about these fields, see [Rule form](ra-csm-rules.md#section_rnp_zsz_ztb).
+    For more information about these fields, see [Rule form](ra-csm-rules.md#rule-form).
 
 12. Click **Submit**.
 

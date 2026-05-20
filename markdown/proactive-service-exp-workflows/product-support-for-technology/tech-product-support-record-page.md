@@ -120,7 +120,7 @@ The action bar contains the actions available to users while working on case rec
 
 </td></tr><tr><td>
 
-[Modeless dialogs](tech-product-support-record-page.md#section_lpp_5ys_y1c)
+[Modeless dialogs](tech-product-support-record-page.md#modeless-dialogs)
 
 </td><td>
 
@@ -128,7 +128,7 @@ Modeless dialogs are windows that overlay the main window content. Agents can us
 
 </td></tr><tr><td>
 
-[Account and contact lookup components](tech-product-support-record-page.md#section_dnl_3f4_s1c)
+[Account and contact lookup components](tech-product-support-record-page.md#account-and-contact-lookup-components)
 
 </td><td>
 
@@ -165,7 +165,7 @@ For more information about the fields that appear in these sections, see [Tech P
 
 </td></tr><tr><td>
 
-[Case summarization component](tech-product-support-record-page.md#section_ots_wnh_s1c)
+[Case summarization component](tech-product-support-record-page.md#case-summarization-component)
 
 </td><td>
 
@@ -179,15 +179,15 @@ The case summarization component appears above the activity stream. When an agen
 
 </td></tr><tr><td>
 
-[Activity stream component](tech-product-support-record-page.md#section_ntx_lnh_s1c)
+[Activity stream component](tech-product-support-record-page.md#activity-stream-component)
 
 </td><td>
 
-The activity stream component displays a list of activities occurring on a case record. This list can be collapsed to provide a quick view of case activities or expanded to provide more detail about individual activities.The Technology product support record page uses [modeless dialogs](tech-product-support-record-page.md#section_lpp_5ys_y1c) for composing comments, work notes, and emails.
+The activity stream component displays a list of activities occurring on a case record. This list can be collapsed to provide a quick view of case activities or expanded to provide more detail about individual activities.The Technology product support record page uses [modeless dialogs](tech-product-support-record-page.md#modeless-dialogs) for composing comments, work notes, and emails.
 
 </td></tr><tr><td>
 
-[Contextual side panel](tech-product-support-record-page.md#section_c53_csn_n1c)
+[Contextual side panel](tech-product-support-record-page.md#contextual-side-panel-component)
 
 </td><td>
 
@@ -201,9 +201,9 @@ The contextual side panel component includes different tools that agents can use
 
 For more information, see the following sections:
 
--   [Contextual side panel component](tech-product-support-record-page.md#section_c53_csn_n1c)
+-   [Contextual side panel component](tech-product-support-record-page.md#contextual-side-panel-component)
 -   [Recommended Actions search component](tech-product-support-record-page.md#section_ev4_wyf_bbc)
--   [Related items component](tech-product-support-record-page.md#section_b1b_dfh_z1c)
+-   [Related items component](tech-product-support-record-page.md#related-items-component)
 
 </td></tr></tbody>
 </table>## Actions available in the action bar
@@ -344,7 +344,7 @@ When expanded, each activity also includes:
 -   For attachments, a small preview of the attached file.
 -   For chats, a sidebar chat card.
 
-The activity stream uses [modeless dialogs](tech-product-support-record-page.md#section_lpp_5ys_y1c) for composing comments, work notes, and emails. Use the **Compose** button in the action bar to create these items.
+The activity stream uses [modeless dialogs](tech-product-support-record-page.md#modeless-dialogs) for composing comments, work notes, and emails. Use the **Compose** button in the action bar to create these items.
 
 -   **Compose &gt; Comment**: Opens the Compose a comment modeless dialog.
 -   **Compose &gt; Work note**: Opens the Compose a work note modeless dialog.
@@ -364,7 +364,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Activity stream](tech-product-support-record-page.md#section_ntx_lnh_s1c)
+[Activity stream](tech-product-support-record-page.md#activity-stream-component)
 
 </td><td>
 
@@ -395,7 +395,7 @@ For more information, see [Use AI search in Recommended Actions to resolve cases
 
 </td></tr><tr><td>
 
-[Related Items](tech-product-support-record-page.md#section_b1b_dfh_z1c)
+[Related Items](tech-product-support-record-page.md#related-items-component)
 
 </td><td>
 

@@ -17,12 +17,12 @@ Reminders enable relevant users to review knowledge articles and complete tasks 
 
 By default, the Knowledge Management application includes the following types of email notifications:
 
--   [Email notifications for knowledge article feedback tasks](email-notifications-km.md#section_wn1_kxp_mlb).
--   [Email notifications for knowledge subscriptions](email-notifications-km.md#section_dcs_yfq_mlb).
--   [Email notifications for knowledge article approval publishing workflow](email-notifications-km.md#section_wdn_y3q_mlb).
--   [Email notifications for translation tasks](email-notifications-km.md#section_h1c_f3q_mlb).
--   [Email notifications for expiring knowledge articles](email-notifications-km.md#section_gsy_5jq_mlb).
--   [Email notifications for article quality index \(AQI\) reviews](email-notifications-km.md#section_dk1_rjq_mlb).
+-   [Email notifications for knowledge article feedback tasks](email-notifications-km.md#email-notifications-for-knowledge-article-feedback-tasks).
+-   [Email notifications for knowledge subscriptions](email-notifications-km.md#email-notifications-for-knowledge-subscriptions).
+-   [Email notifications for knowledge article approval publishing workflow](email-notifications-km.md#email-notifications-for-knowledge-article-approval-publishing-workflow).
+-   [Email notifications for translation tasks](email-notifications-km.md#email-notifications-for-translation-tasks).
+-   [Email notifications for expiring knowledge articles](email-notifications-km.md#email-notifications-for-knowledge-subscriptions).
+-   [Email notifications for article quality index \(AQI\) reviews](email-notifications-km.md#email-notifications-for-article-quality-index-aqi-reviews).
 
 You can decide if you must receive any knowledge notifications by setting notification preferences. For more information, see [Set knowledge notification preferences](set-subscription-notifications.md).
 

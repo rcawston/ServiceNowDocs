@@ -40,7 +40,7 @@ Complete the following tasks:
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#service-graph-connector-user-roles).
 
 ## Procedure
 
@@ -82,7 +82,7 @@ Client ID
 
 </td><td>
 
-Application \(client\) ID of your Microsoft Defender for Endpoint as described in the [Before you begin](sgc-configure-msdefender-integration.md#prereq_onn_3sx_tzb) section.
+Application \(client\) ID of your Microsoft Defender for Endpoint as described in the [Before you begin](sgc-configure-msdefender-integration.md#before-you-begin) section.
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Client Secret
 
 </td><td>
 
-Client Secret of your Microsoft Defender for Endpoint as described in the [Before you begin](sgc-configure-msdefender-integration.md#prereq_onn_3sx_tzb) section.
+Client Secret of your Microsoft Defender for Endpoint as described in the [Before you begin](sgc-configure-msdefender-integration.md#before-you-begin) section.
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ Token URL of your Microsoft Defender for Endpoint.Enter the token URL in the fol
 https://login.microsoftonline.com/*&lt;tenantid&gt;*/oauth2/v2.0/token
 ```
 
-Where *&lt;tenantid&gt;* is the tenant ID of your Microsoft Defender for Endpoint as described in the [Before you begin](sgc-configure-msdefender-integration.md#prereq_onn_3sx_tzb) section.
+Where *&lt;tenantid&gt;* is the tenant ID of your Microsoft Defender for Endpoint as described in the [Before you begin](sgc-configure-msdefender-integration.md#before-you-begin) section.
 
 </td></tr></tbody>
 </table>        4.  Select **Update**to return to the guided setup page.

@@ -166,7 +166,7 @@ State
 
 </td><td>
 
-Calculated from the remediation tasks that the test result belongs to. If the test result belongs to multiple groups, an [order of precedence](vuln-config-compl-correlation.md#TRGOrderPrecedence) is applied to determine state.
+Calculated from the remediation tasks that the test result belongs to. If the test result belongs to multiple groups, an [order of precedence](vuln-config-compl-correlation.md#remediation-tasks-order-of-precedence) is applied to determine state.
 
 </td></tr><tr><td>
 
@@ -174,7 +174,7 @@ Resolution
 
 </td><td>
 
-Calculated from the remediation tasks that the test result belongs to. If the test result belongs to multiple groups, an [order of precedence](vuln-config-compl-correlation.md#TRGOrderPrecedence) is applied to determine resolution.
+Calculated from the remediation tasks that the test result belongs to. If the test result belongs to multiple groups, an [order of precedence](vuln-config-compl-correlation.md#remediation-tasks-order-of-precedence) is applied to determine resolution.
 
 </td></tr><tr><td>
 

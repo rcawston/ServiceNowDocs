@@ -21,7 +21,7 @@ The Case Playbook for Product Support is available for both CSM Configurable Wor
 
 ## Case Playbook for Product Support application
 
-The Case Playbook for Product Support 3.0 application \(com.sn\_csm\_product\_caseflow\) is available from the ServiceNow® Store. For more information, see [Playbook plugins](setting-up-csm-playbooks.md#section_qgq_ylk_llb).
+The Case Playbook for Product Support 3.0 application \(com.sn\_csm\_product\_caseflow\) is available from the ServiceNow® Store. For more information, see [Playbook plugins](setting-up-csm-playbooks.md#playbook-plugins).
 
 ## Case Playbook for Product Support PAD process definition
 

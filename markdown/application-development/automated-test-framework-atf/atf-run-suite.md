@@ -47,7 +47,7 @@ This procedure outlines how to start a test suite manually. You can also schedul
 
 5.  Choose among any currently running test clients, or start a new runner.
 
-    For more information, review [Browser recommendations for all tests and suites](atf-test-runners.md#kvv_h25_gx).
+    For more information, review [Browser recommendations for all tests and suites](atf-test-runners.md#browser-recommendations-for-all-tests-and-suites).
 
     If the tests associated with the test suite only include [server test steps](server-test-steps.md), the system executes the tests without displaying the Pick a Browser dialog.
 

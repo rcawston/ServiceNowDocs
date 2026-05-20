@@ -56,7 +56,7 @@ A guidance can have outputs, which drive further decision making. With a guidanc
 -   Connect the guidance to the guidance node's next node.
 -   Map the outputs of the guidance to inputs for the guidance node's next node.
 
-For descriptions of the available guidances, see [Guidances included with Guided Decisions Experience application](components-installed-with-guided-decisions.md#section_mt1_njl_d5b).
+For descriptions of the available guidances, see [Guidances included with Guided Decisions Experience application](components-installed-with-guided-decisions.md#guidances).
 
 Users with the Decision tree author role can also create guidances to reuse in decision trees or recommended actions. For more information, see [Create a guidance in the Core UI](create-guidances.md).
 

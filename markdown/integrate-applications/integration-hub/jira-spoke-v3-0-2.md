@@ -162,7 +162,7 @@ Version
 </td></tr></tbody>
 </table>To use other conditions in the routing policy, create a routing policy in the Jira WebHook Routing Policies module and specify conditions as per your requirement. See [Set up a bi-directional webhook for the Jira spoke](setup-jira302-webhooks.md#) for information regarding setting up and configuring the webhooks.
 
-**Tip:** To set up and use webhooks, you should configure webhook registries, decision tables, and create subflows. For a low-code alternative with less configurations, you can use [Spoke triggers](jira-spoke-v3-0-2.md#section_cpg_rpm_ccc).
+**Tip:** To set up and use webhooks, you should configure webhook registries, decision tables, and create subflows. For a low-code alternative with less configurations, you can use [Spoke triggers](jira-spoke-v3-0-2.md#spoke-triggers).
 
 ## Spoke subflow
 

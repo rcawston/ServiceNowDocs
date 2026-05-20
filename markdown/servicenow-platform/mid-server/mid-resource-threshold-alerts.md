@@ -35,7 +35,7 @@ This processing occurs whether or not alerting is enabled:
     -   **Update max memory on MID Server Status**: Calls the MIDResourceThresholdBreach.checkMemoryUsage script include.
     Each function takes an average of the metric sets inserted into the tables, based on the configured thresholds and sampling intervals. The instance first looks at each MID Server for configuration parameters that set custom threshold values or sampling intervals for that MID Server. If no configuration parameters for these attributes are found, the instance looks in the System Properties \[sys\_properties\] table for custom values to use. If no properties are found, the instance uses the default threshold and interval values from the code.
 
-    **Note:** Both the threshold percentages and the sampling intervals are configurable. See [Configuring thresholds and sampling intervals](mid-resource-threshold-alerts.md#sec_config-threshold-and-intervals) for details.
+    **Note:** Both the threshold percentages and the sampling intervals are configurable. See [Configuring thresholds and sampling intervals](mid-resource-threshold-alerts.md#configuring-thresholds-and-sampling-intervals) for details.
 
 
 ## Alerting process

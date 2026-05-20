@@ -27,12 +27,12 @@ Use the Overview page to monitor and troubleshoot your Service Graph Connectors 
 
 |Feature|Description|
 |-------|-----------|
-|[Connections overview](sg-workspace-ingestion-view.md#section_o5x_c51_cjc)|Displays the current state of your configured Service Graph Connector connections, including status, execution results, and error summaries.|
+|[Connections overview](sg-workspace-ingestion-view.md#connections-overview)|Displays the current state of your configured Service Graph Connector connections, including status, execution results, and error summaries.|
 |[Ingested and processed data](sg-workspace-ingestion-view.md#section_lrx_f51_cjc)|Displays key metrics related to the data imported and processed from third-party applications.|
 |[Data processing performance](sg-workspace-ingestion-view.md#section_gps_l51_cjc)|Displays how many configuration items \(CIs\) were added or updated over time, in addition to the number of processing errors.|
 |[Filters](sg-workspace-ingestion-view.md#section_w2h_n51_cjc)|Enables narrowing the data shown in graphs and metrics based on connector type, connection, data source, or date range.|
-|[Indicators](sg-workspace-ingestion-view.md#section_k3m_451_cjc)|Enables viewing of high-level metrics that reflect the volume and quality of imported data and help identify issues such as incomplete or failed import set processing.|
-|[Reports](sg-workspace-ingestion-view.md#section_xcx_p51_cjc)|Enables real-time visualizations that provide insights into data ingestion, processing trends, and error categorization across your Service Graph Connector connections.|
+|[Indicators](sg-workspace-ingestion-view.md#indicators)|Enables viewing of high-level metrics that reflect the volume and quality of imported data and help identify issues such as incomplete or failed import set processing.|
+|[Reports](sg-workspace-ingestion-view.md#reports)|Enables real-time visualizations that provide insights into data ingestion, processing trends, and error categorization across your Service Graph Connector connections.|
 
 ## Connections overview
 

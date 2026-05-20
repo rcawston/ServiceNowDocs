@@ -35,7 +35,7 @@ The CMDB CI Class Models app adds classes, columns, and associated metadata as r
 -   Identifier \[cmdb\_identifier\]: Identification rules
 -   Identifier Entry \[cmdb\_identifier\_entry\]: Identification entries
 -   CMDB Metadata Hosting Rules \[cmdb\_metadata\_hosting\]: Dependent relationships
--   CMDB Deduplication Task Lookup or Related item allowed classes \[cmdb\_duplicate\_lookup\_related\_allowed\_class\]. For more information, see [Detecting duplicate referenced CIs during lookup-based identification](../configuration-management-database-cmdb/id-detect-dup-ci.md#section_unn_yjr_xgc).
+-   CMDB Deduplication Task Lookup or Related item allowed classes \[cmdb\_duplicate\_lookup\_related\_allowed\_class\]. For more information, see [Detecting duplicate referenced CIs during lookup-based identification](../configuration-management-database-cmdb/id-detect-dup-ci.md#detecting-duplicate-referenced-cis-during-lookup-based-identification).
 
 ## Discover using extension classes
 

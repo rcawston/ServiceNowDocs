@@ -48,7 +48,7 @@ To enable search across multiple tables, you:
 
     2.  Open the record for the table that you want to upgrade to the V4 index format.
 
-    3.  If **Format** isn't disabled, select **V4**, select **Submit**, and then skip to step [2](index-multiple-tables.md#create-index-group).
+    3.  If **Format** isn't disabled, select **V4**, select **Submit**, and then skip to step [2](index-multiple-tables.md#configure-a-text-index-group-to-search-across-multiple-tables).
 
         You can choose index formatting in this step because no index exists for the table.
 
@@ -85,7 +85,7 @@ To enable search across multiple tables, you:
 
     2.  Select **New**.
 
-        The Text Index configuration form displays. If you already have a text index group in the list, skip to step [3.d](index-multiple-tables.md#select-index-group).
+        The Text Index configuration form displays. If you already have a text index group in the list, skip to step [3.d](index-multiple-tables.md#configure-a-text-index-group-to-search-across-multiple-tables).
 
     3.  In **Applies to**, select **Index Group**.
 

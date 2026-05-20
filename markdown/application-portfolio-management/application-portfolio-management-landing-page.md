@@ -42,7 +42,7 @@ Overcome these challenges, improve business functions in an efficient and smooth
 
 </td><td>
 
-[Rationalization of business applications](#section_vsr_3l4_dwb)
+[Rationalization of business applications](#rationalization-of-business-applications)
 
  Rationalize all business applications in a category and decide whether to invest, sustain, migrate, or retire an application.
 
@@ -52,7 +52,7 @@ Overcome these challenges, improve business functions in an efficient and smooth
 
 </td><td>
 
-[Data Certification](#section_ckg_4gq_w3c)
+[Data Certification](#data-certification-in-enterprise-architecture-workspace)
 
  Ensure the accuracy, completeness, and reliability of critical enterprise architecture data.
 

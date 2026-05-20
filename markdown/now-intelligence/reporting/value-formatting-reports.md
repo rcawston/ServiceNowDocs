@@ -52,7 +52,7 @@ Formatting applies for aggregate values.
 
 -   **Rounding**
 
-    For values greater than one minute, simplifies a number by rounding, while keeping it close to its value. See [Rounding options](value-formatting-reports.md#section_pb5_v5n_nnb).
+    For values greater than one minute, simplifies a number by rounding, while keeping it close to its value. See [Rounding options](value-formatting-reports.md#rounding-options).
 
 -   **Use the thousands group separator**
 

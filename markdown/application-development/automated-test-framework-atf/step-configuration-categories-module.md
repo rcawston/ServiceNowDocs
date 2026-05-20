@@ -15,7 +15,7 @@ breadcrumb: [Administration, Automated Test Framework \(ATF\) reference, Automat
 
 The Step Configuration Categories module opens a list of records specifying the step categories on the Add Step dialog. From this module, you can add, delete, and edit these categories.
 
-Categories are used for filtering the step list in the Add Step dialog. For more information, see [Category field example](atf-step-config-xmpls.md#hbm_xwc_yw).
+Categories are used for filtering the step list in the Add Step dialog. For more information, see [Category field example](atf-step-config-xmpls.md#category-field-example).
 
 -   **[Test step config category form](atf-step-categories.md)**  
 On the Test Step Config Category form, you specify a retention policy for a set of records on a given test results table.

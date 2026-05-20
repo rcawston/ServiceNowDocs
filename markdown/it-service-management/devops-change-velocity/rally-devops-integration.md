@@ -28,7 +28,7 @@ You must install the Rally application from [ServiceNow Store](https://store.ser
 -   The default object types configured for Rally are `"ObjectTypes"["HierarchicalRequirement","Defect","Feature"]`.
 -   The file script include **Rally state mapping helper** is editable. You can override this file with your specific customization as required.
 -   Scheduledstate in Rally is used when mapping object state to internal ServiceNow work item state.
--   For tool mappings, see [Tool mappings](dev-ops-tool-integration.md#section_rsp_z1v_xnb).
+-   For tool mappings, see [Tool mappings](dev-ops-tool-integration.md#tool-mappings).
 
 ## Get started
 

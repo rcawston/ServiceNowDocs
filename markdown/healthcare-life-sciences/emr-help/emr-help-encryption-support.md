@@ -19,8 +19,8 @@ Encryption prevents unauthorized users from viewing sensitive EMR system data.
 
 The following encryption options on the ServiceNow AI Platform are supported in the EMR Help application:
 
--   [Column Level Encryption](emr-help-encryption-support.md#section_v2g_g2x_cpb)
--   [Column Level Encryption Enterprise](emr-help-encryption-support.md#section_htr_f2x_cpb)
+-   [Column Level Encryption](emr-help-encryption-support.md#column-level-encryption)
+-   [Column Level Encryption Enterprise](emr-help-encryption-support.md#column-level-encryption-enterprise)
 
 ## Column Level Encryption
 

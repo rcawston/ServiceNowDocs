@@ -59,7 +59,7 @@ At the end of the migration process, a confirmation message specifies if the mig
 
     3.  Review the logs to determine which items failed during migration.
 
-    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](highlighted-fields-lists-forms-migration-itsm-aw-sow.md#section_ysx_zyl_ccc) section.
+    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](highlighted-fields-lists-forms-migration-itsm-aw-sow.md#how-the-migration-works) section.
 
 
 **Parent Topic:**[Migration of highlighted fields in lists and forms from ITSM Agent Workspace to Service Operations Workspace for ITSM](highlighted-fields-lists-forms-migration-itsm-aw-sow.md)

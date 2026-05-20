@@ -65,14 +65,14 @@ The dashboard provides clear, consolidated insights into hardware asset data qua
 
 Targeted CMDB metrics focus remediation efforts. Regularly monitor these metrics and follow suggested remediation actions to systematically improve CMDB data quality over time.
 
-**Important:** The dashboard data is filtered based on the Selected model categories and Date range filters. See [Filters](cmdb-sa-ham-dashboard.md#section_an4_nnj_fgc).
+**Important:** The dashboard data is filtered based on the Selected model categories and Date range filters. See [Filters](cmdb-sa-ham-dashboard.md#filters).
 
 |Feature|Description|
 |-------|-----------|
 |CIs by model category|Displays the breakdown of operational CIs by associated model category to highlight CI distribution in the CMDB.|
 |CIs by data integration source|Displays the breakdown of operational CIs by data integration source to highlight their contribution to CMDB population.|
 |[CIs missing model data and other key attributes](cmdb-sa-ham-dashboard.md#section_tgc_yz3_fgc)|Displays key metrics related to CIs missing model details, ownership, and other key attributes, leading to incomplete records and operational inefficiencies.|
-|[CI data quality issues](cmdb-sa-ham-dashboard.md#section_rzg_2mj_fgc)|Displays key metrics related to CIs that have not been updated or may have duplicate records, leading to outdated information and inconsistencies in the CMDB.|
+|[CI data quality issues](cmdb-sa-ham-dashboard.md#ci-data-quality-issues)|Displays key metrics related to CIs that have not been updated or may have duplicate records, leading to outdated information and inconsistencies in the CMDB.|
 |[CI and asset-related issues](cmdb-sa-ham-dashboard.md#section_hmb_vmj_fgc)|Displays key metrics related to mismatches and missing links between CIs and assets, leading to incomplete asset life cycle tracking and reporting issues.|
 
 ## Filters
@@ -180,7 +180,7 @@ Operational CIs not updated, causing data gaps and inaccuracies in the CMDB.
 
 [CIs not updated in last 90 days](cmdb-sa-ham-dashboard-indicators.md#ci-not-updated-90)
 
-**Note:** The CIs not updated card data is additionally filtered based on the Stale CI filter. See [Filters](cmdb-sa-ham-dashboard.md#section_an4_nnj_fgc).
+**Note:** The CIs not updated card data is additionally filtered based on the Stale CI filter. See [Filters](cmdb-sa-ham-dashboard.md#filters).
 
 </td></tr><tr><td>
 

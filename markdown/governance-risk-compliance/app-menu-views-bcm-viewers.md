@@ -15,7 +15,7 @@ The table lists the application menu options that are available for the main use
 
 ## BCM application menu options
 
-For detailed information on user roles, see [Roles installed](installed-with-bcm.md#section_wly_yyh_wdb) table.
+For detailed information on user roles, see [Roles installed](installed-with-bcm.md#roles-installed) table.
 
 <table id="table_tnn_nvs_kmb"><tbody><tr><td>
 

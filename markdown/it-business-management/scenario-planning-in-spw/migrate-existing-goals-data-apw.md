@@ -40,7 +40,7 @@ Use the scheduled job to migrate legacy goals and strategy data to the Goal Fram
 
     2.  Set the value to **true** for the required parameters in the **Run this script** field.
 
-        For parameters information, see [Migrate Goal, Strategy, and Work item data to the Goal Framework and related Planning item tables](../goal-framework/scheduled-script-execution-form-gf.md#scheduled-job-to-migrate-goals-data).
+        For parameters information, see [Migrate Goal, Strategy, and Work item data to the Goal Framework and related Planning item tables](../goal-framework/scheduled-script-execution-form-gf.md#migrate-goal-strategy-and-work-item-data-to-the-goal-framework-and-related-planning-item-tables).
 
 4.  Click **Execute Now**.
 

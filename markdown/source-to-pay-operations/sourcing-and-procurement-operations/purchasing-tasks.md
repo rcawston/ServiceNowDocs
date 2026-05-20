@@ -68,7 +68,7 @@ The requestor gets an email notification to accept or reject the resolution with
 -   If the requestor rejects the case resolution, the case moves back to **Work in Progress**.
 -   If the requestor does not respond in time, the case is automatically marked as **Closed Completed**.
 
-For more information on email notifications, see [Alerts and email notifications from ShoppingHub](alerts-messages-email-notifications.md#awaiting_acceptance_email_notification).
+For more information on email notifications, see [Alerts and email notifications from ShoppingHub](alerts-messages-email-notifications.md#alerts-and-email-notifications-from-shoppinghub).
 
 ## Purchasing task types
 

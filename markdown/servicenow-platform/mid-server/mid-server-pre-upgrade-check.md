@@ -19,7 +19,7 @@ Each MID Server contains an AutoUpgrade monitor that compares the MID Server ver
 
 ## Pre-upgrade tests
 
-The pre-upgrade runs two sets of tests: **Mandatory tests**and **Alert tests**. Every mandatory test is required to pass to start MID Server upgrade. If a mandatory test was not passed, the test is recorded in the agent log and a [MID Server active issue](mid-server-active-issues.md) is created in the MID Server issue \[ecc\_agent\_issue\] table. These errors are published before the actual MID Server upgrade occurs and must be resolved before the upgrade can continue. MID Server stops the Upgrade process and changes the status based on [MID Server states](c_UpgradeAndTestMIDServer.md#section_t1p_jc4_1qb). If any alert test was not passed, a message is added in the agent log and MID Server issue table, but the pre-upgrade check continues and MID Upgrade doesn’t stop.
+The pre-upgrade runs two sets of tests: **Mandatory tests**and **Alert tests**. Every mandatory test is required to pass to start MID Server upgrade. If a mandatory test was not passed, the test is recorded in the agent log and a [MID Server active issue](mid-server-active-issues.md) is created in the MID Server issue \[ecc\_agent\_issue\] table. These errors are published before the actual MID Server upgrade occurs and must be resolved before the upgrade can continue. MID Server stops the Upgrade process and changes the status based on [MID Server states](c_UpgradeAndTestMIDServer.md#mid-server-states). If any alert test was not passed, a message is added in the agent log and MID Server issue table, but the pre-upgrade check continues and MID Upgrade doesn’t stop.
 
 Pre-upgrade validation tests check the following mandatory tests:
 

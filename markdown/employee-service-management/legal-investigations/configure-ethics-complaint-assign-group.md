@@ -23,7 +23,7 @@ Role required: sn\_lg\_ops.legal\_admin
 
 `sn_lg_investigate.ethics_complaints_assignment_group` is a configurable system property that is used to configure default assignment group for ethics complaints raised using quick links in Employee Center. The sys\_id of any group that is protected with the Universal Request sensitive role and has fulfillers who can work on ethics complaints is enabled to configure the system property.
 
-Alternatively, configure the property from [Set up Legal Investigations with HR Service Delivery Employee Relations](integrate-lsd-hrsd.md#step_li_prop_group).
+Alternatively, configure the property from [Set up Legal Investigations with HR Service Delivery Employee Relations](integrate-lsd-hrsd.md#set-up-legal-investigations-with-hr-service-delivery-employee-relations).
 
 ## Procedure
 

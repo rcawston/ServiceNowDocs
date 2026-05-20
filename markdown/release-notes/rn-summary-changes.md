@@ -143,7 +143,7 @@ Agent experience for CSM
 
 </td><td>
 
--   **[Editable record headers](../customer-service-management/csm-workspace-agent-actions.md#section_hhb_1tj_23c)**
+-   **[Editable record headers](../customer-service-management/csm-workspace-agent-actions.md#editable-record-headers)**
 
 Enables agents to edit the short description of a record directly from the header field. This feature is available on the following record pages:
 
@@ -170,7 +170,7 @@ Enable agents to look up contacts and consumers by name, phone number, or email 
 
 Create different types of records by using the **Create** button on the Front-line case page. Selecting an action from the Create button, such as creating an incident or a knowledge gap, opens the form in a modeless dialogue.
 
--   **[View attachments in modeless dialogs](../customer-service-management/csm-front-line-case-page-modeless-dialogs.md#section_sk4_drr_23c)**
+-   **[View attachments in modeless dialogs](../customer-service-management/csm-front-line-case-page-modeless-dialogs.md#modeless-dialogs)**
 
 Enable agents to access and review attachments in modeless dialogs instead of workspace tabs. Agents can easily view attachments while also viewing case information and drafts of emails, comments, or work notes.
 
@@ -477,7 +477,7 @@ Configure IRE to automatically generate de-duplication tasks for specific lookup
 
 -   **[Remediate duplicate related items in lookup tables](../servicenow-platform/configuration-management-database-cmdb/id-detect-dup-ci.md)**
 
-Configure IRE to create de-duplication tasks for duplicate related items in a lookup table, detected during a lookup-based identification. Sort which duplicates do or don't require remediation by configuring the system property **glide.identification\_engine.lookup\_match.create\_duplicate\_task\_ci.enabled**. For more information, see [Detecting duplicate CIs](../servicenow-platform/configuration-management-database-cmdb/id-detect-dup-ci.md#section_unn_yjr_xgc).
+Configure IRE to create de-duplication tasks for duplicate related items in a lookup table, detected during a lookup-based identification. Sort which duplicates do or don't require remediation by configuring the system property **glide.identification\_engine.lookup\_match.create\_duplicate\_task\_ci.enabled**. For more information, see [Detecting duplicate CIs](../servicenow-platform/configuration-management-database-cmdb/id-detect-dup-ci.md#detecting-duplicate-cis).
 
 -   **[Domain separation for key CMDB tables](../platform-security/c_DomainSeparationSetup.md)**
 

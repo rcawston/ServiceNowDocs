@@ -73,11 +73,11 @@ API Component \[sn\_boomi\_api\_component\]
 
 </td><td>
 
-[Managed API](api-sgc-boomi-cloud-tables.md#section_e2t_zvz_whc)[Boomi API Gateway](api-sgc-boomi-cloud-tables.md#section_ivl_zvz_whc)
+[Managed API](api-sgc-boomi-cloud-tables.md#managed-api-cmdb-ci-managed-api)[Boomi API Gateway](api-sgc-boomi-cloud-tables.md#boomi-api-gateway-cmdb-ci-boomi-api-gateway)
 
-[API Frontend](api-sgc-boomi-cloud-tables.md#section_t2z_zvz_whc)
+[API Frontend](api-sgc-boomi-cloud-tables.md#api-frontend-cmdb-ci-api-frontend)
 
-[API Backend](api-sgc-boomi-cloud-tables.md#section_qsk_1wz_whc)
+[API Backend](api-sgc-boomi-cloud-tables.md#api-backend-cmdb-ci-api-backend)
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ API Consumer \[sn\_boomi\_api\_consumer\]
 
 </td><td>
 
-[API Consumer](api-sgc-boomi-cloud-tables.md#section_thq_1wz_whc)
+[API Consumer](api-sgc-boomi-cloud-tables.md#api-consumer-api-consumer)
 
 </td></tr></tbody>
 </table>For more information on where data is saved when pulling data from a Boomi Cloud API Management application, see [Target tables for storing API Service Graph Connector for Boomi Cloud API Management data](api-sgc-boomi-cloud-tables.md).

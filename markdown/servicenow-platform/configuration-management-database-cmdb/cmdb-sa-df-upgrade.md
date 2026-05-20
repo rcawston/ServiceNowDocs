@@ -42,7 +42,7 @@ The following table shows how principal classes from HAM model categories are ap
 2.  Confirm that the marked classes align with your Data Foundations advisor scope. Remove any unwanted classes and add others as needed \(up to 50 principal classes\).
 3.  If CI picker filtering affects users, adjust behavior using the system properties for CMDB success advisor.
 
-    See [Principal class tracking in CMDB success advisor](cmdb-sa-principal-class.md#section_pky_rf2_k3c).
+    See [Principal class tracking in CMDB success advisor](cmdb-sa-principal-class.md#principal-class-tracking-in-cmdb-success-advisor).
 
 
 **Note:**

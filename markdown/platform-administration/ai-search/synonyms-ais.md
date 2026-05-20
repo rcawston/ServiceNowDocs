@@ -31,7 +31,7 @@ To be eligible for expanding a search query's terms, a synonym must satisfy the 
 
 -   It must be active.
 -   The synonym dictionary that includes it must be published.
--   Its length doesn't exceed the [dictionary term-length limit](synonyms-ais.md#dictionary-term-length-limit-synonyms).
+-   Its length doesn't exceed the [dictionary term-length limit](synonyms-ais.md#dictionary-term-length-limit).
 
 The system locates eligible synonyms in synonym dictionaries as follows:
 
@@ -60,7 +60,7 @@ The search profile specified for the search query doesn't link to a published sy
 The system only considers synonyms from the default \(English\) synonym dictionary. As an example, suppose a search application's search profile has no linked Spanish synonym dictionary. When a user searches in Spanish in this application, only synonyms from the default \(English\) synonym dictionary are eligible to expand search query terms.
 
 </td></tr></tbody>
-</table>For more details on language support in synonym dictionaries, see [Language dependence](synonyms-ais.md#synonym-language-dependence-section).
+</table>For more details on language support in synonym dictionaries, see [Language dependence](synonyms-ais.md#language-dependence).
 
 ## Synonym terms and payloads
 

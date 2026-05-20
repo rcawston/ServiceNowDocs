@@ -45,7 +45,7 @@ Configuring a context using context inputs includes the following steps:
     -   rules by using it in the condition builder on Rules form.
     -   recommendations by adding it in fields of the Action inputs section on Recommendations form.
     -   resource generators by adding it in the fields of Generator inputs section on Resource Generators form.
--   Adding the JSON-format of the context inputs to the Recommended Actions component for the required record pages in the UI Builder. For more information, see [Configuring Recommended Actions UIB component for context inputs](ra-csm-dynamic-context-inputs.md#section-config-ra-ci).
+-   Adding the JSON-format of the context inputs to the Recommended Actions component for the required record pages in the UI Builder. For more information, see [Configuring Recommended Actions UIB component for context inputs](ra-csm-dynamic-context-inputs.md#configuring-recommended-actions-uib-component-for-context-inputs).
 
 The context inputs appear along with the context table in the appropriate fields of Rule, Recommendation and Resource generator forms so that you can include the data other than that of the context table to update the recommendations.
 

@@ -150,7 +150,7 @@ For more information, see [Decision Tables](../../application-development/decisi
 
 Update the approval engine properties as required at **Insurance claim operations** &gt; **Properties**.For reserves and payments, review and update the Claim reserves and payments rules decision table with your desired parameters and values.
 
-For more information, see [Insurance claims core properties](../insurance-claims-core-roles-and-properties.md#section_agw_r1z_kjb).
+For more information, see [Insurance claims core properties](../insurance-claims-core-roles-and-properties.md#insurance-claims-core-roles-and-properties).
 
 </td></tr><tr><td id="d52687e450">
 

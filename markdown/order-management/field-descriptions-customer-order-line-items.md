@@ -83,7 +83,7 @@ State
 
 </td><td>
 
-Indicator of the current processing state for this customer order line item. Unless indicated, the service order manager manually assigns the appropriate state to the service order line item, depending on where it resides in your processing and fulfillment cycle. To view a listing of the state selections, select the down arrow icon ![](../image/field-selection-list.png). **Note:** To view a comprehensive listing of the customer order line item states with detailed descriptions, see [Order line item form states](order-mgt-state-values.md#section-cust-order-line-state).
+Indicator of the current processing state for this customer order line item. Unless indicated, the service order manager manually assigns the appropriate state to the service order line item, depending on where it resides in your processing and fulfillment cycle. To view a listing of the state selections, select the down arrow icon ![](../image/field-selection-list.png). **Note:** To view a comprehensive listing of the customer order line item states with detailed descriptions, see [Order line item form states](order-mgt-state-values.md#order-line-item-form-states).
 
 For service order line item states, see [Service order states](service-order-mgt-state-values.md).
 

@@ -88,7 +88,7 @@ Order
 
 </td><td>
 
-An integer specifying where steps with this configuration appear in the step list on the Add Test Step dialog. For more information, see the [example using the Order field](atf-step-config-xmpls.md#iss_1jv_xw).
+An integer specifying where steps with this configuration appear in the step list on the Add Test Step dialog. For more information, see the [example using the Order field](atf-step-config-xmpls.md#order-field-example).
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Template reminder
 
 </td><td>
 
-The instructions that appear when a step with this configuration is included in a test as part of a template. For more information, see the[example of using the Template reminder field.](atf-step-config-xmpls.md#qzw_phv_xw)
+The instructions that appear when a step with this configuration is included in a test as part of a template. For more information, see the[example of using the Template reminder field.](atf-step-config-xmpls.md#template-reminder-example)
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ HTML description
 
 </td><td>
 
-The text that appears when the cursor highlights a step with this configuration on the Create New Step dialog. For more information, see the [example using the HTML description field.](atf-step-config-xmpls.md#qtf_33v_xw)
+The text that appears when the cursor highlights a step with this configuration on the Create New Step dialog. For more information, see the [example using the HTML description field.](atf-step-config-xmpls.md#html-description-example)
 
 </td></tr><tr><td>
 
@@ -112,7 +112,7 @@ Description generation script
 
 </td><td>
 
-Generates the text that describes a step when a test includes it. For more information, see the [example using the description generation script](atf-step-config-xmpls.md#b5m_zrx_yw).
+Generates the text that describes a step when a test includes it. For more information, see the [example using the description generation script](atf-step-config-xmpls.md#description-generation-script-example).
 
 </td></tr><tr><td>
 

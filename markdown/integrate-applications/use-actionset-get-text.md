@@ -23,7 +23,7 @@ Role required: none
 
 The ActionSet Get Text action captures text from an area that you specify in the ActionSet Settings window. You can use it to receive text in the target area when it is in text format. To capture text from an image, see [Use the ActionSet OCR Read Text action](use-actionset-ocr-read-text.md).
 
-You can configure the properties for the GetText component. For more information about these properties, see [ActionSet-Get Text properties](actionset-actions-properties.md#ActionSet-GetText).
+You can configure the properties for the GetText component. For more information about these properties, see [ActionSet-Get Text properties](actionset-actions-properties.md#get-text).
 
 ## Procedure
 

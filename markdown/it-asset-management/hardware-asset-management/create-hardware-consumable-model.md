@@ -39,11 +39,11 @@ Role required: admin or asset
 
     5.  To link a compatible model, click the [Compatibles](hardware-model-fields.md#section_ijc_l3c_2jb) and then click **Add Compatible**.
 
-    6.  To add a model substitution, click the [Substitutes](hardware-model-fields.md#section_ldn_k2x_dkb) and then click **Add Substitution**.
+    6.  To add a model substitution, click the [Substitutes](hardware-model-fields.md#substitutes) and then click **Add Substitution**.
 
     7.  To manually normalize your hardware model, click the [Normalization section](normalize-hardware-consumable-models.md).
 
-    8.  To add a configuration item, click the [Configuration Items](hardware-model-fields.md#section_kct_j5r_cjb).
+    8.  To add a configuration item, click the [Configuration Items](hardware-model-fields.md#configuration-items).
 
     9.  To add your model to the Product Catalog, click the [Hardware model details](hardware-model-fields.md).
 
@@ -51,7 +51,7 @@ Role required: admin or asset
 
     11. To add related assets, click the [Hardware model details](hardware-model-fields.md).
 
-    12. To add a model component, click the [Model Components](hardware-model-fields.md#section_rzd_53c_2jb).
+    12. To add a model component, click the [Model Components](hardware-model-fields.md#model-components).
 
     13. To add vendor information to your model, click the [Vendor Catalog Items](hardware-model-fields.md#section_wb4_53c_2jb) and click **New**.
 
@@ -71,9 +71,9 @@ Role required: admin or asset
 
     4.  To add your model to the Product Catalog, click the [Hardware model details](hardware-model-fields.md).
 
-    5.  To add vendor information to your model, click the [Vendor Items related list](consumable-model-fields.md#section_jjq_pzx_cjb).
+    5.  To add vendor information to your model, click the [Vendor Items related list](consumable-model-fields.md#vendor-catalog-item-related-list).
 
-    6.  To add lifecycle information, click the [Consumable Model Lifecycle related list](consumable-model-fields.md#section_zvj_qzx_cjb) and click **New**.
+    6.  To add lifecycle information, click the [Consumable Model Lifecycle related list](consumable-model-fields.md#consumable-model-lifecycles-related-list) and click **New**.
 
         If a lifecycle with the same source, lifecycle type, lifecycle phase, and source exits, an error message appears.
 

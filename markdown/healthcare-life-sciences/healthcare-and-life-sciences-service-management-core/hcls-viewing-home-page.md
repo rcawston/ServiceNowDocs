@@ -34,7 +34,7 @@ From the landing page of Workspace, agents can:
 By default, the Workspace displays data in the following sections:
 
 -   [Important items](hcls-viewing-home-page.md#dlentry_cy2_pk4_dsb)
--   [Cases](hcls-viewing-home-page.md#dlentry_c21_yvw_2qb)
+-   [Cases](hcls-viewing-home-page.md#view-the-landing-page-for-healthcare-related-cases-in-workspace)
 -   [My active cases](hcls-viewing-home-page.md#dlentry_qcc_zvw_2qb)
 
 **Note:** Your administrator can customize the landing page for Workspace and change the data that appears on it.

@@ -194,9 +194,9 @@ The Azure - Marketplace LB \(LP\) pattern discovers the following Azure Marketpl
 
 -   **Discovered resources and relationships**
 
-    [Resources discovered by the Azure - Marketplace LB \(LP\) pattern](azure-cloud-discovery-patterns.md#resources-azure-marketplace)
+    [Resources discovered by the Azure - Marketplace LB \(LP\) pattern](azure-cloud-discovery-patterns.md#azure-resources-discovery-by-datacenters)
 
-    [Relationships discovered using the Azure - Marketplace LB \(LP\) pattern](azure-cloud-discovery-patterns.md#relationships-azure-marketplace)
+    [Relationships discovered using the Azure - Marketplace LB \(LP\) pattern](azure-cloud-discovery-patterns.md#azure-marketplace-discovery)
 
 
 ## Data collected by Discovery during horizontal discovery

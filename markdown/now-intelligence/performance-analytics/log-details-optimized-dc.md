@@ -115,7 +115,7 @@ Collection ended
 |Retrieve indicator source.|Processing indicator source Incidents.Open|
 |Repeat that optimized HSQL data collector is in use.| |
 |List indicators that have additional conditions, beyond the conditions inherited from the indicator source.|Indicator: Admin Logins - \[sys\_id of indicator\], Additional Conditions: ref\_isc\_login\_event.login\_type=login\_admin, Is Collect Records: true|
-|Iterate steps for each collection period.|See table [Steps iterated for each collection period](log-details-optimized-dc.md#section_collection-period)|
+|Iterate steps for each collection period.|See table [Steps iterated for each collection period](log-details-optimized-dc.md#steps-iterated-for-each-collection-period)|
 |Retrieve next indicator source.|Processing indicator source Incidents.New|
 
 ## Steps iterated for each collection period
@@ -177,7 +177,7 @@ Run the map/reduce function to calculate indicator scores.
 
 </td><td>
 
-See the table [Steps of the map/reduce function](log-details-optimized-dc.md#section_map-reduce)
+See the table [Steps of the map/reduce function](log-details-optimized-dc.md#table_map-reduce)
 
 </td></tr><tr><td rowspan="2">
 

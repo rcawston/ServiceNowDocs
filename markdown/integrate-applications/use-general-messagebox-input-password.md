@@ -21,7 +21,7 @@ Role required: none
 
 The Input Password component is used in Attended Robot automations.
 
-To configure the properties for the Input Password component, see [Properties of Confirm components](Properties-general-components.md#confirm-components).
+To configure the properties for the Input Password component, see [Properties of Confirm components](Properties-general-components.md#properties-of-the-general-components).
 
 ## Procedure
 

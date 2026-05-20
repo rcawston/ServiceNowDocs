@@ -26,7 +26,7 @@ To access the details about the user's MFA, navigate to **All** &gt; **Multi-fac
 |Multi-factor secret|The details of the multi-factor secret.|
 |Validated|Is the multi-factor validated. Changing the value to **false** invalidates the existing authenticator app setup.|
 
-**Note:** The recently used MFA factors by the users is available in the User Recent Used Factors module. Navigate to **All** &gt; **Multi-factor Authentication** &gt; **User Recent User Factors**. For more information, see [User Recent Used Factors](reference-topic-multi-factor-authentication.md#section_owm_bs2_4bc).
+**Note:** The recently used MFA factors by the users is available in the User Recent Used Factors module. Navigate to **All** &gt; **Multi-factor Authentication** &gt; **User Recent User Factors**. For more information, see [User Recent Used Factors](reference-topic-multi-factor-authentication.md#user-recent-used-factors).
 
 ## Multi-factor Browser Fingerprints
 

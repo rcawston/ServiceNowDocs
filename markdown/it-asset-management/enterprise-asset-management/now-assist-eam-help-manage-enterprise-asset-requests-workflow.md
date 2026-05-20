@@ -153,7 +153,7 @@ Enterprise asset request validation
 
 </td><td>
 
-The workflow validates the request.**Note:** For the complete list of validation criteria, refer to [Validating enterprise asset requests](now-assist-eam-help-manage-enterprise-asset-requests-workflow.md#section_k3b_sbm_4hc).
+The workflow validates the request.**Note:** For the complete list of validation criteria, refer to [Validating enterprise asset requests](now-assist-eam-help-manage-enterprise-asset-requests-workflow.md#validating-enterprise-asset-requests).
 
 -   If the validation is successful, the workflow can proceed with sourcing the requested assets.
 -   If the validation is unsuccessful, the request must be updated and then re-validated.

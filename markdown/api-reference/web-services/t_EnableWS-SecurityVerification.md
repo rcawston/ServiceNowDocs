@@ -48,5 +48,5 @@ Allow internal integration communications to bypass the WSS authentication requi
 **Related topics**  
 
 
-[Basic authentication](c_SOAPWebService.md#SOAP-basic-auth)
+[Basic authentication](c_SOAPWebService.md#basic-authentication)
 

@@ -584,7 +584,7 @@ Warn employee about presence exception
 
 </td><td>
 
-Option to warn employees if their presence is set to remote on the date of the reservation. The warning is displayed based on the [presence routine](../workplace-concierge/explore-workplace-concierge.md#section_nz5_lxh_tzb) of the employee. This option is available if [Workplace Concierge](../workplace-concierge/workplace-concierge-feat.md) is installed.
+Option to warn employees if their presence is set to remote on the date of the reservation. The warning is displayed based on the [presence routine](../workplace-concierge/explore-workplace-concierge.md#employee-presence-routine) of the employee. This option is available if [Workplace Concierge](../workplace-concierge/workplace-concierge-feat.md) is installed.
 
 </td></tr><tr><td>
 

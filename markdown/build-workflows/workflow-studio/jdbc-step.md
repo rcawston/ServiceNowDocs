@@ -178,7 +178,7 @@ SQL Statement
 
 </td><td>
 
-SQL statement that the step executes.**Note:** When you use data pills in step SQL statements, sanitize them first using a preprocessing [Script step](javascript-step-action-designer.md). For more information, see [Sanitizing inputs using the escape functions](jdbc-step.md#section_gqd_cy4_qhb).
+SQL statement that the step executes.**Note:** When you use data pills in step SQL statements, sanitize them first using a preprocessing [Script step](javascript-step-action-designer.md). For more information, see [Sanitizing inputs using the escape functions](jdbc-step.md#sanitizing-inputs).
 
 </td></tr><tr><td>
 

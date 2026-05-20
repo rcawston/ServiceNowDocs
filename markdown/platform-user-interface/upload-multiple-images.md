@@ -37,7 +37,7 @@ Role required: image\_admin or content\_admin
 
 2.  To upload multiple images at once, complete the following steps:
 
-    1.  Create a .zip file that contains only [acceptable image file types](c_StoringImagesInTheDatabase.md#AcceptableImageFileTypes).
+    1.  Create a .zip file that contains only [acceptable image file types](c_StoringImagesInTheDatabase.md#acceptable-image-file-types).
 
         **Note:** The system does not support uploading zip files that contain .bmp images.
 

@@ -188,7 +188,7 @@ Field to verify the temporary password.
 
     1.  Navigate to **Administration** &gt; **Users** &gt; **Users**.
 
-    2.  From the list of available users, select the check box for the user that you created in [step 4](setup-salesforce-marketing-cloud.md#create-user).
+    2.  From the list of available users, select the check box for the user that you created in [step 4](setup-salesforce-marketing-cloud.md#create-a-user-for-accessing-the-salesforce-marketing-cloud-soap-api).
 
     3.  Click **Manage Roles**.
 
@@ -196,7 +196,7 @@ Field to verify the temporary password.
 
     4.  In the Roles form section, click **Edit Roles**.
 
-    5.  When the list of available roles appears, select the check box for the user role that you created in [step 5](setup-salesforce-marketing-cloud.md#create-user-role).
+    5.  When the list of available roles appears, select the check box for the user role that you created in [step 5](setup-salesforce-marketing-cloud.md#create-a-user-for-accessing-the-salesforce-marketing-cloud-soap-api).
 
     6.  Click **Save**.
 

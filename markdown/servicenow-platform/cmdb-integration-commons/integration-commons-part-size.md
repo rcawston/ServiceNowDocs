@@ -19,8 +19,8 @@ The parallel loading feature of ServiceNow AI Platform, executes data load using
 
 The partition size computation for the parallel loading feature within the Integration Commons for CMDB application is based on the following calculations:
 
--   [Partition size calculation](integration-commons-part-size.md#section_gst_h2g_ccc)
--   [Parallel jobs calculation](integration-commons-part-size.md#section_zfw_z2g_ccc)
+-   [Partition size calculation](integration-commons-part-size.md#partition-size-calculation)
+-   [Parallel jobs calculation](integration-commons-part-size.md#parallel-jobs-calculation)
 
 ## Partition size calculation
 

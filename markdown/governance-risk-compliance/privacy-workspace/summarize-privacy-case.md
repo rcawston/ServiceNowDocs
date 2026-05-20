@@ -53,7 +53,7 @@ If the **Summarize** option isn’t visible, an admin has to activate the skill 
 
 6.  Select **Summarize**.
 
-    The summary is displayed. For a description of each section included in it, see [Components of a privacy case summary](privacy-case-summarization-skill.md#section_rfw_5rz_k3c).
+    The summary is displayed. For a description of each section included in it, see [Components of a privacy case summary](privacy-case-summarization-skill.md#components-of-a-privacy-case-summary).
 
 7.  Review the summary and complete any of the following options.
 

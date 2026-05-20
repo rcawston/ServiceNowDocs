@@ -783,7 +783,7 @@ Enable agents to minimize drafts of comments, work notes, or emails to a dock at
 
 Save time and promote consistency by creating conditional templates, setting field-level conditions, and automatically populating email body text. Populate these fields using dynamic values from the Case table and related tables. Preview template changes before applying them to a record.
 
--   **[Workspace record page interoperability](../customer-service-management/csm-config-ws-pages-templates.md#section_q4z_fm3_23c)**
+-   **[Workspace record page interoperability](../customer-service-management/csm-config-ws-pages-templates.md#workspace-record-page-interoperability)**
 
 Enable agents to use record pages between CSM Configurable Workspace and ITSM Service Operations Workspace. The following ITSM pages are interoperable across CSM:
 
@@ -1341,7 +1341,7 @@ Use the **Utilities Dashboard** tab within the Code Signing Health and Status da
 
 Leverage support for multiple signatures for records across different certificates, thus ensuring that valid signatures from any trusted source are recognized. Allow multiple signatures to be added to a record and have the system determine validity by evaluating all existing signatures from newest to oldest.
 
--   **[Code Signing OOB Apps Signatures plugin](../platform-security/explore-code-signing.md#cs-validation-jobs)**
+-   **[Code Signing OOB Apps Signatures plugin](../platform-security/explore-code-signing.md#code-signing-validation-and-jobs)**
 
 Use this plugin \(com.glide.code\_signing.oob\_apps\_signatures\) to install build time signatures for all relevant records in trued-up ServiceNow® Store application versions.
 

@@ -82,7 +82,7 @@ Name of the operation to perform.Valid values \(not case-sensitive\):
     -   Additional builder methods: withAdditionalInput\(\)
     -   Default input format: KMFBase64 - Base64 encoded
     -   Default output format: Formatted - Formatted to the KMF specifications
-    -   Default output type: String . Output can also be an [KMFEncryptionPayload](KMFCryptoOperationBothAPI.md#KMFEncryptionPayload) object. RSA and EC-IES are compatible with both. For additional information on the KMFEncryptionPayload object, see [withAdditionalInput\(\)](KMFCryptoOperationBothAPI.md#KMFEncryptionPayload).
+    -   Default output type: String . Output can also be an [KMFEncryptionPayload](KMFCryptoOperationBothAPI.md#kmfcryptooperation-withadditionalinputobject-additionalinput) object. RSA and EC-IES are compatible with both. For additional information on the KMFEncryptionPayload object, see [withAdditionalInput\(\)](KMFCryptoOperationBothAPI.md#kmfcryptooperation-withadditionalinputobject-additionalinput).
 -   ASYMMETRIC\_UNWRAPPING: Key unwrapping using an asymmetric-key algorithm. Requires a KMF cryptographic module with an Asymmetric Key Unwrapping cryptographic purpose.
     -   Additional builder methods: withAlgorithm\(\)
     -   Default input format: Formatted - Formatted to the KMF specifications
@@ -580,7 +580,7 @@ Type of output data.Not all output types are applicable to all operations. For a
 -   Boolean: Only valid for **MAC\_VERIFICATION** or **SIGNATURE\_VERIFICATION** operations.
 -   Payload: Only valid for the **ASYMMETRIC\_ENCRYPTION** operation. Use this output type for EC-IES.
 
- **Note:** When specifying an output of `Payload`, the output of the doOperation\(\) method is a KMFEncryptionPayload object. For more information on the structure of this object, see [withAdditionalInput\(\)](KMFCryptoOperationBothAPI.md#KMFEncryptionPayload).
+ **Note:** When specifying an output of `Payload`, the output of the doOperation\(\) method is a KMFEncryptionPayload object. For more information on the structure of this object, see [withAdditionalInput\(\)](KMFCryptoOperationBothAPI.md#kmfcryptooperation-withadditionalinputobject-additionalinput).
 
  Default: Value determined by the operation, specified when the KMFCryptoOperation object was instantiated. For more information, see [KMFCryptoOperation - KMFCryptoOperation\(String cryptoModuleName, String operationName\)](KMFCryptoOperationBothAPI.md#).
 

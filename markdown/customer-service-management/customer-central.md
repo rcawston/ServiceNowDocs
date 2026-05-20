@@ -15,7 +15,7 @@ Customer Central provides customer service agents with all the information about
 
 Customer service agents or location agents can view customer central on the interaction, case, account, contact, or consumer records in CSM Configurable Workspace in the form of two views: Customer Information and Customer History.
 
-Starting with the Yokohama release, the [Customer History component](customer-central.md#section_i2b_kpt_ydc) displays customer activity information on some record pages in CSM Configurable Workspace.
+Starting with the Yokohama release, the [Customer History component](customer-central.md#customer-history-component) displays customer activity information on some record pages in CSM Configurable Workspace.
 
 ## Customer Information view
 

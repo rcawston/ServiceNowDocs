@@ -39,7 +39,7 @@ Application access settings determine whether script objects from other applicat
 
 3.  In the dialog box that appears, update the table properties as shown in the following example.
 
-    For more information on these properties, see [Table properties](table-parameters.md#section_ezz_pft_ssb).
+    For more information on these properties, see [Table properties](table-parameters.md#table-properties-in-table-builder).
 
     ![Editing table properties.](../image/tb-edit-table-props.png "Editing table properties")
 

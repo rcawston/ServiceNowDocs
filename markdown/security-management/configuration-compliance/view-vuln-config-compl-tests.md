@@ -62,7 +62,7 @@ Result
 
 </td><td>
 
-Status of the scan. Pass or Fail. If this test belongs to multiple remediation tasks, then its state is determined following an [order of precedence](vuln-config-compl-correlation.md#TRGOrderPrecedence).
+Status of the scan. Pass or Fail. If this test belongs to multiple remediation tasks, then its state is determined following an [order of precedence](vuln-config-compl-correlation.md#remediation-tasks-order-of-precedence).
 
 </td></tr><tr><td>
 

@@ -23,7 +23,7 @@ Role required: none
 
 The ActionSet Click action simulates a manual click at the area you specify in the ActionSet Settings window. You can use it to click a button, open a menu, select an object, or perform any action typically performed by a mouse click.
 
-You can configure the properties for the Click action. For more information about these properties, see [ActionSet Click properties](actionset-actions-properties.md#actionset-click).
+You can configure the properties for the Click action. For more information about these properties, see [ActionSet Click properties](actionset-actions-properties.md#click).
 
 ## Procedure
 

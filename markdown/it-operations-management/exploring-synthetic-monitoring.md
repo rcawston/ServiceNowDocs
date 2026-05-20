@@ -70,7 +70,7 @@ View aggregate monitor information.View the synthetic monitoring home page where
 
 </td><td>
 
-[View aggregate information about the monitors](identifying-system-issues.md#section_yll_v5k_fdc).
+[View aggregate information about the monitors](identifying-system-issues.md#view-aggregate-information-about-the-monitors).
 
 </td><td>
 
@@ -87,7 +87,7 @@ Visualize synthetic test results.View the details page for a monitor where you c
 
 </td><td>
 
-[View a monitor and its tests](identifying-system-issues.md#section_yx4_2vk_fdc).
+[View a monitor and its tests](identifying-system-issues.md#view-a-monitor-and-its-tests).
 
 </td><td>
 
