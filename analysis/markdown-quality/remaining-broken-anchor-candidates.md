@@ -1,6 +1,6 @@
 # Remaining Broken Anchor Candidate Report
 
-Generated: 2026-05-20T01:04:52.582Z
+Generated: 2026-05-20T03:06:53.303Z
 
 Repository: /Volumes/Samsung/ServiceNowDocs-official
 
@@ -13,10 +13,10 @@ Repository: /Volumes/Samsung/ServiceNowDocs-official
 
 ## Summary
 
-- Broken anchor links scanned: 1104
+- Broken anchor links scanned: 1111
 - High-confidence candidates: 0
 - Reasonable candidates (high + medium): 0
-- Target files scanned: 352
+- Target files scanned: 354
 
 ### By Confidence
 
@@ -24,14 +24,14 @@ Repository: /Volumes/Samsung/ServiceNowDocs-official
 |---|---:|
 | high | 0 |
 | medium | 0 |
-| low | 125 |
-| none | 979 |
+| low | 127 |
+| none | 984 |
 
 ### By Issue
 
 | Item | Count |
 |---|---:|
-| missing target anchor | 1102 |
+| missing target anchor | 1109 |
 | missing same-page anchor | 2 |
 
 ## Candidate Links
@@ -637,6 +637,10 @@ Repository: /Volumes/Samsung/ServiceNowDocs-official
 | none | 0 | missing target anchor | markdown/it-operations-management/service-mapping/t_DefineNewBusinessService.md | 106 | t_DefineNewBusinessService.md#step_defineentrypoint |  | 6 |  |  |  |
 | none | 0 | missing target anchor | markdown/it-operations-management/service-mapping/test-netflow-service-mapping.md | 86 | test-netflow-service-mapping.md#CopyNfdumpFile |  | 5 |  |  |  |
 | none | 0 | missing target anchor | markdown/it-service-management/devops-change-velocity/create-test-tool-dev-ops.md | 51 | dev-ops-test-tool-integration.md#section_opj_n5l_vlb |  | Test type mapping |  |  |  |
+| none | 0 | missing target anchor | markdown/it-service-management/devops-change-velocity/devops-change-multimodel.md | 466 | devops-change-multimodel.md#note-callback |  | Note |  |  |  |
+| none | 0 | missing target anchor | markdown/it-service-management/devops-change-velocity/devops-change-multimodel.md | 494 | devops-change-multimodel.md#note-callback |  | Note |  |  |  |
+| none | 0 | missing target anchor | markdown/it-service-management/devops-change-velocity/devops-change-multimodel.md | 521 | devops-change-multimodel.md#note-callback |  | Note |  |  |  |
+| none | 0 | missing target anchor | markdown/it-service-management/devops-change-velocity/devops-change-multimodel.md | 549 | devops-change-multimodel.md#note-callback |  | Note |  |  |  |
 | low | 65 | missing target anchor | markdown/it-service-management/devops-change-velocity/devops-reference-error-messages.md | 287 | devops-reference-error-messages.md#toolchecktimeoutproperty | devops-reference-error-messages.md#tool-connection | Tool permission check timeout per record (in milliseconds) | Tool connection | 18 | link/candidate token overlap 0.50 |
 | low | 67 | missing target anchor | markdown/it-service-management/devops-change-velocity/set-up-dev-ops-integrations.md | 226 | dev-ops-tool-integration.md#section_h44_1bx_zjb | dev-ops-tool-integration.md#tool-capability-actions | Notification tool capability action | Tool capability actions | 26 | link/candidate token overlap 0.67 |
 | none | 0 | missing target anchor | markdown/it-service-management/devops-family/cdm-d2a-investigate-cfg-changes.md | 149 | cdm-d2a-investigate-cfg-changes.md#dlentry-script-view |  | G: Script view |  |  |  |
@@ -796,6 +800,7 @@ Repository: /Volumes/Samsung/ServiceNowDocs-official
 | none | 0 | missing target anchor | markdown/platform-administration/ai-search/view-retrievable-page-content-mspo-rest-api.md | 59 | view-retrievable-page-content-mspo-rest-api.md#copy-list-guid-step |  | 1.c |  |  |  |
 | none | 0 | missing target anchor | markdown/platform-administration/configure-notif-custom-Slack-app.md | 69 | configure-notif-custom-Slack-app.md#create-json |  | 1 |  |  |  |
 | none | 0 | missing target anchor | markdown/platform-administration/search-administration/add-app-search-context-polaris-ui.md | 55 | add-app-search-context-polaris-ui.md#copy_srch_app_cfg_sys_id |  | 1.c |  |  |  |
+| none | 0 | missing target anchor | markdown/platform-administration/search-administration/add-app-search-context-polaris-ui.md | 123 | add-app-search-context-polaris-ui.md#copy_ws_srch_config_sys_id |  | 3.c |  |  |  |
 | none | 0 | missing target anchor | markdown/platform-administration/search-administration/regenerate-text-index-one-record.md | 46 | regenerate-text-index-one-record.md#copy-sys-id-step |  | 1 |  |  |  |
 | none | 0 | missing target anchor | markdown/platform-administration/search-administration/t_DebugZing.md | 47 | t_DebugZing.md#note-stemmed-term-numbers |  | 3 |  |  |  |
 | low | 67 | missing target anchor | markdown/platform-administration/search-suggestions/improve-search-results.md | 26 | understanding-search-suggestion-tables.md#section_eqs_xwj_xhb | understanding-search-suggestion-tables.md#search-event-table | Search Event [sys_search_event] | Search Event table | 20 | link/candidate token overlap 0.67 |
@@ -958,6 +963,8 @@ Repository: /Volumes/Samsung/ServiceNowDocs-official
 | none | 0 | missing target anchor | markdown/servicenow-platform/mid-server/mid-server-parameters.md | 109 | ecc-queue-mid-server.md#section_b5j_ysv_s1b |  | Asynchronous Message Bus |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/mid-server/mid-server-parameters.md | 141 | ecc-queue-mid-server.md#section_b5j_ysv_s1b |  | Asynchronous Message Bus |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/password-reset/t_CreateAPasswordResetProcess.md | 81 | configure-password-reset-form.md#table_alq_tgk_xvb |  | Description of the fields on the **Advanced** tab |  |  |  |
+| low | 67 | missing target anchor | markdown/servicenow-platform/policy-as-code-engine-pace/pace-policy-structure.md | 116 | pace-policy-structure.md#fig_qfr_z1z_yrb | pace-policy-structure.md#structure-of-a-pace-policy-script | Sample policy script | Structure of a PaCE policy script | 14 | link/candidate token overlap 0.67 |
+| low | 67 | missing target anchor | markdown/servicenow-platform/policy-as-code-engine-pace/pace-policy-structure.md | 134 | pace-policy-structure.md#fig_qfr_z1z_yrb | pace-policy-structure.md#structure-of-a-pace-policy-script | Sample policy script | Structure of a PaCE policy script | 14 | link/candidate token overlap 0.67 |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-catalog/c_DefineVariableSetLayout.md | 22 | r_VariableTypes.md#sect_MultipleChoice |  | multiple choice |  |  |  |
 | low | 65 | missing target anchor | markdown/servicenow-platform/service-catalog/c_DefineVariableSetLayout.md | 46 | r_VariableTypes.md#sect_Container | r_VariableTypes.md#types-of-service-catalog-variables | container variables | Types of service catalog variables | 14 | link/candidate token overlap 0.50 |
 | low | 67 | missing target anchor | markdown/servicenow-platform/service-catalog/catalog-items-wishlist.md | 36 | service-catalog-screens.md#fig_jzm_byk_vw | service-catalog-screens.md#configure-the-wish-list-screen | wish list cart | Configure the wish list screen | 20 | link/candidate token overlap 0.67 |
@@ -982,10 +989,10 @@ Repository: /Volumes/Samsung/ServiceNowDocs-official
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-azure-integration.md | 191 | configure-azure-integration.md#azure-oauth-details |  | 4.a |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-azure-integration.md | 220 | configure-azure-integration.md#azure-oauth-details |  | 4.a |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-azure-integration.md | 272 | configure-azure-integration.md#hw-connection |  | 4.b.iv |  |  |  |
-| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-azure-integration.md | 284 | configure-azure-integration.md#config-log-ws |  | 5.a.ii |  |  |  |
-| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-azure-integration.md | 296 | configure-azure-integration.md#azure-oauth-details |  | 4.a |  |  |  |
-| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-azure-integration.md | 304 | configure-azure-integration.md#azure-oauth-details |  | 4.a |  |  |  |
-| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-azure-integration.md | 338 | configure-azure-integration.md#azure-oauth-details |  | 4.a |  |  |  |
+| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-azure-integration.md | 285 | configure-azure-integration.md#config-log-ws |  | 5.a.ii |  |  |  |
+| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-azure-integration.md | 297 | configure-azure-integration.md#azure-oauth-details |  | 4.a |  |  |  |
+| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-azure-integration.md | 305 | configure-azure-integration.md#azure-oauth-details |  | 4.a |  |  |  |
+| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-azure-integration.md | 339 | configure-azure-integration.md#azure-oauth-details |  | 4.a |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-dynatrace-integration.md | 423 | configure-dynatrace-integration.md#substep_bbt_zxg_s1c |  | 8.g |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-dynatrace-integration.md | 424 | configure-dynatrace-integration.md#substep_x21_3yg_s1c |  | 8.f |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/configure-intune-integration.md | 223 | configure-intune-integration.md#app |  | 6.f |  |  |  |
@@ -1050,8 +1057,8 @@ Repository: /Volumes/Samsung/ServiceNowDocs-official
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgc-config-google-console-integ.md | 192 | sgc-config-google-console-integ.md#connection-name |  | previous step |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgc-config-google-console-integ.md | 202 | sgc-config-google-console-integ.md#connection-name |  | previous step |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgc-config-google-console-integ.md | 218 | sgc-config-google-console-integ.md#scheduled-import-multi-instance |  | 5.d |  |  |  |
-| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgc-config-new-relic-integration.md | 188 | sgc-config-new-relic-integration.md#exe-job |  | 6.f |  |  |  |
-| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgc-config-new-relic-integration.md | 188 | sgc-config-new-relic-integration.md#select-job |  | 6.c |  |  |  |
+| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgc-config-new-relic-integration.md | 189 | sgc-config-new-relic-integration.md#exe-job |  | 6.f |  |  |  |
+| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgc-config-new-relic-integration.md | 189 | sgc-config-new-relic-integration.md#select-job |  | 6.c |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgc-config-opentelemetry-integ.md | 66 | sgc-config-opentelemetry-integ.md#api-key |  | 4.b |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgc-config-opentelemetry-integ.md | 82 | sgc-config-opentelemetry-integ.md#org |  | 4.c.ii |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgc-config-opentelemetry-integ.md | 102 | sgc-config-opentelemetry-integ.md#exclude-project |  | 5.c.ii |  |  |  |
@@ -1089,13 +1096,13 @@ Repository: /Volumes/Samsung/ServiceNowDocs-official
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 156 | sgcc-configure-azure-integ.md#prereq-azure |  | 5.a |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 183 | sgcc-configure-azure-integ.md#prereq-sw |  | 6.b |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 211 | sgcc-configure-azure-integ.md#hw-id |  | 7.b |  |  |  |
-| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 223 | sgcc-configure-azure-integ.md#prereq-azure |  | 5.a |  |  |  |
-| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 231 | sgcc-configure-azure-integ.md#prereq-azure |  | 5.a |  |  |  |
-| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 239 | sgcc-configure-azure-integ.md#prereq-azure |  | 5.a |  |  |  |
-| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 273 | sgcc-configure-azure-integ.md#prereq-azure |  | 5.a |  |  |  |
-| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 282 | sgcc-configure-azure-integ.md#prereq-sw |  | 6.b |  |  |  |
-| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 296 | sgcc-configure-azure-integ.md#parent |  | 10.b |  |  |  |
-| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 296 | sgcc-configure-azure-integ.md#save |  | 10.d |  |  |  |
+| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 224 | sgcc-configure-azure-integ.md#prereq-azure |  | 5.a |  |  |  |
+| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 232 | sgcc-configure-azure-integ.md#prereq-azure |  | 5.a |  |  |  |
+| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 240 | sgcc-configure-azure-integ.md#prereq-azure |  | 5.a |  |  |  |
+| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 274 | sgcc-configure-azure-integ.md#prereq-azure |  | 5.a |  |  |  |
+| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 283 | sgcc-configure-azure-integ.md#prereq-sw |  | 6.b |  |  |  |
+| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 297 | sgcc-configure-azure-integ.md#parent |  | 10.b |  |  |  |
+| none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-azure-integ.md | 297 | sgcc-configure-azure-integ.md#save |  | 10.d |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-gcp-integ.md | 63 | sgcc-configure-gcp-integ.md#keystorepwd |  | 5.a.iii |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-gcp-integ.md | 66 | sgcc-configure-gcp-integ.md#jks |  | 5.a |  |  |  |
 | none | 0 | missing target anchor | markdown/servicenow-platform/service-graph-connectors/sgcc-configure-gcp-integ.md | 115 | sgcc-configure-gcp-integ.md#x509cert |  | 5.b |  |  |  |

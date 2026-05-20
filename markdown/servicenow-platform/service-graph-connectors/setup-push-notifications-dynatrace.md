@@ -92,7 +92,8 @@ Custom Payload
 
 </td><td>
 
-Use the following payload: ```
+Use the following payload:
+```
 { 
   "connectionId": <connections_alias_sys_id>,
   "ImpactedEntities": {ImpactedEntities}, 

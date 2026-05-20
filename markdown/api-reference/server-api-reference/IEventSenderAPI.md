@@ -50,7 +50,8 @@ Number
 Size of the event queue.If an event queue is not currently implemented, returns "0".
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var event = new Event();
 event.setField("source","SAP Solman");
 event.setField("severity","3");
@@ -91,7 +92,8 @@ Flag that indicates whether the event queue has exceeded its maximum size. When 
 -   false: Event queue is not full and can add more event entries.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var eventSender = SNEventSenderProvider.getEventSender();
 if (!eventSender.isFullQueue()) // If queue is not full, send event
   eventSender.sendEvent(event);     
@@ -126,7 +128,8 @@ Flag that indicates whether the event was successfully queuedValid values:
 -   false: Error
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var eventSender = SNEventSenderProvider.getEventSender();
 eventSender.sendEvent(event); //send event     
 

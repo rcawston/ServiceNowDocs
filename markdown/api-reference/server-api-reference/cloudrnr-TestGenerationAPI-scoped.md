@@ -77,7 +77,8 @@ Object
 
 </td><td>
 
-Information about the test job. You can find advanced test details in the Generated Tests \[sn\_atf\_tg\_generated\_test\] table.```
+Information about the test job. You can find advanced test details in the Generated Tests \[sn\_atf\_tg\_generated\_test\] table.
+```
 {
   "testsFailed": Number,
   "testsInProgress": Number,

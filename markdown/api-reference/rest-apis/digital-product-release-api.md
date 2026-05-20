@@ -233,7 +233,8 @@ releases
 
 </td><td>
 
-Data about the releases included in the bundle.```
+Data about the releases included in the bundle.
+```
 "releases": {
    "count": Number,
    "list": [Array]

@@ -851,7 +851,8 @@ Object
 
 </td><td>
 
-Contains the field values and record producer to use when creating the record.```
+Contains the field values and record producer to use when creating the record.
+```
 {
   "variables": {Object},
   "sysparm_id": "String"
@@ -868,7 +869,8 @@ Object
 
 </td><td>
 
-The field values to set for the new record.```
+The field values to set for the new record.
+```
 {
    "field": "String",
    "field": "String"
@@ -902,7 +904,8 @@ Object
 
 </td><td>
 
-Contains information about the record that was created.```
+Contains information about the record that was created.
+```
 {
    "number": "String",
    "parent_id": "String",

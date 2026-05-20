@@ -153,7 +153,8 @@ JSON object in the following format:-   tableName: String. Database name of the 
 ```
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Create Import Set table
 var importSetTable = new sn_impex.GlideImportSetTable("temp user table");
 importSetTable.addStringColumn('first name', 40);

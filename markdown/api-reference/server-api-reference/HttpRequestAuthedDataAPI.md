@@ -191,7 +191,8 @@ Whether the signature is applied to the header, as a query parameter, or as a cr
 -   CREDENTIAL\_VALUE: The signature is applied as a credential value.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Define HttpRequestData
 var endpoint= "https://third-party-endpoint";
 var httpRequestData = new sn_auth.HttpRequestData();
@@ -245,7 +246,8 @@ Key-value pairs that define all of the headers included when the request was sig
 -   value: String. Value of the header.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Define the HttpRequestData object
 var endpoint= "https://third-party-endpoint";
 var httpRequestData = new sn_auth.HttpRequestData();
@@ -311,7 +313,8 @@ Key-value pairs that define the query parameters included when the request was s
 -   value: String. Value of the query parameter.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Define the HttpRequestData object
 var endpoint= "https://third-party-endpoint";
 var httpRequestData = new sn_auth.HttpRequestData();
@@ -373,7 +376,8 @@ The status of the request signing. Possible values:
 -   SKIPPED: The system skipped signing because the information was incomplete.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Define the HttpRequestData object
 var endpoint= "https://third-party-endpoint";
 var httpRequestData = new sn_auth.HttpRequestData();
@@ -428,7 +432,8 @@ Message about the request signing. If the request signing fails, returns one of 
 -   `Can't find script includes scope`: Verify that the authentication algorithm record and associated script includes used to sign the request are in the correct scope.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Define the HttpRequestData object
 var endpoint= "https://third-party-endpoint";
 var httpRequestData = new sn_auth.HttpRequestData();

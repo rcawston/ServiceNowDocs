@@ -397,7 +397,8 @@ Function
 
 </td><td>
 
-Function to use to parse the list of clients. This function accepts a single parameter, an array of JSON objects with the following format:```
+Function to use to parse the list of clients. This function accepts a single parameter, an array of JSON objects with the following format:
+```
 [{
     sys_id: "...",  // user's sys_id
     name: "..." // user's name

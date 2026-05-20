@@ -149,7 +149,8 @@ Flag indicating whether there are additional entries in the request body.Possibl
 -   false: No additional entries.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var requestBody = request.body;
 requestBody.hasNext(); // returns true if the request contains a single entry or multiple entries
 requestBody. nextEntry(); // returns next available entry

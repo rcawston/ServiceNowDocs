@@ -71,7 +71,8 @@ Scriptable Object
 
 </td><td>
 
-Required. Widget's SP Scriptable. Formatted as `$sp` in the request.```
+Required. Widget's SP Scriptable. Formatted as `$sp` in the request.
+```
 SPScriptable:{
 "widgetSysId":widget sys_id,
 "request":request object
@@ -88,7 +89,8 @@ Object
 
 </td><td>
 
-Optional. Widget/rectangle options passed in the widget.```
+Optional. Widget/rectangle options passed in the widget.
+```
 "options":{
 "table":"incident", "maximum_entries": "10"
 }
@@ -105,7 +107,8 @@ Object
 
 </td><td>
 
-Optional. Widget/rectangle input passed during runtime.```
+Optional. Widget/rectangle input passed during runtime.
+```
 "input":{
 "table":"incident", 
 "display_field":"name"

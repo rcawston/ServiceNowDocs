@@ -343,7 +343,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { Acl } from "@servicenow/sdk/core";
 
 export default Acl({

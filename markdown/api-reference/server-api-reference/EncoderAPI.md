@@ -69,7 +69,8 @@ Object
 
 </td><td>
 
-JavaScript object containing configuration properties of theencoder.```
+JavaScript object containing configuration properties of theencoder.
+```
 {
   "algorithmConfig": {Object},
   "datasets": [Array],
@@ -92,7 +93,8 @@ Object
 
 </td><td>
 
-Optional. JavaScript object containing algorithm configuration properties. ```
+Optional. JavaScript object containing algorithm configuration properties.
+```
 'algorithmConfig' : {
   "algorithm": "String"
 }
@@ -412,7 +414,8 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [Encoder\(\)](EncoderAPI.md#) object details in the [EncoderStore](../../EncoderStore/concept/EncoderStoreAPI.md#).```
+Contents of the Dataset and [Encoder\(\)](EncoderAPI.md#) object details in the [EncoderStore](../../EncoderStore/concept/EncoderStoreAPI.md#).
+```
 {
   "algorithmConfig" : {Object},
   "datasetsProperties": [Array],
@@ -445,7 +448,8 @@ Name of the algorithm for training this encoder. Possible values:
 
 </td><td>
 
-Optional. JavaScript object containing algorithm configuration properties. ```
+Optional. JavaScript object containing algorithm configuration properties.
+```
 'algorithmConfig' : {
   "algorithm": "String"
 }
@@ -494,7 +498,8 @@ List of field names from the specified table as strings. For example, `"fieldNam
 
 </td><td>
 
-List of JavaScript objects that specify field properties. ```
+List of JavaScript objects that specify field properties.
+```
 [
   {
     "name": "String",
@@ -543,7 +548,8 @@ Domain name associated with this dataset. See [Domain separation and Predictive 
 
 </td><td>
 
-Identifies the prediction task. ```
+Identifies the prediction task.
+```
 {
   "label": "my first prediction"
 }

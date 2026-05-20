@@ -61,7 +61,8 @@ Object
 
 </td><td>
 
-The items in another application scope on which your application depends. You must specify the application scope and the dependency type and names or sys\_ids.```json
+The items in another application scope on which your application depends. You must specify the application scope and the dependency type and names or sys\_ids.
+```json
 "dependencies": {
     "<scope>": {
       "<type>": ["<sys_id or name>"],
@@ -296,7 +297,8 @@ Array
 
 </td><td>
 
-A list of npm packages to identify as trusted \(or internal\). Trusted modules have access to ServiceNow APIs. For example:```json
+A list of npm packages to identify as trusted \(or internal\). Trusted modules have access to ServiceNow APIs. For example:
+```json
 "trustedModules": [
   "<package-name>",  // Specific package
   "@servicenow/*"  // All packages from an organization

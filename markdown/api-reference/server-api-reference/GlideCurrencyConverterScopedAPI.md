@@ -79,7 +79,8 @@ Description
 
 </td><td>
 
-GlideCurrencyExchangeValue object containing details about the conversion.```
+GlideCurrencyExchangeValue object containing details about the conversion.
+```
 CurrencyExchangeValue{
   fAmount: Number,
   fCurrency: "String",

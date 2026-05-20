@@ -135,7 +135,8 @@ debugpoints
 
 </td><td>
 
-List of all the breakpoints and logpoints in the script.```
+List of all the breakpoints and logpoints in the script.
+```
 "debugpoints": {
   "breakpoint": {Object}
   "logpoint": {Object}
@@ -150,7 +151,8 @@ debugpoints.breakpoint
 
 </td><td>
 
-List of all the breakpoints in the script, presented as key-value pairs. The key is the line number for the breakpoint. The value is an object containing the breakpoint's sys\_id and text.```
+List of all the breakpoints in the script, presented as key-value pairs. The key is the line number for the breakpoint. The value is an object containing the breakpoint's sys\_id and text.
+```
 "breakpoint": {
   <line_number>: {Object}
 }
@@ -164,7 +166,8 @@ debugpoints.breakpoint.&lt;line\_number&gt;
 
 </td><td>
 
-Line number for the breakpoint.```
+Line number for the breakpoint.
+```
 <line_number>: {
   "evaluationString": "String"
   "sysId": "String"
@@ -195,7 +198,8 @@ debugpoints.logpoint
 
 </td><td>
 
-List of all the logpoints in the script, presented as key-value pairs. The key is the line number for the logpoint. The value is an object containing the logpoint's sys\_id and text.```
+List of all the logpoints in the script, presented as key-value pairs. The key is the line number for the logpoint. The value is an object containing the logpoint's sys\_id and text.
+```
 "logpoint": {
   <line_number>: {Object}
 }
@@ -209,7 +213,8 @@ debugpoints.logpoint.&lt;line\_number&gt;
 
 </td><td>
 
-Line number for the logpoint.```
+Line number for the logpoint.
+```
 <line_number>: {
   "evaluationString": "String"
   "sysId": "String"
@@ -240,7 +245,8 @@ key
 
 </td><td>
 
-Object providing details about the script being debugged. ```
+Object providing details about the script being debugged.
+```
 "key": {
   "scriptField": "String"
   "scriptId": "String"
@@ -546,7 +552,8 @@ requestedDebugpoints
 
 </td><td>
 
-List of the requested breakpoints and logpoints. Presented as an array of objects.```
+List of the requested breakpoints and logpoints. Presented as an array of objects.
+```
 "requestedDebugpoints": [
   {
     "scriptId": "String",

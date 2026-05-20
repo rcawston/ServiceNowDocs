@@ -138,7 +138,8 @@ Object
 
 </td><td>
 
-Options for restricting results within the specified properties.```
+Options for restricting results within the specified properties.
+```
 {
   "label": "String",
   "domainName": "String",

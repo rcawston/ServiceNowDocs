@@ -89,7 +89,8 @@ Script
 
 </td><td>
 
-Enter a script to run when processing the probe. You can use the g\_probe\_parameters hashmap in a sensor script to set probe parameters for any configured, triggered probes. For example, this code sets a '**node\_port**' parameter to 16001 for all triggered probes.```
+Enter a script to run when processing the probe. You can use the g\_probe\_parameters hashmap in a sensor script to set probe parameters for any configured, triggered probes. For example, this code sets a '**node\_port**' parameter to 16001 for all triggered probes.
+```
 g_probe_parameters['node_port']=16001;
 ```
 

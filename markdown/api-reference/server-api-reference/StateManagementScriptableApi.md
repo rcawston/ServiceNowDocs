@@ -336,7 +336,8 @@ A JSON formatted string with name-value pairs for -   requestorid - Registered u
 -   errors - list of errors.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 
 var output = SNC.StateManagementScriptableApi.registerOperator();
 var jsonUntil = new JSON();
@@ -402,7 +403,8 @@ A JSON formatted string with name-value pairs for -   result - true if the state
 -   errors - list of errors.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var output = SNC.StateManagementScriptableApi.registerOperator();
 var jsonUntil = new JSON();
 var result = jsonUtil.decode(output);

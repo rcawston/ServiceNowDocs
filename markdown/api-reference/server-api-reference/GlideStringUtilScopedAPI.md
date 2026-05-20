@@ -267,7 +267,8 @@ Flag that indicates whether the specified string is in valid base64 format.Possi
 -   false: Invalid base64 formatted string.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 //(adding a "*" to corrupt the base64 format)
 base64="GethdTYehdtshetB*";
 isValid=GlideStringUtil.isBase64(base64);
@@ -310,7 +311,8 @@ Flag that indicates whether the specified string is in valid sys\_id format.Poss
 -   false: Invalid sys\_id formatted string.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 sysID="62826bf03710200044e0bfc8bcbe5df1";
 isElig=GlideStringUtil.isEligibleSysID(sysID);
 gs.info(isElig);

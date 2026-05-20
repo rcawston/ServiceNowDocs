@@ -309,7 +309,8 @@ delegate
 
 </td><td>
 
-Optional. Object that contains the reference to the delegate class.```
+Optional. Object that contains the reference to the delegate class.
+```
 // Register delegate
 private var analyticsDelegate = NowAnalyticsDelegate()  // Keep ref of delegate
 NowAnalytics.sharedAnalyticsService.setDelegate(analyticsDelegate)

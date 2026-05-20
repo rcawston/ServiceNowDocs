@@ -128,7 +128,8 @@ Condition
 
 </td><td>
 
-Specify the condition that must evaluate to true to trigger the inbound action. Build a condition with the choice lists or enter a statement that determines when the inbound email action runs. For example:```
+Specify the condition that must evaluate to true to trigger the inbound action. Build a condition with the choice lists or enter a statement that determines when the inbound email action runs. For example:
+```
 email.subject. startsWith ( "chg:" )
 ```
 

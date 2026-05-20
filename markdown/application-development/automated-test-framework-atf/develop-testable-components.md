@@ -198,7 +198,8 @@ initialize\(\)
 
 </td><td>
 
-Gets the initial values of the component. Enter:```
+Gets the initial values of the component. Enter:
+```
 $super(element, area)
 ```
 
@@ -247,7 +248,8 @@ initialize\(\)
 
 </td><td>
 
-Gets the initial values of the component. Enter:```
+Gets the initial values of the component. Enter:
+```
 $super(element, area)
 ```
 

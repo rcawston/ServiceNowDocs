@@ -110,7 +110,8 @@ DevicePermissionDelegate
 
 </td><td>
 
-Delegate object called by the NowSDK to request permission from the host application to show the system dialog for requesting the indicated device permission. For example:```
+Delegate object called by the NowSDK to request permission from the host application to show the system dialog for requesting the indicated device permission. For example:
+```
 class PermissionProvider:
 DevicePermissionDelegate {
   func canRequestPermission(_ permission: DevicePermission) → Bool {

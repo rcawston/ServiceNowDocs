@@ -182,7 +182,8 @@ Flag that indicates whether the method completed successfully.Possible values:
 -   false: Error
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Script example: 
 var getAllCIFunc = function(groupSysId) {
   var parser = new JSONParser();
@@ -384,7 +385,8 @@ Flag that indicates whether the method completed successfully.Possible values:
 -   false: Error
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Script example:
 var getAllCIFromQueryBuilderFunc = function(groupSysId) {
   var parser = new JSONParser();
@@ -450,7 +452,8 @@ String
 
 </td><td>
 
-A JSON formated string in the format ```
+A JSON formated string in the format
+```
 { 'result':false, 
 'errors':[ {'message':'Group does not exist',
             'error':'GROUP_SYS_ID_IS_NOT_FOUND'},
@@ -468,7 +471,8 @@ Where -   result - a boolean flag. When true the method was successful.
  When not successful, returns one of the errors GROUP\_SYS\_ID\_IS\_NOT\_FOUND, GROUP\_SYS\_ID\_IS\_EMPTY, FAIL\_TO\_INSERT\_GROUP\_CI\_PAIR, FAIL\_TO\_INSERT\_GROUP\_QUERY\_ID\_PAIR, CI\_CAN\_NOT\_FOUND, SAVED\_QUERY\_ID\_NOT\_FOUND, ERROR\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, TIMEOUT\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, NOT\_COMPLETE\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, MAX\_LIMIT\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, GROUP\_API\_TIMEOUT, EXCEPTION\_FROM\_EXECUTE\_QUERY, SOME\_CI\_NOT\_VISIBLE\_DUE\_TO\_SECURITY\_CONSTRAINT
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Script example for requireCompleteSet being false:
     var getManualCIList = function(groupSysId) {
     var parser = new JSONParser();
@@ -546,7 +550,8 @@ String
 
 </td><td>
 
-A JSON formated string in the format ```
+A JSON formated string in the format
+```
 { 'result':false, 
 'errors':[ {'message':'Group does not exist',
             'error':'GROUP_SYS_ID_IS_NOT_FOUND'},
@@ -564,7 +569,8 @@ Where -   result - a boolean flag. When true the method was successful.
  When not successful, returns one of the errors GROUP\_SYS\_ID\_IS\_NOT\_FOUND, GROUP\_SYS\_ID\_IS\_EMPTY, FAIL\_TO\_INSERT\_GROUP\_CI\_PAIR, FAIL\_TO\_INSERT\_GROUP\_QUERY\_ID\_PAIR, CI\_CAN\_NOT\_FOUND, SAVED\_QUERY\_ID\_NOT\_FOUND, ERROR\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, TIMEOUT\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, NOT\_COMPLETE\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, MAX\_LIMIT\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, GROUP\_API\_TIMEOUT, EXCEPTION\_FROM\_EXECUTE\_QUERY, SOME\_CI\_NOT\_VISIBLE\_DUE\_TO\_SECURITY\_CONSTRAINT
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Script example:
 var getSavedQueryIdList = function(groupSysId) {
     var parser = new JSONParser();
@@ -613,7 +619,8 @@ String
 
 </td><td id="CMDBGroupAPI_JSON_output">
 
-A JSON formated string in the format ```
+A JSON formated string in the format
+```
 { 'result':false, 
 'errors':[ {'message':'Group does not exist',
             'error':'GROUP_SYS_ID_IS_NOT_FOUND'},
@@ -631,7 +638,8 @@ Where -   result - a boolean flag. When true the method was successful.
  When not successful, returns one of the errors GROUP\_SYS\_ID\_IS\_NOT\_FOUND, GROUP\_SYS\_ID\_IS\_EMPTY, FAIL\_TO\_INSERT\_GROUP\_CI\_PAIR, FAIL\_TO\_INSERT\_GROUP\_QUERY\_ID\_PAIR, CI\_CAN\_NOT\_FOUND, SAVED\_QUERY\_ID\_NOT\_FOUND, ERROR\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, TIMEOUT\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, NOT\_COMPLETE\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, MAX\_LIMIT\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, GROUP\_API\_TIMEOUT, EXCEPTION\_FROM\_EXECUTE\_QUERY, SOME\_CI\_NOT\_VISIBLE\_DUE\_TO\_SECURITY\_CONSTRAINT
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Script example:
 var setManualCIListFunc = function(groupSysId, manualCIList) {
     var parser = new JSONParser();
@@ -681,7 +689,8 @@ String
 
 </td><td>
 
-A JSON formated string in the format ```
+A JSON formated string in the format
+```
 { 'result':false, 
 'errors':[ {'message':'Group does not exist',
             'error':'GROUP_SYS_ID_IS_NOT_FOUND'},
@@ -699,7 +708,8 @@ Where -   result - a boolean flag. When true the method was successful.
  When not successful, returns one of the errors GROUP\_SYS\_ID\_IS\_NOT\_FOUND, GROUP\_SYS\_ID\_IS\_EMPTY, FAIL\_TO\_INSERT\_GROUP\_CI\_PAIR, FAIL\_TO\_INSERT\_GROUP\_QUERY\_ID\_PAIR, CI\_CAN\_NOT\_FOUND, SAVED\_QUERY\_ID\_NOT\_FOUND, ERROR\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, TIMEOUT\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, NOT\_COMPLETE\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, MAX\_LIMIT\_DURING\_QUERY\_BUILDER\_PROCESS\_QUERY, GROUP\_API\_TIMEOUT, EXCEPTION\_FROM\_EXECUTE\_QUERY, SOME\_CI\_NOT\_VISIBLE\_DUE\_TO\_SECURITY\_CONSTRAINT
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Script example:
 var setSavedQueryIdListFunc = function(groupSysId, queryIdList) {
     var parser = new JSONParser();

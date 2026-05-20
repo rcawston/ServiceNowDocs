@@ -107,7 +107,8 @@ Flag that indicates whether there is an error.-   true: Error.
 -   false: Success.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var importSet = new GlideRecord('sys_import_set');
 importSet.short_description = 'Import set from scripted rest api';
 importSet.table_name = importSetTableName;

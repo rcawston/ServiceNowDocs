@@ -1527,11 +1527,13 @@ String or Array of Strings
 
 </td><td>
 
-Optional. Fields to display in the result. You can provide any number of fields as arguments, dot-walk to a desired value, or use a flag. For example: ```
+Optional. Fields to display in the result. You can provide any number of fields as arguments, dot-walk to a desired value, or use a flag. For example:
+```
 select('first_name', 'location.city', 'company$DISPLAY');
 ```
 
-or```
+or
+```
 select(['first_name', 'location.city', 'company$DISPLAY']);
 ```
 
@@ -1623,11 +1625,13 @@ String or Array of Strings
 
 </td><td>
 
-Optional. Fields to display in the result. You can provide any number of fields as arguments, dot-walk to a desired value, or use a flag. For example: ```
+Optional. Fields to display in the result. You can provide any number of fields as arguments, dot-walk to a desired value, or use a flag. For example:
+```
 selectOne('first_name', 'location.city', 'company$DISPLAY');
 ```
 
-or```
+or
+```
 selectOne(['first_name', 'location.city', 'company$DISPLAY']);
 ```
 

@@ -1498,7 +1498,8 @@ languages
 
 </td><td>
 
-For each translated version of a knowledge article \(if translated\):```
+For each translated version of a knowledge article \(if translated\):
+```
 "languages": [
   {
     "label": "String",

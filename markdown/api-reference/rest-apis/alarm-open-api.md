@@ -304,7 +304,8 @@ alarmedObject
 
 </td><td>
 
-Details of the alarm object. ```
+Details of the alarm object.
+```
 "alarmedObject":
 {
   "href": "String",
@@ -1704,7 +1705,8 @@ alarmedObject
 
 </td><td>
 
-Required. Details of the alarm object. ```
+Required. Details of the alarm object.
+```
 "alarmedObject":
 {
   "href": "String",
@@ -2084,7 +2086,8 @@ alarmedObject
 
 </td><td>
 
-Details of the alarm object. ```
+Details of the alarm object.
+```
 "alarmedObject":
 {
   "href": "String",

@@ -90,7 +90,8 @@ CSS variables
 
 </td><td>
 
-CSS custom properties that you can use to change the color and styles in a portal. For example, the stock theme uses some of the following variables:```
+CSS custom properties that you can use to change the color and styles in a portal. For example, the stock theme uses some of the following variables:
+```
 $sp-logo-margin-x: 		15px !default;
 $sp-tagline-color:		$text-color !default;
 $navbar-inverse-bg: 	#3a3f51 !default;

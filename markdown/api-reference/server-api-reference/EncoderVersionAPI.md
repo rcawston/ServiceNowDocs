@@ -52,7 +52,8 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [Encoder](EncoderAPI.md#) details. Results vary by object property setup.```
+Contents of the Dataset and [Encoder](EncoderAPI.md#) details. Results vary by object property setup.
+```
 {
   "algorithmConfig" : {Object},
   "datasetsProperties": [Array],
@@ -75,7 +76,8 @@ Contents of the Dataset and [Encoder](EncoderAPI.md#) details. Results vary by o
 
 </td><td>
 
-Optional. JavaScript object containing algorithm configuration properties. ```
+Optional. JavaScript object containing algorithm configuration properties.
+```
 'algorithmConfig' : {
   "algorithm": "String"
 }
@@ -137,7 +139,8 @@ List of field names from the specified table as strings. For example, `"fieldNam
 
 </td><td>
 
-List of JavaScript objects that specify field properties. ```
+List of JavaScript objects that specify field properties.
+```
 [
   {
     "name": "String",
@@ -199,7 +202,8 @@ Flag that indicates whether this version is active.Valid values:
 
 </td><td>
 
-Identifies the prediction task. ```
+Identifies the prediction task.
+```
 {
   "label": "my first prediction"
 }
@@ -387,7 +391,8 @@ Object
 
 </td><td>
 
-Map to refine results. ```
+Map to refine results.
+```
 { "topN":"String" }
 ```
 
@@ -472,7 +477,8 @@ Object
 
 </td><td>
 
-JavaScript object containing training status information for an [Encoder](../../Encoder/concept/EncoderAPI.md#) object.```
+JavaScript object containing training status information for an [Encoder](../../Encoder/concept/EncoderAPI.md#) object.
+```
 {
   "state": "String",
   "percentComplete": "Number as a String",

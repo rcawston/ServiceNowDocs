@@ -82,7 +82,8 @@ Object
 
 </td><td>
 
-Details about the created report and any errors.```
+Details about the created report and any errors.
+```
 {
   "error": "String",
   "message": "String",
@@ -227,7 +228,8 @@ Object
 
 </td><td>
 
-Details about the deleted query and any errors.```
+Details about the deleted query and any errors.
+```
 {
   "error": "String",
   "message": "String",
@@ -387,7 +389,8 @@ Object
 
 </td><td>
 
-Details about the query execution and any errors.```
+Details about the query execution and any errors.
+```
 {
   "error": "String",
   "execution_batch_size": Number,
@@ -542,7 +545,8 @@ Object
 
 </td><td>
 
-Object containing details about the saved query and any errors.```
+Object containing details about the saved query and any errors.
+```
 {
    "error": "String",
    "message": "String",
@@ -702,7 +706,8 @@ Object
 
 </td><td>
 
-Details about the updated query and any errors.```
+Details about the updated query and any errors.
+```
 {
   "error": "String",
   "message": "String",

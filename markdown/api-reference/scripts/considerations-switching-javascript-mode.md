@@ -41,7 +41,8 @@ Arguments object
 
 </td><td>
 
-The `arguments` object exists, but there's no `strict mode`, so modifications reflect on `arguments`. Prints: ```javascript
+The `arguments` object exists, but there's no `strict mode`, so modifications reflect on `arguments`. Prints:
+```javascript
 *** Script: [object Arguments]
 *** Script: [object Arguments]
 *** Script: [object Arguments]
@@ -50,7 +51,8 @@ The `arguments` object exists, but there's no `strict mode`, so modifications re
 
 </td><td>
 
-In strict mode, the arguments object doesn’t reflect parameter modifications and throws an error. Prints: ```javascript
+In strict mode, the arguments object doesn’t reflect parameter modifications and throws an error. Prints:
+```javascript
 sn_es5: 123
 sn_es5: undefined
 sn_es5: [object Arguments]
@@ -75,7 +77,8 @@ Primitive Booleans are more protected, though still can be overridden when assig
 
 </td><td>
 
-The same as ES5, but strict mode helps prevent some assignments. The conditional expression should be written in this form: ```javascript
+The same as ES5, but strict mode helps prevent some assignments. The conditional expression should be written in this form:
+```javascript
 (cond_expr instanceof Boolean ? cond_expr.valueOf() : cond_expr).
 ```
 
@@ -85,14 +88,16 @@ Exception for syntax errors
 
 </td><td>
 
-Syntax errors throw exceptions at runtime. Error handling is inconsistent. Example: ```javascript
+Syntax errors throw exceptions at runtime. Error handling is inconsistent. Example:
+```javascript
 Javascript compiler exception: unterminated string literal (null.null.script; line 1) in:
 var b = '
 ```
 
 </td><td>
 
-More consistent syntax error handling, especially in strict mode. Example: ```javascript
+More consistent syntax error handling, especially in strict mode. Example:
+```javascript
 Evaluator: com.glide.script.RhinoEcmaError: unterminated string literal
    script : Line(1) column(9)
 ==>   1: var b = '
@@ -100,7 +105,8 @@ Evaluator: com.glide.script.RhinoEcmaError: unterminated string literal
 
 </td><td>
 
-The same as ES5, but with more robust handling and clearer error messages in updated engines. Example: ```javascript
+The same as ES5, but with more robust handling and clearer error messages in updated engines. Example:
+```javascript
 SyntaxError: Unterminated string constant at line 1
 
 ==>   1: var b = '
@@ -112,7 +118,8 @@ Increment and decrement
 
 </td><td>
 
-Allowed on variables but could behave unexpectedly with complex expressions. Prints: ```javascript
+Allowed on variables but could behave unexpectedly with complex expressions. Prints:
+```javascript
 *** Script: c: 1
 *** Script: gr.related_incidents: 1
 *** Script: 2
@@ -121,7 +128,8 @@ Allowed on variables but could behave unexpectedly with complex expressions. Pri
 
 </td><td>
 
-Improved clarity, but still allowed on variables \(`var`, `let`, `const`\). Prints: ```javascript
+Improved clarity, but still allowed on variables \(`var`, `let`, `const`\). Prints:
+```javascript
 sn_es5: c: 0
 sn_es5: gr.related_incidents: 1
 sn_es5: 1
@@ -138,7 +146,8 @@ Line continuations
 
 </td><td>
 
-Allowed with a backslash \(`\`\) but discouraged due to readability issues. In this example, all three functions are called. ```javascript
+Allowed with a backslash \(`\`\) but discouraged due to readability issues. In this example, all three functions are called.
+```javascript
 var expr = doFoo();  // do foo
            doBar();  // do bar 
            finish();   // all done

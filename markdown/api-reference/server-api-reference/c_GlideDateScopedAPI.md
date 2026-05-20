@@ -201,7 +201,8 @@ String
 Date value for the GlideDate object in the current user's time zone. Format: yyyy-MM-dd
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var gd = new GlideDate(); 
 gs.info(gd.getDisplayValueInternal());
 ```
@@ -338,7 +339,8 @@ String
 The date value for the GlideDate object in the system time zone. Format: yyyy-MM-dd
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var gd = new GlideDate();
 gd.setValue('2021-04-21');
 gs.info(gd.getValue());

@@ -49,7 +49,8 @@ Parameter setting
 
 </td><td>
 
-To enable this option, set the `exclude_search_on_homepage` value to **false**.```
+To enable this option, set the `exclude_search_on_homepage` value to **false**.
+```
 "exclude_search_on_homepage":{
 		"displayValue":"false",
 		"value":false
@@ -63,7 +64,8 @@ Default value: true**Note:** By default, the search widget is displayed in the E
 
 </td><td>
 
-To enable this option, set the `enable_wishlist` value to **true** ```
+To enable this option, set the `enable_wishlist` value to **true**
+```
 "enable_wishlist":{
 		"displayValue":"true",
 		"value":true
@@ -77,7 +79,8 @@ Default value: False
 
 </td><td>
 
-To disable this option, set the `enable_requests` value to **false** ```
+To disable this option, set the `enable_requests` value to **false**
+```
 "enable_requests":{
 		"displayValue":"false",
 		"value":false
@@ -91,7 +94,8 @@ Default value: True
 
 </td><td>
 
-To disable this option, set the `enable_tasks` value to **false** ```
+To disable this option, set the `enable_tasks` value to **false**
+```
 "enable_tasks":{
 		"displayValue":"false",
 		"value":false
@@ -105,7 +109,8 @@ Default value: True
 
 </td><td>
 
-To disable this option, set the `enable_more_items` value to **false** ```
+To disable this option, set the `enable_more_items` value to **false**
+```
 "enable_more_items":{
       	"displayValue":"false",
       	"value":true,
@@ -121,7 +126,8 @@ Default value: True
 
 </td><td>
 
-To enable this option, set the `enable_cart` value to **true** ```
+To enable this option, set the `enable_cart` value to **true**
+```
 "enable_cart":{
 		"displayValue":"true",
 		"value":true
@@ -135,7 +141,8 @@ Default value: False
 
 </td><td>
 
-To enable this option, set the `auto_update_cart` value to **true**. Update the shopping cart automatically with user-specific changes from multiple tabs and platforms.```
+To enable this option, set the `auto_update_cart` value to **true**. Update the shopping cart automatically with user-specific changes from multiple tabs and platforms.
+```
 "auto_update_cart": {
         "displayValue": "true",
           "value": true}

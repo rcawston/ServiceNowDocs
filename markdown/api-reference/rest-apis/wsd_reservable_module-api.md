@@ -392,7 +392,8 @@ result.buildingsTreeData.children.data.​timezone
 
 </td><td>
 
-Details about the time zone of the building entity.```
+Details about the time zone of the building entity.
+```
 "timezone": {
   "displayValue": "String",
   "value":  "String"

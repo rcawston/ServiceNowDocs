@@ -697,7 +697,8 @@ For the most recent entry, returns a string that contains the field label, times
  For all journal entries, returns the same information for all journal entries ever entered as a single string with each entry delimited by "\\n\\n".
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 //gets all journal entries as a string where each entry is delimited by '\n\n'
 var notes = current.work_notes.getJournalEntry(-1); 
 //stores each entry into an array of strings
@@ -995,7 +996,8 @@ Flag that indicates whether the field is null.Possible values:
 -   false: Field is not null.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var glideRecord = new GlideRecord('incident'); 
 glideRecord.query('priority','1'); 
 glideRecord.next(); 

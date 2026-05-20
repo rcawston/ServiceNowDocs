@@ -151,7 +151,8 @@ Process finished
 
 </td><td>
 
-To specify a script that runs after all subflows have finished, check **Process finished**. If you check this field, a text box labelled **Finished Script**appears where you can enter the script to run. The ‘coordinator’ variable is made available to this script and is an object that allows access to any of the finished subflows using the getFlow\(index\) method. For example:```
+To specify a script that runs after all subflows have finished, check **Process finished**. If you check this field, a text box labelled **Finished Script**appears where you can enter the script to run. The ‘coordinator’ variable is made available to this script and is an object that allows access to any of the finished subflows using the getFlow\(index\) method. For example:
+```
 for (var i = 0; i < coordinator.getNumFlows(); i++) 
 ```
 

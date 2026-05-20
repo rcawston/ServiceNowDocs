@@ -649,7 +649,8 @@ appManagedByGroups
 
 </td><td>
 
-Comma-separated list of sys\_ids of the groups that manage the application. The calling user must belong to these groups.```
+Comma-separated list of sys\_ids of the groups that manage the application. The calling user must belong to these groups.
+```
 "appManagedByGroups": "sys_id, sys_id" 
 ```
 
@@ -871,7 +872,8 @@ appManagedByGroups
 
 </td><td>
 
-Comma-separated list of sys\_ids of the groups that manage the application. The calling user must belong to these groups.```
+Comma-separated list of sys\_ids of the groups that manage the application. The calling user must belong to these groups.
+```
 "appManagedByGroups": "sys_id, sys_id" 
 ```
 

@@ -195,7 +195,8 @@ The sys\_id of the created de-duplication task. Returns null if:
 -   The input parameter contains a sys\_id that is in an open de-duplication task
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // where <sys-id1> and <sys-id2> are sys_IDs of CIs in the cmdb_ci table
 var sysIDs = '<sys-id1>,<sys-id2>';
 var dupTaskUtil = new CMDBDuplicateTaskUtils();

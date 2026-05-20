@@ -53,7 +53,8 @@ ObjectData
 
 </td><td>
 
-A JSON object containing Active Directory properties and their values. For example, to set the first name, last name, and title of a user, clear the user's manager, and set the VIP flag to true, the Object Data specifies:```
+A JSON object containing Active Directory properties and their values. For example, to set the first name, last name, and title of a user, clear the user's manager, and set the VIP flag to true, the Object Data specifies:
+```
 { "givenName" : "John", "SN" : "Doe", "title" : "Sr. Account Specialist", "manager" : null, "msTSAllowLogon" : false }
 ```
 

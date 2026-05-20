@@ -152,7 +152,8 @@ Object/String
 User's first name.**Note:** The data type for the returned value is object, however, the information is returned as a string.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var currentUser = gs.getUser(); 
 var userName = currentUser.getFirstName();
 gs.info('User First Name: + userName);
@@ -214,7 +215,8 @@ Object/String
 User's last name.**Note:** The data type for the returned value is object, however, the information is returned as a string.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var currentUser = gs.getUser(); 
 var userName = currentUser.getLastName();
 gs.info('User Last Name: + userName);
@@ -441,7 +443,8 @@ Object/String
 List of comma-separated roles explicitly assigned to the user.**Note:** The data type for the returned value is object, however, the information is returned as a string.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var currentUser = gs.getUser(); 
 var userRoles = currentUser.getUserRoles();
 gs.info('User Roles: ' + userRoles);

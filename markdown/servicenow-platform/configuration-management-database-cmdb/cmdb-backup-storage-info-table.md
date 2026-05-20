@@ -47,7 +47,8 @@ cmdb\_related\_entry
 
 </td><td>
 
-To populate the cmdb\_backup\_storage\_information with an IRE payload, you define a CMDB-related rule in cmdb\_related\_entry. For the related rule, use the Backup Source ID criteria attributes and Backup Source as a reference field. Example:```
+To populate the cmdb\_backup\_storage\_information with an IRE payload, you define a CMDB-related rule in cmdb\_related\_entry. For the related rule, use the Backup Source ID criteria attributes and Backup Source as a reference field. Example:
+```
 //. Sample IRE payload  var payload = 
 { 
  "items": [ 

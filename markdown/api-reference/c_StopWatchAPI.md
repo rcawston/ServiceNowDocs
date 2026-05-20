@@ -84,7 +84,8 @@ Number
 Time since the timer started.Unit: Milliseconds
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var sw = new StopWatch();
 
 // some slow code here
@@ -165,7 +166,8 @@ String
 Elapsed time. Format: HH:MM:SS.SSS
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var sw = new StopWatch();
 
 // some slow code here

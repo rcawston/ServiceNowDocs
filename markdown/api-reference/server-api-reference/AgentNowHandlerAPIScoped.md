@@ -190,7 +190,8 @@ Object
 
 </td><td>
 
-Check ID and optional check parameters. ```
+Check ID and optional check parameters.
+```
 "check": {
   "checkDefId": "String",
   "params": {Object}
@@ -219,7 +220,8 @@ Object
 
 </td><td>
 
-Optional. Map of parameter names and values. These settings can be used to override the parameter records of the check definition and its specified values. ```
+Optional. Map of parameter names and values. These settings can be used to override the parameter records of the check definition and its specified values.
+```
 "params": {
   "<parameter name>": "String"
 }

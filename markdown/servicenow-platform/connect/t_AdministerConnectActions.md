@@ -83,7 +83,8 @@ Script
 
 </td><td>
 
-Script to execute when the action is run. For example, to create a new incident that is based on the conversation, enter the following code:```
+Script to execute when the action is run. For example, to create a new incident that is based on the conversation, enter the following code:
+```
 response.newRecord("incident",{
     short_description: conversation.document.short_description ||"",
     caller_id: conversation.document.opened_by

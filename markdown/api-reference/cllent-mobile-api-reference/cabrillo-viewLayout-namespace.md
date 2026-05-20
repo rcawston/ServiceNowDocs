@@ -348,7 +348,8 @@ Object
 
 </td><td>
 
-Optional. Additional settings to modify the appearance of the spinner.```
+Optional. Additional settings to modify the appearance of the spinner.
+```
 {
   "mask": Boolean,
   "maskColor": "String"

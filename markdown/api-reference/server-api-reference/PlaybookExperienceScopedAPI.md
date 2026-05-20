@@ -498,7 +498,8 @@ Object
 
 </td><td>
 
-Object containing the cancelled playbook executions and any skipped playbook executions that were unable to be cancelled. ```
+Object containing the cancelled playbook executions and any skipped playbook executions that were unable to be cancelled.
+```
 {
   "canceledPlaybookContext": [Array],
   "skippedPlaybookContext": [Array]
@@ -844,7 +845,8 @@ Array
 
 </td><td>
 
-List of playbook executions for the parent record. Each playbook execution is an object in the array.```
+List of playbook executions for the parent record. Each playbook execution is an object in the array.
+```
 [
     {
       "can_read": Boolean,
@@ -1189,7 +1191,8 @@ Object
 
 </td><td>
 
-Object containing the restarted playbook execution details.```
+Object containing the restarted playbook execution details.
+```
 {
  "can_add_activity": Boolean,
  "can_cancel": Boolean,

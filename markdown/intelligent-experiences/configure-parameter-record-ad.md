@@ -25,11 +25,13 @@ You can create Parameter records only for username and password. For any other S
 
 The following example shows how an AI agent instruction can reference stored parameter names:
 
-`Connect to SSH server and retrieve my session info. Here are my details:```
+```
+Connect to SSH server and retrieve my session info. Here are my details:
 
--   `IP address: 172.27.50.123`
--   `Port: 22`
--   `Retrieve the user name stored in "un_username_group" and the password stored in "un_password_group" parameter records.`
+IP address: 172.27.50.123
+Port: 22
+Retrieve the user name stored in "un_username_group" and the password stored in "un_password_group" parameter records.
+```
 
 **Note:** When triggering an AI agent, explicitly specify in your instructions whether the credentials are provided directly or stored in Parameter records. If Parameter records are used, clarify that the record names are for reference only and that the agent must retrieve the username and password from those records.
 
@@ -126,5 +128,4 @@ Value such as user name or password for connecting to the SSH server.
 
 </td></tr></tbody>
 </table>    3.  Select **Submit**.
-
 

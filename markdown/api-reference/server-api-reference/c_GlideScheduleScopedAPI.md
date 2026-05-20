@@ -74,7 +74,8 @@ Time zones can be provided in the following formats.
 For a complete list of valid timezones, see the **Time zone** field in the User \[sys\_user\] table. For more information about time zones, see [Time zones](../../platform-administration/time-configuration/r_TimeZones.md).
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var schedule = new GlideSchedule('090eecae0a0a0b260077e1dfa71da828', 'US/Pacific');
 ```
 
@@ -175,7 +176,8 @@ Flag that indicates whether the specified date and time is within the schedule.V
 -   false: Date and time are outside of the schedule.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var glide = new GlideRecord('cmn_schedule');
 glide.addQuery('type', 'blackout');
 glide.query();

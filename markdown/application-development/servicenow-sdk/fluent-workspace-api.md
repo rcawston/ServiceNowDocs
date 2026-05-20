@@ -132,7 +132,8 @@ Boolean
 Flag that indicates whether the workspace is accessible to users.Default: true
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { Workspace } from '@servicenow/sdk/core';
 
 const itsmWorkspace = Workspace({
@@ -225,7 +226,8 @@ Array
 A list of top-level groupings in the list configuration. For more information, see [categories array](fluent-workspace-api.md#).
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { UxListMenuConfig } from '@servicenow/sdk/core';
 
 const incidentListConfig = UxListMenuConfig({
@@ -347,7 +349,8 @@ String
 A description of the category.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 categories: [
     {
       $id: Now.ID["incidents_category"],
@@ -498,7 +501,8 @@ Array
 A list of variable identifiers of Applicability objects that control which roles can view the list. For more information, see [Applicability object](fluent-workspace-api.md#).
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 lists: [
         {
           $id: Now.ID["assets_active"],
@@ -620,7 +624,8 @@ String
 A comma-separated list of role names that a user must have to view the list. This property is an alternative to the roles property.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { Applicability } from '@servicenow/sdk/core';
 
 const managerApplicability = Applicability({

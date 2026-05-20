@@ -112,7 +112,8 @@ Value
 
 </td><td>
 
-Enter the following JSON:```json
+Enter the following JSON:
+```json
 {
   "globalSearchViewConfigId": "00000000000000000000000000000000",
   "globalSearchRoute": "search"
@@ -174,7 +175,8 @@ Value
 
 </td><td>
 
-Enter the following JSON:```json
+Enter the following JSON:
+```json
 {
   "privatePage": {
     "searchEnabled": true

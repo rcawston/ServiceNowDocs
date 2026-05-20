@@ -97,7 +97,8 @@ Array
 
 </td><td>
 
-Information for each participant to include in the conference call. ```
+Information for each participant to include in the conference call.
+```
 "items": [
   "email": "String",
   "id": "String",
@@ -662,7 +663,8 @@ Results of the conference action.`<action>.status`: Status of the conference act
 -   Data type: Array of Strings
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 function endConferenceCall() {
     var data = NotifyOnTaskClient.getNotifyActionTemplate();
     data.serviceProvider = 'Telephony'; // e.g 'Zoom', 'WebEx'
@@ -1000,7 +1002,8 @@ Array
 
 </td><td>
 
-Optional. Information for each participant to include in the conference call. ```
+Optional. Information for each participant to include in the conference call.
+```
 "items": [
   "email": "String",
   "id": "String",

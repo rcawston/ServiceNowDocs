@@ -78,7 +78,8 @@ Array
 
 </td><td>
 
-Array of filter objects that define the tables to filter and the filter criteria.```
+Array of filter objects that define the tables to filter and the filter criteria.
+```
 [
   {
     "table": String,

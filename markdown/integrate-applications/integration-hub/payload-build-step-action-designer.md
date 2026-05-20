@@ -79,7 +79,8 @@ Namespace
 
 </td><td>
 
-The XML namespace to apply to each element. For example, when the namespace is set to `incident`:```
+The XML namespace to apply to each element. For example, when the namespace is set to `incident`:
+```
 <incident:short_description>[action]->[short_description]</incident:short_description>
 ```
 

@@ -86,7 +86,8 @@ Array
 
 </td><td>
 
-Array of objects used to create records in the Choices \[sys\_choice\] table. Each object creates one choice record.```
+Array of objects used to create records in the Choices \[sys\_choice\] table. Each object creates one choice record.
+```
 [
   {
     "answerElementID": "String",
@@ -160,7 +161,8 @@ Object
 
 </td><td>
 
-Object with information about the status of the API request.```
+Object with information about the status of the API request.
+```
 {
   "errors": [Array],
   "results": [Array],
@@ -364,7 +366,8 @@ Array
 
 </td><td>
 
-Array of objects used to create records in the Result Elements \[sys\_decision\_multi\_result\_element\] table. Each object creates one answer element record.```
+Array of objects used to create records in the Result Elements \[sys\_decision\_multi\_result\_element\] table. Each object creates one answer element record.
+```
 [
    {
       label: "String",
@@ -466,7 +469,8 @@ Object
 
 </td><td>
 
-Object with information about the status of the API request.```
+Object with information about the status of the API request.
+```
 {
   "errors": [Array],
   "results": [Array],
@@ -669,7 +673,8 @@ Array
 
 </td><td>
 
-Array of objects used to create records in the Decision Conditions \[sn\_decision\_table\_decision\_condition\] table. Each object creates one decision condition record.```
+Array of objects used to create records in the Decision Conditions \[sn\_decision\_table\_decision\_condition\] table. Each object creates one decision condition record.
+```
 [
   { 
     "decisionInput": "String",        
@@ -730,7 +735,8 @@ Object
 
 </td><td>
 
-Object with information about the status of the API request.```
+Object with information about the status of the API request.
+```
 {
   "errors": [Array],
   "results": [Array],
@@ -921,7 +927,8 @@ Object
 
 </td><td>
 
-Key-value pairs of the field names and values to use to create a decision table record.```
+Key-value pairs of the field names and values to use to create a decision table record.
+```
 {
   "accessibleFrom": "String",
   "name": "String",
@@ -983,7 +990,8 @@ Object
 
 </td><td>
 
-Information about the status of the API request.```
+Information about the status of the API request.
+```
 {
   "errors": [Array],
   "record": GlideRecord,
@@ -1108,7 +1116,8 @@ Array
 
 </td><td>
 
-Array of objects used to create records in the Choices \[sys\_choice\] table. Each object creates one choice record.```
+Array of objects used to create records in the Choices \[sys\_choice\] table. Each object creates one choice record.
+```
 [
   {
     "inputID": "String",
@@ -1182,7 +1191,8 @@ Object
 
 </td><td>
 
-Object with information about the status of the API request.```
+Object with information about the status of the API request.
+```
 {
   "errors": [Array],
   "results": [Array],
@@ -1387,7 +1397,8 @@ Array
 
 </td><td>
 
-Array of objects used to create records in the Decision Input \[sys\_decision\_input\] table. Each object creates one decision input record.```
+Array of objects used to create records in the Decision Input \[sys\_decision\_input\] table. Each object creates one decision input record.
+```
 [
    {
       label: "String",
@@ -1484,7 +1495,8 @@ Object
 
 </td><td>
 
-Object with information about the status of the API request.```
+Object with information about the status of the API request.
+```
 {
   "errors": [Array],
   "results": [Array],
@@ -1685,7 +1697,8 @@ Array
 
 </td><td>
 
-Array of objects used to create records in the Decisions \[sys\_decision\_question\] table. Each object creates one question record.```
+Array of objects used to create records in the Decisions \[sys\_decision\_question\] table. Each object creates one question record.
+```
 [
   {
     "active": Boolean,
@@ -1813,7 +1826,8 @@ Object
 
 </td><td>
 
-Object with information about the status of the API request.```
+Object with information about the status of the API request.
+```
 {
   "errors": [Array],
   "results": [Array],
@@ -2038,7 +2052,8 @@ Object
 
 </td><td>
 
-Information about the status of the API request.```
+Information about the status of the API request.
+```
 {
   "errors": [Array],
   "status": "String"
@@ -2153,7 +2168,8 @@ Object
 
 </td><td>
 
-Information about the status of the API request.```
+Information about the status of the API request.
+```
 {
   "errors": [Array],
   "status": "String"
@@ -2268,7 +2284,8 @@ Object
 
 </td><td>
 
-Information about the status of the API request.```
+Information about the status of the API request.
+```
 {
   "errors": [Array],
   "status": "String"
@@ -2383,7 +2400,8 @@ Object
 
 </td><td>
 
-Information about the status of the API request.```
+Information about the status of the API request.
+```
 {
   "errors": [Array],
   "status": "String"
@@ -2498,7 +2516,8 @@ Object
 
 </td><td>
 
-Information about the status of the API request.```
+Information about the status of the API request.
+```
 {
   "errors": [Array],
   "status": "String"
@@ -2613,7 +2632,8 @@ Object
 
 </td><td>
 
-Information about the status of the API request.```
+Information about the status of the API request.
+```
 {
   "errors": [Array],
   "status": "String"
@@ -2830,7 +2850,8 @@ All decision tables and their fields from the Decision Tables \[sys\_decision\] 
  Format: JSON
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dt = new sn_dt.DecisionTableAPI();
 var response = dt.getAll();
 gs.info(JSON.stringify(response));
@@ -3122,7 +3143,8 @@ Answer records associated with the decision table. Each record contains these ke
  Format: JSON
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dt = new sn_dt.DecisionTableAPI();
 var response = dt.getAnswers("3c4464a7b701230034d1da23ee11a993");
 gs.info(JSON.stringify(response));
@@ -3261,7 +3283,8 @@ The correctly evaluated Answer record associated with the decision table. An ans
 -   If the decision table supports multiple answers, each answer is listed in the **result\_elements** field.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dt = new sn_dt.DecisionTableAPI();
 var inputs = new Object();
 inputs['u_age'] = 25;
@@ -3379,7 +3402,8 @@ List of answer records in GlideRecord format. An answer record is a record on an
 -   If the decision table supports multiple answers, the **result\_elements** field lists each answer.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dt = new sn_dt.DecisionTableAPI();
 var input = new Object();
 input['u_age'] = 25;
@@ -3533,7 +3557,8 @@ Decision table from the Decision Tables \[sys\_decision\] table. Each decision t
  Format: JSON
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dt = new sn_dt.DecisionTableAPI();
 var response = dt.getDecisionTable("3c4464a7b701230034d1da23ee11a993");
 gs.info(JSON.stringify(response));
@@ -3662,7 +3687,8 @@ Decision inputs from the Decision Inputs \[sys\_decision\_input\] table associat
  Format: JSON
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dt = new sn_dt.DecisionTableAPI();
 var response = dt.getInputs("3c4464a7b701230034d1da23ee11a993");
 gs.info(JSON.stringify(response));
@@ -3748,7 +3774,8 @@ Decisions from the Decision \[sys\_decision\_question\] table associated with th
  Format: JSON
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dt = new sn_dt.DecisionTableAPI();
 var response = dt.getQuestions("3c4464a7b701230034d1da23ee11a993");
 gs.info(JSON.stringify(response));
@@ -3815,7 +3842,8 @@ Object
 
 </td><td>
 
-Key-value pairs to update the answer element record.```
+Key-value pairs to update the answer element record.
+```
 {   
    comments: "String", 
    label: "String",    
@@ -3874,7 +3902,8 @@ Object
 
 </td><td>
 
-Information about the status of the API request.```
+Information about the status of the API request.
+```
 {
   "errors": [Array],
   "record": GlideRecord,
@@ -3999,7 +4028,8 @@ Object
 
 </td><td>
 
-Key-value pairs to update the choice record.```
+Key-value pairs to update the choice record.
+```
 {
    label: "String",
    order: Number,
@@ -4058,7 +4088,8 @@ Object
 
 </td><td>
 
-Information about the status of the API request.```
+Information about the status of the API request.
+```
 {
   "errors": [Array],
   "record": GlideRecord,
@@ -4182,7 +4213,8 @@ Object
 
 </td><td>
 
-Key-value pairs to update the decision condition record.```
+Key-value pairs to update the decision condition record.
+```
 {   
    defaultOperator: "String", 
    description: "String",    
@@ -4241,7 +4273,8 @@ Object
 
 </td><td>
 
-Information about the status of the API request.```
+Information about the status of the API request.
+```
 {
   "errors": [Array],
   "record": GlideRecord,
@@ -4367,7 +4400,8 @@ Object
 
 </td><td>
 
-Key-value pairs to update the decision table record.```
+Key-value pairs to update the decision table record.
+```
 {
   "accessibleFrom": "String",
   "name": "String"
@@ -4416,7 +4450,8 @@ Object
 
 </td><td>
 
-Information about the status of the API request.```
+Information about the status of the API request.
+```
 {
   "errors": [Array],
   "record": GlideRecord,
@@ -4671,7 +4706,8 @@ Object
 
 </td><td>
 
-Information about the status of the API request.```
+Information about the status of the API request.
+```
 {
   "errors": [Array],
   "record": GlideRecord,
@@ -4799,7 +4835,8 @@ Object
 
 </td><td>
 
-Key-value pairs to update the question record.```
+Key-value pairs to update the question record.
+```
 {
   "active": Boolean,
   "answer": [Array],
@@ -4940,7 +4977,8 @@ Object
 
 </td><td>
 
-Information about the status of the API request.```
+Information about the status of the API request.
+```
 {
   "errors": [Array],
   "record": GlideRecord,

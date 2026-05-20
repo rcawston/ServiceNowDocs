@@ -122,7 +122,8 @@ Define conditions to filter the workload. **Note:** Applies only if territory pl
 
 </td><td>
 
-Example: Reserve capacity for Install tasks: ```
+Example: Reserve capacity for Install tasks:
+```
 [Work Type] [is] [Install] AND [Active]
       [is] [true]
 ```

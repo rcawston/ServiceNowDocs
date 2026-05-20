@@ -81,7 +81,8 @@ Simple Transform with Grouping
 
 </td><td>
 
-Uses the transformer API to display a group of time-series metrics, the average altitude of the fleet of the drones: ```
+Uses the transformer API to display a group of time-series metrics, the average altitude of the fleet of the drones:
+```
 transformer.groupBy("fleet").metric("mb_demo_mt_altitude").
       avg().label('avg - %g:fleet:')
 ```
@@ -102,7 +103,8 @@ Linear Model
 
 </td><td>
 
-Creates a line to summarize the current data and predict future values. This example, about the remaining charge in drone batteries, graphs both the trained model values and the average of the values.```
+Creates a line to summarize the current data and predict future values. This example, about the remaining charge in drone batteries, graphs both the trained model values and the average of the values.
+```
 var builder = new sn_clotho.Transformer(drones);
 var fit = builder.metric("mb_demo_nt_rem_battery").resample(100).
           fit({model:"linear"}).label("Fitted");
@@ -117,7 +119,8 @@ Seasonal Trend Decomposition Model
 
 </td><td>
 
-Uses a seasonal trend model so that data can be subtracted to reveal non-seasonal trends. This model is similar in purpose to the Holt Winters model but arrives at the result using different algorithms.```
+Uses a seasonal trend model so that data can be subtracted to reveal non-seasonal trends. This model is similar in purpose to the Holt Winters model but arrives at the result using different algorithms.
+```
 var builder = new sn_clotho.Transformer(drones);
 var metric = "nb_demo_mt_rem_battery";
 var fit = builder.metric(metric).fit({model:"STL",periodicity:"PT2H", 
@@ -148,7 +151,8 @@ Deviation Model
 
 </td><td>
 
-Uses chisquare model to show the differences between the real data and the model's prediction. ```
+Uses chisquare model to show the differences between the real data and the model's prediction.
+```
 var metric = "nb_demo_mt_rem_battery";
 builder.metric(metric).deviation(model, "chiSquare");
 ```

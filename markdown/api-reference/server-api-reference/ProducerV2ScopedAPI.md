@@ -98,7 +98,8 @@ Object
 
 </td><td>
 
-Headers for the message, defined as key-value pairs. ```
+Headers for the message, defined as key-value pairs.
+```
 "headers": {
   "<key>": "<value>"
 }

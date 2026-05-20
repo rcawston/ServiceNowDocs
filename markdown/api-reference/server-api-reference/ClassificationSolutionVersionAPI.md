@@ -58,7 +58,8 @@ Object
 
 </td><td>
 
-Selects a metric to retrieve within a span of dates. For more information, see [Configuring target metrics](../../intelligent-experiences/predictive-intelligence/configuring-target-metrics-trained-classification-solution.md).```
+Selects a metric to retrieve within a span of dates. For more information, see [Configuring target metrics](../../intelligent-experiences/predictive-intelligence/configuring-target-metrics-trained-classification-solution.md).
+```
 {
   "fromDate": "String",
   "metricName": "String",
@@ -120,7 +121,8 @@ Object
 
 </td><td>
 
-Parseable JavaScript object containing the results for the input metric.```
+Parseable JavaScript object containing the results for the input metric.
+```
 {
   "metricName" : "String",
   "metricValue" : "String",
@@ -194,7 +196,8 @@ Object
 
 </td><td>
 
-Returns prediction settings for each class. Data includes precision, coverage, recall, and distribution values of all classes included in the trained model from the ML Solutions \[ml\_solution\] table. For details, see [Predictive model components](../../intelligent-experiences/predictive-intelligence/predictive-intelligence.md).```
+Returns prediction settings for each class. Data includes precision, coverage, recall, and distribution values of all classes included in the trained model from the ML Solutions \[ml\_solution\] table. For details, see [Predictive model components](../../intelligent-experiences/predictive-intelligence/predictive-intelligence.md).
+```
 {
   "<class name>": {Object}
 }
@@ -298,7 +301,8 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [ClassificationSolution](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#) version details. Results vary by object property setup.```
+Contents of the Dataset and [ClassificationSolution](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#) version details. Results vary by object property setup.
+```
 {
   "algorithmConfig": {
     "algorithm": "String",
@@ -478,7 +482,8 @@ Flag that indicates whether this version is active.Valid values:
 
 </td><td>
 
-Identifies the prediction task. ```
+Identifies the prediction task.
+```
 {
   "label": "my first prediction"
 }
@@ -639,7 +644,8 @@ Object
 
 </td><td>
 
-JavaScript object containing training status information for a [ClassificationSolution](ClassificationSolutionAPI.md#) object.```
+JavaScript object containing training status information for a [ClassificationSolution](ClassificationSolutionAPI.md#) object.
+```
 {
   "state": "String",
   "percentComplete": "Number as a String",
@@ -766,7 +772,8 @@ Object
 
 </td><td>
 
-JavaScript object with statistics for each class included in training and values for each class that was excluded from training. For details, see [Predictive model components](../../intelligent-experiences/predictive-intelligence/predictive-intelligence.md).```
+JavaScript object with statistics for each class included in training and values for each class that was excluded from training. For details, see [Predictive model components](../../intelligent-experiences/predictive-intelligence/predictive-intelligence.md).
+```
 {
   "includedClasses": {Object},
   "excludedClasses": {Object}
@@ -1011,7 +1018,8 @@ Object
 
 </td><td>
 
-Optional values for filtering prediction results.```
+Optional values for filtering prediction results.
+```
 {
   "apply_threshold": Boolean,
   "top_n": Number
@@ -1062,7 +1070,8 @@ Object
 
 </td><td>
 
-JSON object containing the prediction results sorted by sys\_id or record\_number. ```
+JSON object containing the prediction results sorted by sys\_id or record\_number.
+```
 {
     <identifier>: [Array]
 }
@@ -1257,7 +1266,8 @@ Object
 
 </td><td>
 
-Metric configuration values. For information about these features, see [Configuring target metrics](../../intelligent-experiences/predictive-intelligence/configuring-target-metrics-trained-classification-solution.md).```
+Metric configuration values. For information about these features, see [Configuring target metrics](../../intelligent-experiences/predictive-intelligence/configuring-target-metrics-trained-classification-solution.md).
+```
 {  	 
    "metricName" : "String",
    "metricValue" : "String",

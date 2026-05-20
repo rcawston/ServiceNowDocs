@@ -1557,7 +1557,8 @@ Flag that indicates whether the user's roles permit deleting of records in this 
 -   false: Deleting is not permitted
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var att = new GlideRecord('sys_attachment');
 att.get('$[sys_attachment.sys_id]');
 var sm = GlideSecurityManager.get();

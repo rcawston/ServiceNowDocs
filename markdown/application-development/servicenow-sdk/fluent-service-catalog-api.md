@@ -241,7 +241,8 @@ Object
 
 </td><td>
 
-The variable definitions for the item that provide options for requesting it. Each variable type has a specific function. For example:```javascript
+The variable definitions for the item that provide options for requesting it. Each variable type has a specific function. For example:
+```javascript
 variables: {
     laptopType: SelectBoxVariable({
       question: "Laptop Type",
@@ -939,7 +940,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { CatalogItem } from "@servicenow/sdk/core";
 
 export const softwareLicenseRequest = CatalogItem({
@@ -1223,7 +1225,8 @@ Object
 
 </td><td>
 
-The variable definitions for the item that provide options for requesting it. Each variable type has a specific function. For example:```javascript
+The variable definitions for the item that provide options for requesting it. Each variable type has a specific function. For example:
+```javascript
 variables: {
     laptopType: SelectBoxVariable({
       question: "Laptop Type",
@@ -1645,7 +1648,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { CatalogItemRecordProducer } from "@servicenow/sdk/core";
 
 const serviceCatalog = "e0d08b13c3330100c8b837659bba8fb4";
@@ -1863,7 +1867,8 @@ String
 
 </td><td>
 
-The encoded query conditions based on catalog item variable values that trigger the UI policy. For example:```javascript
+The encoded query conditions based on catalog item variable values that trigger the UI policy. For example:
+```javascript
 catalogCondition: `${catalogItem.variables.singleLineText}=catalogitem^${catalogItem.variables.reference}ISNOTEMPTY^EQ`
 ```
 
@@ -2017,7 +2022,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { CatalogUiPolicy } from "@servicenow/sdk/core";
 import { hardwareRequestItem } from "./catalog-items/HardwareRequest.now";
 
@@ -2194,7 +2200,8 @@ Boolean
 Flag that indicates whether to make the variable read only.Default: false
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 actions: [
     {
       variableName: laptopRequest.variables.justification,
@@ -2481,7 +2488,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { CatalogClientScript } from "@servicenow/sdk/core";
 import { laptopRequest } from "../catalog-items/laptop-request.now";
 
@@ -2698,7 +2706,8 @@ Object
 
 </td><td>
 
-The variable definitions for the item that provide options for requesting it. Each variable type has a specific function. For example:```javascript
+The variable definitions for the item that provide options for requesting it. Each variable type has a specific function. For example:
+```javascript
 variables: {
     laptopType: SelectBoxVariable({
       question: "Laptop Type",
@@ -2767,7 +2776,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import {
   VariableSet,
   EmailVariable,

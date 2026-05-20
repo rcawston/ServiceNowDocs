@@ -66,11 +66,13 @@ ciList
 
 </td><td>
 
-One or more Configuration Items \(CI\)s to perform the desired action against in the following format: ```
+One or more Configuration Items \(CI\)s to perform the desired action against in the following format:
+```
 ["sysId", "sysId"]
 ```
 
-or ```
+or
+```
 "sysId"
 ```
 

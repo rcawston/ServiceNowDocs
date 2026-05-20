@@ -95,7 +95,8 @@ GUIDANCE\_ACTION\_CLICKED
 
 </td><td>
 
-The action that is selected. This event passes the action selected to the payload.```
+The action that is selected. This event passes the action selected to the payload.
+```
 api.emit( 
   ‘GUIDANCE_ACTION_CLICKED’,{ 
         model: {
@@ -115,7 +116,8 @@ SKIP\_GUIDANCE
 
 </td><td>
 
-Skips the guidance.```
+Skips the guidance.
+```
 api.emit(
    ‘SKIP_GUIDANCE’
 );
@@ -128,7 +130,8 @@ GUIDANCE\_MESSAGE\_PUBLISHED
 
 </td><td>
 
-Passes data to an upstream application.```
+Passes data to an upstream application.
+```
 api.emit( 
   ‘SN_GUIDANCE_EXPERIENCE_CONNECTED#GUIDANCE_MESSAGE_PUBLISHED’,
     { 
@@ -145,7 +148,8 @@ GUIDANCE\_MARK\_COMPLETE
 
 </td><td>
 
-Marks a custom guidance as completed.```
+Marks a custom guidance as completed.
+```
 api.emit(
   'GUIDANCE_MARK_COMPLETE'
 );
@@ -157,7 +161,8 @@ GO\_BACK\_GUIDANCE
 
 </td><td>
 
-Goes back to the previous node in a decision tree.```
+Goes back to the previous node in a decision tree.
+```
 api.emit(
    ‘GO_BACK_GUIDANCE’
 );
@@ -170,7 +175,8 @@ ACTION\_TRIGGERED\_PROPAGATION
 
 </td><td>
 
-Enables you to add UI specific behavior for guidance actions. This event propagates the payload details to the parent where this event can be handled.```
+Enables you to add UI specific behavior for guidance actions. This event propagates the payload details to the parent where this event can be handled.
+```
 api.emit(
     ‘SN_NEXT_BEST_ACTION_LIST_CONNECTED #ACTION_TRIGGERED‘, {
    "actionSysId":api.context.props.guidanceId,

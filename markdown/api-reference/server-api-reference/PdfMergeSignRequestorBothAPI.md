@@ -112,7 +112,8 @@ Object
 
 </td><td>
 
-Object containing the size of each page if successful, error message otherwise. ```
+Object containing the size of each page if successful, error message otherwise.
+```
 {
   "attachment_id": "String",
   "message": "String",

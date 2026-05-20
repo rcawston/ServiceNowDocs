@@ -118,7 +118,8 @@ header.lineItems
 
 </td><td>
 
-Required. Array of line-item objects detailing products, quantities, and pricing info.```
+Required. Array of line-item objects detailing products, quantities, and pricing info.
+```
 {
     "lineItems": [
         {
@@ -2790,7 +2791,7 @@ The following result shows that the request status is successful.
 
 This example demonstrates how to update an active product configuration session by changing a user-selectable option \(characteristic\). This is a common action in a product configurator, such as changing a color, size, or feature.
 
-Prerequisite: You need to include the `pricing_context_id` that is returned when initiating a [product configuration session](sales_crm_pricing-POST-compute-price.md#example_zbg_2jt_ygc). This tells the pricing engine which session to update.
+Prerequisite: You need to include the `pricing_context_id` that is returned when initiating a [product configuration session](sales_crm_pricing-POST-compute-price.md#initiate-a-product-configuration-session). This tells the pricing engine which session to update.
 
 Note: The lineItems array only needs to contain the specific item that is being modified, it is not necessary to send the entire product hierarchy again.
 

@@ -1041,7 +1041,8 @@ transcript
 
 </td><td>
 
-List of messages to attach to the specified voice interaction.```
+List of messages to attach to the specified voice interaction.
+```
 "transcript":[
   {
     "attributes": [Array],

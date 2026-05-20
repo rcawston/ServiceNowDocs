@@ -66,7 +66,8 @@ String
 Field that is used to determine the X axis values.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var summarySet = new SummaryTableWriter('incident', 'category');
 summarySet.generate();
 ```

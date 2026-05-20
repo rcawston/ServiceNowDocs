@@ -58,7 +58,8 @@ Object
 
 </td><td>
 
-JavaScript object containing the dataset definition properties.```
+JavaScript object containing the dataset definition properties.
+```
 {
   "encodedQuery": "String",
   "fieldDetails": [Array],
@@ -218,7 +219,8 @@ Object
 
 </td><td>
 
-Object containing eligible input field names and eligible output field names.```
+Object containing eligible input field names and eligible output field names.
+```
 {	 
   "eligibleInputFieldNames" : [Array],
   "eligibleOutputFieldNames" : [Array] 

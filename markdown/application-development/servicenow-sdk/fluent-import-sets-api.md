@@ -253,7 +253,8 @@ Array
 A list of transform scripts for additional processing. For more information, see [scripts array](fluent-import-sets-api.md#).
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import '@servicenow/sdk/global'
 import { Table, Record, ImportSet } from '@servicenow/sdk/core'
 
@@ -470,7 +471,8 @@ Flag that indicates whether to match an empty source field value to an empty tar
 Default: false
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 fields: {
         email: {
             sourceField: 'email_address',
@@ -570,7 +572,8 @@ A script that modifies the transformation behavior at the stage specified with t
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 scripts: [
         {
             $id: Now.ID['validate-email'],

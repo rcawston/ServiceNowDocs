@@ -349,7 +349,8 @@ Array of hashmap
 
 </td><td>
 
-Capability values used to select the MID Server. For more information, see [MID Server capabilities](../../../product/mid-server/reference/r_MIDServerCapabilities.md). Use this example to customize the MID Server selection if there are additional capabilities that are assigned by value:```
+Capability values used to select the MID Server. For more information, see [MID Server capabilities](../../../product/mid-server/reference/r_MIDServerCapabilities.md). Use this example to customize the MID Server selection if there are additional capabilities that are assigned by value:
+```
 var valueCapability = {'NEW_MID_CAPABIILTY':'NEW_MID_CAPABILITY_VALUE'}; executionParam.valueCapabilities.push(valueCapability);
 ```
 

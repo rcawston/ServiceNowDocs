@@ -53,7 +53,8 @@ Rating
 
 </td><td>
 
-Rating is used on scorecards and decision matrixes. Rating is updated dynamically as users complete assessments. Rating is calculated as:```
+Rating is used on scorecards and decision matrixes. Rating is updated dynamically as users complete assessments. Rating is calculated as:
+```
 (Sum of all normalized values that share a particular assessment group, category, and assessable record) / (Number of assessment instances for the assessment group)
 ```
 

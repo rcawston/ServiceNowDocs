@@ -39,12 +39,14 @@ Role required: sn\_pp\_dlp.api\_integration\_user
 
 9.  Add the following headers to the webhook:
 
-    -   ```
+    -
+```
 Name: Authorization 
 Value: Basic <Base64Encoded Username and Password of the ServiceNow instance user>
 ```
 
-    -   ```
+    -
+```
 Name: Content-Type 
 Value: application/json
 ```

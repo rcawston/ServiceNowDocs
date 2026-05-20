@@ -541,7 +541,8 @@ Results of the conference action.`<action>.status`: Status of the conference act
 -   Data type: Array of Strings
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 (function (confId) {
 	var confUtils = new NotifyConferenceUtils();
 	var data = confUtils.getConferenceInputDataTemplate();
@@ -754,7 +755,8 @@ Actions for which this parameter is valid:
 -   start
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 (function (confId) {
 	var confUtils = new NotifyConferenceUtils();
 	var data = confUtils.getConferenceInputDataTemplate();
@@ -1077,7 +1079,8 @@ Flag that indicates whether the telephony service provider supports the specifie
 -   false: action is not supported by the service provider
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 (function () {
   var confUtils = new NotifyConferenceUtils();
   var providerToCapability = confUtils.getServiceProvidersCapabilites();
@@ -1306,7 +1309,8 @@ Results of the conference action.`<action>.status`: Status of the conference act
 -   Data type: Array of Strings
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 (function () {
     var confUtils = new NotifyConferenceUtils();
     var participantGR = new GlideRecord('notify_participant');

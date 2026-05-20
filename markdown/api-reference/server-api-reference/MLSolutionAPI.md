@@ -70,7 +70,8 @@ Flag that indicates whether the prediction was applied:
 -   false: Prediction rejected
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var mlSolution = sn_ml.MLSolutionFactory.getSolution("ml_incident_categorization");
 
 var inputGR = new GlideRecord("incident");
@@ -108,7 +109,8 @@ Type of trained solution.Possible values:
 -   Clustering
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var mlSolution = sn_ml.MLSolutionFactory.getSolution("ml_x_global_clustering");
 
 // configure optional parameters
@@ -209,7 +211,8 @@ JSON array containing cluster information in increasing order by cluster\_id:-  
 -   group\_by: If grouped, name of the segmentation field associated with this cluster.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var mlSolution = sn_ml.MLSolutionFactory.getSolution("ml_x_global_clustering");
 
 // configure optional parameters
@@ -325,7 +328,8 @@ JSON array containing cluster information in increasing order by cluster\_id:-  
 -   cluster\_concept: String. Set of words that describe the cluster in descending order of frequency.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var mlSolution = sn_ml.MLSolutionFactory.getSolution("ml_x_global_clustering");
 
 // configure optional parameters
@@ -388,7 +392,8 @@ Flag that indicates whether the solution is active.-   true: Solution active
 -   false: Solution inactive
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var mlSolution = sn_ml.MLSolutionFactory.getSolution("solution_name");
 
 var isActive = mlSolution.isActive();
@@ -459,7 +464,8 @@ JSON object containing the prediction results sorted by sys\_id or record\_numbe
 -   threshold: Number. Value of the configured threshold associated with the prediction.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var mlSolution = sn_ml.MLSolutionFactory.getSolution("ml_incident_categorization");
 
 // single GlideRecord input

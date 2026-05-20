@@ -87,7 +87,8 @@ Multi choice facets object. Returns an error when:
 -   A label or ID is not defined.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 function createMultiChoiceFacetFromKB(label, variable, values, orderBy){
   if(!values || values.length == 0)
     return;

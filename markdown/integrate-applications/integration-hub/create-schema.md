@@ -75,7 +75,8 @@ Columns
 
 </td><td>
 
-Columns of the schema as a JSON array. For each column, specify column name and data type. For example, ```
+Columns of the schema as a JSON array. For each column, specify column name and data type. For example,
+```
 [
     {
         "name" : "Number",

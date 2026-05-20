@@ -79,7 +79,8 @@ variables
 
 </td><td>
 
-Variables to substitute into the SOAP **Envelope** defined in the SOAP Message Function record. Use this format for the string: ```
+Variables to substitute into the SOAP **Envelope** defined in the SOAP Message Function record. Use this format for the string:
+```
 name1=value1, name2=value2, . . .
 ```
 

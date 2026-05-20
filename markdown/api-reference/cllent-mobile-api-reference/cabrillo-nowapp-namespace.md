@@ -47,7 +47,8 @@ Flag that indicates whether the method is available on the native side.
 -   false: the method is not available on the native side.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 const launcherScreenId = 'a9e30c7dc61122760116894de7bcc7bd'; 
 const result = cabrillo.nowapp.openLauncherScreen(launcherScreenId); 
 If (result === false) {  
@@ -91,7 +92,8 @@ Flag that indicates whether the method is available on the native side.
 -   false: the method is not available on the native side.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 const screenId = 'a9e30c7dc61122760116894de7bcc7bd'; 
 cabrillo.nowapp.openScreen(screenId); 
 If (result === false) {  
@@ -137,7 +139,8 @@ Flag that indicates whether the method is available on the native side.
 -   false: the method is not available on the native side.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 const screenId = 'a9e30c7dc61122760116894de7bcc7bd'; 
 const recordId= '8e99daa3ff133100ba13757574847f2d'; 
 const table= 'sys_users'; 
@@ -238,7 +241,8 @@ Flag that indicates whether the method is available on the native side.
 -   false: the method is not available on the native side.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 const functionId= 'a9e30c7dc61122760116894de7bcc7bd'; 
 const recordId= '8e99daa3ff133100ba13757574847f2d'; 
 const table= 'sys_users'; 
@@ -284,7 +288,8 @@ Flag that indicates whether the method is available on the native side.
 -   false: the method is not available on the native side.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 const result = cabrillo.nowapp.refresh(); 
 If (result === false) {  
     console.log("method is not available")  

@@ -172,7 +172,8 @@ Object
 
 </td><td>
 
-JSON object indicating test progress.```
+JSON object indicating test progress.
+```
 {
   "progress": Number,
   "state": "String"

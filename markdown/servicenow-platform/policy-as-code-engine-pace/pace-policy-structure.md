@@ -90,7 +90,8 @@ The `documentRecord` is used to map the policy to the relevant object \(table an
 		}
 ```
 
-This example shows how the documentRecord can be used in a policy script:```
+This example shows how the documentRecord can be used in a policy script:
+```
 (function(logger, currentRecord, documentRecord, apiVars, configParams, recordRefs, dataCollectors, childrenOutputs, output) 
 {
 //assuming that associated document has state field

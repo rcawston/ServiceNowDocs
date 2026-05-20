@@ -69,7 +69,8 @@ ObjectData
 
 </td><td>
 
-A JSON object containing Active Directory property names and their corresponding values. For example:```
+A JSON object containing Active Directory property names and their corresponding values. For example:
+```
 { 
   "givenName" : "John",
   "SN" : "Doe",

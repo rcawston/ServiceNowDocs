@@ -299,7 +299,8 @@ Credential ID
 
 </td><td>
 
-Enter the unique key configured for external credentials in the JAR file uploaded to the MID Server for an external credential system. This is the ID passed to the Java class in the parameter map:```
+Enter the unique key configured for external credentials in the JAR file uploaded to the MID Server for an external credential system. This is the ID passed to the Java class in the parameter map:
+```
 public static final String ARG_ID   = "id";
 ```
 

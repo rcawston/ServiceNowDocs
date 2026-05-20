@@ -54,7 +54,8 @@ false
 
 </td><td>
 
-When false, GlideEncrypter calls return `null`, and administrators see this error:```
+When false, GlideEncrypter calls return `null`, and administrators see this error:
+```
 Unsupported call to GlideEncrypter. Details: GlideEncrypter is deprecated and now returns null, please refer [KB1320986](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1320986)
 ```
 

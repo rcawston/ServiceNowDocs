@@ -42,7 +42,8 @@ Role required: admin
 
 4.  In the **Script** field, copy paste the below mentioned script.
 
-5.  ```
+5.
+```
 updatePOInvoicedAmounts();
 
 function updatePOInvoicedAmounts() {

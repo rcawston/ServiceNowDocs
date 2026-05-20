@@ -348,7 +348,8 @@ String
 
 </td><td id="vto-json_string-start-entry">
 
-JSON string of the input parameters.```
+JSON string of the input parameters.
+```
 "<json_string>": {
   "agentId": "String",
   "callerPhoneNumber": "String",
@@ -501,7 +502,8 @@ JSON String
 
 </td><td>
 
-Optional. Parameters that contain additional information about the voice interactions.```
+Optional. Parameters that contain additional information about the voice interactions.
+```
 "<json_string>": {
   "recordingURL": "String"
 }
@@ -788,7 +790,8 @@ String
 
 </td><td id="vto-json_string-start-entry">
 
-JSON string of the input parameters.```
+JSON string of the input parameters.
+```
 "<json_string>": {
   "agentId": "String",
   "callerPhoneNumber": "String",

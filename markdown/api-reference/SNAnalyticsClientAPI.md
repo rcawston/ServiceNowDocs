@@ -310,7 +310,8 @@ ObjectEach element in this object can be a string, boolean, number, date, string
 
 </td><td>
 
-Object that contains the name-value pairs of the user properties to set, such as:```
+Object that contains the name-value pairs of the user properties to set, such as:
+```
 {
   level: 7,
   lastPurchase: new Date(),

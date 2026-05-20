@@ -124,7 +124,8 @@ Script written for the dynamic calculation of investment widget. This field is d
 -   demandClass: Demand class of Investment Portal board which is used during teamspaces value evaluation. It returns tsp1\_demand for Teamspace1 Portal Board.
 -   boardSysId: SysId of Investment Portal board. It provides access to more information on Investment Portal board when needed.
 
- **Sample scripted widget for project cost** ```
+ **Sample scripted widget for project cost**
+```
 totalProjectCost();
 
 function totalProjectCost() 

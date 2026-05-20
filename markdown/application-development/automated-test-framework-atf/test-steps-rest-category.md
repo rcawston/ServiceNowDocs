@@ -826,7 +826,8 @@ Element path
 
 </td><td id="atf-element-path">
 
-XML path to the element to be evaluated. For example, `/result/short_description` for```
+XML path to the element to be evaluated. For example, `/result/short_description` for
+```
 {
   "result": {
     "number": "INC0020001",
@@ -932,7 +933,8 @@ Element path
 
 </td><td id="atf-json-element-path">
 
-SNC path to the element to be evaluated. For example, `/result/short_description` for```
+SNC path to the element to be evaluated. For example, `/result/short_description` for
+```
 {
   "result": {
     "number": "INC0020001",

@@ -144,7 +144,8 @@ host
 Host address to use if you want your local development server to be accessible externally by others. Typically set to `0.0.0.0`
 
 </td></tr></tbody>
-</table>    ```
+</table>
+```
     $ snc ui-component develop --entry example/hello.js --open --port 3000
     ```
 
@@ -163,4 +164,3 @@ After developing the component and deploying it to your instance, add it to Virt
 
 
 [Create custom components using ServiceNow CLI](custom-components.md)
-

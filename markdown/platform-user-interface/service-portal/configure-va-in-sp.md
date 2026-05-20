@@ -177,7 +177,8 @@ Description
 
 Image to indicate that the chat window is closed. Use an image URL that contains:-   Your instance address
 -   The name of the Image \[db\_image\] record to reference
-For example, to reference the `tack-icon.png` image in the database, enter the following:```
+For example, to reference the `tack-icon.png` image in the database, enter the following:
+```
 $sp-agent-chat-btn-close: url("https://<instance-name>.service-now.com/tack-icon.png");
 ```
 
@@ -193,7 +194,8 @@ To use the default image, remove the variable.
 
 Image to indicate that the chat window is open. Use an image URL that contains:-   Your instance address
 -   The name of the Image \[db\_image\] record to reference
-For example, to reference the `book-icon.png` image in the database, enter the following:```
+For example, to reference the `book-icon.png` image in the database, enter the following:
+```
 $sp-agent-chat-btn-open: url("https://<instance-name>.service-now.com/book-icon.png");
 ```
 
@@ -207,7 +209,8 @@ To use the default image, remove the variable.
 
 </td><td>
 
-Button background color. Use a Hex code to set the color. For example, to use red, enter the following:```
+Button background color. Use a Hex code to set the color. For example, to use red, enter the following:
+```
 $sp-agent-chat-bg: #ff0000;
 ```
 

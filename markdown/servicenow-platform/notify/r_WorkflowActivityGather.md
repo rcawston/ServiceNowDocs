@@ -65,7 +65,8 @@ Script
 
 </td><td>
 
-Define the script to build the phone menu. The script must specify an **answer** variable as a JavaScript object with the following format:```
+Define the script to build the phone menu. The script must specify an **answer** variable as a JavaScript object with the following format:
+```
  answer = {
   “1": {
       “play”: “https://some_url.com/options/one.mp3“,

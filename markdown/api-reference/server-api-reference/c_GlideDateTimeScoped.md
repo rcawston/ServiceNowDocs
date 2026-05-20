@@ -409,7 +409,8 @@ Flag that indicates whether the GlideDateTime object's date and time is after th
 -   false: GlideDateTime object date and time is before or equal to the specified object's date and time.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var gdt1 = new GlideDateTime("2016-05-09 10:11:12");
 var gdt2 = new GlideDateTime("2017-06-12 15:11:12");
 gs.info(gdt1.after(gdt2)); 
@@ -449,7 +450,8 @@ Flag that indicates whether the GlideDateTime object's date and time is before t
 -   false: GlideDateTime object date and time is after or equal to the specified date and time.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var gdt1 = new GlideDateTime("2016-05-09 10:11:12");
 var gdt2 = new GlideDateTime("2017-06-12 15:11:12");
 gs.info(gdt1.before(gdt2));  
@@ -488,7 +490,8 @@ Number
 -   -1 = The object's date is before the date specified in the parameter
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var initDate = new GlideDateTime("2011-08-01 12:00:00");
 var compDate1 = new GlideDateTime("2011-08-01 12:00:00");
 var compDate2 = new GlideDateTime("2011-07-31 12:00:00");
@@ -800,7 +803,7 @@ gs.info('date: ' + gdt.getDisplayValue());
 gs.info('date: ' + gdt.getDisplayValueLang("full", "fr"));
 gs.info('date: ' + gdt.getDisplayValueLang("long", "en-GB"));
 gs.info('date: ' + gdt.getDisplayValueLang("medium", "de"));
-gs.info('date: ' + gdt.getDisplayValueLang("short", "es-MX"));```
+gs.info('date: ' + gdt.getDisplayValueLang("short", "es-MX"));
 ```
 
 Output:
@@ -1103,7 +1106,8 @@ String
 Date and time in the internal format and system time zone.Format: yyyy-MM-dd HH:mm:ss in the UTC time zone.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var gdt = new GlideDateTime("2014-08-31 08:00:00");
 gs.info(gdt.getValue());
 ```
@@ -1310,7 +1314,8 @@ Flag that indicates whether the GlideDateTime object's date and time is on or af
 -   false: GlideDateTime object date and time is before the specified object's date and time.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var gdt1 = new GlideDateTime("2016-05-09 10:11:12");
 var gdt2 = new GlideDateTime("2017-06-12 15:11:12");
 gs.info(gdt1.onOrAfter(gdt2));   
@@ -1350,7 +1355,8 @@ Flag that indicates whether the GlideDateTime object's date and time is on or be
 -   false: GlideDateTime object date and time is after the specified object's date and time.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var gdt1 = new GlideDateTime("2016-05-09 10:11:12");
 var gdt2 = new GlideDateTime("2017-06-12 15:11:12");
 gs.info(gdt1.onOrBefore(gdt2));   
@@ -1976,4 +1982,3 @@ Output:
 ```
 2011-08-31 08:00:00
 ```
-

@@ -73,7 +73,8 @@ Object
 
 </td><td>
 
-Result object containing what tasks can be added, skipped, or failed.```
+Result object containing what tasks can be added, skipped, or failed.
+```
 {
   "success": [
     "<task_id_1>",
@@ -163,7 +164,8 @@ Object
 
 </td><td>
 
-The template object with different options for creating the template. ```
+The template object with different options for creating the template.
+```
 {
   "allow_master_ci_null_update": Boolean,
   "allow_null_attribute_update": Boolean,
@@ -259,7 +261,8 @@ Array
 
 </td><td>
 
-Optional, unless the setting for **duplicate\_ci\_action** is `update`. Array of objects specifying how the duplicate CI values are updated.```
+Optional, unless the setting for **duplicate\_ci\_action** is `update`. Array of objects specifying how the duplicate CI values are updated.
+```
 [
   {
     "element": "String",
@@ -421,7 +424,8 @@ Array
 
 </td><td>
 
-Optional. List of related entries with an encoded query for each related entry. Each query is evaluated on the main CI that is selected for the task. If the query returns true, the related entries are merged during the remediation of a de-duplication task. If false, related entries aren’t merged.```
+Optional. List of related entries with an encoded query for each related entry. Each query is evaluated on the main CI that is selected for the task. If the query returns true, the related entries are merged during the remediation of a de-duplication task. If false, related entries aren’t merged.
+```
 "merge_related_items_condition": [
   {
     "related_entry": "String",
@@ -591,7 +595,8 @@ Object
 
 </td><td>
 
-The template object with different options for creating the template.```
+The template object with different options for creating the template.
+```
 {
   "allow_master_ci_null_update": Boolean,
   "allow_null_attribute_update": Boolean,
@@ -667,7 +672,8 @@ Data type: String
 
 </td><td>
 
-Array of objects specifying how the duplicate CI values are updated.```
+Array of objects specifying how the duplicate CI values are updated.
+```
 [
   {
     "element": "String",
@@ -914,7 +920,8 @@ Object
 
 </td><td>
 
-Preview object with values showing how the de-duplication tasks can be remediated using the template.```
+Preview object with values showing how the de-duplication tasks can be remediated using the template.
+```
 {
   "allClassCIMap": {Object},
   "duplicateCIAction": "String",
@@ -934,7 +941,8 @@ Preview object with values showing how the de-duplication tasks can be remediate
 
 </td><td>
 
-List of sys\_ids of the CIs within a de-duplication task, grouped by CI class. For example, **cmdb\_ci\_computer**.```
+List of sys\_ids of the CIs within a de-duplication task, grouped by CI class. For example, **cmdb\_ci\_computer**.
+```
 "allClassCIMap": {
   "<ci_class_name>": [
     "<ci_sys_id_1>",
@@ -964,7 +972,8 @@ Data type: String
 
 </td><td>
 
-Array of objects specifying how the duplicate CI values are updated.```
+Array of objects specifying how the duplicate CI values are updated.
+```
 [
   {
     "element": "String",
@@ -1052,7 +1061,8 @@ Data type: Array
 
 </td><td>
 
-Array of elements to be merged from duplicate CIs to the main CI.```
+Array of elements to be merged from duplicate CIs to the main CI.
+```
 "resolvedFieldCIMap": [
   {
     "element": "String",
@@ -1472,7 +1482,8 @@ Object
 
 </td><td>
 
-The template object with different options for creating the template. ```
+The template object with different options for creating the template.
+```
 {
   "allow_master_ci_null_update": Boolean,
   "allow_null_attribute_update": Boolean,
@@ -1568,7 +1579,8 @@ Array
 
 </td><td>
 
-Optional, unless the setting for **duplicate\_ci\_action** is `update`. Array of objects specifying how the duplicate CI values are updated.```
+Optional, unless the setting for **duplicate\_ci\_action** is `update`. Array of objects specifying how the duplicate CI values are updated.
+```
 [
   {
     "element": "String",
@@ -1730,7 +1742,8 @@ Array
 
 </td><td>
 
-Optional. List of related entries with an encoded query for each related entry. Each query is evaluated on the main CI that is selected for the task. If the query returns true, the related entries are merged during the remediation of a de-duplication task. If false, related entries aren’t merged.```
+Optional. List of related entries with an encoded query for each related entry. Each query is evaluated on the main CI that is selected for the task. If the query returns true, the related entries are merged during the remediation of a de-duplication task. If false, related entries aren’t merged.
+```
 "merge_related_items_condition": [
   {
     "related_entry": "String",

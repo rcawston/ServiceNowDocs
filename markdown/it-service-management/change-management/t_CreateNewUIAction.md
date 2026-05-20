@@ -89,7 +89,8 @@ Script
 
 </td><td>
 
-Update function, state name, and state value.```
+Update function, state name, and state value.
+```
 function moveToComplete(){
                   var ga = new GlideAjax("ChangeRequestStateHandlerAjax");         
                   ga.addParam("sysparm_name", "getStateValue");         

@@ -183,7 +183,8 @@ Description
 
 </td><td>
 
-Returned success object```
+Returned success object
+```
 {
     "status": "success",
     "lensResponse": "{\"short_description\":\"Service Degradation Error in Order Processing System\",\"description\":\"The Order Processing API v2.1 encountered a service degradation issue in the Production environment.\" }"
@@ -196,7 +197,8 @@ error
 
 </td><td>
 
-Returned error object```
+Returned error object
+```
 {
     "status": "error",
     "error": {

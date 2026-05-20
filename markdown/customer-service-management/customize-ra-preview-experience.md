@@ -130,7 +130,8 @@ ON\_SINGLE\_CLICK\_ACTION\_INITIATE
 
 </td><td>
 
-Initiates and completes the action when an agent selects the action button. This event passes the following parameters in the payload:```
+Initiates and completes the action when an agent selects the action button. This event passes the following parameters in the payload:
+```
 api.emit( 
     ‘ON_SINGLE_CLICK_ACTION_INITIATE‘, { 
         sysId: api.context.props.customExpProps.sysId, 
@@ -162,7 +163,8 @@ ON\_DRILL\_DOWN\_ACTION\_INITIATE
 
 </td><td>
 
-Expands the action and displays more actions or information after an agent selects the primary action button. This event passes the following parameters in the payload:```
+Expands the action and displays more actions or information after an agent selects the primary action button. This event passes the following parameters in the payload:
+```
 api.emit( 
           ‘ON_DRILL_DOWN_ACTION_INITIATE ‘, { 
           table: api.context.props.customExpProps.table,
@@ -190,7 +192,8 @@ DISMISS\_ACTION\_CLICK
 
 </td><td>
 
-Cancels the action.```
+Cancels the action.
+```
 api.emit( 
     ‘DISMISS_ACTION_CLICK‘, { 
          sysId: api.context.props.customExpProps.sysId
@@ -204,7 +207,8 @@ ACTION\_TRIGGERED\_PROPAGATION
 
 </td><td>
 
-Enables user to add UI-specific behavior for guidance actions. This event propagates the payload details to the parent where this event can be handled.```
+Enables user to add UI-specific behavior for guidance actions. This event propagates the payload details to the parent where this event can be handled.
+```
 api.emit(
     ‘SN_NEXT_BEST_ACTION_LIST_CONNECTED#ACTION_TRIGGERED_PROPAGATION' ‘, {
    "actionSysId": api.context.props.customExpProps.actionId
@@ -223,7 +227,8 @@ LOG\_SEARCH\_RESULT\_EVENT
 
 </td><td>
 
-Adds the search result logs to the Queued Signal Events \[sys\_signal\_event\_queue\] table.```
+Adds the search result logs to the Queued Signal Events \[sys\_signal\_event\_queue\] table.
+```
 api.emit(LOG_SEARCH_RESULT_EVENT, {actionData: {actionName: actionId}})
 ```
 

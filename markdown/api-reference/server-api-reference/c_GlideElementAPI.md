@@ -1218,7 +1218,8 @@ For the most recent entry, returns a string that contains the field label, times
  For all journal entries, returns the same information for all journal entries ever entered as a single string with each entry delimited by "\\n\\n".
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 //gets all journal entries as a string where each entry is delimited by '\n\n'
 var notes = current.work_notes.getJournalEntry(-1); 
 //stores each entry into an array of strings

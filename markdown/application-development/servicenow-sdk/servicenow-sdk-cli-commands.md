@@ -686,7 +686,8 @@ String
 
 </td><td>
 
-Adds the dependencies that you want to download to the application's `now.config.json` file. You must specify the type of dependencies to add using the table name and then the names or sys\_ids of each item to add, separated by spaces.```cmd
+Adds the dependencies that you want to download to the application's `now.config.json` file. You must specify the type of dependencies to add using the table name and then the names or sys\_ids of each item to add, separated by spaces.
+```cmd
 --add <table_name> <sys_id1> <sys_id2> <sys_id3>
 ```
 

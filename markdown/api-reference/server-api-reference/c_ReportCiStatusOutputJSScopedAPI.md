@@ -48,7 +48,8 @@ The three possible states returned by this method are:-   Processing: Discovery 
 -   NotSuccessful: A CI was not created or updated, and the Discovery status was Completed or Cancelled.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var ipResultObj = sn_discovery.DiscoveryAPI.reportCiIpAddressStatus(ipAddress, discoveryStatus);
 gs.info("ipResultObj(CiOperationStatus): " + ipResultObj.getCiOperationStatus());
 
@@ -102,7 +103,8 @@ The possible states returned by this method are:-   Starting
 -   Cancelled
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var ipResultObj = sn_discovery.DiscoveryAPI.reportCiIpAddressStatus(ipAddress, discoveryStatus);
 gs.info("ipResultObj(discoveryState): " + ipResultObj.getDiscoveryState());
 
@@ -167,7 +169,8 @@ string
 The issues\_link field from the discovery\_device\_history table.This value may be null or an anchor tag defining a hyperlink to a page that provides the list of issues associated with the Discovery Status and CI \(IP address\).
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var ipResultObj = sn_discovery.DiscoveryAPI.reportCiIpAddressStatus(ipAddress, discoveryStatus);
 gs.info("ipResultObj(issues_link): " + ipResultObj.getIssuesLink());
 ```

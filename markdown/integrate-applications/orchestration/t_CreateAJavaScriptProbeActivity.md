@@ -218,7 +218,8 @@ Array of JavaScript object
 
 </td><td>
 
-Array of JavaScript objects, expressed with the `executionParam.` prefix. To add more name-value pairs to the **parameters** array, append them to the existing array. Create a JavaScript object with the following syntax, and add it to the `executionParam.parameter` array. This assigns additional parameters to the message:```
+Array of JavaScript objects, expressed with the `executionParam.` prefix. To add more name-value pairs to the **parameters** array, append them to the existing array. Create a JavaScript object with the following syntax, and add it to the `executionParam.parameter` array. This assigns additional parameters to the message:
+```
 var newParameter = {"name":"parameterName","value":"parameterValue"};
 executionParam.parameters.push(newParameter);
 ```
@@ -237,7 +238,8 @@ Array of hashmap
 
 </td><td>
 
-Capability values used to select the MID Server. For more information, see [MID Server capabilities](../../servicenow-platform/mid-server/t_ConfigureCapabilities.md). If there are additional capabilities that are assigned by value, use this example to customize the MID Server selection:```
+Capability values used to select the MID Server. For more information, see [MID Server capabilities](../../servicenow-platform/mid-server/t_ConfigureCapabilities.md). If there are additional capabilities that are assigned by value, use this example to customize the MID Server selection:
+```
 var valueCapability = {'NEW_MID_CAPABIILTY':'NEW_MID_CAPABILITY_VALUE'};
 executionParam.valueCapabilities.push(valueCapability);
 ```

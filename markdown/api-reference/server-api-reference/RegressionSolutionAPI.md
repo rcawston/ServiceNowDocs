@@ -58,7 +58,8 @@ Object
 
 </td><td>
 
-JavaScript object containing configuration properties of thesolution.```
+JavaScript object containing configuration properties of thesolution.
+```
 {
   "algorithmConfig": {Object},
   "dataset": {Object},
@@ -445,7 +446,8 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [RegressionSolution\(\)](RegressionSolutionAPI.md#) object details in the [RegressionSolutionStore](../../RegressionSolutionStore/concept/RegressionSolutionStoreAPI.md#).```
+Contents of the Dataset and [RegressionSolution\(\)](RegressionSolutionAPI.md#) object details in the [RegressionSolutionStore](../../RegressionSolutionStore/concept/RegressionSolutionStoreAPI.md#).
+```
 {
   "datasetProperties": {Object},
   "domainName": "String",
@@ -503,7 +505,8 @@ List of field names from the specified table as strings. For example, `"fieldNam
 
 </td><td>
 
-List of JavaScript objects that specify field properties. ```
+List of JavaScript objects that specify field properties.
+```
 [
   {
     "name": "String",
@@ -568,7 +571,8 @@ List of input field names as strings. The model uses these fields used to make p
 
 </td><td>
 
-Identifies the prediction task. ```
+Identifies the prediction task.
+```
 {
   "label": "my first prediction"
 }

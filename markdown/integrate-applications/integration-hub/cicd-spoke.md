@@ -89,7 +89,8 @@ Batch Install
 
 </td><td>
 
-Given a Batch Plan in JSON format, install multiple packages \(applications, customizations to store applications, and plugins\) together in a single batch operation. Example JSON:```
+Given a Batch Plan in JSON format, install multiple packages \(applications, customizations to store applications, and plugins\) together in a single batch operation. Example JSON:
+```
 {
   "applications": [
     {

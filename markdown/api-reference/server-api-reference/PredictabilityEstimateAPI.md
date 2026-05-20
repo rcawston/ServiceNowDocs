@@ -59,7 +59,8 @@ Object
 
 </td><td>
 
-JavaScript object containing configuration properties of thepredictability estimate.```
+JavaScript object containing configuration properties of thepredictability estimate.
+```
 {
   "dataset": {Object},
   "domainName": "String",
@@ -361,7 +362,8 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [PredictabilityEstimate\(\)](PredictabilityEstimateAPI.md#) object details in the [PredictabilityEstimateStore](../../PredictabilityEstimateStore/concept/PredictabilityEstimateStoreAPI.md#).```
+Contents of the Dataset and [PredictabilityEstimate\(\)](PredictabilityEstimateAPI.md#) object details in the [PredictabilityEstimateStore](../../PredictabilityEstimateStore/concept/PredictabilityEstimateStoreAPI.md#).
+```
 {
   "datasetProperties": {Object},
   "domainName": "String",
@@ -413,7 +415,8 @@ List of field names from the specified table as strings. For example, `"fieldNam
 
 </td><td>
 
-List of JavaScript objects that specify field properties. ```
+List of JavaScript objects that specify field properties.
+```
 [
   {
     "name": "String",
@@ -470,7 +473,8 @@ List of candidate input fields as strings to be considered for estimation.Data t
 
 </td><td>
 
-Identifies the prediction task. ```
+Identifies the prediction task.
+```
 {
   "label": "my first prediction"
 }

@@ -98,7 +98,8 @@ Blue
 
 </td><td>
 
-Created by the customer. The top element of the UI macro should have the following attribute:```
+Created by the customer. The top element of the UI macro should have the following attribute:
+```
 data-sn-macro-sys-id="${jvar_macro_sys_id}"
 ```
 

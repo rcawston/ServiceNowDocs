@@ -147,7 +147,8 @@ String
 Optional. Origin of the request. Usually the name of the computer telephony integrator provider. Default: null
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var request = new sn_cti_core.CTIOperationRequest('AWS Connect');
 request.setSessionAttribute('contact.phone', '+15552222345');
 request.setSessionAttribute('contact.okToCall', true);
@@ -337,7 +338,8 @@ String
 The sys\_id of the interaction record set on the current CTIOperationRequest object.If the sys\_id was not set on the associated CTIOperationRequest object, the method returns null.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 (function( /*CTIOperationRequest*/ request, /*CTIOperationResponse*/ response, ctx) {
   // Returns the sys_id of the interaction record associated with the CTIOperationRequest object.
   var interactionSysId = request.getInteractionSysId();
@@ -444,7 +446,8 @@ Number
 Major version number of the CTI software.If the major version was never set, returns `1`.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var request = new sn_cti_core.CTIOperationRequest('origin');
 var majorVersion = request.getMajorVersion();
 ```
@@ -478,7 +481,8 @@ Number
 Minor version number of the CTI software. If the minor version was never set, returns `0`.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var request = new sn_cti_core.CTIOperationRequest('origin');
 var minorVersion = request.getMinorVersion();
 ```
@@ -681,7 +685,8 @@ The behavior/handling to perform when an operation handler cannot be found for t
 -   OperationNotFoundBehaviours.RouteToOperation: Use the parent operation handler **&lt;operation\_name&gt;**.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var request = new sn_cti_core.CTIOperationRequest('origin');
 var behavior = request.getSubStepNotFoundBehaviour();
 ```

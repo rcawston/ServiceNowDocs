@@ -45,7 +45,8 @@ Script
 
 </td><td>
 
-A script that obtains a value from the instance, such as the current time on the instance. The script must obtain the value via the base-system API and return the value to the `answer` variable. For example, to obtain the current time on the instance, the script would be:```
+A script that obtains a value from the instance, such as the current time on the instance. The script must obtain the value via the base-system API and return the value to the `answer` variable. For example, to obtain the current time on the instance, the script would be:
+```
 answer = new GlideDateTime().getValue();
 ```
 

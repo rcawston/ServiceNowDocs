@@ -1153,7 +1153,8 @@ tags
 
 </td><td>
 
-List of objects containing tag definitions as key-value pairs.```
+List of objects containing tag definitions as key-value pairs.
+```
 "tags": [
  {
   "key": "String",

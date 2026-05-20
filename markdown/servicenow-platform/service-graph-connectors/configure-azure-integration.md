@@ -277,7 +277,8 @@ Connection URL
 
 </td><td>
 
-Base URL to connect to the Log Analytics workspace in the following format: ```
+Base URL to connect to the Log Analytics workspace in the following format:
+```
 https://api.loganalytics.io/v1/workspaces/<workspace_id>
 ```
 

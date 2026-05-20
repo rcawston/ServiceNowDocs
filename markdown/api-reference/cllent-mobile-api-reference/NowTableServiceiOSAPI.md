@@ -2635,7 +2635,8 @@ Thrown when a network service encountered an error.
 
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 private var tableService: NowTableService?
 // Paginator creation uses type inference to determine the response type.
 private var paginator: Paginator<[CustomerServiceCase]>?

@@ -69,7 +69,8 @@ Placeholder dimensions
 
 </td><td>
 
-Specify the height and width of the widget in each of the selected device types with the following code:```
+Specify the height and width of the widget in each of the selected device types with the following code:
+```
 
 {
   "mobile": {

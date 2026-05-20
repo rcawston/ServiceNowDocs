@@ -73,7 +73,8 @@ Depends on field type
 
 </td><td>
 
-Number → `5`; Text → `"Red"`; Multi-select → ```
+Number → `5`; Text → `"Red"`; Multi-select →
+```
 ["Option1",
               "Option2"]
 ```

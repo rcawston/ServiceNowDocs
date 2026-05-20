@@ -122,7 +122,8 @@ Script**Note:** Applies only if you select the Advanced condition mode.
 
 </td><td>
 
-If you select the **Advanced** condition mode, use the script editor to create or edit a JavaScript condition statement. When the end user selects the link, the component triggers a [Window: message event](https://developer.mozilla.org/en-US/docs/Web/API/Window/message_event). As a developer, if you see the [Window: message event](https://developer.mozilla.org/en-US/docs/Web/API/Window/message_event), you can decide how to handle the navigation. For example: ```
+If you select the **Advanced** condition mode, use the script editor to create or edit a JavaScript condition statement. When the end user selects the link, the component triggers a [Window: message event](https://developer.mozilla.org/en-US/docs/Web/API/Window/message_event). As a developer, if you see the [Window: message event](https://developer.mozilla.org/en-US/docs/Web/API/Window/message_event), you can decide how to handle the navigation. For example:
+```
 window.addEventListener('message', e => {
     if (e.data.type === 'SMART_LINK_CLICKED') {
     console.log(e.data);

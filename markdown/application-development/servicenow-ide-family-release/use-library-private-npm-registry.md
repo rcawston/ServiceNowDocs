@@ -87,7 +87,8 @@ Example
 
 </td><td>
 
-Provide a user name and password to access the default registry that you specified.```json
+Provide a user name and password to access the default registry that you specified.
+```json
 "package-manager.basicAuth": [
     {
         "registry": "<private-registry-url>",
@@ -104,7 +105,8 @@ Provide a user name and password to access the default registry that you specifi
 
 </td><td>
 
-Provide a legacy token to access the default registry that you specified. Legacy tokens are basic authentication credentials encoded in Base64 format.```json
+Provide a legacy token to access the default registry that you specified. Legacy tokens are basic authentication credentials encoded in Base64 format.
+```json
 "package-manager.legacyAuth": [
     {
         "registry": "<private-registry-url>",
@@ -120,7 +122,8 @@ Provide a legacy token to access the default registry that you specified. Legacy
 
 </td><td>
 
-Provide a bearer token to access the default registry that you specified.```json
+Provide a bearer token to access the default registry that you specified.
+```json
 "package-manager.tokenAuth": [
     {
         "registry": "<private-registry-url>",

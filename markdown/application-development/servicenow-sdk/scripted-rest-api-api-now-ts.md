@@ -220,7 +220,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { RestApi } from '@servicenow/sdk/core'
 import { process } from '../server/handler.js'
 
@@ -561,7 +562,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 routes: [
    {
       $id: Now.ID['route1'],
@@ -682,7 +684,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 parameters: [{ $id: Now.ID['param1'],  name: 'n_param' }],
 headers: [{ $id: Now.ID['header1'],  name: 'n_token' }],
 ```
@@ -816,7 +819,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 versions: [
  {
    $id: Now.ID['v1'],

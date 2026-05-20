@@ -596,7 +596,8 @@ Number
 -   -1 = The object's date is before the date specified in the parameter
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var initDate = new GlideDateTime("2011-08-01 12:00:00");
 var compDate1 = new GlideDateTime("2011-08-01 12:00:00");
 var compDate2 = new GlideDateTime("2011-07-31 12:00:00");
@@ -671,7 +672,8 @@ String
 Date in the system time zone.Format: yyyy-MM-dd, and in the system time zone, UTC by default.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var gdt = new GlideDateTime("2011-08-31 08:00:00");
 gs.info(gdt.getDate());
 ```
@@ -977,7 +979,8 @@ Object
 The date and time values for the GlideDateTime object.Format: yyyy-MM-dd HH:mm:ss in the caller's time zone.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // The passed in date and time is converted to the caller's time zone.
 var gdt = new GlideDateTime("2011-08-31 08:00:00");
 gs.info(gdt.getDisplayValueInternal());
@@ -1120,7 +1123,7 @@ gs.info('date: ' + gdt.getDisplayValue());
 gs.info('date: ' + gdt.getDisplayValueLang("full", "fr"));
 gs.info('date: ' + gdt.getDisplayValueLang("long", "en-GB"));
 gs.info('date: ' + gdt.getDisplayValueLang("medium", "de"));
-gs.info('date: ' + gdt.getDisplayValueLang("short", "es-MX"));```
+gs.info('date: ' + gdt.getDisplayValueLang("short", "es-MX"));
 ```
 
 Output:
@@ -1592,7 +1595,8 @@ String
 Date and time in the internal format and system time zone.Format: yyyy-MM-dd HH:mm:ss in the UTC time zone.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var gdt = new GlideDateTime("2011-08-31 08:00:00");
 gs.info(gdt.getValue());
 ```
@@ -2663,4 +2667,3 @@ Output:
 ### Scoped equivalent
 
 To use the toString\(\) method in a scoped application, use the corresponding scoped method: [toString\(\)](c_GlideDateTimeScoped.md#).
-

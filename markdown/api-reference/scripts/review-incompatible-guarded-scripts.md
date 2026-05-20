@@ -93,7 +93,8 @@ After
 
 </th></tr></thead><tbody><tr><td>
 
-The Incompatible Guarded Scripts list includes the following script because it uses a variable and conditional logic:```javascript
+The Incompatible Guarded Scripts list includes the following script because it uses a variable and conditional logic:
+```javascript
 var priority = current.priority;
 if (priority == 1) {
     gs.beginningOfToday();
@@ -104,7 +105,8 @@ if (priority == 1) {
 
 </td><td>
 
-Move the complex logic from the original script to a script include:```javascript
+Move the complex logic from the original script to a script include:
+```javascript
 var MyDateHelper = Class.create();
 MyDateHelper.prototype = {
     initialize: function() {},

@@ -55,7 +55,8 @@ List Name
 
 </td><td>
 
-Enter a name for your list as it appears under **My Lists**. By default this field appends the following code to the list selected in the previous menu:```
+Enter a name for your list as it appears under **My Lists**. By default this field appends the following code to the list selected in the previous menu:
+```
 _Copy 
 ```
 

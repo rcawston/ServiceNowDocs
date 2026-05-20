@@ -115,7 +115,8 @@ Object
 
 </td><td>
 
-Optional. Additional settings for uploading files.```
+Optional. Additional settings for uploading files.
+```
 {
   "isSingleSelection": Boolean
 }

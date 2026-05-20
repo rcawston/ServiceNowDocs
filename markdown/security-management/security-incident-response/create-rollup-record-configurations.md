@@ -89,15 +89,18 @@ Rollup Script
 
 Input sourceSysId contains security case sys id and msiSysId contains major security incident sys id.![Rollup script](../image/rollup-script-step7.png)
 
- -   ```
+ -
+```
 Line 2: As a first step, query for Glide Record for sourceSysId from **Security Case\(sn\_ti\_case\)** table.
 ```
 
--   ```
+-
+```
 Line 7: Next, query **sn\_ti\_m2m\_task\_observable** table using security case sys ID to figure out all the linked observables to a security case.
 ```
 
--   ```
+-
+```
 Line 10: Next, iterate over all the linked observables and link them to a Major Security Incident using the method:
 ```
 

@@ -257,7 +257,8 @@ Array of outcome objects including:-   segmentation – Field name by which to g
 -   cluster\_quality – Cluster quality percentile value
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var solutionName = "solution_example";
 var solutionResult = new MLSolutionResult();
 var outcome_array = solutionResult.getClusterInfo(solutionName);

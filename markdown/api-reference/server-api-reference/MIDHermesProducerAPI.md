@@ -65,7 +65,8 @@ Object
 
 </td><td>
 
-Contains configuration parameters for the message.```
+Contains configuration parameters for the message.
+```
 {
    applicationId: "String",
    callbackFunction: function(),
@@ -98,7 +99,8 @@ Function
 
 </td><td>
 
-Optional. JavaScript function to execute if message delivery fails. The function accepts two parameters: String `errorMessage` and String `errorType` \(the fully qualified Java exception class name\).```
+Optional. JavaScript function to execute if message delivery fails. The function accepts two parameters: String `errorMessage` and String `errorType` \(the fully qualified Java exception class name\).
+```
 function(errorMessage, errorType) { 
    //implement error handling here
 };

@@ -58,7 +58,8 @@ Description
 
 </td><td>
 
-Call setValue\(\) in the GlideRecord API and send data to the dynamic attribute store field.For example:```javascript
+Call setValue\(\) in the GlideRecord API and send data to the dynamic attribute store field.For example:
+```javascript
 var gr = new GlideRecord(‘products’);
 gr.setValue(‘television_specs->screen_resolution', '2160p');
 gr.setValue('television_specs->screen_size', '75');

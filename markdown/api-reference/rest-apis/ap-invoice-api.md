@@ -659,7 +659,8 @@ error
 
 </td><td>
 
-Contains error message and details when the request fails.```
+Contains error message and details when the request fails.
+```
 {
   "detail": String,
   "message": String
@@ -2040,7 +2041,8 @@ error
 
 </td><td>
 
-Contains error message and details when the request fails.```
+Contains error message and details when the request fails.
+```
 {
   "detail": String,
   "message": String
@@ -3682,7 +3684,8 @@ error
 
 </td><td>
 
-Contains error message and details when the request fails.```
+Contains error message and details when the request fails.
+```
 {
   "detail": String,
   "message": String

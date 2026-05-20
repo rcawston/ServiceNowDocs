@@ -389,7 +389,8 @@ Object
 
 </td><td>
 
-Key-value pairs that identify the form URL to open. ```
+Key-value pairs that identify the form URL to open.
+```
 "details": {
   "entity": "String";
   "interaction_sys_id": "String";
@@ -478,7 +479,8 @@ Object
 
 </td><td>
 
-Defines if the API opens a ServiceNow form with a child tab if invoked in a workspace or opens an entity if invoked in the UI16 interface.```
+Defines if the API opens a ServiceNow form with a child tab if invoked in a workspace or opens an entity if invoked in the UI16 interface.
+```
 openFrameAPI.openServiceNowFormwithChildTab({
   entity: "String",
   sys_id: String", 	
@@ -700,7 +702,8 @@ Array of Objects
 
 </td><td>
 
-Context details about an active call. Each object represents an ongoing active call.```
+Context details about an active call. Each object represents an ongoing active call.
+```
 "activeCall": [
   { 
     "callbackContext": {Object},
@@ -726,7 +729,8 @@ Object
 
 </td><td>
 
-Only used if the **activeCall.type** property is `callback`. Callback context information for the ongoing callback component.```
+Only used if the **activeCall.type** property is `callback`. Callback context information for the ongoing callback component.
+```
 "callbackContext": {
   "callAttemptedByAgent": Boolean,
   "callbackNumbers": [Array],
@@ -811,7 +815,8 @@ Object
 
 </td><td>
 
-Required. Details about the current participant's call capabilities and call status.```
+Required. Details about the current participant's call capabilities and call status.
+```
 "currentParticipant": {
   "actor": "String",
   "callStartTime": "String",
@@ -1386,7 +1391,8 @@ Array of Objects
 
 </td><td>
 
-Required. List of the additional participants on the call. A participant can be an agent, a customer, an external person who is not an agent or a customer, or a queue.```
+Required. List of the additional participants on the call. A participant can be an agent, a customer, an external person who is not an agent or a customer, or a queue.
+```
 "participants": [
   {
     "actor": "String",
@@ -1460,7 +1466,8 @@ Object
 
 </td><td>
 
-Details about the type of capabilities that the participant has for the associated call.```
+Details about the type of capabilities that the participant has for the associated call.
+```
 "capabilities": {
   "endCall": Boolean,
   "hold": Boolean,
@@ -1716,7 +1723,8 @@ Object
 
 </td><td>
 
-Describes the idle state context of the agent. This context data determines the information that appears on the dial pad when an agent is waiting for a call and the capabilities they have through this dial pad.```
+Describes the idle state context of the agent. This context data determines the information that appears on the dial pad when an agent is waiting for a call and the capabilities they have through this dial pad.
+```
 idleState {
  "capability": {Object},
  "currentInboundId": "String",
@@ -1735,7 +1743,8 @@ Object
 
 </td><td>
 
-Description of the current user's idle state capabilities.```
+Description of the current user's idle state capabilities.
+```
 "capability": {
   "globalContactSearch": Boolean,
   "logOut": Boolean,
@@ -1818,7 +1827,8 @@ Object
 
 </td><td>
 
-Details about the information message to display on the user's dial pad, such as the currently selected queue.```
+Details about the information message to display on the user's dial pad, such as the currently selected queue.
+```
 "dialpadInfoMessage": {
    "label": "String",
    "value": "String"
@@ -1863,7 +1873,8 @@ Object
 
 </td><td>
 
-Details about the enable state of the buttons on the dial pad.```
+Details about the enable state of the buttons on the dial pad.
+```
 "enableState": {
    "logOut": Boolean,
    "outBoundCall": Boolean
@@ -1914,7 +1925,8 @@ Object
 
 </td><td>
 
-Details about the current participant's offer context for resiliency.```
+Details about the current participant's offer context for resiliency.
+```
 {
   "assignment": {Object},
   "creationTime": "String",
@@ -1944,7 +1956,8 @@ Object
 
 </td><td>
 
-Details about the agent assignment.```
+Details about the agent assignment.
+```
 "assignment": {
   "allowedToDecline": Boolean,
   "enableAutoAssign": Boolean,
@@ -2158,7 +2171,8 @@ Object
 
 </td><td>
 
-Details required for transfer assignments.```
+Details required for transfer assignments.
+```
 "transferContent": {
   "sourceQueueId": "String",
   "targetId": "String",
@@ -2247,7 +2261,8 @@ Array of Objects
 
 </td><td>
 
-Context details of the transfer related data for a ServiceNow table.```
+Context details of the transfer related data for a ServiceNow table.
+```
 "searchTargetList": [
   {
     "externalId": "String",
@@ -2319,7 +2334,8 @@ Array of Objects
 
 </td><td>
 
-Optional. Applies only to agent entries. A list of status descriptors displayed inline in the agent row for providing agent status information.```
+Optional. Applies only to agent entries. A list of status descriptors displayed inline in the agent row for providing agent status information.
+```
 "quickStats": [
   {
     "label": "String",
@@ -2364,7 +2380,8 @@ Array of Objects
 
 </td><td>
 
-Details about the agents, external users, and/or queues to whom the call can be transferred.```
+Details about the agents, external users, and/or queues to whom the call can be transferred.
+```
 "targets": [
   {
     "payload": {Object},
@@ -2460,7 +2477,8 @@ Array of Objects
 
 </td><td>
 
-Details about the payload for each type of target.```
+Details about the payload for each type of target.
+```
 "list": [
   {
     "hasStats": Boolean,
@@ -2511,7 +2529,8 @@ Array of Objects
 
 </td><td>
 
-Required if **searchTargetList.targets.payload.list.hasStats** is set to `"true"`. List of skills that the agent or queue has. This information appears in a pop-up window when the user selects the information icon at the end of the entities name.```
+Required if **searchTargetList.targets.payload.list.hasStats** is set to `"true"`. List of skills that the agent or queue has. This information appears in a pop-up window when the user selects the information icon at the end of the entities name.
+```
 "moreInfo": [
   {
     "label": "String",
@@ -2658,7 +2677,8 @@ Array of Strings
 
 </td><td>
 
-Optional. Specifies which tabs to display in the Phone Directory component based on the given interaction.```
+Optional. Specifies which tabs to display in the Phone Directory component based on the given interaction.
+```
 targetTypes: ["String", "String", "String"]
 ```
 
@@ -3470,7 +3490,8 @@ openframe\_awa\_agent\_presence
 
 </td><td>
 
-In AWA, the **openframe\_awa\_agent\_presence** event returns the `presence` object:```
+In AWA, the **openframe\_awa\_agent\_presence** event returns the `presence` object:
+```
 "presence":{
   "available": Boolean,
   "channels":[
@@ -3503,7 +3524,8 @@ openframe\_awa\_workitem\_accepted and openframe\_awa\_workitem\_offered
 
 </td><td>
 
-In AWA, the **openframe\_awa\_workitem\_accepted** and **openframe\_awa\_workitem\_offered** events return the `workItem` object:```
+In AWA, the **openframe\_awa\_workitem\_accepted** and **openframe\_awa\_workitem\_offered** events return the `workItem` object:
+```
 "workItem": {
   "document": {
     "sys_id": "String",
@@ -3541,7 +3563,8 @@ openframe\_awa\_workitem\_rejected
 
 </td><td>
 
-In AWA, the **openframe\_awa\_workitem\_rejected** event returns the `workItem` object:```
+In AWA, the **openframe\_awa\_workitem\_rejected** event returns the `workItem` object:
+```
 "workItem": {
   "document": {
     "sys_id": "String",
@@ -3587,7 +3610,8 @@ openframe\_heart\_beat
 
 </td><td>
 
-The **openframe\_heart\_beat** event returns the following object:```
+The **openframe\_heart\_beat** event returns the following object:
+```
 {
   "lastUiActivity": "String",
   "sessionLoggedIn": Boolean
@@ -3605,7 +3629,8 @@ openframe\_wrap\_up\_submitted
 
 </td><td>
 
-The **openframe\_wrap\_up\_submitted** event returns the following object:```
+The **openframe\_wrap\_up\_submitted** event returns the following object:
+```
 { 
   "wrapUp": {
     "external": Boolean,

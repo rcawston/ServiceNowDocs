@@ -210,7 +210,8 @@ Object
 
 </td><td>
 
-Object containing sys\_id of a new PDF attachment with inserted SVG if successful, error message otherwise.```
+Object containing sys\_id of a new PDF attachment with inserted SVG if successful, error message otherwise.
+```
 {
   "attachment_id": "String",
   "message": "String",
@@ -359,7 +360,8 @@ Object
 
 </td><td>
 
-Object containing sys\_id of the PDF attachment converted from SVG if successful, error message otherwise.```
+Object containing sys\_id of the PDF attachment converted from SVG if successful, error message otherwise.
+```
 {
   "attachment_id": "String",
   "message": "String",
@@ -532,7 +534,8 @@ Object
 
 </td><td>
 
-Object containing sys\_id of the PDF attachment converted from SVG if successful, error message otherwise.```
+Object containing sys\_id of the PDF attachment converted from SVG if successful, error message otherwise.
+```
 {
   "attachment_id": "String",
   "message": "String",

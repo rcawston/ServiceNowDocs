@@ -97,7 +97,8 @@ Name is Plan
 
 </td><td>
 
-Script:```
+Script:
+```
 current.release.product.service.assigned_to;
 ```
 

@@ -89,7 +89,8 @@ String
 
 </td><td>
 
-Deletes rows for clusters with `updated_since` values occurring before this value. Format must be provided as [GlideDateTime](c_GlideDateTimeAPI.md#).```
+Deletes rows for clusters with `updated_since` values occurring before this value. Format must be provided as [GlideDateTime](c_GlideDateTimeAPI.md#).
+```
 { "updatedUntil" : "String" }
 ```
 
@@ -103,7 +104,8 @@ String
 
 </td><td>
 
-Deletes rows for clusters with `insert_sequence` values occurring before this value in the ML Cluster Detail \[ml\_cluster\_detail\] table. The sequence position starting point value is 1. ```
+Deletes rows for clusters with `insert_sequence` values occurring before this value in the ML Cluster Detail \[ml\_cluster\_detail\] table. The sequence position starting point value is 1.
+```
 { "sequenceUntil" : Number }
 ```
 
@@ -180,7 +182,8 @@ Object
 
 </td><td>
 
-Values to use to narrow down the returned results by group, level, system update times, and table row number within a clustering solution. Minimum of one argument must be specified.```
+Values to use to narrow down the returned results by group, level, system update times, and table row number within a clustering solution. Minimum of one argument must be specified.
+```
 {
      "cluster_id": "String",
      "group_by": "String",
@@ -304,7 +307,8 @@ Array
 
 </td><td>
 
-List of objects containing cluster information in increasing order by cluster\_id.```
+List of objects containing cluster information in increasing order by cluster\_id.
+```
 [
     {
        "cluster_id": "String",
@@ -402,7 +406,8 @@ Object
 
 </td><td>
 
-Optional. Object containing properties that enable filtering results within a clustering solution.```
+Optional. Object containing properties that enable filtering results within a clustering solution.
+```
 {
   "clusterId": "String",     
   "groupBy": "String",
@@ -528,7 +533,8 @@ Array
 
 </td><td>
 
-List of objects containing cluster information.```
+List of objects containing cluster information.
+```
 [
   {   
     "cluster_concept": "String",
@@ -686,7 +692,8 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [ClusteringSolution](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#) version details. Results vary by object property setup.```
+Contents of the Dataset and [ClusteringSolution](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#) version details. Results vary by object property setup.
+```
 {
   "algorithmConfig": {Object},
   "datasetProperties": {Object},
@@ -900,7 +907,8 @@ Flag that indicates whether this version is active.Valid values:
 
 </td><td>
 
-Identifies the prediction task. ```
+Identifies the prediction task.
+```
 {
   "label": "my first prediction"
 }
@@ -1090,7 +1098,8 @@ Object
 
 </td><td>
 
-JavaScript object containing training status information for a [ClusteringSolution](ClusteringSolutionAPI.md#) object.```
+JavaScript object containing training status information for a [ClusteringSolution](ClusteringSolutionAPI.md#) object.
+```
 {
   "state": "String",
   "percentComplete": "Number as a String",
@@ -1221,7 +1230,8 @@ Object
 
 </td><td>
 
-Options that determine the number and format of the top cluster purity results.```
+Options that determine the number and format of the top cluster purity results.
+```
 {
   "clusterIds": [Array],
   "groupBy": [Array],
@@ -1345,7 +1355,8 @@ String.&lt;clusterID&gt;.&lt;field&gt;
 
 </td><td>
 
-List of objects representing purity fields arranged in descending order by purity value per field. The **options.top\_n\_fields** input object parameter property determines the number of fields returned.```
+List of objects representing purity fields arranged in descending order by purity value per field. The **options.top\_n\_fields** input object parameter property determines the number of fields returned.
+```
 "<field>":[{"<field_val>":"<purity>"}]}
 ```
 
@@ -1495,7 +1506,8 @@ Object
 
 </td><td>
 
-JavaScript object containing options on which to base a clustering solution update.```
+JavaScript object containing options on which to base a clustering solution update.
+```
 {
         "filter" : "String",
         "table" : "String"

@@ -117,7 +117,8 @@ JSON key-value pair containing the prediction result grouped by solution name an
 -   threshold: Number. Value of the configured threshold associated with the prediction.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var solutionNames = ['soluton1', 'solution2'];
 
 var input = new GlideRecord("incident");

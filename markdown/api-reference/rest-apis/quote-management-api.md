@@ -316,7 +316,8 @@ contactMedium
 
 </td><td>
 
-List of contact mediums. Contact information related to the quote requester.```
+List of contact mediums. Contact information related to the quote requester.
+```
 "contactMedium": [
  {
   "city": "String",
@@ -504,7 +505,8 @@ quoteItem
 
 </td><td>
 
-A list of quote items. Each quote item describes an action for a product to be quoted.```
+A list of quote items. Each quote item describes an action for a product to be quoted.
+```
 "quoteItem": [
  {
   "action": "String",
@@ -544,7 +546,8 @@ quoteItem.product
 
 </td><td>
 
-List of products included in the quote.```
+List of products included in the quote.
+```
 "product": {
   "characteristic": "String",
   "specification": "String",
@@ -631,7 +634,8 @@ quoteItem.productOffering
 
 </td><td>
 
-A product offering reference \(ProductOfferingRef\). A product offering represents entities that are orderable from the provider of the catalog.```
+A product offering reference \(ProductOfferingRef\). A product offering represents entities that are orderable from the provider of the catalog.
+```
 "productOffering": {
   "href": "String",
   "name": "String",
@@ -1101,7 +1105,8 @@ contactMedium
 
 </td><td>
 
-List of contact mediums. Contact information related to the quote requester.```
+List of contact mediums. Contact information related to the quote requester.
+```
 "contactMedium": [
  {
   "city": "String",
@@ -1289,7 +1294,8 @@ quoteItem
 
 </td><td>
 
-A list of quote items. Each quote item describes an action for a product to be quoted.```
+A list of quote items. Each quote item describes an action for a product to be quoted.
+```
 "quoteItem": [
  {
   "action": "String",
@@ -1329,7 +1335,8 @@ quoteItem.product
 
 </td><td>
 
-List of products included in the quote.```
+List of products included in the quote.
+```
 "product": {
   "characteristic": "String",
   "specification": "String",
@@ -1416,7 +1423,8 @@ quoteItem.productOffering
 
 </td><td>
 
-A product offering reference \(ProductOfferingRef\). A product offering represents entities that are orderable from the provider of the catalog.```
+A product offering reference \(ProductOfferingRef\). A product offering represents entities that are orderable from the provider of the catalog.
+```
 "productOffering": {
   "href": "String",
   "name": "String",
@@ -1812,7 +1820,8 @@ contactMedium
 
 </td><td>
 
-List of contact mediums. Contact information related to the quote requester.```
+List of contact mediums. Contact information related to the quote requester.
+```
 "contactMedium": [
  {
   "city": "String",
@@ -1946,7 +1955,8 @@ quoteItem
 
 </td><td>
 
-A list of quote items. Each quote item describes an action for a product to be quoted.```
+A list of quote items. Each quote item describes an action for a product to be quoted.
+```
 "quoteItem": [
  {
   "action": "String",
@@ -1987,7 +1997,8 @@ quoteItem.product
 
 </td><td>
 
-List of products included in the quote.```
+List of products included in the quote.
+```
 "product": {
   "characteristic": "String",
   "specification": "String",
@@ -2074,7 +2085,8 @@ quoteItem.productOffering
 
 </td><td>
 
-A product offering reference \(ProductOfferingRef\). A product offering represents entities that are orderable from the provider of the catalog.```
+A product offering reference \(ProductOfferingRef\). A product offering represents entities that are orderable from the provider of the catalog.
+```
 "productOffering": {
   "href": "String",
   "name": "String",
@@ -2125,7 +2137,8 @@ quoteItem.productRelationship
 
 </td><td>
 
-A list of quote items. Each quote item describes an action for a product to be quoted.```
+A list of quote items. Each quote item describes an action for a product to be quoted.
+```
 "productRelationship": [
  {
   "product": "String",
@@ -2335,7 +2348,8 @@ contactMedium
 
 </td><td>
 
-List of contact mediums. Contact information related to the quote requester.```
+List of contact mediums. Contact information related to the quote requester.
+```
 "contactMedium": [
  {
   "city": "String",
@@ -2469,7 +2483,8 @@ quoteItem
 
 </td><td>
 
-A list of quote items. Each quote item describes an action for a product to be quoted.```
+A list of quote items. Each quote item describes an action for a product to be quoted.
+```
 "quoteItem": [
  {
   "action": "String",
@@ -2510,7 +2525,8 @@ quoteItem.product
 
 </td><td>
 
-List of products included in the quote.```
+List of products included in the quote.
+```
 "product": {
   "characteristic": "String",
   "specification": "String",
@@ -2597,7 +2613,8 @@ quoteItem.productOffering
 
 </td><td>
 
-A product offering reference \(ProductOfferingRef\). A product offering represents entities that are orderable from the provider of the catalog.```
+A product offering reference \(ProductOfferingRef\). A product offering represents entities that are orderable from the provider of the catalog.
+```
 "productOffering": {
   "href": "String",
   "name": "String",
@@ -2648,7 +2665,8 @@ quoteItem.productRelationship
 
 </td><td>
 
-A list of quote items. Each quote item describes an action for a product to be quoted.```
+A list of quote items. Each quote item describes an action for a product to be quoted.
+```
 "productRelationship": [
  {
   "product": "String",
@@ -3428,7 +3446,8 @@ contactMedium
 
 </td><td>
 
-List of contact mediums. Contact information related to the quote requester.```
+List of contact mediums. Contact information related to the quote requester.
+```
 "contactMedium": [
  {
   "city": "String",
@@ -3580,7 +3599,8 @@ quoteItem
 
 </td><td>
 
-A list of quote items. Each quote item describes an action for a product to be quoted.```
+A list of quote items. Each quote item describes an action for a product to be quoted.
+```
 "quoteItem": [
  {
   "action": "String",
@@ -3621,7 +3641,8 @@ quoteItem.product
 
 </td><td>
 
-List of products included in the quote.```
+List of products included in the quote.
+```
 "product": {
   "characteristic": "String",
   "specification": "String",
@@ -3708,7 +3729,8 @@ quoteItem.productOffering
 
 </td><td>
 
-A product offering reference \(ProductOfferingRef\). A product offering represents entities that are orderable from the provider of the catalog.```
+A product offering reference \(ProductOfferingRef\). A product offering represents entities that are orderable from the provider of the catalog.
+```
 "productOffering": {
   "href": "String",
   "name": "String",
@@ -3759,7 +3781,8 @@ quoteItem.productRelationship
 
 </td><td>
 
-A list of quote items. Each quote item describes an action for a product to be quoted.```
+A list of quote items. Each quote item describes an action for a product to be quoted.
+```
 "productRelationship": [
  {
   "product": "String",
@@ -3960,7 +3983,8 @@ contactMedium
 
 </td><td>
 
-List of contact mediums. Contact information related to the quote requester.```
+List of contact mediums. Contact information related to the quote requester.
+```
 "contactMedium": [
  {
   "city": "String",
@@ -4112,7 +4136,8 @@ quoteItem
 
 </td><td>
 
-A list of quote items. Each quote item describes an action for a product to be quoted.```
+A list of quote items. Each quote item describes an action for a product to be quoted.
+```
 "quoteItem": [
  {
   "action": "String",
@@ -4153,7 +4178,8 @@ quoteItem.product
 
 </td><td>
 
-List of products included in the quote.```
+List of products included in the quote.
+```
 "product": {
   "characteristic": "String",
   "specification": "String",
@@ -4240,7 +4266,8 @@ quoteItem.productOffering
 
 </td><td>
 
-A product offering reference \(ProductOfferingRef\). A product offering represents entities that are orderable from the provider of the catalog.```
+A product offering reference \(ProductOfferingRef\). A product offering represents entities that are orderable from the provider of the catalog.
+```
 "productOffering": {
   "href": "String",
   "name": "String",
@@ -4291,7 +4318,8 @@ quoteItem.productRelationship
 
 </td><td>
 
-A list of quote items. Each quote item describes an action for a product to be quoted.```
+A list of quote items. Each quote item describes an action for a product to be quoted.
+```
 "productRelationship": [
  {
   "product": "String",

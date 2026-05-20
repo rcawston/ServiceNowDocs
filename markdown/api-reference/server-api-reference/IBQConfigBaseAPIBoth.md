@@ -181,7 +181,8 @@ Object
 
 </td><td>
 
-JSON object containing the details of Inbound Request record to be created.```
+JSON object containing the details of Inbound Request record to be created.
+```
 {
   "account": "String",
   "consumer": "String",
@@ -241,7 +242,8 @@ Object
 
 </td><td>
 
-Optional. JSON object needed to process the request using the PrimitiveUtil\(\) API. For usage information, see [LeadToCashCore](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).```
+Optional. JSON object needed to process the request using the PrimitiveUtil\(\) API. For usage information, see [LeadToCashCore](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).
+```
 "payload": {
   "additionalParams": {Object},
   "context": {Object},
@@ -261,7 +263,8 @@ Object
 
 </td><td>
 
-Optional. Additional parameters to use.```
+Optional. Additional parameters to use.
+```
 "additionalParams": {
   "action": "String",
   "actionReason": "String"
@@ -351,7 +354,8 @@ Object
 
 </td><td>
 
-Optional. Additional parameter options for displaying attribute values and for invoking more than one instance at a time.```
+Optional. Additional parameter options for displaying attribute values and for invoking more than one instance at a time.
+```
 "context": {
   "isMultiSelect": "Boolean",
   "sourceToTargetConfigID": "String"
@@ -397,7 +401,8 @@ Object
 
 </td><td>
 
-Optional. This object is a placeholder for any input parameters required to invoke the usage of a specific flow.```
+Optional. This object is a placeholder for any input parameters required to invoke the usage of a specific flow.
+```
 "inputParams": {}
 ```
 
@@ -411,7 +416,8 @@ Array
 
 </td><td>
 
-Optional. JSON object containing details of the source entity to retrieve data from.```
+Optional. JSON object containing details of the source entity to retrieve data from.
+```
 "source": [
   {
     "headerId": "String",
@@ -455,7 +461,8 @@ Array
 
 </td><td>
 
-Optional. JSON object containing details of the target entity.```
+Optional. JSON object containing details of the target entity.
+```
 "target": [
   {
     "headerId": "String",
@@ -563,7 +570,8 @@ JSON object
 
 </td><td>
 
-A JSON object containing header ID of the target record created.```
+A JSON object containing header ID of the target record created.
+```
 {
  "headerID": "String",
  // additional parameters, if any, per flow see payload.inputParams
@@ -631,7 +639,8 @@ Object
 
 </td><td>
 
-JSON object containing the details of Inbound Request record to be created.```
+JSON object containing the details of Inbound Request record to be created.
+```
 {
   "account": "String",
   "consumer": "String",
@@ -691,7 +700,8 @@ Object
 
 </td><td>
 
-Optional. JSON object needed to process the request using the PrimitiveUtil\(\) API. For usage information, see [LeadToCashCore](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).```
+Optional. JSON object needed to process the request using the PrimitiveUtil\(\) API. For usage information, see [LeadToCashCore](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).
+```
 "payload": {
   "additionalParams": {Object},
   "context": {Object},
@@ -711,7 +721,8 @@ Object
 
 </td><td>
 
-Optional. Additional parameters to use.```
+Optional. Additional parameters to use.
+```
 "additionalParams": {
   "action": "String",
   "actionReason": "String"
@@ -801,7 +812,8 @@ Object
 
 </td><td>
 
-Optional. Additional parameter options for displaying attribute values and for invoking more than one instance at a time.```
+Optional. Additional parameter options for displaying attribute values and for invoking more than one instance at a time.
+```
 "context": {
   "isMultiSelect": "Boolean",
   "sourceToTargetConfigID": "String"
@@ -847,7 +859,8 @@ Object
 
 </td><td>
 
-Optional. This object is a placeholder for any input parameters required to invoke the usage of a specific flow.```
+Optional. This object is a placeholder for any input parameters required to invoke the usage of a specific flow.
+```
 "inputParams": {}
 ```
 
@@ -861,7 +874,8 @@ Array
 
 </td><td>
 
-Optional. JSON object containing details of the source entity to retrieve data from.```
+Optional. JSON object containing details of the source entity to retrieve data from.
+```
 "source": [
   {
     "headerId": "String",
@@ -905,7 +919,8 @@ Array
 
 </td><td>
 
-Optional. JSON object containing details of the target entity.```
+Optional. JSON object containing details of the target entity.
+```
 "target": [
   {
     "headerId": "String",
@@ -1116,7 +1131,8 @@ Object
 
 </td><td>
 
-A JSON object containing the processing details of the Inbound Request record.```
+A JSON object containing the processing details of the Inbound Request record.
+```
 {
   "error": "String",
   "response": {Object},
@@ -1320,7 +1336,8 @@ Object
 
 </td><td>
 
-JSON object containing the details of Inbound Request records to set. These parameters include the record sys\_id to process before the current record, and the workflow name to filter by in the Inbound Request \[sn\_tmt\_core\_inbound\_queue\] table.```
+JSON object containing the details of Inbound Request records to set. These parameters include the record sys\_id to process before the current record, and the workflow name to filter by in the Inbound Request \[sn\_tmt\_core\_inbound\_queue\] table.
+```
 {
   "account": "String",
   "consumer": "String",
@@ -1394,7 +1411,8 @@ Object
 
 </td><td>
 
-Optional. JSON object needed to process the request using the PrimitiveUtil\(\) API. For usage information, see [LeadToCashCore](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).```
+Optional. JSON object needed to process the request using the PrimitiveUtil\(\) API. For usage information, see [LeadToCashCore](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#).
+```
 "payload": {
   "additionalParams": {Object},
   "context": {Object},
@@ -1414,7 +1432,8 @@ Object
 
 </td><td>
 
-Optional. Additional parameters to use.```
+Optional. Additional parameters to use.
+```
 "additionalParams": {
   "action": "String",
   "actionReason": "String"
@@ -1504,7 +1523,8 @@ Object
 
 </td><td>
 
-Optional. Additional parameter options for displaying attribute values and for invoking more than one instance at a time.```
+Optional. Additional parameter options for displaying attribute values and for invoking more than one instance at a time.
+```
 "context": {
   "isMultiSelect": "Boolean",
   "sourceToTargetConfigID": "String"
@@ -1550,7 +1570,8 @@ Object
 
 </td><td>
 
-Optional. This object is a placeholder for any input parameters required to invoke the usage of a specific flow.```
+Optional. This object is a placeholder for any input parameters required to invoke the usage of a specific flow.
+```
 "inputParams": {}
 ```
 
@@ -1564,7 +1585,8 @@ Array
 
 </td><td>
 
-Optional. JSON object containing details of the source entity to retrieve data from.```
+Optional. JSON object containing details of the source entity to retrieve data from.
+```
 "source": [
   {
     "headerId": "String",
@@ -1608,7 +1630,8 @@ Array
 
 </td><td>
 
-Optional. JSON object containing details of the target entity.```
+Optional. JSON object containing details of the target entity.
+```
 "target": [
   {
     "headerId": "String",

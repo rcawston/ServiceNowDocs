@@ -74,7 +74,8 @@ Object
 
 </td><td>
 
-Fields and their values in the table. For example:```javascript
+Fields and their values in the table. For example:
+```javascript
 data: {
    state: 'Ready',
    task: 'Add demo data'

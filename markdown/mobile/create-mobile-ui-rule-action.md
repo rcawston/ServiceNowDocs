@@ -201,7 +201,8 @@ Simple Arithmetic
 
 </td><td>
 
-Set the **Value** by creating a mathematical operation using inputs from the input form screen associate with your mobile UI rule. For example, if you wanted to calculate travel costs you could use:```
+Set the **Value** by creating a mathematical operation using inputs from the input form screen associate with your mobile UI rule. For example, if you wanted to calculate travel costs you could use:
+```
 cost_per_mile*miles_traveled
 ```
 
@@ -236,7 +237,8 @@ Whether a short or long version of the time format is displayed. This field valu
 
 For example, when set to true, '2 minutes ago' is displayed. If set to false, '2 m ago' is displayed.
 
-In this example, you see values such as "Expired 5 hours ago" or "Expires in 5 days" depending on the time value.```
+In this example, you see values such as "Expired 5 hours ago" or "Expires in 5 days" depending on the time value.
+```
 timeago(“Expired %d ago”, “Expires in %d”, true)​;
 ```
 

@@ -52,7 +52,8 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [PredictabilityEstimate](PredictabilityEstimateAPI.md#) version details. Results vary by object property setup.```
+Contents of the Dataset and [PredictabilityEstimate](PredictabilityEstimateAPI.md#) version details. Results vary by object property setup.
+```
 {
   "datasetProperties": {Object},
   "domainName": "String", 
@@ -107,7 +108,8 @@ List of field names from the specified table as strings. For example, `"fieldNam
 
 </td><td>
 
-List of JavaScript objects that specify field properties. ```
+List of JavaScript objects that specify field properties.
+```
 [
   {
     "name": "String",
@@ -177,7 +179,8 @@ Flag that indicates whether this version is active.Valid values:
 
 </td><td>
 
-Identifies the prediction task. ```
+Identifies the prediction task.
+```
 {
   "label": "my first prediction"
 }
@@ -303,7 +306,8 @@ JSON object results containing suggested input field options for an output field
 
 </td><td>
 
-Output field name, e.g., `category`, containing suggested input fields.```
+Output field name, e.g., `category`, containing suggested input fields.
+```
 {
   "<output field name>": {
     "nominalInputFields": [Array],
@@ -320,7 +324,8 @@ Output field name, e.g., `category`, containing suggested input fields.```
 
 </td><td>
 
-Nominal input field details.```
+Nominal input field details.
+```
 "nominalInputFields": [
       {
         "fieldName": "String",
@@ -353,7 +358,8 @@ Score as a relative indication of how likely this field is to improve results.Da
 
 </td><td>
 
-Text input field details.```
+Text input field details.
+```
 
     "textInputFields": [
       {
@@ -467,7 +473,8 @@ Object
 
 </td><td>
 
-JavaScript object containing training status information for a [PredictabilityEstimate](PredictabilityEstimateAPI.md#) object.```
+JavaScript object containing training status information for a [PredictabilityEstimate](PredictabilityEstimateAPI.md#) object.
+```
 {
   "state": "String",
   "percentComplete": "Number as a String",

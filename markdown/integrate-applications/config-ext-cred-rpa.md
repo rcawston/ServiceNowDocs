@@ -62,7 +62,8 @@ Populate values for **appID** and **query**.
 
 </td></tr><tr><td>
 
-1.C. Verify that the output of your subflow must be aligned with the following JSON schema.```
+1.C. Verify that the output of your subflow must be aligned with the following JSON schema.
+```
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
@@ -118,7 +119,8 @@ This schema is used by the Robotic Process Automation \(RPA\) GraphQL APIs to va
 
 </td></tr><tr><td>
 
-1.D. You can align with the expected JSON schema \(mentioned in 1.C\) by defining a JSON output with the name 'result' for the Subflow. For success status, this result output must be assigned with a JSON object of the following structure. Populate values for the keys defined in the JSON. The **status** and **sensitiveValue** keys are required.```
+1.D. You can align with the expected JSON schema \(mentioned in 1.C\) by defining a JSON output with the name 'result' for the Subflow. For success status, this result output must be assigned with a JSON object of the following structure. Populate values for the keys defined in the JSON. The **status** and **sensitiveValue** keys are required.
+```
 {
   "status": "success", //Mandatory
   "data": {

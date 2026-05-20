@@ -151,7 +151,8 @@ Script
 
 </td><td>
 
-Customize script that aligns with your requirements. The following output format serves as a reference for the structure of the data to be used in the script. ```
+Customize script that aligns with your requirements. The following output format serves as a reference for the structure of the data to be used in the script.
+```
 [
   {
     "displayValue": "Gina Frost",
@@ -312,7 +313,8 @@ Script
 
 </td><td>
 
-Use the reference script to employ your own customized script for the map overlay. This enables you to incorporate latitude, longitude, and other relevant data. ```
+Use the reference script to employ your own customized script for the map overlay. This enables you to incorporate latitude, longitude, and other relevant data.
+```
 [
   {
     "displayValue": "Created 2023-07-10 03:01:37",
@@ -421,7 +423,8 @@ Script
 
 </td><td>
 
-Customize script that aligns with your requirements. The following output format serves as a reference for the structure of the data to be used in the script. ```
+Customize script that aligns with your requirements. The following output format serves as a reference for the structure of the data to be used in the script.
+```
 [
   {
     "weight": 4,(optional)

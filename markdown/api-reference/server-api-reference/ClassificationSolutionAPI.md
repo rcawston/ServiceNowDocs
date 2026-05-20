@@ -58,7 +58,8 @@ Object
 
 </td><td>
 
-JavaScript object containing configuration properties of thesolution.```
+JavaScript object containing configuration properties of thesolution.
+```
 {
   "algorithmConfig": {Object},
   "dataset": {Object},
@@ -85,7 +86,8 @@ Object
 
 </td><td>
 
-JavaScript object containing algorithm configuration properties. ```
+JavaScript object containing algorithm configuration properties.
+```
 'algorithmConfig' : {
   "algorithm": "String",
   "targetClassRecall": "String"
@@ -489,7 +491,8 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [ClassificationSolution\(\)](ClassificationSolutionAPI.md#) object details in the [ClassificationSolutionStore](../../ClassificationSolutionStore/concept/ClassificationSolutionStoreAPI.md#).```
+Contents of the Dataset and [ClassificationSolution\(\)](ClassificationSolutionAPI.md#) object details in the [ClassificationSolutionStore](../../ClassificationSolutionStore/concept/ClassificationSolutionStoreAPI.md#).
+```
 {
   "algorithmConfig": {
     "algorithm": "String",
@@ -580,7 +583,8 @@ List of field names from the specified table as strings. For example, `"fieldNam
 
 </td><td>
 
-List of JavaScript objects that specify field properties. ```
+List of JavaScript objects that specify field properties.
+```
 [
   {
     "name": "String",
@@ -653,7 +657,8 @@ List of input field names as strings. The model uses these fields used to make p
 
 </td><td>
 
-Identifies the prediction task. ```
+Identifies the prediction task.
+```
 {
   "label": "my first prediction"
 }

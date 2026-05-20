@@ -295,7 +295,8 @@ Flag that indicates whether the user has the specified role.Possible values:
 -   false: User doesn't have the specified role.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var currentUser = gs.getUser(); 
 gs.info(currentUser.hasRole('admin'));
 ```

@@ -136,11 +136,13 @@ Upload the PEM file by selecting **Attach PEM file** and selecting the file.
 
 </td><td>
 
-Copy and paste the contents of the truststore file, verifying the content begins with: ```
+Copy and paste the contents of the truststore file, verifying the content begins with:
+```
 -----BEGIN CERTIFICATE-----
 ```
 
- and ends with: ```
+ and ends with:
+```
 -----END CERTIFICATE-----
 ```
 

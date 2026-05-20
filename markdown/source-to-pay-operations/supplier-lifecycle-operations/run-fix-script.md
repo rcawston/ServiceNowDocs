@@ -61,7 +61,8 @@ Script
 
 </td><td>
 
-Enter the following code for the fix script:```
+Enter the following code for the fix script:
+```
 var m2mEnableUtil = new sn_slm.M2MSupplierSupportUtil();
 gs.info("Current status of M2M Supplier support: " + m2mEnableUtil.isM2MSupplierSupported());
 gs.info("Enabled M2M supplier support: " + m2mEnableUtil.enableM2MSupplierSupport());

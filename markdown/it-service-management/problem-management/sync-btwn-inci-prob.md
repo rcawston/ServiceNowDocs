@@ -39,7 +39,8 @@ Action on Incident
 
 </th></tr></thead><tbody><tr><td>
 
-Problem Management Best Practice — Madrid plugin ```
+Problem Management Best Practice — Madrid plugin
+```
 com.snc.best_practice.problem.madrid
 ```
 
@@ -62,7 +63,8 @@ Click the **Communicate workaround** related link
 
 </td></tr><tr><td>
 
-Problem Management Best Practice — Madrid plugin ```
+Problem Management Best Practice — Madrid plugin
+```
 com.snc.best_practice.problem.madrid
 ```
 
@@ -85,7 +87,8 @@ Click the **Communicate Fix** related link
 
 </td></tr><tr><td>
 
-Problem Management Best Practice — Madrid — State Model plugin ```
+Problem Management Best Practice — Madrid — State Model plugin
+```
 com.snc.best_practice.problem.madrid.state_model
 ```
 
@@ -110,7 +113,8 @@ NA
 
 </td></tr><tr><td>
 
-Problem Management Best Practice — Madrid — State Model plugin ```
+Problem Management Best Practice — Madrid — State Model plugin
+```
 com.snc.best_practice.problem.madrid.state_model
 ```
 

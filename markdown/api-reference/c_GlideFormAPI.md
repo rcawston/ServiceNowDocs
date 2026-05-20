@@ -338,7 +338,8 @@ Object
 
 </td><td id="g_form-add_form_msg-options-entry">
 
-Optional. Buttons to add to the form message and any metadata needed to handle a button click.```
+Optional. Buttons to add to the form message and any metadata needed to handle a button click.
+```
 {
   buttons: [Array],
   meta: {Object}
@@ -355,7 +356,8 @@ Array
 
 </td><td id="g_form-add_form_msg-options_buttons-entry">
 
-List of buttons to add to the form message.```
+List of buttons to add to the form message.
+```
 buttons: [
   {
     actionName: "String",
@@ -398,7 +400,8 @@ Object
 
 </td><td id="g_form-add_form_msg-options_meta-entry">
 
-Map of any metadata needed to handle the button click formatted as key-value pairs. ```
+Map of any metadata needed to handle the button click formatted as key-value pairs.
+```
 meta: {
   'key': 'value'
 }
@@ -1552,7 +1555,8 @@ GlideRecord
 GlideRecord object for the specified field. If the specified reference can't be found, it returns an initialized GlideRecord object where `currentRow = -1` and `rows.length = 0`.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 function onChange(control, oldValue, newValue, isLoading) {
     g_form.getReference('caller_id', doAlert); // doAlert is our callback function
 }

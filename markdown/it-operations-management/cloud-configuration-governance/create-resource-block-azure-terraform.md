@@ -71,7 +71,8 @@ Script Resource Script for Create
 
 </td><td>
 
-Enter the following script: ```
+Enter the following script:
+```
 function processResponse (response, cloudServiceAccountId, ldc,
 						  correlationId, step, requestorContext, stackId) {
 	var responseObject = global.JSON.parse(response);
@@ -90,7 +91,8 @@ Script Resource Script for Delete
 
 </td><td>
 
-Enter the following script: ```
+Enter the following script:
+```
 function processResponse (response, cloudServiceAccountId, ldc,
 						  correlationId, step, requestorContext, stackId) {
 	var responseObject = global.JSON.parse(response);

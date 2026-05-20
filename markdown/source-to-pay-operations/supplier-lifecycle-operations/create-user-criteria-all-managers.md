@@ -85,7 +85,8 @@ Script
 
 </td><td>
 
-Add the script to define the list of all supplier managers. This field is available when the **Advanced** option is selected on the User Criteria form. ```
+Add the script to define the list of all supplier managers. This field is available when the **Advanced** option is selected on the User Criteria form.
+```
 <?xml version="1.0" encoding="UTF-8"?>
 <unload unload_date="2026-02-24 08:43:14">
 <user_criteria action="INSERT_OR_UPDATE">

@@ -115,7 +115,8 @@ String
 
 </td><td>
 
-Event type. This value specifies the type of event data that is passed in the **eventSnapshot** payload. The passed payload is processed based on this event type. The event type is stamped on the inbound queue record by the associated business rule on the associated table. Each event type has its own event payload structure. For example:```
+Event type. This value specifies the type of event data that is passed in the **eventSnapshot** payload. The passed payload is processed based on this event type. The event type is stamped on the inbound queue record by the associated business rule on the associated table. Each event type has its own event payload structure. For example:
+```
 {
   "eventId":"dc2003c2c3bb3550054e20bdc0013136",
   "@type":"Troubleticket",

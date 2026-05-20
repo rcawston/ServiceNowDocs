@@ -1088,7 +1088,8 @@ result
 
 </td><td>
 
-Details about the AI Prompt Asset.```
+Details about the AI Prompt Asset.
+```
 result: {
   "ai_model": {Object},
   "created": "String",
@@ -1447,7 +1448,8 @@ result
 
 </td><td>
 
-Details about the retrieved AI System Asset.```
+Details about the retrieved AI System Asset.
+```
 result: {
   "ai_models": [Array],
   "ai_prompts": [Array],
@@ -3202,7 +3204,8 @@ Default: empty string
 
 </td><td>
 
-Reference to the evaluation results located within the text field of the AI model digital asset record. For example:```
+Reference to the evaluation results located within the text field of the AI model digital asset record. For example:
+```
 Testing results:  link to the result document
 
 Details:
@@ -4179,7 +4182,8 @@ object.evaluation\_metrics\_report
 
 </td><td>
 
-Reference to the evaluation results located within the text field of the AI system asset record. For example:```
+Reference to the evaluation results located within the text field of the AI system asset record. For example:
+```
 Testing results:  link to the result document
 
 Details:
@@ -6009,7 +6013,8 @@ object.evaluation\_metrics\_report
 
 </td><td>
 
-Reference to the evaluation results located within the text field of the AI system asset record. For example:```
+Reference to the evaluation results located within the text field of the AI system asset record. For example:
+```
 Testing results:  link to the result document
 
 Details:
@@ -6694,7 +6699,8 @@ evaluation\_metrics\_report
 
 </td><td>
 
-Reference to the evaluation results located within the text field of the AI Dataset Asset record. For example:```
+Reference to the evaluation results located within the text field of the AI Dataset Asset record. For example:
+```
 Testing results:  link to the result document
 
 Details:

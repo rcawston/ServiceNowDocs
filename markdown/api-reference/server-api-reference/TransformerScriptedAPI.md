@@ -132,7 +132,8 @@ String
 Source document to translate.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var stockAPI = new sn_ws.RESTMessageV2('Stock Details', 'Default GET'); 
 var response = stockAPI.execute(); 
 var responseBody = response.getBody(); 
@@ -213,7 +214,8 @@ Flag that indicates whether there is a valid next row to transform.-   true: Val
 -   false: No additional rows
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var results = []; 
 while (transformer.transform()) { 
   results.push(transformer.getRow());

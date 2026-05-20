@@ -176,7 +176,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { ScriptAction } from '@servicenow/sdk/core'
 import { insertIncident } from '../server/scripts.js'
 

@@ -543,7 +543,8 @@ String
 UTC beginning of tomorrow. Format: yyyy-mm-dd hh:mm:ss
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var today = new GlideDateTime(gs.beginningOfTomorrow()).getNumericValue();
 ```
 
@@ -639,7 +640,8 @@ String
 If the **numericValue** parameter is true, returns the difference between the two dates as an integer number of seconds.If false, returns the difference between the two dates in the format ddd hh:mm:ss.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var endDateTime = gs.nowDateTime();
 gs.print('--- Total records: ' + countRecordsTotal);
 gs.print('--- End time: ' + endDateTime);
@@ -790,7 +792,8 @@ String
 UTC of the specified number of days ago. Format: yyyy-mm-dd hh:mm:ss.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 function contractNoticeDue() {
   var now_GR = new GlideRecord("contract");
   now_GR.addQuery("u_contract_status", "Active");
@@ -2601,7 +2604,8 @@ String
 UTC date and time for the specified number of hours ago. Format: yyyy-mm-dd hh:mm:ss
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var currentDateTime = gs.hoursAgo(0);
 gs.info("Current date/time: " + currentDateTime);
 
@@ -2645,7 +2649,8 @@ String
 UTC date and time for the end of the specified number of hours ago. Format: yyyy-mm-dd hh:mm:ss
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var currentDateTime = gs.hoursAgoEnd(0);
 gs.print("Current date/time: " + currentDateTime);
 
@@ -2689,7 +2694,8 @@ String
 UTC date and time for the end of the specified number of hours ago. Format: yyyy-mm-dd hh:mm:ss
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var currentDateTime = gs.hoursAgoStart(0);
 gs.print("Current date/time: " + currentDateTime);
 
@@ -2882,7 +2888,8 @@ Flag that indicates whether the session is interactive.Possible values:
 -   false: Session is not interactive.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 if (!gs.hasRole('admin') && gs.isInteractive()) {
   var qc1 = current.addQuery('u_group', '');
   var gra = new GlideRecord('sys_user_grmember');

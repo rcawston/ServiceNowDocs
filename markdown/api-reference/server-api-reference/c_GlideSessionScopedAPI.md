@@ -265,7 +265,8 @@ Flag that indicates the user is impersonating another user.Possible values:
 -   false: User isn't impersonating.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var isImpersonator = gs.getSession().isImpersonating();
 gs.info(isImpersonator);
 ```
@@ -300,7 +301,8 @@ Flag that indicates whether the session is interactive.Possible values:
 -   false: Session isn't interactive.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var interActive = gs.getSession().isInteractive();
 gs.info(interActive);
 ```
@@ -333,7 +335,8 @@ Flag that indicates whether the user is logged inPossible values:
 -   false: User isn't logged in.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var session = gs.getSession();
 var loggedIn = session.isLoggedIn();
 gs.info(loggedIn);

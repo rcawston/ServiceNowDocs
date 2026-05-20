@@ -101,7 +101,8 @@ Metadata
 
 </td><td>
 
-Enter the metadata to fill color to the shape. Example metadata:```
+Enter the metadata to fill color to the shape. Example metadata:
+```
 {"style":{
     "fillColour":"#F6EC60"
 }}

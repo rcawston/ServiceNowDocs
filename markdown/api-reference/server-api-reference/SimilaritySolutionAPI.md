@@ -56,7 +56,8 @@ Object
 
 </td><td>
 
-JavaScript object containing configuration properties of thesolution.```
+JavaScript object containing configuration properties of thesolution.
+```
 {  
   "domainName": "String",
   "label": "String",
@@ -402,7 +403,8 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [SimilaritySolution\(\)](SimilaritySolutionAPI.md#) object details in the [SimilaritySolutionStore](../../SimilaritySolutionStore/concept/SimilaritySolutionStoreAPI.md#).```
+Contents of the Dataset and [SimilaritySolution\(\)](SimilaritySolutionAPI.md#) object details in the [SimilaritySolutionStore](../../SimilaritySolutionStore/concept/SimilaritySolutionStoreAPI.md#).
+```
 {
   "domainName": "String",
   "label": "String",
@@ -431,7 +433,8 @@ Domain name associated with this dataset. See [Domain separation and Predictive 
 
 </td><td>
 
-Identifies the prediction task. ```
+Identifies the prediction task.
+```
 {
   "label": "my first prediction"
 }
@@ -445,7 +448,8 @@ Identifies the prediction task. ```
 
 </td><td>
 
-Details of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object used as the lookup set. ```
+Details of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object used as the lookup set.
+```
 {
   "encodedQuery": "String",
   "fieldDetails": [Array],
@@ -478,7 +482,8 @@ List of field names from the specified table as strings. For example, `"fieldNam
 
 </td><td>
 
-List of JavaScript objects that specify field properties. ```
+List of JavaScript objects that specify field properties.
+```
 [
   {
     "name": "String",
@@ -551,7 +556,8 @@ Optional. Preset list of strings that the system automatically generates based o
 
 </td><td>
 
-Details of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object used to retrieve similarities between results searched in this model and results found in the **lookupDataset**. ```
+Details of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object used to retrieve similarities between results searched in this model and results found in the **lookupDataset**.
+```
 {
   "encodedQuery": "String",
   "fieldDetails": [Array],
@@ -584,7 +590,8 @@ List of field names from the specified table as strings. For example, `"fieldNam
 
 </td><td>
 
-List of JavaScript objects that specify field properties. ```
+List of JavaScript objects that specify field properties.
+```
 [
   {
     "name": "String",

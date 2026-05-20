@@ -295,7 +295,8 @@ Sys\_id of the interaction record set on the CTIOperationResponse object.If the 
 Table: Interaction \[interaction\]
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var request = new sn_cti_core.CTIOperationResponse();
 var interactionId = request.getInteractionSysId();
 
@@ -328,7 +329,8 @@ Number
 Major version number of the CTI software.If the major version was never set, returns `1`.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var request = new sn_cti_core.CTIOperationResponse();
 var majorVersion = response.getMajorVersion();
 ```
@@ -387,7 +389,8 @@ Number
 Minor version number of the payload associated with this interaction.If the minor version was never set, returns `0`.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var request = new sn_cti_core.CTIOperationResponse();
 var minorVersion = request.getMinorVersion();
 ```

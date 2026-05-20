@@ -150,7 +150,8 @@ Result&lt;NowWebViewController, NowWebServiceError&gt;
 Success: NowWebViewController objectFailure: NowWebServiceError object
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 private func webViewController(for url: URL) -> NowWebViewController? {
   guard let webService = webService else {
     debugPrint("Web service not initialized")

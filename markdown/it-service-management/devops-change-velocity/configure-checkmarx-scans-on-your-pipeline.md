@@ -172,7 +172,8 @@ Harness
 
 </td><td>
 
-Run the generic Docker Container Image to use the following script. For more information, see [Implement custom actions for pipelines using a generic Docker container image](servicenow-custom-actions-for-gitlab.md).```
+Run the generic Docker Container Image to use the following script. For more information, see [Implement custom actions for pipelines using a generic Docker container image](servicenow-custom-actions-for-gitlab.md).
+```
 - stage:
     name: ServiceNow DevOps Security Result
     identifier: Security

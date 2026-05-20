@@ -273,7 +273,8 @@ Description
 Success: Nothing is returned.Failure: NowDataError returned.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 fun deleteAttachment(sysId: String) { 
   val call = attachmentService.delete(sysId) 
   call.enqueue( 

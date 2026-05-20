@@ -156,7 +156,8 @@ Object
 
 </td><td>
 
-Optional. Object containing a table of contents configuration and a page number configuration.```
+Optional. Object containing a table of contents configuration and a page number configuration.
+```
 {​
    "accessibilityEnabled" : Boolean,
    "toc_config" : "String",​
@@ -220,7 +221,8 @@ Object
 
 </td><td>
 
-Object containing sys\_id of the PDF attachment if conversion is successful, error message otherwise.```
+Object containing sys\_id of the PDF attachment if conversion is successful, error message otherwise.
+```
 {
   "attachment_id": "String",
   "message": "String",
@@ -394,7 +396,8 @@ Object
 
 </td><td>
 
-Optional. Object containing a table of contents configuration and a page number configuration.```
+Optional. Object containing a table of contents configuration and a page number configuration.
+```
 {​
    "accessibilityEnabled" : Boolean,
    "toc_config" : "String",​
@@ -458,7 +461,8 @@ Object
 
 </td><td>
 
-Object indicating whether the PDF conversion is in progress. You can review the conversion status in the PDF Generation Status \[sys\_pdf\_generation\_status\] table.```
+Object indicating whether the PDF conversion is in progress. You can review the conversion status in the PDF Generation Status \[sys\_pdf\_generation\_status\] table.
+```
 {
   "message": "String",
   "request_id": "String"
@@ -599,7 +603,8 @@ Object
 
 </td><td>
 
-Defines PDF header and footer details.```
+Defines PDF header and footer details.
+```
 {
   "FooterImageAlignment": "String",
   "FooterImageAttachmentId": "String",
@@ -829,7 +834,8 @@ Object
 
 </td><td>
 
-Optional. Object containing a table of contents configuration and a page number configuration.```
+Optional. Object containing a table of contents configuration and a page number configuration.
+```
 {​
    "accessibilityEnabled" : Boolean,
    "toc_config" : "String",​
@@ -893,7 +899,8 @@ Object
 
 </td><td>
 
-Object containing sys\_id of the PDF attachment if conversion is successful, error message otherwise.```
+Object containing sys\_id of the PDF attachment if conversion is successful, error message otherwise.
+```
 {
   "attachment_id": "String",
   "message": "String",
@@ -1075,7 +1082,8 @@ Object
 
 </td><td>
 
-Defines PDF header and footer details.```
+Defines PDF header and footer details.
+```
 {
   "FooterImageAlignment": "String",
   "FooterImageAttachmentId": "String",
@@ -1305,7 +1313,8 @@ Object
 
 </td><td>
 
-Optional. Object containing a table of contents configuration and a page number configuration.```
+Optional. Object containing a table of contents configuration and a page number configuration.
+```
 {​
    "accessibilityEnabled" : Boolean,
    "toc_config" : "String",​
@@ -1542,7 +1551,8 @@ Object
 
 </td><td id="desc-fill-only">
 
-Object containing sys\_id of the updated PDF attachment if successful, error message otherwise.```
+Object containing sys\_id of the updated PDF attachment if successful, error message otherwise.
+```
 {
   "attachment_id": "String",
   "message": "String",
@@ -1736,7 +1746,8 @@ Object
 
 </td><td id="desc-fill-only">
 
-Object containing sys\_id of the updated PDF attachment if successful, error message otherwise.```
+Object containing sys\_id of the updated PDF attachment if successful, error message otherwise.
+```
 {
   "attachment_id": "String",
   "message": "String",
@@ -1950,7 +1961,8 @@ Object
 
 </td><td id="desc-fill-only">
 
-Object containing sys\_id of the updated PDF attachment if successful, error message otherwise.```
+Object containing sys\_id of the updated PDF attachment if successful, error message otherwise.
+```
 {
   "attachment_id": "String",
   "message": "String",
@@ -2045,7 +2057,8 @@ Object
 
 </td><td>
 
-Object containing ID of the signed PDF, error message otherwise. ```
+Object containing ID of the signed PDF, error message otherwise.
+```
 {
   "attachment_id": "String",
   "message": "String",
@@ -2132,7 +2145,8 @@ Object
 
 </td><td>
 
-Object containing each PDF field type if successful, error message otherwise. ```
+Object containing each PDF field type if successful, error message otherwise.
+```
 {
   "fields_type": {Object},
   "message": "String",
@@ -2481,7 +2495,8 @@ Object
 
 </td><td>
 
-Object containing the size of each page if successful, error message otherwise. ```
+Object containing the size of each page if successful, error message otherwise.
+```
 {
   "pages_size": {Object},
   "message": "String",
@@ -2568,7 +2583,8 @@ Object
 
 </td><td>
 
-Object containing the size of each page if successful, error message otherwise. ```
+Object containing the size of each page if successful, error message otherwise.
+```
 {
   "document_editable": "String",
   "message": "String",
@@ -2665,7 +2681,8 @@ Object
 
 </td><td>
 
-Identifies the PDF and its content to be redacted.```
+Identifies the PDF and its content to be redacted.
+```
 {
   "sysId": "String",
   "highlightedSections": [Array],
@@ -2798,7 +2815,8 @@ Object
 
 </td><td id="desc-fill-only">
 
-Object containing sys\_id of the updated PDF attachment if successful, error message otherwise.```
+Object containing sys\_id of the updated PDF attachment if successful, error message otherwise.
+```
 {
   "attachment_id": "String",
   "message": "String",

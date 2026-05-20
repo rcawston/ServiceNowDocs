@@ -153,7 +153,8 @@ The element's internal data type.Possible values:
 -   workflow
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var grInc = new GlideRecord('incident');
 grInc.query('priority', '1');
  

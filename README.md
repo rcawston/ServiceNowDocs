@@ -47,7 +47,6 @@ normally at least monthly, sometimes more often.
 - [Sales and Order Management](markdown/order-management/index.md)
 - [Operational Technology](markdown/operational-technology/index.md)
 - [Platform Analytics](markdown/now-intelligence/index.md)
-- [Product directory](markdown/product-directory/index.md)
 - [Administer the ServiceNow AI Platform](markdown/platform-administration/index.md)
 - [Enable AI experiences](markdown/intelligent-experiences/index.md)
 - [Extend ServiceNow AI Platform capabilities](markdown/servicenow-platform/index.md)

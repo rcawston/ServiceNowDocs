@@ -33,7 +33,8 @@ Referring to Boolean or string values
 
 </td><td>
 
-To create a query string on Boolean fields, use this syntax: field=true or field=false. For example, to return only active records in a table, use:```
+To create a query string on Boolean fields, use this syntax: field=true or field=false. For example, to return only active records in a table, use:
+```
 active=true
 ```
 
@@ -49,7 +50,8 @@ Referring to reference fields
 
 </td><td>
 
-To create a query string that refers to a reference field in another table, use this syntax: field\_in\_referenced\_table=value. For example, to return users with the itil role in the **Assigned to** reference field on the Incident form, use:```
+To create a query string that refers to a reference field in another table, use this syntax: field\_in\_referenced\_table=value. For example, to return users with the itil role in the **Assigned to** reference field on the Incident form, use:
+```
 Assigned_to.roles=itil
 ```
 
@@ -59,7 +61,8 @@ Referring to choice list values
 
 </td><td>
 
-To create a query string that refers to a [choice list](../platform-administration/c_ChoiceLists.md) option, use the value of the choice list, not the label, with this syntax: choice list field=value. For example, to return configuration items \(CIs\) with the status **Installed**, which has a value of 1 in the choice list, use:```
+To create a query string that refers to a [choice list](../platform-administration/c_ChoiceLists.md) option, use the value of the choice list, not the label, with this syntax: choice list field=value. For example, to return configuration items \(CIs\) with the status **Installed**, which has a value of 1 in the choice list, use:
+```
 install_status=1
 ```
 
@@ -71,7 +74,8 @@ Using multiple conditions
 
 </td><td>
 
-To use two conditions joined by an AND operator, use the carat ^ symbol in this syntax: field1=value1^field2=value2. For example, to return all active users with the "itil" role, use:```
+To use two conditions joined by an AND operator, use the carat ^ symbol in this syntax: field1=value1^field2=value2. For example, to return all active users with the "itil" role, use:
+```
 active=true^roles=itil
 ```
 
@@ -121,7 +125,8 @@ Including a related list query
 
 </td><td>
 
-At the end of the query statement, enclose the related list information with ^RLQUERY and ^ENDRLQUERY and the quantity. For example, in a query on the Problem table that includes problems with at least one related incident, use:```
+At the end of the query statement, enclose the related list information with ^RLQUERY and ^ENDRLQUERY and the quantity. For example, in a query on the Problem table that includes problems with at least one related incident, use:
+```
 ^RLQUERYincident.problem_id,>=1^ENDRLQUERY
 ```
 

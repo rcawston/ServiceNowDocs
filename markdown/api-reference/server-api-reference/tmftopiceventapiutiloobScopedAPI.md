@@ -256,7 +256,8 @@ Object
 
 </td><td id="responseObject_responseError-TMFEvtOOO-entry">
 
-Details about any error that occurred during validation.```
+Details about any error that occurred during validation.
+```
 "responseError": {
   "details": [Array],
   "errorMessage": "String",
@@ -347,7 +348,8 @@ responseObject
 
 </td><td>
 
-Details about the status of the function call.```
+Details about the status of the function call.
+```
 "responseObject": {
   "responseError": {Object},
   "status": "String",
@@ -377,7 +379,8 @@ responseObject.​responseError
 
 </td><td>
 
-Details about any error that occurred during validation.```
+Details about any error that occurred during validation.
+```
 "responseError": {
   "details": [Array],
   "errorMessage": "String",
@@ -418,7 +421,8 @@ responseObject.​responseError.​errorReason
 Reason why the endpoint failed. The available error reasons are defined in the `TMFAlarmAPIConstants` script include.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 processDeleteAlarm: function(additionalInfoObj, gr, deleteAlarmPayload, responseObject) {
 var msgKey = this.transformAndPersistDeleteEvent(additionalInfoObj, gr);
 var responsePayload = this.prepareEventAlarmRecordResponse(msgKey, deleteAlarmPayload, responseObject);
@@ -451,7 +455,8 @@ responseObject
 
 </td><td>
 
-Details about the status of the function call.```
+Details about the status of the function call.
+```
 "responseObject": {
   "responseError": {Object},
   "status": "String",
@@ -465,7 +470,8 @@ responseObject.​responseError
 
 </td><td>
 
-Details about any error that occurred during validation.```
+Details about any error that occurred during validation.
+```
 "responseError": {
   "details": [Array],
   "errorMessage": "String",
@@ -522,7 +528,8 @@ responseObject.​successResponse
 Successful response from the function call. For example, you could store the payload object in this value.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 Called by the `AlarmChangeEvent` flow action
 ```
 
@@ -550,7 +557,8 @@ responseObject
 
 </td><td>
 
-Details about the status of the function call.```
+Details about the status of the function call.
+```
 "responseObject": {
   "responseError": {Object},
   "status": "String",
@@ -564,7 +572,8 @@ responseObject.​responseError
 
 </td><td>
 
-Details about any error that occurred during validation.```
+Details about any error that occurred during validation.
+```
 "responseError": {
   "details": [Array],
   "errorMessage": "String",
@@ -621,7 +630,8 @@ responseObject.​successResponse
 Successful response from the function call. For example, you could store the payload object in this value.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 Called by `AlarmCreateEvent` flow action.
 ```
 
@@ -651,7 +661,8 @@ responseObject
 
 </td><td>
 
-Details about the status of the function call.```
+Details about the status of the function call.
+```
 "responseObject": {
   "responseError": {Object},
   "status": "String",
@@ -665,7 +676,8 @@ responseObject.​responseError
 
 </td><td>
 
-Details about any error that occurred during validation.```
+Details about any error that occurred during validation.
+```
 "responseError": {
   "details": [Array],
   "errorMessage": "String",
@@ -722,7 +734,8 @@ responseObject.​successResponse
 Successful response from the function call. For example, you could store the payload object in this value.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 Called by `AlarmDeleteEvent` flow action.
 ```
 
@@ -862,7 +875,8 @@ Object
 
 </td><td id="responseObject_responseError-TMFEvtOOO-entry">
 
-Details about any error that occurred during validation.```
+Details about any error that occurred during validation.
+```
 "responseError": {
   "details": [Array],
   "errorMessage": "String",
@@ -929,7 +943,8 @@ responseObject
 
 </td><td>
 
-Details about the status of the function call.```
+Details about the status of the function call.
+```
 "responseObject": {
   "responseError": {Object},
   "status": "String",
@@ -943,7 +958,8 @@ responseObject.​responseError
 
 </td><td>
 
-Details about any error that occurred during validation.```
+Details about any error that occurred during validation.
+```
 "responseError": {
   "details": [Array],
   "errorMessage": "String",
@@ -1062,7 +1078,8 @@ Object
 
 </td><td id="responseObject_responseError-TMFEvtOOO-entry">
 
-Details about any error that occurred during validation.```
+Details about any error that occurred during validation.
+```
 "responseError": {
   "details": [Array],
   "errorMessage": "String",
@@ -1153,7 +1170,8 @@ responseObject
 
 </td><td>
 
-Details about the status of the function call.```
+Details about the status of the function call.
+```
 "responseObject": {
   "responseError": {Object},
   "status": "String",
@@ -1167,7 +1185,8 @@ responseObject.​responseError
 
 </td><td>
 
-Details about any error that occurred during validation.```
+Details about any error that occurred during validation.
+```
 "responseError": {
   "details": [Array],
   "errorMessage": "String",
@@ -1224,7 +1243,8 @@ responseObject.​successResponse
 Successful response from the function call. For example, you could store the payload object in this value.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
  // Apply customized validations if applicable, defaults to no error
 var changePayloadResponse = this.verifyAlarmChangeEventPayload(changeAlarmPayload, this.responseObject);
 if (!gs.nil(changePayloadResponse.responseError.errorMessage))
@@ -1315,7 +1335,8 @@ Object
 
 </td><td id="responseObject_responseError-TMFEvtOOO-entry">
 
-Details about any error that occurred during validation.```
+Details about any error that occurred during validation.
+```
 "responseError": {
   "details": [Array],
   "errorMessage": "String",
@@ -1382,7 +1403,8 @@ responseObject
 
 </td><td>
 
-Details about the status of the function call.```
+Details about the status of the function call.
+```
 "responseObject": {
   "responseError": {Object},
   "status": "String",
@@ -1396,7 +1418,8 @@ responseObject.​responseError
 
 </td><td>
 
-Details about any error that occurred during validation.```
+Details about any error that occurred during validation.
+```
 "responseError": {
   "details": [Array],
   "errorMessage": "String",
@@ -1453,7 +1476,8 @@ responseObject.​successResponse
 Successful response from the function call. For example, you could store the payload object in this value.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Apply customized validations if applicable, defaults to no error
 var creatPayloadResponse = this.verifyAlarmCreateEventPayload(eventAlarmObject, this.responseObject);
 if (!gs.nil(creatPayloadResponse.responseError.errorMessage))
@@ -1544,7 +1568,8 @@ Object
 
 </td><td id="responseObject_responseError-TMFEvtOOO-entry">
 
-Details about any error that occurred during validation.```
+Details about any error that occurred during validation.
+```
 "responseError": {
   "details": [Array],
   "errorMessage": "String",
@@ -1611,7 +1636,8 @@ responseObject
 
 </td><td>
 
-Details about the status of the function call.```
+Details about the status of the function call.
+```
 "responseObject": {
   "responseError": {Object},
   "status": "String",
@@ -1625,7 +1651,8 @@ responseObject.​responseError
 
 </td><td>
 
-Details about any error that occurred during validation.```
+Details about any error that occurred during validation.
+```
 "responseError": {
   "details": [Array],
   "errorMessage": "String",
@@ -1682,7 +1709,8 @@ responseObject.​successResponse
 Successful response from the function call. For example, you could store the payload object in this value.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Apply customized validations if applicable, defaults to no error
 var deletePayloadResponse = this.verifyDeleteEventPayload(deleteAlarmPayload, this.responseObject);
 if (!gs.nil(deletePayloadResponse.responseError.errorMessage))

@@ -67,7 +67,8 @@ Change model: &lt;any selected change model&gt;
 
 </td><td>
 
-Type is passed. For example, Normal```
+Type is passed. For example, Normal
+```
 {
     "attributes": {
       "type": "normal"
@@ -121,7 +122,8 @@ Change type: &lt;any selected change type&gt;
 
 </td><td>
 
-Model is passed. ```
+Model is passed.
+```
 {
     "attributes": {
       "chg_model": {
@@ -186,7 +188,8 @@ Change model: &lt;any selected change model&gt;
 
 </td><td>
 
-Type is passed. For example, Normal```
+Type is passed. For example, Normal
+```
 {
     "attributes": {
       "type": "normal"
@@ -244,7 +247,8 @@ Change type: &lt;any selected change type&gt;
 
 </td><td>
 
-Model is passed.```
+Model is passed.
+```
 {
     "attributes": {
       "chg_model": {

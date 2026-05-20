@@ -65,7 +65,8 @@ Push Message Generation
 
 </td><td>
 
-Script block that contains the notification link. To implement push notifications in a Mobile SDK Virtual Agent application, use the following script:```
+Script block that contains the notification link. To implement push notifications in a Mobile SDK Virtual Agent application, use the following script:
+```
 (function buildJSON(/*GlideRecord*/ current, /*String*/ message, /*Object*/ attributes) {
 
  var json = { 

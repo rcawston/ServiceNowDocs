@@ -54,7 +54,8 @@ Object
 
 </td><td>
 
-JavaScript object containing field name and value map in which the key is the field name, for example, `{number: "INC0001", sys_id: "a34"}`.```
+JavaScript object containing field name and value map in which the key is the field name, for example, `{number: "INC0001", sys_id: "a34"}`.
+```
 { "<field name>": "value" }
 
 ```

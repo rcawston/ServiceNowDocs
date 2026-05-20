@@ -92,7 +92,8 @@ Object
 
 </td><td>
 
-Response object.```
+Response object.
+```
 {
   "contentQuery": "String",
   "eventType": "String",

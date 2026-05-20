@@ -132,7 +132,8 @@ Flag that indicates whether the user can view the associated category.-   true: 
 -   false: User cannot view the category.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var scopedCategoryObj = new sn_sc.CatCategory('7b1262b9530033007444ddeeff7b12ae');
 scopedCategoryObj.canView(false, '62826bf03710200044e0bfc8bcbe5df1');
 ```

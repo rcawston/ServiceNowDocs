@@ -63,7 +63,8 @@ Variables from legal request
 
 Specify the legal request variable into which you want to store the email subject line.
 
-Example: If you want to copy the subject of email into the short description of the legal request, map *subject* with *short\_description* by including the following code.```
+Example: If you want to copy the subject of email into the short description of the legal request, map *subject* with *short\_description* by including the following code.
+```
 short_description: "subject"
 ```
 
@@ -75,7 +76,8 @@ short_description: "subject"
 
 Specify the legal request variable into which you want to store the sender's email address.
 
-Example: If you want to copy the sender's email address into the requested for of the legal request, map *fromEmail* with *requested\_for* by including the following code.```
+Example: If you want to copy the sender's email address into the requested for of the legal request, map *fromEmail* with *requested\_for* by including the following code.
+```
 requested_for: "fromEmail"
 ```
 
@@ -87,7 +89,8 @@ requested_for: "fromEmail"
 
 Specify the legal request variable into which you want to store the email content.
 
-Example: If you want to copy email content into the description, map *body* with *description* by including the following code.```
+Example: If you want to copy email content into the description, map *body* with *description* by including the following code.
+```
 description: "body"
 ```
 

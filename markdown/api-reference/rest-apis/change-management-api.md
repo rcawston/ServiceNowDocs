@@ -10192,7 +10192,8 @@ messages.errorMessages
 
 </td><td>
 
-Error messages encountered while processing the request. For example: ```
+Error messages encountered while processing the request. For example:
+```
 Invalid CMDB_CI sys_id provided
 ```
 
@@ -10204,7 +10205,8 @@ messages.infoMessages
 
 </td><td>
 
-Information messages encountered while processing the request. For example: ```
+Information messages encountered while processing the request. For example:
+```
 CMDB_CI sys_id already associated to provided.
 ```
 
@@ -10216,7 +10218,8 @@ messages.warningMessages
 
 </td><td>
 
-Warning messages encountered while processing the request. For example: ```
+Warning messages encountered while processing the request. For example:
+```
 Invalid CMDB_CI sys_id provided.
 ```
 
@@ -10245,7 +10248,8 @@ payload.spans
 
 </td><td>
 
-If a timespan is available within the duration provided in the schedule endpoint, the worker API lists the available time spans.```
+If a timespan is available within the duration provided in the schedule endpoint, the worker API lists the available time spans.
+```
 "payload": {
   "spans": [
    {
@@ -13686,7 +13690,8 @@ messages.errorMessages
 
 </td><td>
 
-Error messages encountered while processing the request. For example: ```
+Error messages encountered while processing the request. For example:
+```
 Invalid CMDB_CI sys_id provided
 ```
 
@@ -13698,7 +13703,8 @@ messages.infoMessages
 
 </td><td>
 
-Information messages encountered while processing the request. For example: ```
+Information messages encountered while processing the request. For example:
+```
 CMDB_CI sys_id already associated to provided.
 ```
 
@@ -13710,7 +13716,8 @@ messages.warningMessages
 
 </td><td>
 
-Warning messages encountered while processing the request. For example: ```
+Warning messages encountered while processing the request. For example:
+```
 Invalid CMDB_CI sys_id provided.
 ```
 
@@ -13730,7 +13737,8 @@ state
 
 </td><td>
 
-Information on the current state of the worker.```
+Information on the current state of the worker.
+```
 state: {
   display_value: "String", 
   value: "String"
@@ -14558,7 +14566,8 @@ messages.errorMessages
 
 </td><td>
 
-Error messages encountered while processing the request. For example: ```
+Error messages encountered while processing the request. For example:
+```
 Invalid CMDB_CI sys_id provided
 ```
 
@@ -14570,7 +14579,8 @@ messages.infoMessages
 
 </td><td>
 
-Information messages encountered while processing the request. For example: ```
+Information messages encountered while processing the request. For example:
+```
 CMDB_CI sys_id already associated to provided.
 ```
 
@@ -14582,7 +14592,8 @@ messages.warningMessages
 
 </td><td>
 
-Warning messages encountered while processing the request. For example: ```
+Warning messages encountered while processing the request. For example:
+```
 Invalid CMDB_CI sys_id provided.
 ```
 

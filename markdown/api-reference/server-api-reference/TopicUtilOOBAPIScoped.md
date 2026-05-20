@@ -51,7 +51,8 @@ Object
 
 </td><td>
 
-Object that contains the fields to store in the topic record. For the base implementation the object has the following format. If you modify or extend the Topics table, this object should reflect that structure. Ensure that you include any required fields.```
+Object that contains the fields to store in the topic record. For the base implementation the object has the following format. If you modify or extend the Topics table, this object should reflect that structure. Ensure that you include any required fields.
+```
 "topicObj": {
   "content_query": "String";
   "description": "String";
@@ -230,7 +231,8 @@ Array of objects
 
 </td><td>
 
-Topic record payload returned by the external system through the GET API endpoint within the subflow. This payload should match the structure of the Topics \[sn\_api\_notif\_mgmt\_topic\] table. Each object within the array is a separate topic. For example, in the demo implementation this is:```
+Topic record payload returned by the external system through the GET API endpoint within the subflow. This payload should match the structure of the Topics \[sn\_api\_notif\_mgmt\_topic\] table. Each object within the array is a separate topic. For example, in the demo implementation this is:
+```
 "topicResponse": [
   {
     "name": "String";

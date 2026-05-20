@@ -129,7 +129,8 @@ Description
 
 </td><td>
 
-Array of JSON objects containing extended agent information.```
+Array of JSON objects containing extended agent information.
+```
 {
    "agent_id": "String",
    "data_collection": Number,
@@ -668,7 +669,8 @@ check
 
 </td><td>
 
-Details of the specified check definition.```
+Details of the specified check definition.
+```
 {
  "background": Boolean,
  "check_group": "String",
@@ -749,7 +751,8 @@ params
 
 </td><td>
 
-List of parameter definitions associated with the check definition. These results are only included if the **withParams** parameter is set to true.```
+List of parameter definitions associated with the check definition. These results are only included if the **withParams** parameter is set to true.
+```
 "params": [
   {
     "active": Boolean,
@@ -840,7 +843,8 @@ secure\_params
 
 </td><td>
 
-List of assigned to this check. These results are only included if the **withParams** parameter is set to true.```
+List of assigned to this check. These results are only included if the **withParams** parameter is set to true.
+```
 "secure_params": [
   {
     "active": Boolean,
@@ -1083,7 +1087,8 @@ check definitions
 
 </td><td>
 
-List of check definition and details provided as JSON objects.```
+List of check definition and details provided as JSON objects.
+```
 [
  {
   "background": Boolean,
@@ -1159,7 +1164,8 @@ params
 
 </td><td id="accCkDf-p-desc">
 
-List of parameter definitions associated with the check definition. These results are only included if the **withParams** parameter is set to true.```
+List of parameter definitions associated with the check definition. These results are only included if the **withParams** parameter is set to true.
+```
 "params": [
   {
     "active": Boolean,
@@ -1250,7 +1256,8 @@ secure\_params
 
 </td><td id="accCkDf-sp-desc">
 
-List of assigned to this check. These results are only included if the **withParams** parameter is set to true.```
+List of assigned to this check. These results are only included if the **withParams** parameter is set to true.
+```
 "secure_params": [
   {
     "active": Boolean,
@@ -1726,7 +1733,8 @@ Description
 
 </td><td>
 
-Array of JSON objects containing extended agent information.```
+Array of JSON objects containing extended agent information.
+```
 [
  {
    "agent_id": "String",
@@ -2206,7 +2214,8 @@ policies
 
 </td><td>
 
-List of policies retrieved. Includes checks and agent in results if queried using specific request headers. For information on policies, see [default checks and policies](../../it-operations-management/agent-client-collector/agent-policies-checks.md).```
+List of policies retrieved. Includes checks and agent in results if queried using specific request headers. For information on policies, see [default checks and policies](../../it-operations-management/agent-client-collector/agent-policies-checks.md).
+```
 {
   "policies": [
     {
@@ -3152,7 +3161,8 @@ Description
 
 </td><td>
 
-Extended details of the sandbox copy associated with the policy. For information on policies, see [default checks and policies](../../it-operations-management/agent-client-collector/agent-policies-checks.md).```
+Extended details of the sandbox copy associated with the policy. For information on policies, see [default checks and policies](../../it-operations-management/agent-client-collector/agent-policies-checks.md).
+```
 {
   "active": Boolean"
   "agent_ids": "String",
@@ -3207,7 +3217,8 @@ checks
 
 </td><td>
 
-List of objects defining checks listed in the Check Instances \[sn\_agent\_check\] table. ```
+List of objects defining checks listed in the Check Instances \[sn\_agent\_check\] table.
+```
 "checks": [
    {
      "active": Boolean,
@@ -3849,7 +3860,8 @@ params
 
 </td><td>
 
-Map of parameter names and values. These settings can be used to override the parameter records of the check definition and its specified values. ```
+Map of parameter names and values. These settings can be used to override the parameter records of the check definition and its specified values.
+```
 "params": {
   "<parameter name>": "String"
 }
@@ -4646,7 +4658,8 @@ params
 
 </td><td>
 
-Map of parameter names and values. These settings can be used to override the parameter records of the check definition and its specified values. ```
+Map of parameter names and values. These settings can be used to override the parameter records of the check definition and its specified values.
+```
 "params": {
   "<parameter name>": "String"
 }

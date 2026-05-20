@@ -507,7 +507,8 @@ payload
 
 </td><td>
 
-Custom payload created for notification in the following format:```
+Custom payload created for notification in the following format:
+```
 {  
 
   "ImpactedEntities": {ImpactedEntities},  

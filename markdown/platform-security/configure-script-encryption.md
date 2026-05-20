@@ -100,7 +100,8 @@ Advanced tab
 
 </td><td>
 
-On the **Advanced** tab, paste the following script text at line 3: ```
+On the **Advanced** tab, paste the following script text at line 3:
+```
 
 var gc = global.GlideCryptoModule.getModule('global.acme_mod');
 var value = 'test';

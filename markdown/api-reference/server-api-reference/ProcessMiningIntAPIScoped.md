@@ -205,7 +205,8 @@ Object
 
 </td><td>
 
-Object containing information about the project.```
+Object containing information about the project.
+```
 {
    "entity": {Object},
    "findingDefinitionKPIMap": {Object},
@@ -620,7 +621,8 @@ Array
 
 </td><td>
 
-Array of breakdown objects. Each object contains statistics for the breakdown.```
+Array of breakdown objects. Each object contains statistics for the breakdown.
+```
 [
    {
       "caseCount": Number,
@@ -663,7 +665,8 @@ Field value used for the breakdown.Data type: String
 
 </td><td>
 
-Performance statistics for the breakdown.```
+Performance statistics for the breakdown.
+```
 {
    "max": Number,
    "mean": Number,
@@ -906,7 +909,8 @@ Array
 
 </td><td>
 
-Array of findings objects.```
+Array of findings objects.
+```
 [
    {
       "caseIds":[Array],  
@@ -1028,7 +1032,8 @@ Message from the improvement opportunity.Data type: String
 
 </td><td>
 
-Performance statistics for the finding.```
+Performance statistics for the finding.
+```
 {
    "max": Number,
    "mean": Number,
@@ -1331,7 +1336,8 @@ Object
 
 </td><td>
 
-Object containing the project sys\_id and a tracker. ```
+Object containing the project sys\_id and a tracker.
+```
 {
    "projectId":"String",
    "trackerId":"String"  
@@ -1417,7 +1423,8 @@ Object
 
 </td><td>
 
-Object containing information about the project.```
+Object containing information about the project.
+```
 {
    "entity": {Object},
    "findingDefinitionKPIMap": {Object},
@@ -1788,7 +1795,8 @@ Object
 
 </td><td>
 
-Object containing the project sys\_id and a tracker. ```
+Object containing the project sys\_id and a tracker.
+```
 {
    "projectId":"String",
    "trackerId":"String"  

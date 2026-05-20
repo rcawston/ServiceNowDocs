@@ -330,7 +330,8 @@ import { default_view } from '@servicenow/sdk/core'
 ```
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { UiPolicy } from '@servicenow/sdk/core';
 
 export const securityIncidentPolicy = UiPolicy({
@@ -544,7 +545,8 @@ An action to perform on the field value.Valid values:
 Default: ignore
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 actions: [
         {
             field: 'assignment_group',
@@ -620,7 +622,8 @@ An option to control the visibility of the related list. This property is requir
 Default: ignore
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
  relatedListActions: [
     {
       // Using plain GUID for system relationships 

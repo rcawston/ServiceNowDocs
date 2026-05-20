@@ -142,7 +142,8 @@ Object
 
 </td><td>
 
-Optional. Name/value pairs of the parameters to pass to the record.```
+Optional. Name/value pairs of the parameters to pass to the record.
+```
 "params": {
   "readOnlyForm": Boolean;
   "defaultTab": "String";

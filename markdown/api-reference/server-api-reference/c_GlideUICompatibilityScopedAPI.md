@@ -86,7 +86,8 @@ Flag that indicates whether the browser is blocked.Possible values:
 -   false: Browser is valid and not blocked.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 UICompatibility = new GlideUICompatibility(gs.getCurrentScopeName());
 var blocked = UICompatibility.isBlocked();
 gs.info(blocked);

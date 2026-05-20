@@ -35,7 +35,8 @@ Navigate to dashboard overview page
 
 </td><td>
 
-Dispatched when the dashboard is closed and redirects to the dashboard library. You can customize this behavior by changing the route and title in the Redirect to dashboard list client script. To open client scripts, select the &lt;&gt; icon in the page's side bar.```javascript
+Dispatched when the dashboard is closed and redirects to the dashboard library. You can customize this behavior by changing the route and title in the Redirect to dashboard list client script. To open client scripts, select the &lt;&gt; icon in the page's side bar.
+```javascript
 * @param {params} params
 * @param {api} params.api
 * @param {any} params.event

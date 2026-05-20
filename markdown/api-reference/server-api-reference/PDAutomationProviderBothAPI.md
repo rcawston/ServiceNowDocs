@@ -78,7 +78,8 @@ Object
 
 </td><td>
 
-Object containing process definition activation details.```
+Object containing process definition activation details.
+```
 {
   "errors": [Array]
   "process_definition": {Object},
@@ -507,7 +508,8 @@ Object
 
 </td><td>
 
-Object containing process definition deactivation details.```
+Object containing process definition deactivation details.
+```
 {
   "errors": [Array]
   "process_definition": {Object},
@@ -710,7 +712,8 @@ Object
 
 </td><td>
 
-Object containing process definition duplication details.```
+Object containing process definition duplication details.
+```
 {
   "errors": [Array]
   "processDefinitionSysId": "String",

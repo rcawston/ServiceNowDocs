@@ -84,7 +84,8 @@ Object
 
 </td><td>
 
-Optional.```
+Optional.
+```
 "options": {
   "content": "String",
   "contentFullWidth": Boolean,
@@ -445,7 +446,8 @@ Object
 
 </td><td>
 
-Describes the contents of the HTTP request.```
+Describes the contents of the HTTP request.
+```
 "options": {
   "batch": Boolean,
   "body": {Object},

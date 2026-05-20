@@ -90,7 +90,8 @@ JSON
 
 </td><td>
 
-Structure of the current cart.```
+Structure of the current cart.
+```
 {
 'subtotal': value,
 'items':[
@@ -242,7 +243,8 @@ JSON
 
 </td><td>
 
-If the two-step checkout is enabled, the summary of the items in the cart is returned.```
+If the two-step checkout is enabled, the summary of the items in the cart is returned.
+```
 { "subtotal_price":"",
   "subtotal_recurring_frequency":"",
   "delivery_address":"",
@@ -267,7 +269,8 @@ If the two-step checkout is enabled, the summary of the items in the cart is ret
 ```
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var cart = new sn_sc.CartJS();
 var checkoutInfo = cart.checkoutCart();
 gs.info(checkoutInfo);
@@ -664,7 +667,8 @@ JSON key/value pairs
 
 </td><td>
 
-Output if two-step checkout is enabled:```
+Output if two-step checkout is enabled:
+```
 {
   'cart_id' : '<sys_id of the cart to which the items were added>'
 }
@@ -680,7 +684,8 @@ Output if two-step checkout is enabled:```
 ```
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 
 var cart = new sn_sc.CartJS();
 var request =
@@ -793,7 +798,8 @@ Map
 
 </td><td>
 
-JSON object that contains details of the cart to be submitted. ```
+JSON object that contains details of the cart to be submitted.
+```
 {
   'special_instructions': "String",
   'requested_for': '"String",
@@ -854,7 +860,8 @@ JSON
 
 </td><td>
 
-Structure of the cart.```
+Structure of the cart.
+```
 {
   'request_id' : 'sys_id of the generated Request',
   'request_number' : 'Number of the generated Request'
@@ -952,7 +959,8 @@ JSON
 
 </td><td>
 
-Details of the cart.```
+Details of the cart.
+```
 {
   'subtotal': value,
   'items':[
@@ -968,7 +976,8 @@ Details of the cart.```
 ```
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var cart = new sn_sc.CartJS();
 var request =
 {

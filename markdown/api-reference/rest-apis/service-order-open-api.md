@@ -400,7 +400,8 @@ serviceOrderItem
 
 </td><td>
 
-List of line items in the service order and their associated action. ```
+List of line items in the service order and their associated action.
+```
 "serviceOrderItem:" [
   {
     "action": "String",

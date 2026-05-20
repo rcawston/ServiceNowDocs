@@ -2205,7 +2205,8 @@ Flag that indicates if the current database action is to be aborted.Valid values
 -   false: The current database action is not to be aborted.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var now_GR = new GlideRecord('incident');
  
 gs.info(now_GR.isActionAborted());
@@ -2306,7 +2307,8 @@ Flag that indicates if the table is valid or if the record was successfully retr
 -   false: Table is invalid or the record was not successfully retrieved.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var comment_GR = new GlideRecord('cf_comment');
 var commentId = '99ebb4156fa831005be8883e6b3ee4b9';
 comment_GR.get(commentId);
@@ -2405,7 +2407,8 @@ Flag that indicates whether a record was actually returned by the query/get oper
 -   false: End of record set, no record returned.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var rec = new GlideRecord('incident');
 rec.query();
 while (rec.next()) { 
@@ -2512,7 +2515,8 @@ Flag that indicates if there is a "next" record in the GlideRecord. Valid values
 -   false: No more records in the result set.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var rec = new GlideRecord('incident');
 rec.query();
 while (rec.next()) {

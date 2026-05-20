@@ -925,7 +925,8 @@ result
 
 </td><td>
 
-Object containing results of the response.```
+Object containing results of the response.
+```
 "result": {
   "routine": {Object},
   "exceptions": [Array],
@@ -1556,7 +1557,8 @@ collaborator\_ids
 
 Required. Non-empty array of sys\_id values identifying users to add as collaborators.Table: User \[sys\_user\]
 
- Data type: Array of Strings```
+ Data type: Array of Strings
+```
 "collaborator_ids": ["String", "String"]
 ```
 
@@ -1813,7 +1815,7 @@ Exceptions override the user’s weekly routine for that date.
 
 Versioned URL: `/api/sn_wsd_concierge/[api_version}/presence/exception`
 
-Default URL: ```/api/sn_wsd_concierge/presence/exception`
+Default URL: `/api/sn_wsd_concierge/presence/exception`
 
 ### Supported request parameters
 
@@ -2600,4 +2602,3 @@ Response body.
   }
 }
 ```
-

@@ -1,6 +1,6 @@
 # Inline Code Anomaly Report
 
-Generated: 2026-05-20T01:04:52.597Z
+Generated: 2026-05-20T03:06:53.322Z
 
 Repository: /Volumes/Samsung/ServiceNowDocs-official
 
@@ -13,7 +13,7 @@ Repository: /Volumes/Samsung/ServiceNowDocs-official
 ## Summary
 
 - Inline-code anomalies found: 51
-- Files containing anomalies: 31
+- Files containing anomalies: 30
 
 ### Anomalies By Issue
 
@@ -32,32 +32,32 @@ Repository: /Volumes/Samsung/ServiceNowDocs-official
 | markdown/application-development/servicenow-sdk/business-rule-api-now-ts.md | 237 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
 | markdown/application-development/servicenow-sdk/client-script-api-now-ts.md | 187 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-import-sets-api.md | 218 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
-| markdown/application-development/servicenow-sdk/fluent-import-sets-api.md | 392 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
-| markdown/application-development/servicenow-sdk/fluent-import-sets-api.md | 570 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
+| markdown/application-development/servicenow-sdk/fluent-import-sets-api.md | 393 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
+| markdown/application-development/servicenow-sdk/fluent-import-sets-api.md | 572 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-script-action-api.md | 83 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-script-action-api.md | 153 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-script-include-api.md | 84 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
-| markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md | 1514 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
-| markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md | 1569 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
-| markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md | 1598 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
+| markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md | 1517 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
+| markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md | 1572 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
+| markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md | 1601 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
+| markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md | 2282 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-service-portal-api.md | 106 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-service-portal-api.md | 127 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-service-portal-api.md | 160 | 114 | unclosed double-backtick inline code span | \`\` | -   To provide inline HTML, use string literals or template literals for multiple lines of code: \`'HTML' or \`HTML\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-service-portal-api.md | 181 | 111 | unclosed double-backtick inline code span | \`\` | -   To provide inline CSS, use string literals or template literals for multiple lines of code: \`'CSS' or \`CSS\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-service-portal-api.md | 288 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
-| markdown/application-development/servicenow-sdk/fluent-service-portal-api.md | 537 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
+| markdown/application-development/servicenow-sdk/fluent-service-portal-api.md | 540 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-ui-action-api.md | 258 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-ui-action-api.md | 273 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
-| markdown/application-development/servicenow-sdk/fluent-ui-action-api.md | 944 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
+| markdown/application-development/servicenow-sdk/fluent-ui-action-api.md | 948 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-ui-page-api.md | 116 | 114 | unclosed double-backtick inline code span | \`\` | -   To provide inline HTML, use string literals or template literals for multiple lines of code: \`'HTML' or \`HTML\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-ui-page-api.md | 152 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
 | markdown/application-development/servicenow-sdk/fluent-ui-page-api.md | 168 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
-| markdown/application-development/servicenow-sdk/scripted-rest-api-api-now-ts.md | 325 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
+| markdown/application-development/servicenow-sdk/scripted-rest-api-api-now-ts.md | 326 | 123 | unclosed double-backtick inline code span | \`\` | -   To provide an inline script, use string literals or template literals for multiple lines of code: \`'Script' or \`Script\`\`. |
 | markdown/employee-service-management/employee-experience-foundation/check-company-news-using-nowassist-va.md | 42 | 169 | unclosed double-backtick inline code span | \`\` | -   To check the latest news or know about any particular news, enter your query like \`What's the latest news\`, \`show me the company news\`, \`show me news on 401k\`, \`\` or anything. |
 | markdown/impact/exception-reason-properties.md | 52 | 9 | unclosed double-backtick inline code span | \`\` | -   \`\`Determines how approved exception reasons are handled when the finding's line number changes in the code. |
 | markdown/integrate-applications/integration-hub/credly-connections.md | 34 | 63 | unclosed double-backtick inline code span | \`\` | \|Connection URL\|Base URL to connect to **Credly**. Enter: \`\`\| |
 | markdown/integrate-applications/integration-hub/setup-cisco-teams.md | 310 | 57 | unclosed double-backtick inline code span | \`\` | \|Connection URL\|Base URL to connect to ****. Enter: \`\`\| |
-| markdown/intelligent-experiences/configure-parameter-record-ad.md | 28 | 75 | unclosed double-backtick inline code span | \`\` | \`Connect to SSH server and retrieve my session info. Here are my details:\`\`\` |
 | markdown/it-operations-management/agent-client-collector/nginx-checks-policies.md | 61 | 1 | unclosed double-backtick inline code span | \`\` | \`\` |
 | markdown/it-operations-management/agent-client-collector/nginx-checks-policies.md | 139 | 1 | unclosed double-backtick inline code span | \`\` | \`\` |
 | markdown/it-operations-management/discovery/discovery-ssh-probe-commands.md | 81 | 14 | unmatched inline backtick | \` | \`echo \`lsattr\` |

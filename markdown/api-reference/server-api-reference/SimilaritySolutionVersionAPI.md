@@ -52,7 +52,8 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [SimilaritySolution](SimilaritySolutionAPI.md#) version details. Results vary by object property setup.```
+Contents of the Dataset and [SimilaritySolution](SimilaritySolutionAPI.md#) version details. Results vary by object property setup.
+```
 {
   "domainName": "String",
   "isActive": "String",
@@ -97,7 +98,8 @@ Flag that indicates whether this version is active.Valid values:
 
 </td><td>
 
-Identifies the prediction task. ```
+Identifies the prediction task.
+```
 {
   "label": "my first prediction"
 }
@@ -111,7 +113,8 @@ Identifies the prediction task. ```
 
 </td><td>
 
-Details of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object used as the lookup set. ```
+Details of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object used as the lookup set.
+```
 {
   "encodedQuery": "String",
   "fieldDetails": [Array],
@@ -144,7 +147,8 @@ List of field names from the specified table as strings. For example, `"fieldNam
 
 </td><td>
 
-List of JavaScript objects that specify field properties. ```
+List of JavaScript objects that specify field properties.
+```
 [
   {
     "name": "String",
@@ -225,7 +229,8 @@ Optional. Preset list of strings that the system automatically generates based o
 
 </td><td>
 
-Details of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object used to retrieve similarities between results searched in this model and results found in the **lookupDataset**. ```
+Details of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object used to retrieve similarities between results searched in this model and results found in the **lookupDataset**.
+```
 {
   "encodedQuery": "String",
   "fieldDetails": [Array],
@@ -258,7 +263,8 @@ List of field names from the specified table as strings. For example, `"fieldNam
 
 </td><td>
 
-List of JavaScript objects that specify field properties. ```
+List of JavaScript objects that specify field properties.
+```
 [
   {
     "name": "String",
@@ -432,7 +438,8 @@ Object
 
 </td><td>
 
-JavaScript object containing training status information for a [SimilaritySolution](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) object.```
+JavaScript object containing training status information for a [SimilaritySolution](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) object.
+```
 {
   "state": "String",
   "percentComplete": "Number as a String",
@@ -602,7 +609,8 @@ Object
 
 </td><td>
 
-Optional values for filtering prediction results.```
+Optional values for filtering prediction results.
+```
 {
   "apply_threshold": Boolean,
   "top_n": Number
@@ -653,7 +661,8 @@ Object
 
 </td><td>
 
-JSON object containing the prediction results sorted by sys\_id or record\_number. ```
+JSON object containing the prediction results sorted by sys\_id or record\_number.
+```
 {
     <identifier>: [Array]
 }

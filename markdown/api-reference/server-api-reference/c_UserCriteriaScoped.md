@@ -92,7 +92,8 @@ Boolean
 If true, the user criteria is deleted.If false, no user criteria is found to delete.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var uc = new sn_uc.UserCriteria("31bea3d53790200044e0bfc8bcbe5dec");
 uc.deleteRecord();
 ```

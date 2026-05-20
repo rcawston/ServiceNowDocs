@@ -51,7 +51,8 @@ SearchFilter
 
 </td><td>
 
-An LDAP filter string that defines the search parameters. Use any valid LDAP filtering criteria. For example, to find user accounts matching the ServiceNow input record, use:```
+An LDAP filter string that defines the search parameters. Use any valid LDAP filtering criteria. For example, to find user accounts matching the ServiceNow input record, use:
+```
 (samaccountname=${workflow.inputs.u_user.user_name})
 ```
 

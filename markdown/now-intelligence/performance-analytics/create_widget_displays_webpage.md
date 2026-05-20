@@ -70,7 +70,8 @@ UI\_page\_name
 The name of the UI page from step 1 to show in the widget.
 
 </td></tr></tbody>
-</table>    ```
+</table>
+```
     function sections() {
         return {
             'widget_name': { 'uiPageName' : 'UI_page_name'},
@@ -87,7 +88,7 @@ The name of the UI page from step 1 to show in the widget.
         var uiPageName = renderer.getPreference('uiPageName');
         return 'sys_ui_page.do?sysparm_query=' + encodeURIComponent('name=' + uiPageName);
     }
-    ```
+```
 
 5.  Use this code example for scoped applications:
 
@@ -123,4 +124,3 @@ The name of the UI page from step 1 to show in the widget.
 [Edit a responsive dashboard](t_EditADashboard.md)
 
 **Parent Topic:**[Widgets](widgets.md)
-

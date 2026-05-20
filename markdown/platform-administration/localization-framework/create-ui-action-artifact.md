@@ -69,7 +69,8 @@ Onclick
 
 </td><td>
 
-Provide the JavaScript function name as:```
+Provide the JavaScript function name as:
+```
 renderLanguagePickerModal();
 ```
 

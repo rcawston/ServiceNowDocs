@@ -672,7 +672,8 @@ result
 
 </td><td>
 
-Object containing the results of the request.```
+Object containing the results of the request.
+```
 
   "result": { 
     "snboqId": String

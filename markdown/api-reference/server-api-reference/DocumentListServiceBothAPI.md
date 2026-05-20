@@ -84,7 +84,8 @@ Object
 
 </td><td>
 
-Sys\_id of the new record in the Document Lists \[ds\_document\_lists\] table with a success message. Error message otherwise.```
+Sys\_id of the new record in the Document Lists \[ds\_document\_lists\] table with a success message. Error message otherwise.
+```
 {
   "message": "String",
   "request_id": "String",
@@ -170,7 +171,8 @@ Object
 
 </td><td id="entry-docserv-ret-obj-basic">
 
-Success or error message. ```
+Success or error message.
+```
 {
   "message": "String",
   "request_id": "String",
@@ -249,7 +251,8 @@ Object
 
 </td><td id="entry-docserv-ret-obj-basic">
 
-Success or error message. ```
+Success or error message.
+```
 {
   "message": "String",
   "request_id": "String",
@@ -329,7 +332,8 @@ Object
 
 </td><td id="entry-docserv-ret-obj-basic">
 
-Success or error message. ```
+Success or error message.
+```
 {
   "message": "String",
   "request_id": "String",

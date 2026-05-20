@@ -9,7 +9,6 @@ const repo = process.cwd();
 const reportDir = path.join(repo, 'analysis', 'markdown-quality');
 const markdownExts = new Set(['.md', '.markdown']);
 const skipDirs = new Set(['.git', 'node_modules', 'analysis']);
-const sourceDocsRoot = 'markdown/';
 
 const reportMd = path.join(reportDir, 'llm-readability-report.md');
 const issuesCsv = path.join(reportDir, 'llm-readability-issues.csv');
@@ -188,7 +187,7 @@ function isEscaped(text, index) {
 }
 
 function findFenceMarker(line) {
-  const match = line.match(/(?:^|\s|>)(`{3,}|~{3,})(.*)$/);
+  const match = line.match(/^\s*(`{3,}|~{3,})(.*)$/);
   if (!match) {
     return null;
   }
@@ -826,7 +825,7 @@ function analyzeFile(file, fileSet, h1Index, linkTextIndex, duplicateBodyIndex) 
     const tokens = wordCount(sectionText);
     if (!hasChildHeading && tokens > 1500) {
       addIssue(issues, {
-        severity: tokens > 3000 ? 'P1' : 'P2',
+        severity: tokens > 3000 ? 'P2' : 'P3',
         category: 'chunkability',
         issue: tokens > 3000 ? 'very_large_section' : 'large_section',
         source: file,
@@ -840,7 +839,7 @@ function analyzeFile(file, fileSet, h1Index, linkTextIndex, duplicateBodyIndex) 
 
   if (metrics.wordCount > 12000) {
     addIssue(issues, {
-      severity: 'P1',
+      severity: 'P2',
       category: 'chunkability',
       issue: 'very_large_file',
       source: file,
@@ -849,7 +848,7 @@ function analyzeFile(file, fileSet, h1Index, linkTextIndex, duplicateBodyIndex) 
     });
   } else if (metrics.wordCount > 6000) {
     addIssue(issues, {
-      severity: 'P2',
+      severity: 'P3',
       category: 'chunkability',
       issue: 'large_file',
       source: file,
@@ -1016,19 +1015,6 @@ function analyzeLlms(fileSet) {
     }
   }
 
-  for (const file of [...fileSet].filter((item) => item.startsWith(sourceDocsRoot))) {
-    if (!indexedFiles.has(file)) {
-      addIssue(issues, {
-        severity: 'P3',
-        category: 'navigation-index',
-        issue: 'markdown_file_absent_from_llms_txt',
-        source: file,
-        detail: 'Markdown source file is not indexed in llms.txt.',
-        recommendation: 'Decide whether llms.txt should be comprehensive or intentionally curated; add this file if it should be model-visible.',
-      });
-    }
-  }
-
   return {
     issues,
     indexedFiles,
@@ -1095,12 +1081,9 @@ function writeReports({ markdownFiles, issues, metrics, llmsSummary }) {
   md += `- Markdown files scanned: ${markdownFiles.length}\n`;
   md += `- Issues found: ${sortedIssues.length}\n`;
   md += `- Files with at least one issue: ${new Set(sortedIssues.map((issue) => issue.source).filter(Boolean)).size}\n`;
-  md += `- Files indexed by llms.txt: ${llmsSummary.indexedFiles.size}\n`;
+  md += `- Files indexed by llms.txt: ${llmsSummary.indexedFiles.size} (informational; product indexes may intentionally link onward into their trees)\n`;
   md += `- llms.txt missing targets: ${llmsSummary.missingTargets}\n`;
   md += `- llms.txt duplicate targets: ${llmsSummary.duplicateTargets}\n\n`;
-  if (llmsSummary.indexedFiles.size < markdownFiles.length) {
-    md += 'Note: `llms.txt` coverage findings are reported as P3 because a curated index may intentionally omit many source files.\n\n';
-  }
   md += '### By Severity\n\n';
   md += renderCountTable(countBy(sortedIssues, 'severity'), 'Severity');
   md += '\n### By Category\n\n';
@@ -1139,11 +1122,12 @@ function writeReports({ markdownFiles, issues, metrics, llmsSummary }) {
   }
 
   md += '\n## Recommended Next Fixes\n\n';
-  md += '1. Fix `P1` Markdown validity and chunkability findings first, especially unclosed fences and very large sections.\n';
-  md += '2. Improve missing, duplicate, and generic H1s because they directly affect retrieval labels.\n';
-  md += '3. Replace weak link text with destination-specific labels.\n';
-  md += '4. Add prose summaries before large tables and image-dependent procedures.\n';
-  md += '5. Review files absent from `llms.txt` and decide whether they should be indexed.\n\n';
+  md += '1. Fix any `P1` parser-breaking findings first, especially unclosed fences.\n';
+  md += '2. Triage `P2` chunkability findings, especially very large files and sections.\n';
+  md += '3. Improve missing, duplicate, and generic H1s because they directly affect retrieval labels.\n';
+  md += '4. Replace weak link text with destination-specific labels.\n';
+  md += '5. Add prose summaries before large tables and image-dependent procedures.\n';
+  md += '6. Keep `llms.txt` target integrity clean, but do not treat product-index coverage as a defect by itself.\n\n';
   md += '## Output Files\n\n';
   md += `- ${rel(reportMd)}\n`;
   md += `- ${rel(issuesCsv)}\n`;

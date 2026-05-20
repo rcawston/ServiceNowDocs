@@ -124,7 +124,8 @@ Object
 
 </td><td>
 
-The variable identifiers of Role objects or names of roles that have read or write access to the property. For example:```javascript
+The variable identifiers of Role objects or names of roles that have read or write access to the property. For example:
+```javascript
 roles: {
    read: [activity_admin, 'app_user'],
    write: [admin]
@@ -195,7 +196,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { Property } from '@servicenow/sdk/core'
 
 Property({

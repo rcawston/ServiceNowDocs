@@ -404,7 +404,8 @@ If the first day of the week is set to Sunday in the constant\(String constant\)
  If a value other than 1 or 2 is provided in the constant\(String constant\) method, the dayofweek\(\) method uses Sunday as the first day of the week.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var functionBuilder = new GlideDBFunctionBuilder();
 var dayOfWeekFunction = functionBuilder.dayofweek();
 dayOfWeekFunction = functionBuilder.field('opened_at');

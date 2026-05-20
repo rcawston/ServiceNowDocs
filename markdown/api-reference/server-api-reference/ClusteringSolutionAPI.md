@@ -56,7 +56,8 @@ Object
 
 </td><td>
 
-JavaScript object containing configuration properties of thesolution.```
+JavaScript object containing configuration properties of thesolution.
+```
 {
   "algorithmConfig": {Object},
   "clusterConcept": "String",
@@ -87,7 +88,8 @@ Object
 
 </td><td>
 
-Required. JavaScript object containing algorithm configuration properties. Property settings vary by the value set in the **algorithm** property.```
+Required. JavaScript object containing algorithm configuration properties. Property settings vary by the value set in the **algorithm** property.
+```
 'algorithmConfig': {
   "algorithm": "String",  
   // See algorithmConfig.algorithm setting description for property settings based on algorithm
@@ -658,7 +660,8 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [ClusteringSolution\(\)](ClusteringSolutionAPI.md#) object details in the [ClusteringSolutionStore](ClusteringSolutionStoreAPI.md#).```
+Contents of the Dataset and [ClusteringSolution\(\)](ClusteringSolutionAPI.md#) object details in the [ClusteringSolutionStore](ClusteringSolutionStoreAPI.md#).
+```
 {
   "algorithmConfig": {Object},
   "datasetProperties": {Object},
@@ -682,7 +685,8 @@ Contents of the Dataset and [ClusteringSolution\(\)](ClusteringSolutionAPI.md#) 
 
 </td><td>
 
-JavaScript object containing algorithm configuration properties. Property results vary by the value set in the **algorithm** property.```
+JavaScript object containing algorithm configuration properties. Property results vary by the value set in the **algorithm** property.
+```
 'algorithmConfig' : {
   "algorithm": "String",  
   // See algorithmConfig.algorithm setting description for property settings based on algorithm
@@ -792,7 +796,8 @@ List of field names from the specified table as strings. For example, `"fieldNam
 
 </td><td>
 
-List of JavaScript objects that specify field properties. ```
+List of JavaScript objects that specify field properties.
+```
 [
   {
     "name": "String",
@@ -857,7 +862,8 @@ List of input field names as strings. The model uses these fields used to make p
 
 </td><td>
 
-Identifies the prediction task. ```
+Identifies the prediction task.
+```
 {
   "label": "my first prediction"
 }

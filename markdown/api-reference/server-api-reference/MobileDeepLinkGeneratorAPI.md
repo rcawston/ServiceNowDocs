@@ -58,7 +58,8 @@ Name of the app to create a link to. Options:
 -   request: Creates a link to a list or screen in the Now Mobile app.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var glide = new global.MobileDeepLinkGenerator('onboarding');
 ```
 

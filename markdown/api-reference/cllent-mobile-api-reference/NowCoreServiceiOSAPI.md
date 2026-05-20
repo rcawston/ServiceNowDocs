@@ -54,7 +54,8 @@ Possible values:
 -   hostReturnedNoTokens - Indicates a guest user
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 NowSDK.core()?.accessTokenDidFail(for: someService)
   .mapError { YourCustomError.accessTokenFailed($0) }
 
@@ -168,7 +169,8 @@ Flag that indicates whether the host application allows the SDK to request the s
 -   false: Device permission cannot be requested.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 extension AppDelegate: DevicePermissionDelegate {
   func canRequestPermission(_ permission: DevicePermission) -> Bool {
     return true
@@ -266,7 +268,8 @@ Possible values:
 -   unknown
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var subscriptions = Set<AnyCancellable>()
 NowSDK.core?.refreshSettings(for: someService)
   .sink(receiveCompletion: { completion in
@@ -365,7 +368,8 @@ Possible values:
 -   `userSessionError`
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 NowSDK.core()?.requestAccessToken(for: someService)
 ```
 
@@ -482,7 +486,8 @@ Possible values:
 -   unknown
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 NowSDK.core()?.requestSettings(for: someService)
 ```
 

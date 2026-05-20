@@ -47,7 +47,8 @@ String
 
 </td><td id="entry_input">
 
-Required. Input payload. A JSON formatted string of configuration items to add or update. ```
+Required. Input payload. A JSON formatted string of configuration items to add or update.
+```
 "input" { 
  "items": [Array],
  "referenceItems": [Array],
@@ -65,7 +66,8 @@ Array of Objects
 
 </td><td id="entry_items">
 
-Items to add or update.```
+Items to add or update.
+```
 "items": [
   { 
     "className": "String",
@@ -180,7 +182,8 @@ Object
 
 </td><td>
 
-Unique CI identifier for a specific source.```
+Unique CI identifier for a specific source.
+```
 "sys_object_source_info": { 
   "source_feed": "String",
   "source_name": "String",  
@@ -316,7 +319,8 @@ Object
 
 </td><td>
 
-Unique CI identifier for a specific source.```
+Unique CI identifier for a specific source.
+```
 "sys_object_source_info": { 
   "source_feed": "String",
   "source_name": "String",  
@@ -405,7 +409,8 @@ Object
 
 </td><td>
 
-Parameters that define the types of updates that are permitted.```
+Parameters that define the types of updates that are permitted.
+```
 "settings": { 
   "skipReclassificationRestrictionRules": Boolean, 
   "updateWithoutDowngrade": Boolean, 
@@ -492,7 +497,8 @@ Object
 
 </td><td>
 
-Unique CI identifier for a specific source.```
+Unique CI identifier for a specific source.
+```
 "sys_object_source_info": { 
   "source_feed": "String",
   "source_name": "String",  
@@ -581,7 +587,8 @@ Array of Objects
 
 </td><td id="entry_referenceItems">
 
-List that define references between items in the input payload. The values of each reference item are populated before identifying a CI using the IRE rules defined on a class.```
+List that define references between items in the input payload. The values of each reference item are populated before identifying a CI using the IRE rules defined on a class.
+```
 "referenceItems": [
   { 
     "referenced": "String", 
@@ -2000,7 +2007,8 @@ String
 
 </td><td id="entry_input">
 
-Required. Input payload. A JSON formatted string of configuration items to add or update. ```
+Required. Input payload. A JSON formatted string of configuration items to add or update.
+```
 "input" { 
  "items": [Array],
  "referenceItems": [Array],
@@ -2018,7 +2026,8 @@ Array of Objects
 
 </td><td id="entry_items">
 
-Items to add or update.```
+Items to add or update.
+```
 "items": [
   { 
     "className": "String",
@@ -2133,7 +2142,8 @@ Object
 
 </td><td>
 
-Defines a unique CI identifier for a specific data source. Different sources may have different name-value pairs for the same CI.```
+Defines a unique CI identifier for a specific data source. Different sources may have different name-value pairs for the same CI.
+```
 "sys_object_source_info": { 
   "source_feed": "String",
   "source_name": "String",  
@@ -2269,7 +2279,8 @@ Object
 
 </td><td>
 
-Object that makes up a unique CI identifier for a specified data source. Different sources may have different name-value pairs for the same CI.```
+Object that makes up a unique CI identifier for a specified data source. Different sources may have different name-value pairs for the same CI.
+```
 "sys_object_source_info": { 
   "source_feed": "String",
   "source_name": "String",  
@@ -2358,7 +2369,8 @@ Object
 
 </td><td id="entry_items_settings">
 
-Parameters that define the types of updates that are permitted.```
+Parameters that define the types of updates that are permitted.
+```
 "settings": { 
   "skipReclassificationRestrictionRules": Boolean, 
   "updateWithoutDowngrade": Boolean, 
@@ -2445,7 +2457,8 @@ Object
 
 </td><td id="entry_items_sys_object_source_info">
 
-Unique CI identifier for a specific source.```
+Unique CI identifier for a specific source.
+```
 "sys_object_source_info": { 
   "source_feed": "String",
   "source_name": "String",  
@@ -2534,7 +2547,8 @@ Array of Objects
 
 </td><td id="entry_referenceItems">
 
-List that define references between items in the input payload. The values of each reference item are populated before identifying a CI using the IRE rules defined on a class.```
+List that define references between items in the input payload. The values of each reference item are populated before identifying a CI using the IRE rules defined on a class.
+```
 "referenceItems": [
   { 
     "referenced": "String", 
@@ -4530,7 +4544,8 @@ String
 
 </td><td id="entry_input">
 
-Required. Input payload. A JSON formatted string of configuration items to add or update. ```
+Required. Input payload. A JSON formatted string of configuration items to add or update.
+```
 "input" { 
  "items": [Array],
  "referenceItems": [Array],
@@ -4548,7 +4563,8 @@ Array of Objects
 
 </td><td id="entry_items">
 
-Items to add or update.```
+Items to add or update.
+```
 "items": [
   { 
     "className": "String",
@@ -4663,7 +4679,8 @@ Object
 
 </td><td>
 
-Defines a unique CI identifier for a specific data source. Different sources may have different name-value pairs for the same CI.```
+Defines a unique CI identifier for a specific data source. Different sources may have different name-value pairs for the same CI.
+```
 "sys_object_source_info": { 
   "source_feed": "String",
   "source_name": "String",  
@@ -4799,7 +4816,8 @@ Object
 
 </td><td>
 
-Object that makes up a unique CI identifier for a specified data source. Different sources may have different name-value pairs for the same CI.```
+Object that makes up a unique CI identifier for a specified data source. Different sources may have different name-value pairs for the same CI.
+```
 "sys_object_source_info": { 
   "source_feed": "String",
   "source_name": "String",  
@@ -4888,7 +4906,8 @@ Object
 
 </td><td id="entry_items_settings">
 
-Parameters that define the types of updates that are permitted.```
+Parameters that define the types of updates that are permitted.
+```
 "settings": { 
   "skipReclassificationRestrictionRules": Boolean, 
   "updateWithoutDowngrade": Boolean, 
@@ -4975,7 +4994,8 @@ Object
 
 </td><td id="entry_items_sys_object_source_info">
 
-Unique CI identifier for a specific source.```
+Unique CI identifier for a specific source.
+```
 "sys_object_source_info": { 
   "source_feed": "String",
   "source_name": "String",  
@@ -5064,7 +5084,8 @@ Array of Objects
 
 </td><td id="entry_referenceItems">
 
-List that define references between items in the input payload. The values of each reference item are populated before identifying a CI using the IRE rules defined on a class.```
+List that define references between items in the input payload. The values of each reference item are populated before identifying a CI using the IRE rules defined on a class.
+```
 "referenceItems": [
   { 
     "referenced": "String", 
@@ -6163,7 +6184,8 @@ Number of items updated.Data type: Number
 Number of items that generated a warning when processed.Data type: Number
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var payload = {
 "items": [
 {

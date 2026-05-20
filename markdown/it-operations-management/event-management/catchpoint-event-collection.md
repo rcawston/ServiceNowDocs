@@ -91,7 +91,8 @@ Format
 
 </td><td>
 
-Select **Template** and add the following template:```
+Select **Template** and add the following template:
+```
 {
 "Source": "CatchPoint",
 "severity": "${notificationLevelId}",

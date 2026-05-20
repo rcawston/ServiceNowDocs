@@ -483,7 +483,8 @@ Object
 
 </td><td>
 
-Optional. Map of keys and values for the namespaces and their associated values in a subsequent list of elements. For example: ```
+Optional. Map of keys and values for the namespaces and their associated values in a subsequent list of elements. For example:
+```
 {
 'namespaceOne':'namespaceValue',
 'namespaceTwo':'namespaceValue'
@@ -559,7 +560,8 @@ Object
 
 </td><td>
 
-Optional. Map of keys and values for the namespaces and their associated values in a subsequent list of elements. For example:```
+Optional. Map of keys and values for the namespaces and their associated values in a subsequent list of elements. For example:
+```
 {
 'namespaceOne':'namespaceValue',
 'namespaceTwo':'namespaceValue'
@@ -725,7 +727,8 @@ Object
 
 </td><td>
 
-Map of keys and values containing attribute names and values to associate with the XML element. For example:```
+Map of keys and values containing attribute names and values to associate with the XML element. For example:
+```
 {
 'attributeOne':'attributeValue',
 'attributeTwo':'attributeValue'
@@ -848,7 +851,8 @@ Object
 
 </td><td>
 
-Optional. Map of child elements and values that the CDATA element includes. For example: ```
+Optional. Map of child elements and values that the CDATA element includes. For example:
+```
 {
 'prefixOne':'prefixValue',
 'prefixTwo':'prefixValue'
@@ -1068,7 +1072,8 @@ Object
 
 </td><td>
 
-Map of keys and values containing namespace prefixes and URIs to associate with the root element of the XML document. For example: ```
+Map of keys and values containing namespace prefixes and URIs to associate with the root element of the XML document. For example:
+```
 {
 'namespaceOne':'namespaceValue',
 'namespaceTwo':'namespaceValue'
@@ -1155,7 +1160,8 @@ Object
 
 </td><td>
 
-Optional. Map of prefixes and values associated with the XML element. For example: ```
+Optional. Map of prefixes and values associated with the XML element. For example:
+```
 {
 'prefixOne':'prefixValue',
 'prefixTwo':'prefixValue'

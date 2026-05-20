@@ -45,7 +45,8 @@ Diagnostic script
 
 </td><td>
 
-The code for the diagnostic script. The following example shows a diagnostic script to identify tasks with an invalid top portfolio. ```
+The code for the diagnostic script. The following example shows a diagnostic script to identify tasks with an invalid top portfolio.
+```
 /* 
 - Inputs can be accessed from scanContext.input as per, the key specified in feature input table.
 	eg.  scanContext.input.projectSysID

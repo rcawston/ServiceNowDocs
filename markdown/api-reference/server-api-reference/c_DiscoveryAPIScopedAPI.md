@@ -96,7 +96,8 @@ Discovery status record sys\_id.The following exceptions can be thrown during MI
 -   **BadArgumentException**: `Invalid argument detected during MID Server selection`
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var sysid = sn_discovery.DiscoveryAPI.discoverIpAddress("11.23.125.39");
 ```
 

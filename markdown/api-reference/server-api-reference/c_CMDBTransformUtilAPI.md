@@ -614,7 +614,8 @@ Data type: String
 Sys\_id of the dependent relationship CI.Data type: String
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Add this code to the onBefore transform map script
 // Call CMDB API to do Identification and Reconciliation of the current row
 var cmdbUtil = new CMDBTransformUtil();
@@ -1964,7 +1965,8 @@ Flag that indicates whether there was an error occurred in the previously called
 -   false: No error occurred
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 // Add this code to the onBefore transform map script
 // Call CMDB API to do Identification and Reconciliation of current row
 var cmdbUtil = new CMDBTransformUtil();

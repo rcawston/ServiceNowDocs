@@ -122,7 +122,8 @@ String
 -   All: all members of the configured roster are the catch all person.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var rotaSysId = '349f399173062300e7af6238edf6a75e';
 var onCallRotation = new OnCallRotation();
 var catchAllType = onCallRotation.getCatchAllType(rotaSysId);
@@ -794,7 +795,8 @@ String
 -   Custom: If the custom escalation is applicable.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var rotaSysId = '349f399173062300e7af6238edf6a75e';
 var onCallRotation = new OnCallRotation();
 var escalationType = onCallRotation.getEscalationType(rotaSysId);
@@ -1216,7 +1218,8 @@ Flag that indicates whether a match was found.Possible values:
 -   false: No matches were found.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var groupSysId = '096fb59173062300e7af6238edf6a783';
 var currentTime = new GlideDateTime();
 var onCallRotation = new OnCallRotation();

@@ -62,7 +62,8 @@ Alert message text
 
 </td><td>
 
-Message text that you want to display, for example, ```
+Message text that you want to display, for example,
+```
 Some information may be temporarily unavailable as we're experiencing heavy usage. Try again later.
 ```
 

@@ -75,7 +75,8 @@ Optional. The path \(JSONPath for JSON, XPath for XML\) that identifies the cont
  If **recordPath** is unspecified, the entire document is inferred as a single record. For JSON documents, if the top node is an array and **recordPath** is unspecified, then the top array is the record's container, and each of its entries is a record.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var stockAPI = new sn_ws.RESTMessageV2('Stock Details', 'Default GET'); 
 var response = stockAPI.execute(); 
 var responseBody = response.getBody(); 
@@ -202,7 +203,8 @@ Flag that indicates whether a valid TransformerRuleList is associated with the s
 -   false: Invalid or no TransformerRulList associated
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var transformerDefinition = new sn_tfrm.TransformerDefinition(transformerRuleList, recordPath);
 var transformer = new sn_tfrm.Transformer(transformerDefinition, responseBody); 
 .

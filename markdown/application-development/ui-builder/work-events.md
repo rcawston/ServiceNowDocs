@@ -134,7 +134,8 @@ Add alert notifications
 
 </td><td>
 
-Add a code snippet to send an alert notification. For example: ```
+Add a code snippet to send an alert notification. For example:
+```
 return {
     items: [{"type" : "info", "message" : "Info message", "id" : "optionalID"}] /* Types: info, warning, error */
 };

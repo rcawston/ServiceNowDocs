@@ -218,7 +218,8 @@ Array of hashmap
 
 </td><td>
 
-Hashmap of JavaScript objects with **name**, **value**, and **type** for each object. The **type** of each object can be one of **plain**, **encrypted**, **boolean**, or **null**, corresponding to the PowerShell variable **type** selected in the inputs tab. For example, you might enter:```
+Hashmap of JavaScript objects with **name**, **value**, and **type** for each object. The **type** of each object can be one of **plain**, **encrypted**, **boolean**, or **null**, corresponding to the PowerShell variable **type** selected in the inputs tab. For example, you might enter:
+```
 var newParameter = {"name":"parameterName","value":"parameterValue", "type": "plain" };
 executionParam.powershellVariables.push(newParameter);
 ```
@@ -269,7 +270,8 @@ Array of hashmap
 
 </td><td>
 
-Capability values used to select the MID Server. For more information, see [MID Server capabilities](../../../product/mid-server/reference/r_MIDServerCapabilities.md). If there are additional capabilities that are assigned by value, use this example to customize the MID Server selection:```
+Capability values used to select the MID Server. For more information, see [MID Server capabilities](../../../product/mid-server/reference/r_MIDServerCapabilities.md). If there are additional capabilities that are assigned by value, use this example to customize the MID Server selection:
+```
 var valueCapability = {'NEW_MID_CAPABIILTY':'NEW_MID_CAPABILITY_VALUE'};
 executionParam.valueCapabilities.push(valueCapability);
 ```
@@ -309,7 +311,8 @@ Hashmap of tag values to return from the PowerShell command.
 
 </td><td>
 
-Contains the tags used to extract output using the PowerShell commands. The tag output is delimited by double percentage signs, as in **%%tagname%% … %%**. Set up the command using the format in this example:```
+Contains the tags used to extract output using the PowerShell commands. The tag output is delimited by double percentage signs, as in **%%tagname%% … %%**. Set up the command using the format in this example:
+```
 Write-Host %%tagname1%%
 output1 line 1
 output1 line 2

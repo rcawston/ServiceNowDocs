@@ -76,7 +76,8 @@ Number
 Duration value.Unit: Milliseconds
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dur = new GlideDuration(60000);
 gs.info(dur.getDurationValue());
 ```
@@ -116,7 +117,8 @@ String
 Duration value.Format: d HH:mm:ss where "d" is number of days.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var duration = new GlideDuration('3 12:00:00');
 var duration2 = new GlideDuration('3:00:00');
 var answer = duration.add(duration2);
@@ -246,7 +248,8 @@ String
 Number of days, hours, and minutes, such as 2 Days 10 Hours 36 Minutes.Format: Display value: "n" Days "n" Hours "n" Minutes
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dur = new GlideDuration('3 12:00:00');
 gs.info(dur.getDisplayValue());
 ```
@@ -282,7 +285,8 @@ String
 Duration value. Format: d HH:mm:ss where "d" is number of days.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dur = new GlideDuration(60000);
 gs.info(dur.getDurationValue());
 ```
@@ -343,7 +347,8 @@ String
 Current duration within the GlideDuration object.Format: YYYY-MM-DD HH:mm:ss
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dur = new GlideDuration('3 12:00:00');
 gs.info(dur.getValue());
 ```

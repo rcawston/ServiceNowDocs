@@ -315,7 +315,8 @@ Array
 
 </td><td>
 
-A list of parameters that a Service Portal administrator \(sp\_admin\) can configure for a widget instance. The widget option schema supports reusing a widget and uniquely configuring instances of the widget on different pages. For more information, see [Widget option schema](../../platform-user-interface/service-portal/c_WidgetInstanceOptions.md).```javascript
+A list of parameters that a Service Portal administrator \(sp\_admin\) can configure for a widget instance. The widget option schema supports reusing a widget and uniquely configuring instances of the widget on different pages. For more information, see [Widget option schema](../../platform-user-interface/service-portal/c_WidgetInstanceOptions.md).
+```javascript
 optionSchema: [
   {
     name: 'String',
@@ -407,7 +408,8 @@ Array
 
 </td><td>
 
-A list of Angular ng-templates \[sp\_ng\_template\] to associate with the widget. Angular ng-templates contain content that is rendered only when you instruct it to render.```javascript
+A list of Angular ng-templates \[sp\_ng\_template\] to associate with the widget. Angular ng-templates contain content that is rendered only when you instruct it to render.
+```javascript
 templates: [
   {
     $id: Now.ID['String' or Number]
@@ -449,7 +451,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { SPWidget } from '@servicenow/sdk/core'
 
 SPWidget({
@@ -590,7 +593,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { SPAngularProvider } from '@servicenow/sdk/core'
 const OTHER_ANGULAR_PROVIDER = 'd11f285fe069e1f119b44bd05c0770aa'
 
@@ -684,7 +688,8 @@ Array
 
 </td><td>
 
-A list of variable identifiers of CssInclude objects or sys\_ids of CSS includes and their order. For more information, see [CssInclude object](fluent-service-portal-api.md#).```javascript
+A list of variable identifiers of CssInclude objects or sys\_ids of CSS includes and their order. For more information, see [CssInclude object](fluent-service-portal-api.md#).
+```javascript
 cssIncludes: [
   {
     order: Number,
@@ -704,7 +709,8 @@ Array
 
 </td><td>
 
-A list variable identifiers of JsInclude objects or sys\_ids of JS includes and their order. For more information, see [JsInclude object](fluent-service-portal-api.md#).```javascript
+A list variable identifiers of JsInclude objects or sys\_ids of JS includes and their order. For more information, see [JsInclude object](fluent-service-portal-api.md#).
+```javascript
 jsIncludes: [
   {
     order: Number,
@@ -750,7 +756,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { SPWidgetDependency } from '@servicenow/sdk/core'
 
 SPWidgetDependency({
@@ -899,7 +906,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { CssInclude } from '@servicenow/sdk/core'
 
 const localCss = CssInclude({
@@ -997,7 +1005,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { JsInclude } from '@servicenow/sdk/core'
 
 const localJs = JsInclude({

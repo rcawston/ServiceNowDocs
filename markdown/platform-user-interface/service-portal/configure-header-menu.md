@@ -103,7 +103,8 @@ Additional options, JSON format
 
 </td><td>
 
-Advanced configuration options. For example, use this field to enable the shopping cart in the header menu with the following code:```
+Advanced configuration options. For example, use this field to enable the shopping cart in the header menu with the following code:
+```
 {
 	"enable_cart": {
 		"displayValue": "true",

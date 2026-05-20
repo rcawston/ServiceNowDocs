@@ -154,7 +154,7 @@ Includes a fixed part in an unmasked value
 
 </td></tr><tr><td>
 
-```
+`` ` ``
 
 </td><td>
 
@@ -174,5 +174,4 @@ Shows a symbol as-isFor example, `\\0` requires the number zero as 0.
             To accept an ID in the format EMP-1234, enter the input format as `{EMP-}0000`
 
     5.  Select **Submit**.
-
 

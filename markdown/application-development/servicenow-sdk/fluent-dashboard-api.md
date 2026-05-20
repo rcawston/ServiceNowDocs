@@ -143,7 +143,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { Dashboard } from "@servicenow/sdk/core";
 
 Dashboard({
@@ -371,7 +372,8 @@ Array
 A list of widgets to display in the tab. For more information, see [widgets array](fluent-dashboard-api.md#).
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 tabs: [
     {
       $id: Now.ID["my_dashboard_tab1"],
@@ -502,7 +504,8 @@ Object
 The property configuration of a component. For more information, see [componentProps object](fluent-dashboard-api.md#).
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 widgets: [
               {
                   $id: Now.ID['incident-count-chart'],
@@ -581,7 +584,8 @@ Array
 
 </td><td>
 
-A list of data sources for the component. For example:```javascript
+A list of data sources for the component. For example:
+```javascript
 dataSources: [
   {
     label: "Incident", // Human-readable label
@@ -616,7 +620,8 @@ Array
 
 </td><td>
 
-A list of metrics to measure for the data source. For example:```javascript
+A list of metrics to measure for the data source. For example:
+```javascript
 metrics: [
     {
         dataSource: 'data_source_1',  // Must match dataSource id
@@ -639,7 +644,8 @@ Array
 
 </td><td>
 
-A list of configurations for grouping and organizing data by data source. For example:```javascript
+A list of configurations for grouping and organizing data by data source. For example:
+```javascript
 groupBy: [
   {
     groupBy: [
@@ -665,7 +671,8 @@ Object
 
 </td><td>
 
-A configuration for trend charts. For example:```javascript
+A configuration for trend charts. For example:
+```javascript
 trendBy: {
   "trendByFrequency": "year", // Frequency of the trend (date, week, month, year)
   "trendByFields": [
@@ -880,7 +887,8 @@ Boolean
 Flag that indicates whether the user, group, or role is the owner of the dashboard. For at least one user, the owner property should be set to true.Default: false
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 permissions: [
         {
             $id: Now.ID['manager-user-permission'],
@@ -945,7 +953,8 @@ Reference or String
 Required. The variable identifier of a Workspace object or sys\_id of a UX application \[sys\_ux\_page\_registry\]. For more information, see [Workspace API - ServiceNow Fluent](fluent-workspace-api.md#).
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 visibilities: [
   {
     $id: Now.ID["dashboard_visibility_1"],

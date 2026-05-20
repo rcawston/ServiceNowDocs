@@ -433,7 +433,8 @@ metadata
 
 </td><td>
 
-Metadata about the number of records created by the API request. ```
+Metadata about the number of records created by the API request.
+```
 "metadata": {
   "error_records": Number,
   "success_records": Number,

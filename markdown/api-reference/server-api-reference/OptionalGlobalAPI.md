@@ -355,7 +355,8 @@ Function
 
 </td><td>
 
-Function that returns a single record as a result of a query. For example: ```
+Function that returns a single record as a result of a query. For example:
+```
 var userGr = new GlideRecord('sys_user');
 ```
 

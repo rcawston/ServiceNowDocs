@@ -52,7 +52,8 @@ Description
 
 </td><td>
 
-Results of the validation.```
+Results of the validation.
+```
 {
   "errors": [Array],
   "indexesOfleadLineItemsForInsertion": [Array] 

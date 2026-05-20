@@ -60,7 +60,8 @@ Object
 
 </td><td>
 
-Sys\_id of the new record in the Versions \[ds\_document\_version\] table with a success message. Error message otherwise.```
+Sys\_id of the new record in the Versions \[ds\_document\_version\] table with a success message. Error message otherwise.
+```
 {
   "message": "String",
   "request_id": "String",
@@ -142,7 +143,8 @@ Object
 
 </td><td>
 
-Success message. Error message otherwise.```
+Success message. Error message otherwise.
+```
 {
   "message": "String",
   "status": "String"

@@ -131,7 +131,8 @@ params
 
 </td><td>
 
-JSON containing url\_params and related\_table. For example,```
+JSON containing url\_params and related\_table. For example,
+```
 
 {
   "url_params": {

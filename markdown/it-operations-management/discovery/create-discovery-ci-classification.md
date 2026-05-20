@@ -135,7 +135,8 @@ On classification script
 
 </td><td>
 
-Script that runs if classification criteria are met. Use this script to perform any special tasks after a device is classified. It is possible to use the `g_probe_parameters` hashmap from within a classification script to set probe parameters for any configured, triggered probes. For example, this code sets a '**node\_port**' parameter to 16001 for all triggered probes:```
+Script that runs if classification criteria are met. Use this script to perform any special tasks after a device is classified. It is possible to use the `g_probe_parameters` hashmap from within a classification script to set probe parameters for any configured, triggered probes. For example, this code sets a '**node\_port**' parameter to 16001 for all triggered probes:
+```
 (JS), g_probe_parameters['node_port'] = 16001; //
 ```
 

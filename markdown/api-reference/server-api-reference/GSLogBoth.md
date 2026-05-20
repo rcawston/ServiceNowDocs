@@ -68,7 +68,8 @@ Flag that indicates whether debug is on or off.
 -   false: Debug is off.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var gl = new GSLog("com.snc.sla.tasksla.log", "TaskSLA"); 
 gl.setLevel("debug");
 gs.print(gl.debugOn());

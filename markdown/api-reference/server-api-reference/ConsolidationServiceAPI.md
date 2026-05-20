@@ -361,7 +361,8 @@ Array of Objects
 
 </td><td>
 
-Optional. Array of entity JSONs to merge into the target. Each item represents an entity with its attributes and child arrays. If this property exists, **items** is used directly as the list of source entities.```
+Optional. Array of entity JSONs to merge into the target. Each item represents an entity with its attributes and child arrays. If this property exists, **items** is used directly as the list of source entities.
+```
 "items": [
   {
   "attributes": {Object},
@@ -383,7 +384,8 @@ Object
 
 </td><td>
 
-Key-value pairs representing the entity attributes. Each attribute is an object with a value property.```
+Key-value pairs representing the entity attributes. Each attribute is an object with a value property.
+```
 "attributes": {
   "end_date": {"value": "String"},
   "product_offering": {"value": "String"},
@@ -452,7 +454,8 @@ Array of Objects
 
 </td><td>
 
-Optional. Array of characteristic entity JSONs.```
+Optional. Array of characteristic entity JSONs.
+```
 "characteristics": [
   {
     "attributes": {Object},
@@ -472,7 +475,8 @@ Object
 
 </td><td>
 
-Attributes associated with the item characteristic. Each child property is a key-value pair representing the attribute. The attribute is an object with a value property.```
+Attributes associated with the item characteristic. Each child property is a key-value pair representing the attribute. The attribute is an object with a value property.
+```
 "attributes": {
    "characteristic": {Object},
    "value": {Object}
@@ -489,7 +493,8 @@ Object
 
 </td><td>
 
-Key-value pair representing the characteristic associated with the attribute. **characteristic** is an object with a value property.```
+Key-value pair representing the characteristic associated with the attribute. **characteristic** is an object with a value property.
+```
 "characteristic": {
     "value": "String"
 }
@@ -505,7 +510,8 @@ Object
 
 </td><td>
 
-Key-value pair representing the attribute value associated with the parent characteristic. **value** is an object with a value property.```
+Key-value pair representing the attribute value associated with the parent characteristic. **value** is an object with a value property.
+```
 "value": {
    "value": "String"
 }
@@ -545,7 +551,8 @@ Array of Objects
 
 </td><td>
 
-Optional. Array of covered product entity JSONs.```
+Optional. Array of covered product entity JSONs.
+```
 coveredProducts: [
  {
   "sys_id": {Object},
@@ -565,7 +572,8 @@ Object
 
 </td><td>
 
-Sys\_id of the covered product record.```
+Sys\_id of the covered product record.
+```
 sys_id: { 
   value: "String"
 }
@@ -593,7 +601,8 @@ Object
 
 </td><td>
 
-Attributes of the covered product. Fields may vary based on the record.```
+Attributes of the covered product. Fields may vary based on the record.
+```
 attributes: {
             sold_product: { value: "String" },
             contract: { value: "String" },
@@ -616,7 +625,8 @@ Object
 
 </td><td>
 
-Sold product record associated with this covered product.```
+Sold product record associated with this covered product.
+```
 "sold_product": {
   "value": "String"
 }
@@ -632,7 +642,8 @@ Object
 
 </td><td>
 
-Parent contract record under which coverage is defined.```
+Parent contract record under which coverage is defined.
+```
 "contract": {
   "value": "String"
 }
@@ -648,7 +659,8 @@ Object
 
 </td><td>
 
-Specific service contract line item linked to this covered product.```
+Specific service contract line item linked to this covered product.
+```
 "service_contract_line": {
   "value": "String"
 }
@@ -664,7 +676,8 @@ Object
 
 </td><td>
 
-Entitlement record governing the coverage terms.```
+Entitlement record governing the coverage terms.
+```
 "entitlement": {
   "value": "String"
 }
@@ -680,7 +693,8 @@ Object
 
 </td><td>
 
-Install base record representing the deployed asset.```
+Install base record representing the deployed asset.
+```
 "install_base": {
   "value": "String"
 }
@@ -696,7 +710,8 @@ Object
 
 </td><td>
 
-Sold product providing coverage for this entry.```
+Sold product providing coverage for this entry.
+```
 "covering_sold_product": {
   "value": "String"
 }
@@ -712,7 +727,8 @@ Object
 
 </td><td>
 
-ISO 8601 date string indicating when the product was added to coverage.```
+ISO 8601 date string indicating when the product was added to coverage.
+```
 "date_added": {
   "value": "String"
 }
@@ -728,7 +744,8 @@ Object
 
 </td><td>
 
-ISO 8601 date string indicating when the product was removed from coverage. Null or empty if currently active.```
+ISO 8601 date string indicating when the product was removed from coverage. Null or empty if currently active.
+```
 "date_removed": {
   "value": "String"
 }
@@ -744,7 +761,8 @@ Array of Objects
 
 </td><td>
 
-Optional. Array of child line item entity JSONs. Each child follows the same structure \(sys\_id, table, attributes, and nested children\).```
+Optional. Array of child line item entity JSONs. Each child follows the same structure \(sys\_id, table, attributes, and nested children\).
+```
 "lineItems": [
  {
    "attributes": {Object},
@@ -766,7 +784,8 @@ Object
 
 </td><td>
 
-Key-value pairs representing the entity attributes. Each attribute is an object with a value property. Follows the same structure as **sourceJSON.items.attributes**.```
+Key-value pairs representing the entity attributes. Each attribute is an object with a value property. Follows the same structure as **sourceJSON.items.attributes**.
+```
 "attributes": {
   "characteristic": {Object},
   "value": {Object}
@@ -783,7 +802,8 @@ Object
 
 </td><td>
 
-Key-value pairs representing the characteristic of the line item. The characteristic is an object with a value property. Follows the same structure as **sourceJSON.items.characteristics**.```
+Key-value pairs representing the characteristic of the line item. The characteristic is an object with a value property. Follows the same structure as **sourceJSON.items.characteristics**.
+```
 "characteristics": [{
    "attributes": {Object},
    "sys_id": "String",
@@ -801,7 +821,8 @@ sourceJSON.items.lineItems.coveredProducts
 
 </td><td>
 
-Array of covered product entity JSONs associated with the line item. Follows the same structure as **sourceJSON.items.coveredProducts**.```
+Array of covered product entity JSONs associated with the line item. Follows the same structure as **sourceJSON.items.coveredProducts**.
+```
 coveredProducts: [
  {
   "sys_id": {Object},
@@ -869,7 +890,8 @@ Object
 
 </td><td>
 
-Required. Target entity JSON to consolidate the source JSON into. Must not be null or empty. Follows the same object structure as the source entity \(**sourceJSON** parameter\).```
+Required. Target entity JSON to consolidate the source JSON into. Must not be null or empty. Follows the same object structure as the source entity \(**sourceJSON** parameter\).
+```
 targetJSON={
   "attributes": {Object},
   "entitlement_characteristic": {Object},
@@ -890,7 +912,8 @@ Object
 
 </td><td>
 
-Key-value pairs representing the target entity attributes. Each attribute is an object with a value property. Follows the same object structure as the source attributes \(**sourceJSON.items.attributes** parameter\).```
+Key-value pairs representing the target entity attributes. Each attribute is an object with a value property. Follows the same object structure as the source attributes \(**sourceJSON.items.attributes** parameter\).
+```
 "attributes": {
   "end_date": {"value": "String"},
   "product_offering": {"value": "String"},
@@ -911,7 +934,8 @@ Array of Objects
 
 </td><td>
 
-Optional. Array of child line item entity JSONs on the target. Follows the same object structure as **sourceJSON.items.lineItems**.```
+Optional. Array of child line item entity JSONs on the target. Follows the same object structure as **sourceJSON.items.lineItems**.
+```
 "lineItems": {
     "sys_id": "String",
     "table": "String",
@@ -930,7 +954,8 @@ Object
 
 </td><td>
 
-Key-value pairs representing the entity attributes. Each attribute is an object with a value property. Follows the same structure as **sourceJSON.items.attributes**.```
+Key-value pairs representing the entity attributes. Each attribute is an object with a value property. Follows the same structure as **sourceJSON.items.attributes**.
+```
 "attributes": {
   "characteristic": {Object},
   "value": {Object}
@@ -947,7 +972,8 @@ Object
 
 </td><td>
 
-Key-value pairs representing the characteristic of the line item. The characteristic is an object with a value property. Follows the same structure as **sourceJSON.items.characteristics**.```
+Key-value pairs representing the characteristic of the line item. The characteristic is an object with a value property. Follows the same structure as **sourceJSON.items.characteristics**.
+```
 "characteristic": {
   "value": "String"
 }
@@ -963,7 +989,8 @@ targetJSON.lineItems.coveredProducts
 
 </td><td>
 
-Array of covered product entity JSONs associated with the line item. Follows the same structure as **sourceJSON.items.coveredProducts**.```
+Array of covered product entity JSONs associated with the line item. Follows the same structure as **sourceJSON.items.coveredProducts**.
+```
 "coveredProducts": [Array]
 ```
 

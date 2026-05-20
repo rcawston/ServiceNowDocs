@@ -122,7 +122,8 @@ Function
 
 </td><td>
 
-The steps of the test. Test steps are passed as statements within the atf function. For example:```javascript
+The steps of the test. Test steps are passed as statements within the atf function. For example:
+```javascript
 (atf) => {
     atf.form.openNewForm({
         table: 'sn_example_table',
@@ -132,7 +133,7 @@ The steps of the test. Test steps are passed as statements within the atf functi
 }
 ```
 
-For more information about test steps, see [Supported test steps](atf-test-now-ts.md#section_q5c_qmp_ccc).
+For more information about test steps, see [Supported test steps](atf-test-now-ts.md#supported-test-steps).
 
 </td></tr><tr><td>
 

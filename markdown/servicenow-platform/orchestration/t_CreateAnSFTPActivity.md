@@ -719,7 +719,8 @@ Hashmap of tag values returned from the SSH command
 
 </td><td>
 
-Contains the tags used to extract output using the SSH commands. The tag output is delimited by double percentage signs, as in `%%tagname%% … %%`. Set up the command using the following format:```
+Contains the tags used to extract output using the SSH commands. The tag output is delimited by double percentage signs, as in `%%tagname%% … %%`. Set up the command using the following format:
+```
 %%tagname1%%
 output1 line 1
 output1 line 2
@@ -733,7 +734,8 @@ output2 line 2
 %%
 ```
 
-The tags returned are JavaScript hashmap objects in which each key is prefixed with `tag` appended with the tagname.```
+The tags returned are JavaScript hashmap objects in which each key is prefixed with `tag` appended with the tagname.
+```
 {"__text__": "", 
 "tagtagname1":"output1 line1\noutput1 line2\n", 
 "tagtagname2":"output2 line1\noutput2 line2\n"}

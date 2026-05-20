@@ -322,7 +322,8 @@ The Twilio AccountSID or AuthToken is not valid.
 </table>
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var nn = new SNC.NotifyNow();
 gs.log(nn.getStatus());
 ```

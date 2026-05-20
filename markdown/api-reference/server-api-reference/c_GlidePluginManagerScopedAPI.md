@@ -47,7 +47,8 @@ Flag that indicates if the plugin is active.
 -   false: Plugin is inactive.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var now_GR = new GlideRecord('sys_plugins');
 var queryString = "active=0^ORactive=1";
 now_GR.addEncodedQuery(queryString);

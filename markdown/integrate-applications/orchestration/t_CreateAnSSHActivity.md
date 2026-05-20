@@ -257,7 +257,8 @@ Array of hashmap
 
 </td><td>
 
-Capability values used to select the MID Server. For more information, see [MID Server capabilities](../../servicenow-platform/mid-server/t_ConfigureCapabilities.md). If there are additional capabilities that are assigned by value, use this example to customize the MID Server selection:```
+Capability values used to select the MID Server. For more information, see [MID Server capabilities](../../servicenow-platform/mid-server/t_ConfigureCapabilities.md). If there are additional capabilities that are assigned by value, use this example to customize the MID Server selection:
+```
 var valueCapability = {'NEW_MID_CAPABIILTY':'NEW_MID_CAPABILITY_VALUE'};
 executionParam.valueCapabilities.push(valueCapability);
 ```
@@ -377,7 +378,8 @@ Hashmap of tag values returned from the SSH command
 
 </td><td>
 
-Contains the tags used to extract output using the SSH commands. The tag output is delimited by double percentage signs, as in `%%tagname%% … %%`. Set up the command using the following format:```
+Contains the tags used to extract output using the SSH commands. The tag output is delimited by double percentage signs, as in `%%tagname%% … %%`. Set up the command using the following format:
+```
 %%tagname1%%
 output1 line 1
 output1 line 2
@@ -391,7 +393,8 @@ output2 line 2
 %%
 ```
 
-The tags returned are JavaScript hashmap objects in which each key is prefixed with `tag` appended with the tagname.```
+The tags returned are JavaScript hashmap objects in which each key is prefixed with `tag` appended with the tagname.
+```
 {"__text__": "", 
 "tagtagname1":"output1 line1\noutput1 line2\n", 
 "tagtagname2":"output2 line1\noutput2 line2\n"}

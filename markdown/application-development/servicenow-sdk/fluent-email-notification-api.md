@@ -218,7 +218,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { EmailNotification } from '@servicenow/sdk/core'
 
 EmailNotification({
@@ -414,7 +415,8 @@ The execution order of the notification.Maximum value: 9999
 Default: 100
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 triggerConditions: {
     generationType: "engine",
     onRecordInsert: false,
@@ -651,7 +653,8 @@ String
 Deprecated. Message contents.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 emailContent: {
     contentType: "text/html",
     subject: "CRITICAL: Incident \${number} - \${short_description}",
@@ -844,7 +847,8 @@ String
 The email address to which recipients can reply.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 digest: {
     allow: true,
     defaultInterval: hourlyDigest,
@@ -976,7 +980,8 @@ Boolean
 Flag that indicates whether the event parameter 2 contains one or more notification recipients.This property only applies to event-based notifications.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 recipientDetails: {
     recipientGroups: ["d625dccec0a8016700a222a0f7900d06"], // IT Support group sys_id
     recipientFields: ["assigned_to", "caller_id"],

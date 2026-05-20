@@ -1,6 +1,6 @@
 # LLM Readability Report
 
-Generated: 2026-05-20T02:33:31.141Z
+Generated: 2026-05-20T03:07:59.757Z
 
 Repository: /Volumes/Samsung/ServiceNowDocs-official
 
@@ -13,33 +13,29 @@ Repository: /Volumes/Samsung/ServiceNowDocs-official
 ## Summary
 
 - Markdown files scanned: 46032
-- Issues found: 118611
-- Files with at least one issue: 46023
-- Files indexed by llms.txt: 51
-- llms.txt missing targets: 1
+- Issues found: 73534
+- Files with at least one issue: 23383
+- Files indexed by llms.txt: 50 (informational; product indexes may intentionally link onward into their trees)
+- llms.txt missing targets: 0
 - llms.txt duplicate targets: 0
-
-Note: `llms.txt` coverage findings are reported as P3 because a curated index may intentionally omit many source files.
 
 ### By Severity
 
 | Severity | Count |
 |---|---:|
-| P3 | 97649 |
-| P2 | 20590 |
-| P1 | 372 |
+| P3 | 52823 |
+| P2 | 20711 |
 
 ### By Category
 
 | Category | Count |
 |---|---:|
-| navigation-index | 45981 |
-| chunkability | 24100 |
-| markdown-validity | 20546 |
+| chunkability | 24509 |
+| markdown-validity | 20715 |
 | page-identity | 9282 |
-| heading-structure | 7409 |
-| link-text-quality | 5131 |
-| image-context | 4840 |
+| heading-structure | 7692 |
+| link-text-quality | 5169 |
+| image-context | 4845 |
 | code-api-readability | 1296 |
 | duplication | 26 |
 
@@ -47,21 +43,19 @@ Note: `llms.txt` coverage findings are reported as P3 because a curated index ma
 
 | Issue | Count |
 |---|---:|
-| markdown_file_absent_from_llms_txt | 45980 |
-| html_table | 23318 |
-| code_fence_missing_language | 16503 |
-| duplicate_heading_anchor | 7394 |
+| html_table | 23746 |
+| code_fence_missing_language | 16681 |
+| duplicate_heading_anchor | 7677 |
 | low_path_title_overlap | 5441 |
-| table_inconsistent_columns | 3911 |
-| same_link_text_multiple_targets | 3858 |
+| table_inconsistent_columns | 4034 |
+| same_link_text_multiple_targets | 3896 |
 | duplicate_h1_across_files | 3815 |
-| image_empty_alt_text | 3620 |
+| image_empty_alt_text | 3621 |
 | parameter_table_missing_expected_columns | 1296 |
 | weak_link_text | 1273 |
-| visual_dependency_phrase | 1217 |
-| large_section | 435 |
-| very_large_section | 167 |
-| unclosed_code_fence | 132 |
+| visual_dependency_phrase | 1221 |
+| large_section | 430 |
+| very_large_section | 153 |
 | large_file | 76 |
 | very_large_file | 73 |
 | large_markdown_table | 31 |
@@ -70,37 +64,36 @@ Note: `llms.txt` coverage findings are reported as P3 because a curated index ma
 | generic_h1 | 14 |
 | missing_h1 | 12 |
 | image_generic_alt_text | 3 |
-| llms_target_missing_file | 1 |
 
 ## Highest Issue Files
 
 | File | Issues | Words | H1 | Links | Images |
 |---|---:|---:|---|---:|---:|
-| markdown/api-reference/rest-apis/change-management-api.md | 500 | 38035 | Change Management API | 163 | 0 |
-| markdown/api-reference/rest-apis/scim-api.md | 454 | 28865 | System for Cross-domain Identity Management (SCIM) API | 119 | 0 |
-| markdown/release-notes/australia-xanadu-combined-release-notes.md | 416 | 5766 | Combined product release notes for upgrades from Xanadu to Australia | 413 | 0 |
-| markdown/release-notes/australia-yokohama-combined-release-notes.md | 416 | 5766 | Combined product release notes for upgrades from Yokohama to Australia | 413 | 0 |
-| markdown/release-notes/australia-zurich-combined-release-notes.md | 416 | 5766 | Combined product release notes for upgrades from Zurich to Australia | 413 | 0 |
-| markdown/api-reference/rest-apis/product-catalog-open-api.md | 390 | 29593 | Product Catalog Open API | 52 | 0 |
-| markdown/api-reference/rest-apis/integrations-api.md | 386 | 30087 | Install Base Item API | 77 | 0 |
-| markdown/api-reference/server-api-reference/ChangeSuccessScopedAPI.md | 354 | 20957 | ChangeSuccess- Scoped | 8 | 0 |
-| markdown/api-reference/rest-apis/c_ServiceCatalogAPI.md | 312 | 18386 | Service Catalog API | 103 | 0 |
-| markdown/api-reference/rest-apis/devops-api.md | 307 | 20852 | DevOps API | 98 | 2 |
-| markdown/api-reference/server-api-reference/c_GlideRecordAPI.md | 299 | 19460 | GlideRecord- Global | 245 | 0 |
-| markdown/api-reference/rest-apis/tmf622_product_ordering-api.md | 294 | 33986 | Product Order Open API | 53 | 1 |
-| markdown/api-reference/rest-apis/cicd-api.md | 292 | 16749 | Continuous Integration/Continuous Delivery (CICD) API | 114 | 0 |
-| markdown/api-reference/rest-apis/applications-api.md | 276 | 18144 | CdmApplicationsApi | 130 | 7 |
-| markdown/api-reference/rest-apis/c_IdentifyReconcileAPI.md | 270 | 19893 | Identification and Reconciliation API | 30 | 0 |
-| markdown/api-reference/server-api-reference/c_GlideSystemAPI.md | 268 | 12995 | GlideSystem- Global | 60 | 0 |
-| markdown/api-reference/server-api-reference/c_GlideDateTimeAPI.md | 242 | 10192 | GlideDateTime- Global | 63 | 0 |
-| markdown/api-reference/rest-apis/service-test-management-api.md | 211 | 18896 | Service Test Management Open API | 33 | 0 |
-| markdown/api-reference/rest-apis/wsd_reservation-api.md | 210 | 19367 | WSD Reservation API | 50 | 0 |
-| markdown/api-reference/rest-apis/ai-assets-api.md | 205 | 16959 | AI Assets API | 24 | 0 |
-| markdown/api-reference/rest-apis/agnt_clnt_cll-api.md | 184 | 14737 | Agent Client Collector API | 70 | 0 |
-| markdown/api-reference/rest-apis/sales_agreement-api.md | 182 | 22379 | Sales Agreement API | 8 | 0 |
-| markdown/api-reference/rest-apis/ci-lifecycle-management-api.md | 182 | 7048 | CI Lifecycle Management API | 60 | 0 |
-| markdown/api-reference/rest-apis/servicecontract-api.md | 170 | 21711 | Service Contract API | 20 | 0 |
-| markdown/api-reference/rest-apis/tmf-party-management-open-api.md | 170 | 14383 | Party Management Open API | 20 | 0 |
+| markdown/api-reference/rest-apis/change-management-api.md | 604 | 38035 | Change Management API | 214 | 0 |
+| markdown/api-reference/rest-apis/scim-api.md | 453 | 28865 | System for Cross-domain Identity Management (SCIM) API | 119 | 0 |
+| markdown/release-notes/australia-xanadu-combined-release-notes.md | 415 | 5766 | Combined product release notes for upgrades from Xanadu to Australia | 413 | 0 |
+| markdown/release-notes/australia-yokohama-combined-release-notes.md | 415 | 5766 | Combined product release notes for upgrades from Yokohama to Australia | 413 | 0 |
+| markdown/release-notes/australia-zurich-combined-release-notes.md | 415 | 5766 | Combined product release notes for upgrades from Zurich to Australia | 413 | 0 |
+| markdown/api-reference/rest-apis/product-catalog-open-api.md | 389 | 29593 | Product Catalog Open API | 52 | 0 |
+| markdown/api-reference/rest-apis/integrations-api.md | 385 | 30087 | Install Base Item API | 77 | 0 |
+| markdown/api-reference/server-api-reference/ChangeSuccessScopedAPI.md | 372 | 20957 | ChangeSuccess- Scoped | 11 | 0 |
+| markdown/api-reference/rest-apis/c_ServiceCatalogAPI.md | 311 | 18386 | Service Catalog API | 103 | 0 |
+| markdown/api-reference/rest-apis/devops-api.md | 306 | 20852 | DevOps API | 98 | 2 |
+| markdown/api-reference/server-api-reference/c_GlideRecordAPI.md | 298 | 19460 | GlideRecord- Global | 245 | 0 |
+| markdown/api-reference/rest-apis/tmf622_product_ordering-api.md | 293 | 33986 | Product Order Open API | 53 | 1 |
+| markdown/api-reference/rest-apis/cicd-api.md | 291 | 16749 | Continuous Integration/Continuous Delivery (CICD) API | 114 | 0 |
+| markdown/api-reference/rest-apis/agnt_clnt_cll-api.md | 276 | 14737 | Agent Client Collector API | 114 | 0 |
+| markdown/api-reference/rest-apis/applications-api.md | 275 | 18144 | CdmApplicationsApi | 130 | 7 |
+| markdown/api-reference/rest-apis/c_IdentifyReconcileAPI.md | 269 | 19893 | Identification and Reconciliation API | 30 | 0 |
+| markdown/api-reference/server-api-reference/c_GlideSystemAPI.md | 267 | 12995 | GlideSystem- Global | 60 | 0 |
+| markdown/api-reference/server-api-reference/c_GlideDateTimeAPI.md | 241 | 10192 | GlideDateTime- Global | 63 | 0 |
+| markdown/api-reference/rest-apis/ai-assets-api.md | 229 | 16959 | AI Assets API | 30 | 0 |
+| markdown/api-reference/rest-apis/service-test-management-api.md | 210 | 18896 | Service Test Management Open API | 33 | 0 |
+| markdown/api-reference/rest-apis/wsd_reservation-api.md | 209 | 19367 | WSD Reservation API | 50 | 0 |
+| markdown/api-reference/rest-apis/sales_agreement-api.md | 181 | 22379 | Sales Agreement API | 8 | 0 |
+| markdown/api-reference/rest-apis/ci-lifecycle-management-api.md | 181 | 7048 | CI Lifecycle Management API | 60 | 0 |
+| markdown/api-reference/server-api-reference/DecisionTableAPI.md | 172 | 10755 | DecisionTableAPI - Scoped, Global | 11 | 0 |
+| markdown/api-reference/rest-apis/servicecontract-api.md | 169 | 21711 | Service Contract API | 20 | 0 |
 
 ## Largest Files
 
@@ -123,7 +116,7 @@ Note: `llms.txt` coverage findings are reported as P3 because a curated index ma
 | markdown/release-notes/rn-summary-new-features.md | 49363 | 6199 | 1 | New features and products in Australia |
 | markdown/now-intelligence/index.md | 48026 | 1471 | 1 | Australia Platform Analytics |
 | markdown/source-to-pay-operations/index.md | 47447 | 1542 | 1 | Australia Finance and Supply Chain |
-| markdown/api-reference/rest-apis/change-management-api.md | 38035 | 15142 | 188 | Change Management API |
+| markdown/api-reference/rest-apis/change-management-api.md | 38035 | 15153 | 242 | Change Management API |
 | markdown/platform-user-interface/index.md | 34919 | 1094 | 1 | Australia ServiceNow AI Platform user interface |
 | markdown/order-management/index.md | 34714 | 1162 | 1 | Australia Sales Customer Relationship Management |
 | markdown/api-reference/rest-apis/case-api.md | 34668 | 17548 | 39 | Case API |
@@ -166,31 +159,31 @@ Note: `llms.txt` coverage findings are reported as P3 because a curated index ma
 
 | Severity | Issue | Source | Line | Detail |
 |---|---|---|---:|---|
-| P1 | unclosed_code_fence | markdown/api-reference/c_Notify2WebRTCClient.md | 639 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/cllent-mobile-api-reference/cabrillo-attachments-namespace.md | 286 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/cllent-mobile-api-reference/cabrillo-viewLayout-namespace.md | 395 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/cllent-mobile-api-reference/NowAnalyticsServiceiOSProtocol.md | 581 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/cllent-mobile-api-reference/NowSDKConfigurationiOSAPI.md | 156 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/developer-guides/mobsdk-and-add-push-msg-content.md | 86 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/developer-guides/mobsdk-ios-add-push-msg-content.md | 86 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/GlideAgentWorkspaceAPI.md | 517 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/rest-apis/ap-invoice-api.md | 4572 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/rest-apis/cloudrunner-testgeneration-api.md | 733 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/rest-apis/cloudrunner-testrunner-api.md | 594 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/rest-apis/cloudrunner-testuser-api.md | 864 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/rest-apis/digital-product-release-api.md | 2987 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/rest-apis/knowledge-api.md | 2085 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/rest-apis/sales_crm_pricing-POST-compute-price.md | 5125 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/rest-apis/sg_services-api.md | 2145 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/rest-apis/voice-interaction-resource-api.md | 1320 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/rest-apis/wsd_presence-api.md | 2602 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/rest-apis/wsd_reservable_module-api.md | 1540 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/server-api-reference/AccCheckDefsAPIAPIScoped.md | 1197 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/server-api-reference/c_CartJSScoped.md | 995 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/server-api-reference/c_CatItem.md | 1106 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/server-api-reference/CIActionScopedAPI.md | 225 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/server-api-reference/ClassificationSolutionStoreAPI.md | 248 | A fenced code block is opened but not closed before end of file. |
-| P1 | unclosed_code_fence | markdown/api-reference/server-api-reference/cloudrnr-TestGenerationAPI-scoped.md | 328 | A fenced code block is opened but not closed before end of file. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 134 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 258 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 415 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 629 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 901 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 1764 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 1802 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 1882 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 2109 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 2355 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 2405 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 2495 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 2549 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 2603 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 2660 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 2731 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 2817 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 2875 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 2927 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 2997 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 3079 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideFormAPI.md | 3167 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideList2API.md | 294 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideList2API.md | 450 | Table row has 2 cells; header has 3. |
+| P2 | table_inconsistent_columns | markdown/api-reference/c_GlideList2API.md | 512 | Table row has 2 cells; header has 3. |
 
 ## Weak Link Text Samples
 
@@ -224,11 +217,12 @@ Note: `llms.txt` coverage findings are reported as P3 because a curated index ma
 
 ## Recommended Next Fixes
 
-1. Fix `P1` Markdown validity and chunkability findings first, especially unclosed fences and very large sections.
-2. Improve missing, duplicate, and generic H1s because they directly affect retrieval labels.
-3. Replace weak link text with destination-specific labels.
-4. Add prose summaries before large tables and image-dependent procedures.
-5. Review files absent from `llms.txt` and decide whether they should be indexed.
+1. Fix any `P1` parser-breaking findings first, especially unclosed fences.
+2. Triage `P2` chunkability findings, especially very large files and sections.
+3. Improve missing, duplicate, and generic H1s because they directly affect retrieval labels.
+4. Replace weak link text with destination-specific labels.
+5. Add prose summaries before large tables and image-dependent procedures.
+6. Keep `llms.txt` target integrity clean, but do not treat product-index coverage as a defect by itself.
 
 ## Output Files
 

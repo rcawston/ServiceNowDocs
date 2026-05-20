@@ -105,7 +105,8 @@ Object
 
 </td><td>
 
-Optional. Additional parameter options for displaying attribute values and for invoking more than one instance at a time.```
+Optional. Additional parameter options for displaying attribute values and for invoking more than one instance at a time.
+```
 "context": {
   "entityConfigId": "String",
   "isMultiSelect": "Boolean",
@@ -461,7 +462,8 @@ characteristics.attributes.&lt;attribute\_type&gt;
 
 </td><td>
 
-Information about the key name of the item attribute.```
+Information about the key name of the item attribute.
+```
 "<key_name>": { 
   "value": "String" 
 }
@@ -532,7 +534,8 @@ items.attributes
 
 </td><td>
 
-Attributes of the item record. Attributes may vary between entities.```
+Attributes of the item record. Attributes may vary between entities.
+```
 "attributes": {
   "account": {Object},
   "name": {Object}
@@ -547,7 +550,8 @@ items.attributes.account
 
 </td><td>
 
-Information about the account associated with the item attribute.```
+Information about the account associated with the item attribute.
+```
 "account": { 
   "value": "String" 
 }
@@ -559,7 +563,8 @@ items.attributes.account.value
 
 </td><td>
 
-Attributes of the item. Attributes may vary between entities.```
+Attributes of the item. Attributes may vary between entities.
+```
 "attributes": {
   "account": {Object},
   "<key_name>": {Object}
@@ -574,7 +579,8 @@ items.attributes.&lt;key\_name&gt;
 
 </td><td>
 
-Information about the key name of the item attribute.```
+Information about the key name of the item attribute.
+```
 "<key_name>": { 
   "value": "String" 
 }
@@ -662,7 +668,8 @@ items.lineItems.attributes
 
 </td><td>
 
-Attributes of the line item record. Attributes may vary between entities.```
+Attributes of the line item record. Attributes may vary between entities.
+```
 "attributes": {
   "account": {Object},
   "<key_name>": {Object}
@@ -677,7 +684,8 @@ items.lineItems.attributes.&lt;key\_name&gt;
 
 </td><td>
 
-Information about the key name of the line item attribute.```
+Information about the key name of the line item attribute.
+```
 "<key_name>": { 
   "value": "String" 
 }
@@ -699,7 +707,8 @@ items.lineItems.attributes.account
 
 </td><td>
 
-Information about the account associated with the line item attribute.```
+Information about the account associated with the line item attribute.
+```
 "account": { 
   "value": "String" 
 }
@@ -1347,7 +1356,8 @@ Object
 
 </td><td>
 
-Table attributes to ignore during comparison between the source and dirtyJSON. Enables support of reconfiguration  use cases.```
+Table attributes to ignore during comparison between the source and dirtyJSON. Enables support of reconfiguration  use cases.
+```
 {  
 “<table_name>”: [<attribute_name1>, attribute_name2>] 
 }

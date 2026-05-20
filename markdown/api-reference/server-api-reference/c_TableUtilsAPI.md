@@ -347,7 +347,8 @@ Flag that indicates whether a table is a base class table meaning it has no pare
 -   false: Table is not a base class.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var table = new TableUtils("task");
 gs.print("Task is base class: " + table.isBaseClass());
  

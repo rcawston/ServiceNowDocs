@@ -221,7 +221,8 @@ Number
 The difference between January 1, 1970 UTC and when the request was signed.Unit: Milliseconds
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var endpoint= "https://s3.amazonaws.com";​
 var httpRequestData = new sn_auth.HttpRequestData();​
 httpRequestData.setEndpoint(endpoint);​
@@ -268,7 +269,8 @@ Whether the signature is applied to the header or as a query parameter. Values i
 -   QUERY: The signature is applied as a query parameter.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var endpoint= "https://s3.amazonaws.com";​
 var httpRequestData = new sn_auth.HttpRequestData();​
 httpRequestData.setEndpoint(endpoint);​
@@ -342,7 +344,8 @@ Number
 Time before the signature expires.Unit: Seconds
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var endpoint= "https://s3.amazonaws.com";​
 var httpRequestData = new sn_auth.HttpRequestData();​
 httpRequestData.setEndpoint(endpoint);​
@@ -422,7 +425,8 @@ Key-value pairs that define all of the headers associated with the request. Each
 -   Value: String. Value of the header.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var endpoint= "https://third-party-endpoint";
 var httpRequestData = new sn_auth.HttpRequestData();
 httpRequestData.setEndpoint(endpoint);
@@ -576,7 +580,8 @@ Key-value pairs that define the query parameters associated with the request. Ea
 -   Value: String. Value of the query parameter.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var endpoint= "https://third-party-endpoint";
 var httpRequestData = new sn_auth.HttpRequestData();
 httpRequestData.setEndpoint(endpoint);

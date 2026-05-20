@@ -144,7 +144,8 @@ Flag that indicates if the completion date is within the schedule.Possible value
 -   false: Completion date falls outside the schedule. Undefined if no schedule was set prior to calling this method.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dc = new DurationCalculator();
 var startTime = new GlideDateTime();
 
@@ -239,7 +240,8 @@ Number
 Schedule duration. Returns 0 if **endTime** is before **startTime**.Unit: Seconds
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dur = new DurationCalculator();
 
 // Set 9-5 weekday schedule. This is the schedule in which endDateTime, seconds, and totalseconds is set
@@ -318,7 +320,8 @@ Number
 Schedule duration. Returns 0 if **endTime** is before **startTime**.Unit: Seconds
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var startDateTime = new GlideDateTime("2020-11-02 11:00:00");
 // Instantiate a new GlideDateTime object which has the end date as the current date and time
 var endDateTime = new GlideDateTime(); 
@@ -490,7 +493,8 @@ Flag that indicates if the passed in time value \(**tm**\) is after the time in 
 -   false **tm** is not after **dt**.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var dc = new DurationCalculator();
 gs.print(dc.isAfter("2020-04-10 08:00:00", "09:00:00"));
 ```

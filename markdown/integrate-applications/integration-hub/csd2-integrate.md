@@ -137,7 +137,8 @@ Script
 
 </td><td>
 
-Script to run when the UI action is executed. For example, enter ```
+Script to run when the UI action is executed. For example, enter
+```
 sn_csd.CSDUtil.startDiscovery(current);
 ```
 
@@ -192,7 +193,8 @@ Script
 
 </td><td>
 
-Script to run when the UI action is executed. For example, enter ```
+Script to run when the UI action is executed. For example, enter
+```
 var newModel = '';
 var tableName = '';
 if (gs.getProperty("sn_csd.useSAMPlugin") == 'true' && current.model == "" && (GlidePluginManager().isActive("com.snc.sams") || GlidePluginManager().isActive("com.snc.samp.core"))) {
@@ -258,7 +260,8 @@ Script
 
 </td><td>
 
-Script to run when the UI action is executed. For example, enter ```
+Script to run when the UI action is executed. For example, enter
+```
 var softwareConfig = createConfig(current);
 action.setRedirectURL(softwareConfig);
 
@@ -325,7 +328,8 @@ Script
 
 </td><td>
 
-Script to run when the UI action is executed. For example, enter ```
+Script to run when the UI action is executed. For example, enter
+```
 var catItemHandler = new sn_csd.CSDCatItemHandler(current);
 var catItem = catItemHandler.createCatalogItem(current);
 

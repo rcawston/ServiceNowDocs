@@ -62,7 +62,8 @@ Object
 
 </td><td>
 
-Sys\_id of the new record in the Document References \[ds\_document\_reference\] table with a success message. Error message otherwise.```
+Sys\_id of the new record in the Document References \[ds\_document\_reference\] table with a success message. Error message otherwise.
+```
 {
   "message": "String",
   "status": "String"
@@ -134,7 +135,8 @@ Object
 
 </td><td>
 
-Success message. Error message otherwise.```
+Success message. Error message otherwise.
+```
 {
   "message": "String",
   "status": "String"

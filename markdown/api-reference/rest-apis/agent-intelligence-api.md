@@ -236,7 +236,8 @@ input\_filter
 
 </td><td>
 
-Required parameter if **input\_table** is used, don't use this parameter with **input\_maps** parameter. Filter to select records on which to run predictions. For example:```
+Required parameter if **input\_table** is used, don't use this parameter with **input\_maps** parameter. Filter to select records on which to run predictions. For example:
+```
 sys_id 0ef47232db801300864adfea5e961912
 ```
 
@@ -248,7 +249,8 @@ input\_maps
 
 </td><td>
 
-Required unless using **input\_table** parameter. Array of input name-value pairs. For example: ```
+Required unless using **input\_table** parameter. Array of input name-value pairs. For example:
+```
 [{"short_description":"my email is not working"}, {"short_description":"need help with password"}]
 ```
 
@@ -260,7 +262,8 @@ input\_table
 
 </td><td>
 
-Required unless using **input\_maps** parameter. Table name on which you want to run predictions. For example:```
+Required unless using **input\_maps** parameter. Table name on which you want to run predictions. For example:
+```
 incident
 ```
 
@@ -272,7 +275,8 @@ options
 
 </td><td>
 
-JSON object with optional arguments. For example:```
+JSON object with optional arguments. For example:
+```
 {"top_n" : 5, "apply_threshold":false}
 ```
 
@@ -290,7 +294,8 @@ solution\_names
 
 </td><td>
 
-Required. Comma-separated list of solution names for which you want to run predictions. For example:```
+Required. Comma-separated list of solution names for which you want to run predictions. For example:
+```
 ml_incident_categorization,ml_incident_assignment
 ```
 

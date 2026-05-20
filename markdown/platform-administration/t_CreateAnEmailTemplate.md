@@ -71,7 +71,8 @@ Subject
 
 </td><td>
 
-Enter a subject line that explains the purpose of the email. Select the appropriate variables for the subject line from the fields available on the selected table. Place the cursor where you want the variable to appear, and click the field name in the **Select variables** column. For example:```
+Enter a subject line that explains the purpose of the email. Select the appropriate variables for the subject line from the fields available on the selected table. Place the cursor where you want the variable to appear, and click the field name in the **Select variables** column. For example:
+```
 ${sys_class_name} ${number} with ${risk} risk has been assigned to you.
 ```
 

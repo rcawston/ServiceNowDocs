@@ -52,7 +52,8 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [RegressionSolution](RegressionSolutionAPI.md#) version details. Results vary by object property setup.```
+Contents of the Dataset and [RegressionSolution](RegressionSolutionAPI.md#) version details. Results vary by object property setup.
+```
 {
   "datasetProperties": {Object},
   "domainName": "String",
@@ -109,7 +110,8 @@ List of field names from the specified table as strings. For example, `"fieldNam
 
 </td><td>
 
-List of JavaScript objects that specify field properties. ```
+List of JavaScript objects that specify field properties.
+```
 [
   {
     "name": "String",
@@ -187,7 +189,8 @@ Flag that indicates whether this version is active.Valid values:
 
 </td><td>
 
-Identifies the prediction task. ```
+Identifies the prediction task.
+```
 {
   "label": "my first prediction"
 }
@@ -347,7 +350,8 @@ Object
 
 </td><td>
 
-JavaScript object containing training status information for a [RegressionSolution](../../RegressionSolution/concept/RegressionSolutionAPI.md#) object.```
+JavaScript object containing training status information for a [RegressionSolution](../../RegressionSolution/concept/RegressionSolutionAPI.md#) object.
+```
 {
   "state": "String",
   "percentComplete": "Number as a String",
@@ -517,7 +521,8 @@ Object
 
 </td><td>
 
-Optional values for filtering prediction results.```
+Optional values for filtering prediction results.
+```
 {
   "apply_threshold": Boolean,
   "top_n": Number
@@ -568,7 +573,8 @@ Object
 
 </td><td>
 
-JSON object containing the prediction results sorted by sys\_id or record\_number. ```
+JSON object containing the prediction results sorted by sys\_id or record\_number.
+```
 {
     <identifier>: [Array]
 }

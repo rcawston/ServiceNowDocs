@@ -118,7 +118,8 @@ OAuth Token URL
 
 </td><td>
 
-Token generation URL. This field is automatically set to the following URL:```
+Token generation URL. This field is automatically set to the following URL:
+```
 https://auth.app.wiz.io/oauth/token
 ```
 

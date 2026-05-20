@@ -48,7 +48,8 @@ Boolean
 True: User is able to debug the application. False: User is not able to debug the application.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 userDebug: function(userId) {
   var impUser = new GlideImpersonate();
   impUser.canDebug(userId);
@@ -85,7 +86,8 @@ Flag that indicates whether the current user can impersonate the specified user.
 -   false: Current user cannot impersonate the specified user.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 function onlineImpersonate(userSysId) {
   if (!GlideImpersonate().canImpersonate(userSysId)){
     gs.addInfoMessage("No access to impersonate " + userSysId);
@@ -154,7 +156,8 @@ Boolean
 True: User is currently impersonating another user.False: User is not currently impersonating another user.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 function abortOnImpersonate() {
     if (GlideImpersonate().isImpersonating()){
   current.setAbortAction(true);

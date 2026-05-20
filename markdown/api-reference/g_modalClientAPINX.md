@@ -99,7 +99,8 @@ Object
 
 </td><td id="g_modal-alert-style-entry">
 
-Optional. Style of the confirmation button to display in the modal.```
+Optional. Style of the confirmation button to display in the modal.
+```
 "style": {
   "buttonTitle": "String",
   "buttonType": "String"
@@ -242,7 +243,8 @@ Object
 
 </td><td id="g_modal-style-entry">
 
-Optional. Style of the confirm and cancel buttons to display in the modal.```
+Optional. Style of the confirm and cancel buttons to display in the modal.
+```
 "style": {
   "cancelTitle": "String",
   "cancelType": "String",
@@ -427,7 +429,8 @@ Object
 
 </td><td id="g_modal-style-entry">
 
-Optional. Style of the confirm and cancel buttons to display in the modal.```
+Optional. Style of the confirm and cancel buttons to display in the modal.
+```
 "style": {
   "cancelTitle": "String",
   "cancelType": "String",
@@ -668,7 +671,8 @@ Object
 
 </td><td id="g_modal-resizableConfig-entry">
 
-Optional. Configuration parameters for resizing the associated modal. If you don't want users to be able to resize the modal, don't pass this parameter.```
+Optional. Configuration parameters for resizing the associated modal. If you don't want users to be able to resize the modal, don't pass this parameter.
+```
 resizableConfig:
   {
     enableResizable: Boolean,
@@ -1181,7 +1185,8 @@ Object
 
 </td><td id="g_modal-resizableConfig-entry">
 
-Optional. Configuration parameters for resizing the associated modal. If you don't want users to be able to resize the modal, don't pass this parameter.```
+Optional. Configuration parameters for resizing the associated modal. If you don't want users to be able to resize the modal, don't pass this parameter.
+```
 resizableConfig:
   {
     enableResizable: Boolean,
@@ -1688,7 +1693,8 @@ Object
 
 </td><td id="g_modal-resizableConfig-entry">
 
-Optional. Configuration parameters for resizing the associated modal. If you don't want users to be able to resize the modal, don't pass this parameter.```
+Optional. Configuration parameters for resizing the associated modal. If you don't want users to be able to resize the modal, don't pass this parameter.
+```
 resizableConfig:
   {
     enableResizable: Boolean,

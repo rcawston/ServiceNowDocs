@@ -68,7 +68,8 @@ String
 Customer key to be used for encrypting or decrypting using Triple DES algorithm. Encryption key must be exactly 24 characters. A key longer than 24 characters will be truncated.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var encr = new GlideEncrypter(myKey); 
 ```
 

@@ -1349,7 +1349,8 @@ Array
 
 </td><td>
 
-Required in a wfa.flow\_logic.forEach function. An array or a collection of records to iterate over. Typically, this list of records is dynamically generated from a wfa.action function call to the action.core.lookUpRecords action. For example, a `problems.Records` array can be generated from an action.core.lookUpRecords action.```javascript
+Required in a wfa.flow\_logic.forEach function. An array or a collection of records to iterate over. Typically, this list of records is dynamically generated from a wfa.action function call to the action.core.lookUpRecords action. For example, a `problems.Records` array can be generated from an action.core.lookUpRecords action.
+```javascript
 (_params) => {
     //Find all the newly created problem records for the past day
     const problems = wfa.action(
@@ -1392,7 +1393,8 @@ Schema
 
 </td><td>
 
-Required in a wfa.flow\_logic.assignSubflowOutputs and wfa.flow\_logic.setFlowVariables function. A schema produced by the FlowVariables API that defines the data structure of the flow variables. For example, the `flowVars` schema can be generated from FlowVariables.```javascript
+Required in a wfa.flow\_logic.assignSubflowOutputs and wfa.flow\_logic.setFlowVariables function. A schema produced by the FlowVariables API that defines the data structure of the flow variables. For example, the `flowVars` schema can be generated from FlowVariables.
+```javascript
 import { FlowVariables } from '@servicenow/sdk/automation'
 
 // Define flow variables

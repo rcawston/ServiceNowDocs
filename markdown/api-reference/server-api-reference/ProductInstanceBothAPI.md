@@ -199,7 +199,8 @@ Object
 
 </td><td>
 
-JSON object containing the PID configurations associated with the given class name and model category.```
+JSON object containing the PID configurations associated with the given class name and model category.
+```
 {
   "model_category_sysId": "String",
   "configs": [Array]
@@ -222,7 +223,8 @@ Data type: String
 
 </td><td>
 
-List of each configuration associated with the given model category.```
+List of each configuration associated with the given model category.
+```
 
 "configs": [
  {
@@ -248,7 +250,8 @@ Returns the order of the configuration defined in the Product Instance Identifie
 
 </td><td>
 
-List of all the parameters associated with the configuration and its order.```
+List of all the parameters associated with the configuration and its order.
+```
 "parameters": [
   {
    "parameter_class_attribute_name": "String",

@@ -67,7 +67,8 @@ Description
 
 </td><td>
 
-JSON object containing the grab log request status.```
+JSON object containing the grab log request status.
+```
 {
   "status": Number,
   "output": "String"
@@ -143,7 +144,8 @@ Description
 
 </td><td>
 
-Object containing extended agent information.```
+Object containing extended agent information.
+```
 {
   "error": String,
   "agent": Object
@@ -390,7 +392,8 @@ Description
 
 </td><td>
 
-Array of JSON objects containing extended agent information.```
+Array of JSON objects containing extended agent information.
+```
 [
  {
    "agent_id": "String",
@@ -744,7 +747,8 @@ Description
 
 </td><td>
 
-JSON object containing the request ID and any error information.```
+JSON object containing the request ID and any error information.
+```
 {
   "error": "String",
   "request_id": "String"

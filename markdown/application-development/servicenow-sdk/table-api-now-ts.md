@@ -341,7 +341,8 @@ Object
 
 </td><td>
 
-Key and value pairs of any supported dictionary attributes \[sys\_schema\_attribute\]. For example:```javascript
+Key and value pairs of any supported dictionary attributes \[sys\_schema\_attribute\]. For example:
+```javascript
 attributes: 
    {
       updateSyncCustom: Boolean,
@@ -655,7 +656,8 @@ Object
 
 </td><td>
 
-Key and value pairs of any supported dictionary attributes \[sys\_schema\_attribute\]. For example:```javascript
+Key and value pairs of any supported dictionary attributes \[sys\_schema\_attribute\]. For example:
+```javascript
 attributes: 
    {
       updateSyncCustom: Boolean,
@@ -1064,7 +1066,8 @@ Not used \(deprecated\). Flag that indicates whether to disallow updates by user
 Default: false
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 licensingConfig: {
   licenseModel: 'fulfiller',
   opInsert: false,
@@ -1133,7 +1136,8 @@ The minimum number of digits to use after the prefix.Leading zeros are added to 
 Default: 7
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 autoNumber: {
    prefix: 'TODO',
    number: 2000,

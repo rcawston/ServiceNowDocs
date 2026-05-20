@@ -318,7 +318,8 @@ showFieldMsg\(input, message, type, \[scrollform\]\)
 
 </td><td>
 
-Error message```
+Error message
+```
 g_form.showFieldMsg('impact','Low impact not allowed with High priority','error');
 ```
 
@@ -345,7 +346,8 @@ hideFieldMsg\(input\)
 
 </td><td>
 
-Removing a message```
+Removing a message
+```
 //this will clear the first message printed to the field
 g_form.hideFieldMsg('impact');
 ```

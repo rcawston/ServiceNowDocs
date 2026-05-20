@@ -613,7 +613,8 @@ workOrderItem.work.place
 
 </td><td>
 
-List of geographic locations associated with the task.```
+List of geographic locations associated with the task.
+```
 "place": [
    {
       "@type": "String",
@@ -1894,7 +1895,8 @@ workOrderItem.work.place
 
 </td><td>
 
-List of geographic locations associated with the task.```
+List of geographic locations associated with the task.
+```
 "place": [
    {
       "@type": "String",
@@ -3080,7 +3082,8 @@ workOrderItem.work.place
 
 </td><td>
 
-List of geographic locations associated with the task.```
+List of geographic locations associated with the task.
+```
 "place": [
    {
       "@type": "String",
@@ -3908,7 +3911,8 @@ workOrderItem.work.place
 
 </td><td>
 
-List of geographic locations associated with the task.```
+List of geographic locations associated with the task.
+```
 "place": [
    {
       "@type": "String",
@@ -5123,7 +5127,8 @@ workOrderItem.work.place
 
 </td><td>
 
-List of geographic locations associated with the task.```
+List of geographic locations associated with the task.
+```
 "place": [
    {
       "@type": "String",
@@ -5976,7 +5981,8 @@ workOrderItem.work.place
 
 </td><td>
 
-List of geographic locations associated with the task.```
+List of geographic locations associated with the task.
+```
 "place": [
    {
       "@type": "String",

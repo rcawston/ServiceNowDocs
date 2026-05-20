@@ -122,7 +122,8 @@ String
 List of qualified users as JSON.Error if inaccurate parameters or malformed JSON provided.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var skills = [{"sys_id":"48c9f873c0a8018b65c3814608b201e6", "is_mandatory": true, "level":"4e0ac4d6b3332300290ea943c6a8dc4e"},
 				{"sys_id":"48c9fdddc0a8018b04bd8d7914c82c9d", "is_mandatory": false, "level":"4e0ac4d6b3332300290ea943c6a8dc4eS"}];
 var users = ["a8f98bb0eb32010045e1a5115206fe3a", "62826bf03710200044e0bfc8bcbe5df1"];

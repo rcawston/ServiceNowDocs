@@ -71,7 +71,8 @@ Flag indicating whether the element was found in the array.Possible values:
 -   false: Element not found in array.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var arrayUtil = new ArrayUtil();
 var a1 = new Array("a", "b", "c");
  

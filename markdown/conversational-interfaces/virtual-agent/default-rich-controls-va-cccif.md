@@ -143,7 +143,8 @@ DefaultDate
 
 </td><td>
 
-Maps to [Date and Time](va-date-time-input.md) controls.```
+Maps to [Date and Time](va-date-time-input.md) controls.
+```
 {
     uiType: "Date/DateTime/Time",
     group: "DefaultDate", 

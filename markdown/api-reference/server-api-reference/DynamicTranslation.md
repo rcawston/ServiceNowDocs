@@ -285,7 +285,8 @@ Object
 
 </td><td>
 
-Optional. JSON object that contains additional translation parameters.```
+Optional. JSON object that contains additional translation parameters.
+```
 "parms": {
   "translator": "String"
 }
@@ -597,7 +598,8 @@ Object
 
 </td><td>
 
-Optional. JSON object that contains additional translation parameters.```
+Optional. JSON object that contains additional translation parameters.
+```
 "parms": {
   "additionalParameters": {Object},
   "sourceLanguage": "String",
@@ -616,7 +618,8 @@ Array
 
 </td><td>
 
-Optional. Array of JSON objects. Each object contains key-value pairs that provide additional information for performing the translation.```
+Optional. Array of JSON objects. Each object contains key-value pairs that provide additional information for performing the translation.
+```
 "additionalParameters": {
   "parameterName": "String",
   "parameterValue": "String"
@@ -907,7 +910,8 @@ Object
 
 </td><td>
 
-Optional. JSON object that contains additional translation parameters.```
+Optional. JSON object that contains additional translation parameters.
+```
 "parms": {
   "additionalParameters": {Object},
   "sourceLanguage": "String",
@@ -926,7 +930,8 @@ Object
 
 </td><td>
 
-Optional. Array of JSON objects. Each object contains key-value pairs that provide additional information for performing the translation.```
+Optional. Array of JSON objects. Each object contains key-value pairs that provide additional information for performing the translation.
+```
 "additionalParameters": {
   "parameterName": "String",
   "parameterValue": "String"

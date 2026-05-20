@@ -103,7 +103,8 @@ Description
 Success: ByteArray that contains the created record. You can convert this information into any data model that you need.Failure: NowDataError
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 fun createTableRecord( tableName: String, fields: KeyValues, includeFields: String, 
   readOptions: ReadOptions?, writeOptions: WriteOptions?){ 
  
@@ -145,7 +146,8 @@ Description
 Success: Nothing is returned.Failure: NowDataError
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 fun deleteTableRecord( recordSysId: String, tableName: String, callType: CallTestType){ 
   val tableService = serviceProvider.tableService()
   var body:ByteArray? 
@@ -182,7 +184,8 @@ Paginator​&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/
 Success: Paginator with ByteArray output of the requested records. You can use the functions within the Paginator object to navigate the returned records.Failure: NowDataError
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 private fun initTablePaginator() { 
   paginator = service?.paginator(tableName, FetchConfiguration(null, 3)) 
     ?.observe(object: PaginatorCallBack<ByteArray> { 
@@ -222,7 +225,8 @@ Description
 Success: ByteArray that contains the retrieved record. You can convert this information into any data model that you need.Failure: NowDataError
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 fun fetchTableRecord( sysId: String, tableName: String, includeFields: String, 
   readOptions: ReadOptions?){ 
  
@@ -262,7 +266,8 @@ Description
 Success: ByteArray that contains the retrieved records. You can convert this information into any data model that you need.Failure: NowDataError
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 fun fetchTableRecords( tableName: String, filterQuery: String, includeFields: String, 
   readOptions: ReadOptions?, limit: Int?){ 
  
@@ -359,7 +364,8 @@ Description
 Success: ByteArray that contains the updated record. You can convert this information into any data model that you need.Failure: NowDataError
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 fun updateTableRecord( sysId: String, tableName: String, fields: KeyValues, includeFields: String, 
    readOptions: ReadOptions?, writeOptions: WriteOptions?){ 
  

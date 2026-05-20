@@ -127,7 +127,8 @@ Array of escalatees \(either a user, group, or device records depending on the n
     -   &lt;name of preferred format, e.g., email or number&gt;: String. Content of preferred contact type, e.g., email address or phone number.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var serviceDeskSysId = '<Sys_ID>';
 var ocRotation = new OnCallRotation();
 var escalationPlan = ocRotation.getEscalationPlan(serviceDeskSysId);
@@ -253,7 +254,8 @@ On-call user contact preference. -   type: String. User's preferred contact form
 -   &lt;name of preferred format, e.g., email or number&gt;: String. Content of preferred contact type, e.g., email address or phone number.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var onContactPrefUtil = new OnCallContactPreferenceUtil();
 var contactAttempt = 1;
 var gdt = new GlideDateTime();

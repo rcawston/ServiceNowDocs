@@ -128,7 +128,8 @@ Object
 
 </td><td>
 
-Object contains the status and list of the action outputs of the provided action request.```
+Object contains the status and list of the action outputs of the provided action request.
+```
 { 
     “sys_id”: “String”, 
     “state”: “String”, //Possible values: completed, in_progress, failed 

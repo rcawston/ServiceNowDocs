@@ -263,7 +263,8 @@ result
 
 </td><td>
 
-Details about the records that were successfully created.```
+Details about the records that were successfully created.
+```
 "result": {
     "createdEntitiesCount": {Object}, 
     "receivedIntelligenceRecord": "String" 
@@ -278,7 +279,8 @@ result.createdEntitiesCount
 
 </td><td>
 
-Count of each type of created entity.```
+Count of each type of created entity.
+```
 "createdEntitiesCount": {
     "indicators": Number,
     "objects": Number,  

@@ -182,7 +182,8 @@ Valid values for installMethod:
 -   first install: Outputs the application metadata to the `metadata/unload` directory to be installed only the first time an application is installed on an instance.
 
 </td></tr></tbody>
-</table>```javascript
+</table>
+```javascript
 import { Role } from "@servicenow/sdk/core";
 
 const managerRole = Role({ 

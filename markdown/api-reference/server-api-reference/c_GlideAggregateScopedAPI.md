@@ -716,7 +716,8 @@ Flag that indicates whether there are more results in the query set.
 -   false: No more results in the query set.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var agg = new GlideAggregate('incident');
 agg.addAggregate('AVG', 'sys_mod_count');
 agg.groupBy('category');
@@ -770,7 +771,8 @@ Flag that indicates whether there are more results in the query set.
 -   false: No more results in the query set.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var count = new GlideAggregate('incident');
 count.addAggregate('COUNT');
 count.query();

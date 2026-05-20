@@ -408,7 +408,8 @@ The type of the specified object. -   'null' if the given value is null or undef
 -   'object' otherwise
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 var a = ["a","b","c"];
 var b = 10;
 var c = new GlideRecord("incident");

@@ -79,7 +79,8 @@ Connection URL
 
 </td><td>
 
-Base URL to connect to the New Relic application in the following format: ```
+Base URL to connect to the New Relic application in the following format:
+```
 https://api.newrelic.com/graphql
 ```
 

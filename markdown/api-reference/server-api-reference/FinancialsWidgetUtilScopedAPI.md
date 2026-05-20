@@ -74,7 +74,8 @@ Object
 
 </td><td>
 
-List of fiscal periods to use as the start and end dates for the aggregation.```
+List of fiscal periods to use as the start and end dates for the aggregation.
+```
 { 
    "startFiscalPeriodSysId": "String", 
    "endFiscalPeriodSysId": "String" 

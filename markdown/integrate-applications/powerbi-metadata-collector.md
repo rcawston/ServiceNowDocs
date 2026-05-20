@@ -759,7 +759,8 @@ oracleAutonomousDbConnectionString
 
 </td><td>
 
-Required if the source is an Oracle Autonomous Database. The connection string should be in the format:```
+Required if the source is an Oracle Autonomous Database. The connection string should be in the format:
+```
 jdbc:oracle:thin:<host>:<port>/<service_name>, 
 jdbc:oracle:thin:@(address=(protocol=tcps)(port=<port>)(host:<host>))
 (connect_data=(service_name=<service_name>))

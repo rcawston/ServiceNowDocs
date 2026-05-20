@@ -699,7 +699,8 @@ channels
 
 </td><td>
 
-List of objects that describe the available channels of communication with the agent. ```
+List of objects that describe the available channels of communication with the agent.
+```
 "channels": [
   {
     "channel_sys_id": "String",
@@ -1714,7 +1715,8 @@ workitem.isAutoAccepted
 **workItem.isAutoAccepted**: Flag that indicates whether the work item was automatically accepted by the system. Set to true if the work item was auto-accepted.Data type: Boolean
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 curl -X PUT \
  https://instance.servicenow.com/api/now/awa/agents/46d44a23a9fe19810012d100cca80666 \
 -H 'Accept: application/json' \
@@ -1893,7 +1895,8 @@ channels
 
 </td><td>
 
-List of objects that describe the available channels of communication with the agent. ```
+List of objects that describe the available channels of communication with the agent.
+```
 "channels": [
   {
     "channel_sys_id": "String",

@@ -947,7 +947,8 @@ Object
 
 </td><td>
 
-Object containing the current state of the flow, subflow, or action as name-value pairs. ```
+Object containing the current state of the flow, subflow, or action as name-value pairs.
+```
 {
     "hasLookupError": Boolean,
     "errorMessage": "String",
@@ -965,7 +966,8 @@ Boolean
 
 </td><td>
 
-Flag that indicates whether there was an issue looking up the context status of the flow, subflow, or action.```
+Flag that indicates whether there was an issue looking up the context status of the flow, subflow, or action.
+```
 {
     "hasLookupError": false,
     "errorMessage": "",
@@ -983,7 +985,8 @@ String
 
 </td><td>
 
-Error message returned by context lookup operation. This parameter is void when **hasLookupError** is false.```
+Error message returned by context lookup operation. This parameter is void when **hasLookupError** is false.
+```
 {
     "hasLookupError": false,
     "errorMessage": "",
@@ -1001,7 +1004,8 @@ Object
 
 </td><td>
 
-Object containing state details about the queried flow, subflow, or action.```
+Object containing state details about the queried flow, subflow, or action.
+```
 {
     "hasLookupError": false,
     "errorMessage": "",
@@ -1073,7 +1077,8 @@ String
 
 </td><td>
 
-Error message returned by the flow, subflow, or action. The API only generates this parameter when the flow, subflow, or action is in the ERROR state.```
+Error message returned by the flow, subflow, or action. The API only generates this parameter when the flow, subflow, or action is in the ERROR state.
+```
 {
     "hasLookupError": false,
     "errorMessage": "",
@@ -1094,7 +1099,8 @@ String
 
 </td><td>
 
-Cancel message returned by the flow, subflow, or action. The API only generates this parameter when the flow, subflow, or action is in the CANCELLED state.```
+Cancel message returned by the flow, subflow, or action. The API only generates this parameter when the flow, subflow, or action is in the CANCELLED state.
+```
 {
     "hasLookupError": false,
     "errorMessage": "",
@@ -1115,7 +1121,8 @@ Boolean
 
 </td><td>
 
-Flag that indicates whether the flow, subflow, or action is run on a MID Server environment. The API only generates this parameter when the flow, subflow, or action is in the IN\_PROGRESS state.```
+Flag that indicates whether the flow, subflow, or action is run on a MID Server environment. The API only generates this parameter when the flow, subflow, or action is in the IN\_PROGRESS state.
+```
 {
     "hasLookupError": false,
     "errorMessage": "",
@@ -1137,7 +1144,8 @@ Array
 
 </td><td>
 
-List of items that the current flow, subflow, or action is waiting on. The API only generates this parameter when the flow, subflow, or action is in the WAITING state.```
+List of items that the current flow, subflow, or action is waiting on. The API only generates this parameter when the flow, subflow, or action is in the WAITING state.
+```
 {
     "hasLookupError": false,
     "errorMessage": "",
@@ -1171,7 +1179,8 @@ String
 
 </td><td>
 
-Flow step number of the item that is causing the flow to wait. If the waiting action is a custom action within a flow, the order also includes a period and the action step number of custom action on which the flow is waiting.```
+Flow step number of the item that is causing the flow to wait. If the waiting action is a custom action within a flow, the order also includes a period and the action step number of custom action on which the flow is waiting.
+```
 {
     "hasLookupError": false,
     "errorMessage": "",
@@ -1223,7 +1232,8 @@ String
 
 </td><td>
 
-Table name containing the record that the flow, subflow, or action is waiting on. The API only generates this parameter when the flow, subflow, or action is in the WAITING state and the stepType is WAIT\_FOR\_CONDITION, WAIT\_FOR\_CONDITION\_WITH\_TIMEOUT, ASK\_FOR\_APPROVAL, or CREATE\_TASK\_WITH\_WAIT.```
+Table name containing the record that the flow, subflow, or action is waiting on. The API only generates this parameter when the flow, subflow, or action is in the WAITING state and the stepType is WAIT\_FOR\_CONDITION, WAIT\_FOR\_CONDITION\_WITH\_TIMEOUT, ASK\_FOR\_APPROVAL, or CREATE\_TASK\_WITH\_WAIT.
+```
 {
     "hasLookupError": false,
     "errorMessage": "",
@@ -1251,7 +1261,8 @@ String
 
 </td><td>
 
-Query condition of the record that the flow, subflow, or action is waiting on. The API only generates this parameter when the flow, subflow, or action is in the WAITING state and there is a condition that must be met to continue running.```
+Query condition of the record that the flow, subflow, or action is waiting on. The API only generates this parameter when the flow, subflow, or action is in the WAITING state and there is a condition that must be met to continue running.
+```
 {
     "hasLookupError": false,
     "errorMessage": "",
@@ -1279,7 +1290,8 @@ Integer
 
 </td><td>
 
-End time that the flow, subflow, or action is waiting on. The API only generates this parameter when the flow, subflow, or action is in the WAITING state and the stepType is WAIT\_FOR\_CONDITION\_WITH\_TIMEOUT, TIMER, or SLA\_TIMER.```
+End time that the flow, subflow, or action is waiting on. The API only generates this parameter when the flow, subflow, or action is in the WAITING state and the stepType is WAIT\_FOR\_CONDITION\_WITH\_TIMEOUT, TIMER, or SLA\_TIMER.
+```
 {
     "hasLookupError": false,
     "errorMessage": "",
@@ -1306,7 +1318,8 @@ String
 
 </td><td>
 
-Approval rule that the flow, subflow, or action is waiting on. The API only generates this parameter when the flow, subflow, or action is in the WAITING state and the stepType is ASK\_FOR\_APPROVAL.```
+Approval rule that the flow, subflow, or action is waiting on. The API only generates this parameter when the flow, subflow, or action is in the WAITING state and the stepType is ASK\_FOR\_APPROVAL.
+```
 {
     "hasLookupError": false,
     "errorMessage": "",
@@ -1335,7 +1348,8 @@ String
 
 </td><td>
 
-The sys\_id of the subflow that the flow or subflow is waiting on. The API only generates this parameter when the flow, or subflow is in the WAITING state and the stepType is SUBFLOW.```
+The sys\_id of the subflow that the flow or subflow is waiting on. The API only generates this parameter when the flow, or subflow is in the WAITING state and the stepType is SUBFLOW.
+```
 {
     "hasLookupError": false,
     "errorMessage": "",

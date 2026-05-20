@@ -354,7 +354,8 @@ The articles within the category and its subcategories with: -   A **workflow\_s
 -   A **valid\_to** date greater than or equal to the current date.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 //Server script 
 (function() {
     data.kbs = $sp.getKBCategoryArticles("0ac1bf8bff0221009b20ffffffffffec", 5);
@@ -395,7 +396,8 @@ The articles within the category and its subcategories with: -   A **workflow\_s
 -   A **valid\_to** date greater than or equal to the current date.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 //Server script 
 (function() {
     data.summary = $sp.getKBCategoryArticleSummaries("0ac1bf8bff0221009b20ffffffffffec", 5, 200);
@@ -434,7 +436,8 @@ Number of knowledge articles in the defined Knowledge Base with: -   A **workflo
 -   A **valid\_to** date greater than or equal to the current date.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 //Server script 
 (function() {
     data.count = $sp.getKBCount("a7e8a78bff0221009b20ffffffffff17");
@@ -551,7 +554,8 @@ If parameters are provided, returns the record identified by the provided table 
  Returns null if the widget is embedded by another widget, or if the record for the provided parameters is not found.
 
 </td></tr></tbody>
-</table>```
+</table>
+```
 //Server script 
 (function(){ 
 var now_GR = $sp.getRecord(); 

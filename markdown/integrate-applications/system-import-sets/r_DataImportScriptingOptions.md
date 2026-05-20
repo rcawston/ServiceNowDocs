@@ -37,7 +37,8 @@ Set this object to true to stop the import action.
 
 </td><td>
 
-Use the **Pre script** field to evaluate the conditions of the import and determine whether to cancel the import process. To cancel the import process, use the following call:```
+Use the **Pre script** field to evaluate the conditions of the import and determine whether to cancel the import process. To cancel the import process, use the following call:
+```
 cancel = true;
 ```
 
@@ -54,7 +55,8 @@ Get the GlideRecord object for the new import set. This variable allows you to q
 
 </td><td>
 
-If you want to use information from the import set, you can specify one of the properties of the import\_set variable.```
+If you want to use information from the import set, you can specify one of the properties of the import\_set variable.
+```
 var x = import_set.number;
 ```
 
@@ -68,7 +70,8 @@ GlideRecord of the data source to be used for the scheduled import.
 
 </td><td>
 
-Typically, you define the data source with the Scheduled Data Import record. If you want to access this data source or modify the data source in certain conditions, you can use the following.```
+Typically, you define the data source with the Scheduled Data Import record. If you want to access this data source or modify the data source in certain conditions, you can use the following.
+```
 data_source.import_set_table_name = 'new_set_from_scheduler';
 data_source.update();
 ```
