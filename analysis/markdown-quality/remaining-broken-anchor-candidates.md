@@ -1,12 +1,12 @@
 # Remaining Broken Anchor Candidate Report
 
-Generated: 2026-05-20T00:31:59.761Z
+Generated: 2026-05-20T01:04:52.582Z
 
 Repository: /Volumes/Samsung/ServiceNowDocs-official
 
 ## Scope
 
-- Scans the remaining `missing target anchor` and `missing same-page anchor` rows from `remaining-broken-markdown-links.csv`.
+- Scans the remaining `missing target anchor` and `missing same-page anchor` rows from the remaining broken Markdown links report.
 - Compares each requested `#anchor` with actual headings and explicit anchors in the target file.
 - Scores candidates using link text, heading text, anchor IDs, token overlap, and string similarity.
 - Suggested targets are candidates only; high scores are good automatic-fix candidates, medium scores need review.

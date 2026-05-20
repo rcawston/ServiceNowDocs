@@ -1,6 +1,6 @@
 # Broken Link Report
 
-Generated: 2026-05-20T00:31:58.686Z
+Generated: 2026-05-20T01:04:51.515Z
 
 Repository: /Volumes/Samsung/ServiceNowDocs-official
 

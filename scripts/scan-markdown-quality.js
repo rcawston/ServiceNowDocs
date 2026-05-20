@@ -20,21 +20,22 @@ const imageExts = new Set([
 ]);
 const markdownExts = new Set(['.md', '.markdown']);
 const skipDirs = new Set(['.git', 'node_modules', '.DS_Store']);
+const reportDir = path.join(repo, 'analysis', 'markdown-quality');
 const generatedMarkdownReports = new Set([
-  'broken-links-report.md',
-  'inline-code-anomalies-report.md',
-  'remaining-broken-anchor-candidates.md',
-  'remaining-broken-markdown-links.md',
+  'analysis/markdown-quality/broken-links-report.md',
+  'analysis/markdown-quality/inline-code-anomalies-report.md',
+  'analysis/markdown-quality/remaining-broken-anchor-candidates.md',
+  'analysis/markdown-quality/remaining-broken-markdown-links.md',
 ]);
 
-const brokenLinksMd = path.join(repo, 'broken-links-report.md');
-const brokenLinksCsv = path.join(repo, 'broken-links-report.csv');
-const inlineCodeMd = path.join(repo, 'inline-code-anomalies-report.md');
-const inlineCodeCsv = path.join(repo, 'inline-code-anomalies-report.csv');
-const anchorCandidatesMd = path.join(repo, 'remaining-broken-anchor-candidates.md');
-const anchorCandidatesCsv = path.join(repo, 'remaining-broken-anchor-candidates.csv');
-const remainingMarkdownMd = path.join(repo, 'remaining-broken-markdown-links.md');
-const remainingMarkdownCsv = path.join(repo, 'remaining-broken-markdown-links.csv');
+const brokenLinksMd = path.join(reportDir, 'broken-links-report.md');
+const brokenLinksCsv = path.join(reportDir, 'broken-links-report.csv');
+const inlineCodeMd = path.join(reportDir, 'inline-code-anomalies-report.md');
+const inlineCodeCsv = path.join(reportDir, 'inline-code-anomalies-report.csv');
+const anchorCandidatesMd = path.join(reportDir, 'remaining-broken-anchor-candidates.md');
+const anchorCandidatesCsv = path.join(reportDir, 'remaining-broken-anchor-candidates.csv');
+const remainingMarkdownMd = path.join(reportDir, 'remaining-broken-markdown-links.md');
+const remainingMarkdownCsv = path.join(reportDir, 'remaining-broken-markdown-links.csv');
 
 function toPosix(filePath) {
   return filePath.split(path.sep).join('/');
@@ -828,6 +829,10 @@ function renderBrokenSection(title, rows) {
   return output;
 }
 
+function reportName(filePath) {
+  return rel(filePath);
+}
+
 function writeBrokenLinkReports(summary) {
   const {
     markdownFiles,
@@ -1285,7 +1290,7 @@ function writeAnchorCandidateReports(markdownBroken, anchorsFor) {
   md += `Generated: ${new Date().toISOString()}\n\n`;
   md += `Repository: ${repo}\n\n`;
   md += '## Scope\n\n';
-  md += '- Scans the remaining `missing target anchor` and `missing same-page anchor` rows from `remaining-broken-markdown-links.csv`.\n';
+  md += '- Scans the remaining `missing target anchor` and `missing same-page anchor` rows from the remaining broken Markdown links report.\n';
   md += '- Compares each requested `#anchor` with actual headings and explicit anchors in the target file.\n';
   md += '- Scores candidates using link text, heading text, anchor IDs, token overlap, and string similarity.\n';
   md += '- Suggested targets are candidates only; high scores are good automatic-fix candidates, medium scores need review.\n\n';
@@ -1366,6 +1371,8 @@ function writeAnchorCandidateReports(markdownBroken, anchorsFor) {
 }
 
 function main() {
+  fs.mkdirSync(reportDir, { recursive: true });
+
   const allFiles = walk(repo).sort();
   const fileSet = new Set(allFiles);
   const lowerFileMap = new Map();
@@ -1434,14 +1441,14 @@ function main() {
     inlineCodeByIssue: countBy(anomalies, 'issue'),
     anchorCandidates: anchorCandidateSummary,
     reports: [
-      path.basename(brokenLinksMd),
-      path.basename(brokenLinksCsv),
-      path.basename(inlineCodeMd),
-      path.basename(inlineCodeCsv),
-      path.basename(anchorCandidatesMd),
-      path.basename(anchorCandidatesCsv),
-      path.basename(remainingMarkdownMd),
-      path.basename(remainingMarkdownCsv),
+      reportName(brokenLinksMd),
+      reportName(brokenLinksCsv),
+      reportName(inlineCodeMd),
+      reportName(inlineCodeCsv),
+      reportName(anchorCandidatesMd),
+      reportName(anchorCandidatesCsv),
+      reportName(remainingMarkdownMd),
+      reportName(remainingMarkdownCsv),
     ],
   }, null, 2));
 }
